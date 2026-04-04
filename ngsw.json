@@ -1,0 +1,133 @@
+{
+  "configVersion": 1,
+  "timestamp": 1775338948392,
+  "index": "/OkkKnowledge/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/OkkKnowledge/chunk-4HG5AL3O.js",
+        "/OkkKnowledge/chunk-4Q6AAY5W.js",
+        "/OkkKnowledge/chunk-5ICBTXTT.js",
+        "/OkkKnowledge/chunk-5RKHG4JX.js",
+        "/OkkKnowledge/chunk-A4ATAEYW.js",
+        "/OkkKnowledge/chunk-BGMW6IB6.js",
+        "/OkkKnowledge/chunk-DOZUOD6O.js",
+        "/OkkKnowledge/chunk-FE7ONA6R.js",
+        "/OkkKnowledge/chunk-JDC25GHV.js",
+        "/OkkKnowledge/chunk-L4T5SLHI.js",
+        "/OkkKnowledge/chunk-L7HAC352.js",
+        "/OkkKnowledge/chunk-OHZ7SLRY.js",
+        "/OkkKnowledge/chunk-OZ6ZRFB3.js",
+        "/OkkKnowledge/chunk-PRESWNE3.js",
+        "/OkkKnowledge/chunk-QHUPTAJT.js",
+        "/OkkKnowledge/chunk-QKHEFFK7.js",
+        "/OkkKnowledge/chunk-QXA5RDJF.js",
+        "/OkkKnowledge/chunk-TSOHOKDL.js",
+        "/OkkKnowledge/chunk-XRMM7HEU.js",
+        "/OkkKnowledge/chunk-Z3OQKPIJ.js",
+        "/OkkKnowledge/chunk-ZDKWGX64.js",
+        "/OkkKnowledge/favicon.ico",
+        "/OkkKnowledge/index.html",
+        "/OkkKnowledge/main-27TTOYH7.js",
+        "/OkkKnowledge/manifest.webmanifest",
+        "/OkkKnowledge/polyfills-B6TNHZQ6.js",
+        "/OkkKnowledge/styles-KHG5RYU2.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/OkkKnowledge/assets/data/famous-people.json",
+        "/OkkKnowledge/assets/data/geography.json",
+        "/OkkKnowledge/assets/data/history.json",
+        "/OkkKnowledge/assets/data/science-tech.json",
+        "/OkkKnowledge/assets/i18n/de.json",
+        "/OkkKnowledge/assets/i18n/en.json",
+        "/OkkKnowledge/icons/icon-128x128.png",
+        "/OkkKnowledge/icons/icon-144x144.png",
+        "/OkkKnowledge/icons/icon-152x152.png",
+        "/OkkKnowledge/icons/icon-192x192.png",
+        "/OkkKnowledge/icons/icon-384x384.png",
+        "/OkkKnowledge/icons/icon-512x512.png",
+        "/OkkKnowledge/icons/icon-72x72.png",
+        "/OkkKnowledge/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/OkkKnowledge/assets/data/famous-people.json": "1c5d8929b687e3790d436e8a7d0cb070b5ac8009",
+    "/OkkKnowledge/assets/data/geography.json": "10e5104b73e09ee87aa27779b4f9fa1b7f697843",
+    "/OkkKnowledge/assets/data/history.json": "471e515b0033991b3e39c2d15a45c2f2b04650fe",
+    "/OkkKnowledge/assets/data/science-tech.json": "89bcb3e0d73f01a8103db0ee0749a4926a3ebaa2",
+    "/OkkKnowledge/assets/i18n/de.json": "b21e7f953a2cf595fa69aee6b7c68ecc900a589e",
+    "/OkkKnowledge/assets/i18n/en.json": "b6db1b77aa863eb5578d6fc6af3cad58e5432011",
+    "/OkkKnowledge/chunk-4HG5AL3O.js": "713d983797e555cec55d1c6494d8d962eb4f970c",
+    "/OkkKnowledge/chunk-4Q6AAY5W.js": "0538f932bc6d05bec9857a25870c22a0ded177a4",
+    "/OkkKnowledge/chunk-5ICBTXTT.js": "2c2768ad348ed513e3380ae2732b7342ce0fcf34",
+    "/OkkKnowledge/chunk-5RKHG4JX.js": "a85f786631e67b3cbca66125a7d58e3c6d82d31f",
+    "/OkkKnowledge/chunk-A4ATAEYW.js": "c5f021c066cb9745b8a0cf5b18450b0089302a53",
+    "/OkkKnowledge/chunk-BGMW6IB6.js": "4c5a5e277182f2bbfbcb5b5fd90e2f2a652e8597",
+    "/OkkKnowledge/chunk-DOZUOD6O.js": "b3994555c7caa9d1cf22de227f033e0d6ef080fb",
+    "/OkkKnowledge/chunk-FE7ONA6R.js": "869f63525d9d0f6eca977a728595ff9eb122c39c",
+    "/OkkKnowledge/chunk-JDC25GHV.js": "93080c1f8e520dbaf7eb5e877b03f303d1b932fd",
+    "/OkkKnowledge/chunk-L4T5SLHI.js": "11878bf3e9602d930b11d5ee623cc2754ce9f04f",
+    "/OkkKnowledge/chunk-L7HAC352.js": "de225510c007b1b73879d5bdf0273caac6846249",
+    "/OkkKnowledge/chunk-OHZ7SLRY.js": "dc96d5a7d1b78e952459bf5ed78cd673a16e8d6d",
+    "/OkkKnowledge/chunk-OZ6ZRFB3.js": "158e631ae5ce5c2aa9ccf8ad89d13598950bbdc5",
+    "/OkkKnowledge/chunk-PRESWNE3.js": "abf6c06104b7d27fb49f163fd9b4df730f000782",
+    "/OkkKnowledge/chunk-QHUPTAJT.js": "9f920292bdcfd5a3a24cac91a6e50aeb148b1ef7",
+    "/OkkKnowledge/chunk-QKHEFFK7.js": "0901b13344c0a3b916ffd2309ef290bb6422e829",
+    "/OkkKnowledge/chunk-QXA5RDJF.js": "ee9d5cea1d261c5a67c741d5526addef6de5d9b1",
+    "/OkkKnowledge/chunk-TSOHOKDL.js": "2756cff81a458b4e2b8ae5c8236a46fa34e3bdc0",
+    "/OkkKnowledge/chunk-XRMM7HEU.js": "492e1ea0176e61de9fbfe69ee0a84102615d3be4",
+    "/OkkKnowledge/chunk-Z3OQKPIJ.js": "c1e23962a8d961e91650b3fe6edf94ac5ae996e3",
+    "/OkkKnowledge/chunk-ZDKWGX64.js": "34224381ec52ed117d8bce3acc58b197a6dcd83a",
+    "/OkkKnowledge/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/OkkKnowledge/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/OkkKnowledge/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/OkkKnowledge/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/OkkKnowledge/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/OkkKnowledge/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/OkkKnowledge/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/OkkKnowledge/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/OkkKnowledge/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/OkkKnowledge/index.html": "1dfbb7852791f909a32fa4a2193aaf1bd147e67f",
+    "/OkkKnowledge/main-27TTOYH7.js": "8ff68e9f32af83d561b3eaeebcdde0d044c471a9",
+    "/OkkKnowledge/manifest.webmanifest": "6ca290930f871e63cba5459afc6e9e5daf7f8acf",
+    "/OkkKnowledge/polyfills-B6TNHZQ6.js": "bf76ac291d7f51c1139b7edcf86b359a30c08c64",
+    "/OkkKnowledge/styles-KHG5RYU2.css": "ea390d0f62685f33ebff86b525b18cc95c66a9e3"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

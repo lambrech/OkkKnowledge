@@ -1,0 +1,2027 @@
+{
+  "category": "history",
+  "questions": [
+    {
+      "id": "his-001",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr begann der Erste Weltkrieg?",
+        "en": "In which year did World War I begin?"
+      },
+      "options": [
+        { "de": "1912", "en": "1912" },
+        { "de": "1914", "en": "1914" },
+        { "de": "1916", "en": "1916" },
+        { "de": "1918", "en": "1918" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/World_War_I",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-002",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr endete der Erste Weltkrieg?",
+        "en": "In which year did World War I end?"
+      },
+      "options": [
+        { "de": "1916", "en": "1916" },
+        { "de": "1917", "en": "1917" },
+        { "de": "1918", "en": "1918" },
+        { "de": "1919", "en": "1919" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-003",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr begann der Zweite Weltkrieg?",
+        "en": "In which year did World War II begin?"
+      },
+      "options": [
+        { "de": "1937", "en": "1937" },
+        { "de": "1939", "en": "1939" },
+        { "de": "1940", "en": "1940" },
+        { "de": "1941", "en": "1941" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/World_War_II",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-004",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr endete der Zweite Weltkrieg in Europa?",
+        "en": "In which year did World War II end in Europe?"
+      },
+      "options": [
+        { "de": "1943", "en": "1943" },
+        { "de": "1944", "en": "1944" },
+        { "de": "1945", "en": "1945" },
+        { "de": "1946", "en": "1946" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/End_of_World_War_II_in_Europe",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-005",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr fand die Schlacht bei Waterloo statt?",
+        "en": "In which year was the Battle of Waterloo fought?"
+      },
+      "options": [
+        { "de": "1805", "en": "1805" },
+        { "de": "1812", "en": "1812" },
+        { "de": "1815", "en": "1815" },
+        { "de": "1821", "en": "1821" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Waterloo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-006",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "An welchem Datum fand die Landung in der Normandie (D-Day) statt?",
+        "en": "On which date did the D-Day invasion of Normandy take place?"
+      },
+      "options": [
+        { "de": "6. Juni 1943", "en": "June 6, 1943" },
+        { "de": "15. März 1944", "en": "March 15, 1944" },
+        { "de": "6. Juni 1944", "en": "June 6, 1944" },
+        { "de": "25. August 1944", "en": "August 25, 1944" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Normandy_landings",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-007",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Die Schlacht von Stalingrad war ein Wendepunkt in welchem Krieg?",
+        "en": "The Battle of Stalingrad was a turning point in which war?"
+      },
+      "options": [
+        { "de": "Erster Weltkrieg", "en": "World War I" },
+        { "de": "Zweiter Weltkrieg", "en": "World War II" },
+        { "de": "Russischer Bürgerkrieg", "en": "Russian Civil War" },
+        { "de": "Krimkrieg", "en": "Crimean War" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-008",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr griff Japan Pearl Harbor an?",
+        "en": "In which year did Japan attack Pearl Harbor?"
+      },
+      "options": [
+        { "de": "1939", "en": "1939" },
+        { "de": "1940", "en": "1940" },
+        { "de": "1941", "en": "1941" },
+        { "de": "1942", "en": "1942" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-009",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Die Schlacht von Gettysburg fand während welches Krieges statt?",
+        "en": "The Battle of Gettysburg was fought during which war?"
+      },
+      "options": [
+        { "de": "Amerikanischer Unabhängigkeitskrieg", "en": "American Revolution" },
+        { "de": "Britisch-Amerikanischer Krieg von 1812", "en": "War of 1812" },
+        { "de": "Mexikanisch-Amerikanischer Krieg", "en": "Mexican-American War" },
+        { "de": "Amerikanischer Bürgerkrieg", "en": "American Civil War" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Gettysburg",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-010",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr fand die Schlacht bei Hastings statt?",
+        "en": "In which year did the Battle of Hastings take place?"
+      },
+      "options": [
+        { "de": "1016", "en": "1016" },
+        { "de": "1066", "en": "1066" },
+        { "de": "1087", "en": "1087" },
+        { "de": "1100", "en": "1100" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-011",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welche Schlacht beendete Napoleons Herrschaft als Kaiser von Frankreich?",
+        "en": "Which battle ended Napoleon's rule as Emperor of France?"
+      },
+      "options": [
+        { "de": "Schlacht bei Austerlitz", "en": "Battle of Austerlitz" },
+        { "de": "Völkerschlacht bei Leipzig", "en": "Battle of Leipzig" },
+        { "de": "Schlacht bei Trafalgar", "en": "Battle of Trafalgar" },
+        { "de": "Schlacht bei Waterloo", "en": "Battle of Waterloo" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Waterloo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-012",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welches Land gewann die Seeschlacht von Trafalgar im Jahr 1805?",
+        "en": "Which country won the Battle of Trafalgar in 1805?"
+      },
+      "options": [
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Spanien", "en": "Spain" },
+        { "de": "Großbritannien", "en": "Great Britain" },
+        { "de": "Niederlande", "en": "Netherlands" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Trafalgar",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-013",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Zwischen welchen beiden Ländern wurde der Hundertjährige Krieg geführt?",
+        "en": "The Hundred Years' War was fought between which two countries?"
+      },
+      "options": [
+        { "de": "England und Frankreich", "en": "England and France" },
+        { "de": "England und Spanien", "en": "England and Spain" },
+        { "de": "Frankreich und Spanien", "en": "France and Spain" },
+        { "de": "England und Schottland", "en": "England and Scotland" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hundred_Years%27_War",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-014",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "Die Schlacht bei den Thermopylen 480 v. Chr. wurde zwischen den Griechen und welchem Reich geführt?",
+        "en": "The Battle of Thermopylae in 480 BC was fought between the Greeks and which empire?"
+      },
+      "options": [
+        { "de": "Römisches Reich", "en": "Roman Empire" },
+        { "de": "Persisches Reich", "en": "Persian Empire" },
+        { "de": "Babylonisches Reich", "en": "Babylonian Empire" },
+        { "de": "Ägyptisches Reich", "en": "Egyptian Empire" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Thermopylae",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-015",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welches Land gehörte im Ersten Weltkrieg NICHT zu den Alliierten (Entente)?",
+        "en": "Which country was NOT part of the Allied Powers (Entente) in World War I?"
+      },
+      "options": [
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Russland", "en": "Russia" },
+        { "de": "Osmanisches Reich", "en": "Ottoman Empire" },
+        { "de": "Vereinigtes Königreich", "en": "United Kingdom" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Allies_of_World_War_I",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-016",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Das Unternehmen Barbarossa war der Deckname für den deutschen Überfall auf welches Land?",
+        "en": "Operation Barbarossa was the code name for the German invasion of which country?"
+      },
+      "options": [
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Polen", "en": "Poland" },
+        { "de": "Großbritannien", "en": "Great Britain" },
+        { "de": "Sowjetunion", "en": "Soviet Union" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Operation_Barbarossa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-017",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "Die Schlacht um Midway 1942 wurde hauptsächlich zwischen welchen beiden Nationen ausgetragen?",
+        "en": "The Battle of Midway in 1942 was primarily fought between which two nations?"
+      },
+      "options": [
+        { "de": "USA und Deutschland", "en": "USA and Germany" },
+        { "de": "Großbritannien und Japan", "en": "UK and Japan" },
+        { "de": "USA und Japan", "en": "USA and Japan" },
+        { "de": "Großbritannien und Deutschland", "en": "UK and Germany" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Midway",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-018",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr begann der Koreakrieg?",
+        "en": "In which year did the Korean War begin?"
+      },
+      "options": [
+        { "de": "1948", "en": "1948" },
+        { "de": "1950", "en": "1950" },
+        { "de": "1952", "en": "1952" },
+        { "de": "1954", "en": "1954" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Korean_War",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-019",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr endete der Vietnamkrieg mit dem Fall von Saigon?",
+        "en": "In which year did the Fall of Saigon mark the end of the Vietnam War?"
+      },
+      "options": [
+        { "de": "1973", "en": "1973" },
+        { "de": "1975", "en": "1975" },
+        { "de": "1977", "en": "1977" },
+        { "de": "1979", "en": "1979" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fall_of_Saigon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-020",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Jahr eroberte das Osmanische Reich Konstantinopel?",
+        "en": "In which year did the Ottoman Empire conquer Constantinople?"
+      },
+      "options": [
+        { "de": "1389", "en": "1389" },
+        { "de": "1421", "en": "1421" },
+        { "de": "1453", "en": "1453" },
+        { "de": "1492", "en": "1492" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-021",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr begann die Französische Revolution?",
+        "en": "In which year did the French Revolution begin?"
+      },
+      "options": [
+        { "de": "1776", "en": "1776" },
+        { "de": "1789", "en": "1789" },
+        { "de": "1793", "en": "1793" },
+        { "de": "1799", "en": "1799" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/French_Revolution",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-022",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr fand die russische Oktoberrevolution statt?",
+        "en": "In which year did the Russian October Revolution take place?"
+      },
+      "options": [
+        { "de": "1905", "en": "1905" },
+        { "de": "1914", "en": "1914" },
+        { "de": "1917", "en": "1917" },
+        { "de": "1921", "en": "1921" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/October_Revolution",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-023",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr begann die Amerikanische Revolution mit den Schlachten von Lexington und Concord?",
+        "en": "In which year did the American Revolution begin with the Battles of Lexington and Concord?"
+      },
+      "options": [
+        { "de": "1770", "en": "1770" },
+        { "de": "1773", "en": "1773" },
+        { "de": "1775", "en": "1775" },
+        { "de": "1776", "en": "1776" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battles_of_Lexington_and_Concord",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-024",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "Welcher französische König wurde während der Französischen Revolution hingerichtet?",
+        "en": "Which French king was executed during the French Revolution?"
+      },
+      "options": [
+        { "de": "Ludwig XIV.", "en": "Louis XIV" },
+        { "de": "Ludwig XV.", "en": "Louis XV" },
+        { "de": "Ludwig XVI.", "en": "Louis XVI" },
+        { "de": "Ludwig XVIII.", "en": "Louis XVIII" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Execution_of_Louis_XVI",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-025",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "An welchem Datum wurde die Bastille gestürmt?",
+        "en": "On which date was the Bastille stormed?"
+      },
+      "options": [
+        { "de": "4. Juli 1789", "en": "July 4, 1789" },
+        { "de": "14. Juli 1789", "en": "July 14, 1789" },
+        { "de": "10. August 1789", "en": "August 10, 1789" },
+        { "de": "5. Oktober 1789", "en": "October 5, 1789" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-026",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer war der Anführer der Bolschewiki während der Oktoberrevolution?",
+        "en": "Who was the leader of the Bolsheviks during the October Revolution?"
+      },
+      "options": [
+        { "de": "Josef Stalin", "en": "Joseph Stalin" },
+        { "de": "Leo Trotzki", "en": "Leon Trotsky" },
+        { "de": "Alexander Kerenski", "en": "Alexander Kerensky" },
+        { "de": "Wladimir Lenin", "en": "Vladimir Lenin" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-027",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer war der Anführer der Kubanischen Revolution?",
+        "en": "Who was the leader of the Cuban Revolution?"
+      },
+      "options": [
+        { "de": "Che Guevara", "en": "Che Guevara" },
+        { "de": "Fidel Castro", "en": "Fidel Castro" },
+        { "de": "Raúl Castro", "en": "Raúl Castro" },
+        { "de": "Camilo Cienfuegos", "en": "Camilo Cienfuegos" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cuban_Revolution",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-028",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Land fand die Glorreiche Revolution von 1688 statt?",
+        "en": "In which country did the Glorious Revolution of 1688 take place?"
+      },
+      "options": [
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Niederlande", "en": "Netherlands" },
+        { "de": "Spanien", "en": "Spain" },
+        { "de": "England", "en": "England" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Glorious_Revolution",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-029",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr stürzte die Iranische Revolution den Schah?",
+        "en": "In which year did the Iranian Revolution overthrow the Shah?"
+      },
+      "options": [
+        { "de": "1975", "en": "1975" },
+        { "de": "1977", "en": "1977" },
+        { "de": "1979", "en": "1979" },
+        { "de": "1981", "en": "1981" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Iranian_Revolution",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-030",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr wurde die Volksrepublik China ausgerufen?",
+        "en": "In which year was the People's Republic of China proclaimed?"
+      },
+      "options": [
+        { "de": "1945", "en": "1945" },
+        { "de": "1947", "en": "1947" },
+        { "de": "1949", "en": "1949" },
+        { "de": "1951", "en": "1951" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chinese_Communist_Revolution",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-031",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr erklärten die Vereinigten Staaten ihre Unabhängigkeit?",
+        "en": "In which year did the United States declare independence?"
+      },
+      "options": [
+        { "de": "1774", "en": "1774" },
+        { "de": "1775", "en": "1775" },
+        { "de": "1776", "en": "1776" },
+        { "de": "1777", "en": "1777" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-032",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr fand die deutsche Wiedervereinigung statt?",
+        "en": "In which year did German reunification occur?"
+      },
+      "options": [
+        { "de": "1988", "en": "1988" },
+        { "de": "1989", "en": "1989" },
+        { "de": "1990", "en": "1990" },
+        { "de": "1991", "en": "1991" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/German_reunification",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-033",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr wurde der Staat Israel gegründet?",
+        "en": "In which year was the State of Israel founded?"
+      },
+      "options": [
+        { "de": "1945", "en": "1945" },
+        { "de": "1948", "en": "1948" },
+        { "de": "1950", "en": "1950" },
+        { "de": "1952", "en": "1952" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Israeli_Declaration_of_Independence",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-034",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr erlangte Indien die Unabhängigkeit von der britischen Herrschaft?",
+        "en": "In which year did India gain independence from British rule?"
+      },
+      "options": [
+        { "de": "1945", "en": "1945" },
+        { "de": "1947", "en": "1947" },
+        { "de": "1949", "en": "1949" },
+        { "de": "1950", "en": "1950" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Indian_independence_movement",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-035",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr erklärte Brasilien seine Unabhängigkeit von Portugal?",
+        "en": "In which year did Brazil declare independence from Portugal?"
+      },
+      "options": [
+        { "de": "1808", "en": "1808" },
+        { "de": "1815", "en": "1815" },
+        { "de": "1822", "en": "1822" },
+        { "de": "1831", "en": "1831" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Independence_of_Brazil",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-036",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Jahr wurde Australien ein Bundesstaat (Federation)?",
+        "en": "In which year did Australia become a federation?"
+      },
+      "options": [
+        { "de": "1891", "en": "1891" },
+        { "de": "1896", "en": "1896" },
+        { "de": "1901", "en": "1901" },
+        { "de": "1907", "en": "1907" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Federation_of_Australia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-037",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr wurde Kanada zur Konföderation?",
+        "en": "In which year did Canada become a confederation?"
+      },
+      "options": [
+        { "de": "1848", "en": "1848" },
+        { "de": "1857", "en": "1857" },
+        { "de": "1867", "en": "1867" },
+        { "de": "1876", "en": "1876" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Canadian_Confederation",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-038",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Jahr wurde das Königreich Italien vereinigt?",
+        "en": "In which year was the Kingdom of Italy unified?"
+      },
+      "options": [
+        { "de": "1849", "en": "1849" },
+        { "de": "1856", "en": "1856" },
+        { "de": "1861", "en": "1861" },
+        { "de": "1871", "en": "1871" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Unification_of_Italy",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-039",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr fanden in Südafrika die ersten freien Wahlen statt, die das Ende der Apartheid markierten?",
+        "en": "In which year did South Africa hold its first multiracial elections, ending apartheid?"
+      },
+      "options": [
+        { "de": "1990", "en": "1990" },
+        { "de": "1992", "en": "1992" },
+        { "de": "1994", "en": "1994" },
+        { "de": "1996", "en": "1996" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/1994_South_African_general_election",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-040",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Jahr begann die Meiji-Restauration, die Japan modernisierte?",
+        "en": "In which year did the Meiji Restoration begin to modernize Japan?"
+      },
+      "options": [
+        { "de": "1854", "en": "1854" },
+        { "de": "1862", "en": "1862" },
+        { "de": "1868", "en": "1868" },
+        { "de": "1877", "en": "1877" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Meiji_Restoration",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-041",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr wurde die Sowjetunion offiziell aufgelöst?",
+        "en": "In which year did the Soviet Union officially dissolve?"
+      },
+      "options": [
+        { "de": "1989", "en": "1989" },
+        { "de": "1990", "en": "1990" },
+        { "de": "1991", "en": "1991" },
+        { "de": "1993", "en": "1993" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-042",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Jahr wurde der Legende nach die Schweizerische Eidgenossenschaft gegründet?",
+        "en": "According to tradition, in which year was the Swiss Confederation founded?"
+      },
+      "options": [
+        { "de": "1231", "en": "1231" },
+        { "de": "1271", "en": "1271" },
+        { "de": "1291", "en": "1291" },
+        { "de": "1315", "en": "1315" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Federal_Charter_of_1291",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-043",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr erlangte Mexiko die Unabhängigkeit von Spanien?",
+        "en": "In which year did Mexico gain independence from Spain?"
+      },
+      "options": [
+        { "de": "1810", "en": "1810" },
+        { "de": "1815", "en": "1815" },
+        { "de": "1821", "en": "1821" },
+        { "de": "1824", "en": "1824" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mexican_War_of_Independence",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-044",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr erlangte Pakistan die Unabhängigkeit von Britisch-Indien?",
+        "en": "In which year did Pakistan gain independence from British India?"
+      },
+      "options": [
+        { "de": "1945", "en": "1945" },
+        { "de": "1946", "en": "1946" },
+        { "de": "1947", "en": "1947" },
+        { "de": "1948", "en": "1948" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Partition_of_India",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-045",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Jahr wurde die Republik Korea (Südkorea) gegründet?",
+        "en": "In which year was the Republic of Korea (South Korea) established?"
+      },
+      "options": [
+        { "de": "1945", "en": "1945" },
+        { "de": "1946", "en": "1946" },
+        { "de": "1948", "en": "1948" },
+        { "de": "1950", "en": "1950" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/First_Republic_of_South_Korea",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-046",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr wurde der Versailler Vertrag unterzeichnet?",
+        "en": "In which year was the Treaty of Versailles signed?"
+      },
+      "options": [
+        { "de": "1918", "en": "1918" },
+        { "de": "1919", "en": "1919" },
+        { "de": "1920", "en": "1920" },
+        { "de": "1921", "en": "1921" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-047",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr wurde die Magna Carta unterzeichnet?",
+        "en": "In which year was the Magna Carta signed?"
+      },
+      "options": [
+        { "de": "1199", "en": "1199" },
+        { "de": "1205", "en": "1205" },
+        { "de": "1215", "en": "1215" },
+        { "de": "1225", "en": "1225" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Magna_Carta",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-048",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "Der Westfälische Frieden beendete welchen großen europäischen Konflikt?",
+        "en": "The Peace of Westphalia ended which major European conflict?"
+      },
+      "options": [
+        { "de": "Hundertjähriger Krieg", "en": "Hundred Years' War" },
+        { "de": "Dreißigjähriger Krieg", "en": "Thirty Years' War" },
+        { "de": "Siebenjähriger Krieg", "en": "Seven Years' War" },
+        { "de": "Spanischer Erbfolgekrieg", "en": "War of the Spanish Succession" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-049",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Jahr wurde die erste Genfer Konvention verabschiedet?",
+        "en": "In which year was the first Geneva Convention adopted?"
+      },
+      "options": [
+        { "de": "1849", "en": "1849" },
+        { "de": "1856", "en": "1856" },
+        { "de": "1864", "en": "1864" },
+        { "de": "1872", "en": "1872" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/First_Geneva_Convention",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-050",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr wurde die NATO gegründet?",
+        "en": "In which year was NATO founded?"
+      },
+      "options": [
+        { "de": "1945", "en": "1945" },
+        { "de": "1947", "en": "1947" },
+        { "de": "1949", "en": "1949" },
+        { "de": "1951", "en": "1951" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/NATO",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-051",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Die Römischen Verträge von 1957 legten den Grundstein für welche Organisation?",
+        "en": "The Treaty of Rome in 1957 established the foundation for which organization?"
+      },
+      "options": [
+        { "de": "NATO", "en": "NATO" },
+        { "de": "Vereinte Nationen", "en": "United Nations" },
+        { "de": "Europäische Wirtschaftsgemeinschaft", "en": "European Economic Community" },
+        { "de": "Warschauer Pakt", "en": "Warsaw Pact" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Rome",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-052",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Jahr wurden die Camp-David-Abkommen zwischen Ägypten und Israel unterzeichnet?",
+        "en": "In which year were the Camp David Accords signed between Egypt and Israel?"
+      },
+      "options": [
+        { "de": "1975", "en": "1975" },
+        { "de": "1977", "en": "1977" },
+        { "de": "1978", "en": "1978" },
+        { "de": "1980", "en": "1980" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Camp_David_Accords",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-053",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "Der Vertrag von Tordesillas (1494) teilte die Neue Welt zwischen welchen beiden Ländern auf?",
+        "en": "The Treaty of Tordesillas in 1494 divided the New World between which two countries?"
+      },
+      "options": [
+        { "de": "England und Frankreich", "en": "England and France" },
+        { "de": "Spanien und Portugal", "en": "Spain and Portugal" },
+        { "de": "Spanien und Frankreich", "en": "Spain and France" },
+        { "de": "England und Spanien", "en": "England and Spain" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-054",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr wurde das Münchner Abkommen unterzeichnet, das das Sudetenland an Deutschland abtrat?",
+        "en": "In which year was the Munich Agreement signed, ceding the Sudetenland to Germany?"
+      },
+      "options": [
+        { "de": "1936", "en": "1936" },
+        { "de": "1937", "en": "1937" },
+        { "de": "1938", "en": "1938" },
+        { "de": "1939", "en": "1939" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Munich_Agreement",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-055",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "Der Vertrag von Gent (1814) beendete welchen Krieg?",
+        "en": "The Treaty of Ghent in 1814 ended which war?"
+      },
+      "options": [
+        { "de": "Napoleonische Kriege", "en": "Napoleonic Wars" },
+        { "de": "Amerikanischer Unabhängigkeitskrieg", "en": "American Revolution" },
+        { "de": "Britisch-Amerikanischer Krieg von 1812", "en": "War of 1812" },
+        { "de": "Siebenjähriger Krieg", "en": "Seven Years' War" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Ghent",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-056",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "Für welchen Pharao wurde die Große Pyramide von Gizeh erbaut?",
+        "en": "For which pharaoh was the Great Pyramid of Giza built?"
+      },
+      "options": [
+        { "de": "Tutanchamun", "en": "Tutankhamun" },
+        { "de": "Ramses II.", "en": "Ramesses II" },
+        { "de": "Cheops (Khufu)", "en": "Khufu (Cheops)" },
+        { "de": "Kleopatra", "en": "Cleopatra" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-057",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Der Überlieferung nach wurde die Stadt Rom in welchem Jahr gegründet?",
+        "en": "According to tradition, in which year was the city of Rome founded?"
+      },
+      "options": [
+        { "de": "853 v. Chr.", "en": "853 BC" },
+        { "de": "793 v. Chr.", "en": "793 BC" },
+        { "de": "753 v. Chr.", "en": "753 BC" },
+        { "de": "713 v. Chr.", "en": "713 BC" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Founding_of_Rome",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-058",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr fiel das Weströmische Reich?",
+        "en": "In which year did the Western Roman Empire fall?"
+      },
+      "options": [
+        { "de": "395 n. Chr.", "en": "395 AD" },
+        { "de": "410 n. Chr.", "en": "410 AD" },
+        { "de": "455 n. Chr.", "en": "455 AD" },
+        { "de": "476 n. Chr.", "en": "476 AD" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-059",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "Welcher makedonische König schuf eines der größten Reiche der Antike?",
+        "en": "Which Macedonian king created one of the largest empires of the ancient world?"
+      },
+      "options": [
+        { "de": "Philipp II.", "en": "Philip II" },
+        { "de": "Alexander der Große", "en": "Alexander the Great" },
+        { "de": "Perseus", "en": "Perseus" },
+        { "de": "Ptolemaios I.", "en": "Ptolemy I" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-060",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Der Überlieferung nach fanden die ersten antiken Olympischen Spiele in welchem Jahr statt?",
+        "en": "According to tradition, in which year were the first ancient Olympic Games held?"
+      },
+      "options": [
+        { "de": "876 v. Chr.", "en": "876 BC" },
+        { "de": "812 v. Chr.", "en": "812 BC" },
+        { "de": "776 v. Chr.", "en": "776 BC" },
+        { "de": "724 v. Chr.", "en": "724 BC" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-061",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr wurde Julius Cäsar ermordet?",
+        "en": "In which year was Julius Caesar assassinated?"
+      },
+      "options": [
+        { "de": "54 v. Chr.", "en": "54 BC" },
+        { "de": "49 v. Chr.", "en": "49 BC" },
+        { "de": "44 v. Chr.", "en": "44 BC" },
+        { "de": "31 v. Chr.", "en": "31 BC" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-062",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welcher antiken Stadt befanden sich der Überlieferung nach die Hängenden Gärten?",
+        "en": "In which ancient city were the Hanging Gardens supposedly located?"
+      },
+      "options": [
+        { "de": "Athen", "en": "Athens" },
+        { "de": "Alexandria", "en": "Alexandria" },
+        { "de": "Persepolis", "en": "Persepolis" },
+        { "de": "Babylon", "en": "Babylon" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-063",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "Welche antike Zivilisation entwickelte die Hieroglyphenschrift?",
+        "en": "Which ancient civilization developed the hieroglyphic writing system?"
+      },
+      "options": [
+        { "de": "Mesopotamien", "en": "Mesopotamia" },
+        { "de": "Ägypten", "en": "Egypt" },
+        { "de": "Griechenland", "en": "Greece" },
+        { "de": "China", "en": "China" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Egyptian_hieroglyphs",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-064",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welcher Stadt wurde der Parthenon erbaut?",
+        "en": "In which city was the Parthenon built?"
+      },
+      "options": [
+        { "de": "Sparta", "en": "Sparta" },
+        { "de": "Rom", "en": "Rome" },
+        { "de": "Athen", "en": "Athens" },
+        { "de": "Korinth", "en": "Corinth" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Parthenon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-065",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Zwischen welchen beiden Flüssen lag das antike Mesopotamien?",
+        "en": "Between which two rivers was ancient Mesopotamia located?"
+      },
+      "options": [
+        { "de": "Nil und Niger", "en": "Nile and Niger" },
+        { "de": "Tigris und Euphrat", "en": "Tigris and Euphrates" },
+        { "de": "Indus und Ganges", "en": "Indus and Ganges" },
+        { "de": "Jangtsekiang und Gelber Fluss", "en": "Yangtze and Yellow River" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mesopotamia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-066",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welche chinesische Dynastie begann mit dem Bau der Chinesischen Mauer?",
+        "en": "Which Chinese dynasty began the construction of the Great Wall of China?"
+      },
+      "options": [
+        { "de": "Han-Dynastie", "en": "Han Dynasty" },
+        { "de": "Qin-Dynastie", "en": "Qin Dynasty" },
+        { "de": "Tang-Dynastie", "en": "Tang Dynasty" },
+        { "de": "Ming-Dynastie", "en": "Ming Dynasty" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-067",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "Kleopatra VII. war die letzte Herrscherin welcher ägyptischen Dynastie?",
+        "en": "Cleopatra VII was the last ruler of which Egyptian dynasty?"
+      },
+      "options": [
+        { "de": "Altes Reich", "en": "Old Kingdom" },
+        { "de": "Neues Reich", "en": "New Kingdom" },
+        { "de": "Ptolemäer-Dynastie", "en": "Ptolemaic Dynasty" },
+        { "de": "Kuschitische Dynastie", "en": "Kushite Dynasty" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cleopatra",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-068",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "Unter welchem römischen Kaiser wurde der Bau des Kolosseums begonnen?",
+        "en": "Under which Roman emperor was the construction of the Colosseum begun?"
+      },
+      "options": [
+        { "de": "Augustus", "en": "Augustus" },
+        { "de": "Nero", "en": "Nero" },
+        { "de": "Vespasian", "en": "Vespasian" },
+        { "de": "Trajan", "en": "Trajan" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Colosseum",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-069",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Der Philosoph Sokrates war Bürger welches antiken griechischen Stadtstaates?",
+        "en": "The philosopher Socrates was a citizen of which ancient Greek city-state?"
+      },
+      "options": [
+        { "de": "Sparta", "en": "Sparta" },
+        { "de": "Korinth", "en": "Corinth" },
+        { "de": "Athen", "en": "Athens" },
+        { "de": "Theben", "en": "Thebes" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Socrates",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-070",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Die Terrakottaarmee wurde gebaut, um welchen chinesischen Kaiser im Jenseits zu begleiten?",
+        "en": "The Terracotta Army was built to accompany which Chinese emperor in the afterlife?"
+      },
+      "options": [
+        { "de": "Kaiser Wu", "en": "Emperor Wu" },
+        { "de": "Qin Shi Huang", "en": "Qin Shi Huang" },
+        { "de": "Kaiser Taizong", "en": "Emperor Taizong" },
+        { "de": "Kublai Khan", "en": "Kublai Khan" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Terracotta_Army",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-071",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr landeten die ersten Menschen auf dem Mond?",
+        "en": "In which year did the first humans land on the Moon?"
+      },
+      "options": [
+        { "de": "1967", "en": "1967" },
+        { "de": "1968", "en": "1968" },
+        { "de": "1969", "en": "1969" },
+        { "de": "1970", "en": "1970" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Apollo_11",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-072",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr fiel die Berliner Mauer?",
+        "en": "In which year did the Berlin Wall fall?"
+      },
+      "options": [
+        { "de": "1987", "en": "1987" },
+        { "de": "1988", "en": "1988" },
+        { "de": "1989", "en": "1989" },
+        { "de": "1990", "en": "1990" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-073",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Um welches Jahr entwickelte Johannes Gutenberg den Buchdruck mit beweglichen Lettern in Europa?",
+        "en": "Around which year did Johannes Gutenberg develop the movable-type printing press in Europe?"
+      },
+      "options": [
+        { "de": "1390", "en": "1390" },
+        { "de": "1420", "en": "1420" },
+        { "de": "1440", "en": "1440" },
+        { "de": "1470", "en": "1470" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Johannes_Gutenberg",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-074",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr erreichte Christoph Kolumbus erstmals Amerika?",
+        "en": "In which year did Christopher Columbus first reach the Americas?"
+      },
+      "options": [
+        { "de": "1488", "en": "1488" },
+        { "de": "1490", "en": "1490" },
+        { "de": "1492", "en": "1492" },
+        { "de": "1494", "en": "1494" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-075",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr sank die Titanic?",
+        "en": "In which year did the Titanic sink?"
+      },
+      "options": [
+        { "de": "1910", "en": "1910" },
+        { "de": "1911", "en": "1911" },
+        { "de": "1912", "en": "1912" },
+        { "de": "1913", "en": "1913" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-076",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "Die Ermordung welcher Person löste den Ersten Weltkrieg aus?",
+        "en": "The assassination of which person triggered the start of World War I?"
+      },
+      "options": [
+        { "de": "Kaiser Wilhelm II.", "en": "Kaiser Wilhelm II" },
+        { "de": "Otto von Bismarck", "en": "Otto von Bismarck" },
+        { "de": "Zar Nikolaus II.", "en": "Tsar Nicholas II" },
+        { "de": "Erzherzog Franz Ferdinand", "en": "Archduke Franz Ferdinand" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-077",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr veröffentlichte Martin Luther seine 95 Thesen?",
+        "en": "In which year did Martin Luther publish his 95 Theses?"
+      },
+      "options": [
+        { "de": "1505", "en": "1505" },
+        { "de": "1510", "en": "1510" },
+        { "de": "1517", "en": "1517" },
+        { "de": "1525", "en": "1525" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-078",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Jahrhundert wütete die Pest (Schwarzer Tod) erstmals in Europa?",
+        "en": "In which century did the Black Death first devastate Europe?"
+      },
+      "options": [
+        { "de": "12. Jahrhundert", "en": "12th century" },
+        { "de": "13. Jahrhundert", "en": "13th century" },
+        { "de": "14. Jahrhundert", "en": "14th century" },
+        { "de": "15. Jahrhundert", "en": "15th century" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Black_Death",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-079",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr ereignete sich die Nuklearkatastrophe von Tschernobyl?",
+        "en": "In which year did the Chernobyl nuclear disaster occur?"
+      },
+      "options": [
+        { "de": "1984", "en": "1984" },
+        { "de": "1985", "en": "1985" },
+        { "de": "1986", "en": "1986" },
+        { "de": "1987", "en": "1987" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-080",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr gelang den Brüdern Wright der erste motorisierte Flug?",
+        "en": "In which year did the Wright Brothers achieve the first powered flight?"
+      },
+      "options": [
+        { "de": "1899", "en": "1899" },
+        { "de": "1901", "en": "1901" },
+        { "de": "1903", "en": "1903" },
+        { "de": "1905", "en": "1905" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wright_brothers",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-081",
+      "category": "history",
+      "difficulty": "easy",
+      "question": {
+        "de": "Auf welche Stadt wurde die erste Atombombe im Krieg abgeworfen?",
+        "en": "On which city was the first atomic bomb dropped in warfare?"
+      },
+      "options": [
+        { "de": "Nagasaki", "en": "Nagasaki" },
+        { "de": "Tokio", "en": "Tokyo" },
+        { "de": "Hiroshima", "en": "Hiroshima" },
+        { "de": "Osaka", "en": "Osaka" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-082",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr entdeckte Alexander Fleming das Penicillin?",
+        "en": "In which year did Alexander Fleming discover penicillin?"
+      },
+      "options": [
+        { "de": "1918", "en": "1918" },
+        { "de": "1923", "en": "1923" },
+        { "de": "1928", "en": "1928" },
+        { "de": "1935", "en": "1935" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Penicillin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-083",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Jahr begann die Berliner Blockade und die darauffolgende Luftbrücke?",
+        "en": "In which year did the Berlin Blockade and subsequent airlift begin?"
+      },
+      "options": [
+        { "de": "1946", "en": "1946" },
+        { "de": "1947", "en": "1947" },
+        { "de": "1948", "en": "1948" },
+        { "de": "1950", "en": "1950" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_Blockade",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-084",
+      "category": "history",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Jahr fand die Suezkrise statt?",
+        "en": "In which year did the Suez Crisis occur?"
+      },
+      "options": [
+        { "de": "1952", "en": "1952" },
+        { "de": "1954", "en": "1954" },
+        { "de": "1956", "en": "1956" },
+        { "de": "1958", "en": "1958" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Suez_Crisis",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-085",
+      "category": "history",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr wurden die Vereinten Nationen gegründet?",
+        "en": "In which year was the United Nations founded?"
+      },
+      "options": [
+        { "de": "1943", "en": "1943" },
+        { "de": "1944", "en": "1944" },
+        { "de": "1945", "en": "1945" },
+        { "de": "1946", "en": "1946" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/United_Nations",
+      "sourceLabel": "Wikipedia"
+    }
+  ],
+  "timelineEvents": [
+    {
+      "id": "his-t-001",
+      "title": {
+        "de": "Bau der Großen Pyramide von Gizeh",
+        "en": "Construction of the Great Pyramid of Giza"
+      },
+      "description": {
+        "de": "Die Große Pyramide von Gizeh wurde als Grabmal für den Pharao Cheops (Khufu) errichtet und ist das älteste der Sieben Weltwunder der Antike.",
+        "en": "The Great Pyramid of Giza was built as a tomb for Pharaoh Khufu (Cheops) and is the oldest of the Seven Wonders of the Ancient World."
+      },
+      "year": -2560,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+    },
+    {
+      "id": "his-t-002",
+      "title": {
+        "de": "Fall von Troja",
+        "en": "Fall of Troy"
+      },
+      "description": {
+        "de": "Der legendäre Fall von Troja, überliefert in Homers Ilias, markiert das Ende des Trojanischen Krieges.",
+        "en": "The legendary Fall of Troy, chronicled in Homer's Iliad, marks the end of the Trojan War."
+      },
+      "year": -1184,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Troy"
+    },
+    {
+      "id": "his-t-003",
+      "title": {
+        "de": "Erste Olympische Spiele der Antike",
+        "en": "First Ancient Olympic Games"
+      },
+      "description": {
+        "de": "Die ersten Olympischen Spiele der Antike wurden in Olympia, Griechenland, abgehalten und umfassten einen einzigen Wettlauf.",
+        "en": "The first ancient Olympic Games were held at Olympia, Greece, featuring a single footrace."
+      },
+      "year": -776,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games"
+    },
+    {
+      "id": "his-t-004",
+      "title": {
+        "de": "Gründung Roms",
+        "en": "Founding of Rome"
+      },
+      "description": {
+        "de": "Der Überlieferung nach wurde Rom von den Zwillingen Romulus und Remus gegründet.",
+        "en": "According to legend, Rome was founded by the twin brothers Romulus and Remus."
+      },
+      "year": -753,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Founding_of_Rome"
+    },
+    {
+      "id": "his-t-005",
+      "title": {
+        "de": "Schlacht bei den Thermopylen",
+        "en": "Battle of Thermopylae"
+      },
+      "description": {
+        "de": "König Leonidas und 300 Spartaner verteidigten den Thermopylen-Pass gegen das persische Heer unter Xerxes I.",
+        "en": "King Leonidas and 300 Spartans defended the pass at Thermopylae against the Persian army under Xerxes I."
+      },
+      "year": -480,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Thermopylae"
+    },
+    {
+      "id": "his-t-006",
+      "title": {
+        "de": "Ermordung Julius Cäsars",
+        "en": "Assassination of Julius Caesar"
+      },
+      "description": {
+        "de": "Julius Cäsar wurde an den Iden des März von einer Gruppe römischer Senatoren, darunter Brutus und Cassius, ermordet.",
+        "en": "Julius Caesar was assassinated on the Ides of March by a group of Roman senators, including Brutus and Cassius."
+      },
+      "year": -44,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar"
+    },
+    {
+      "id": "his-t-007",
+      "title": {
+        "de": "Untergang des Weströmischen Reiches",
+        "en": "Fall of the Western Roman Empire"
+      },
+      "description": {
+        "de": "Der germanische Heerführer Odoaker setzte den letzten weströmischen Kaiser Romulus Augustulus ab und beendete damit das Weströmische Reich.",
+        "en": "The Germanic chieftain Odoacer deposed the last Western Roman Emperor Romulus Augustulus, ending the Western Roman Empire."
+      },
+      "year": 476,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
+    },
+    {
+      "id": "his-t-008",
+      "title": {
+        "de": "Schlacht bei Hastings",
+        "en": "Battle of Hastings"
+      },
+      "description": {
+        "de": "Wilhelm der Eroberer besiegte König Harald II. und begann damit die normannische Herrschaft über England.",
+        "en": "William the Conqueror defeated King Harold II, beginning the Norman conquest of England."
+      },
+      "year": 1066,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Hastings"
+    },
+    {
+      "id": "his-t-009",
+      "title": {
+        "de": "Beginn der Kreuzzüge",
+        "en": "Beginning of the Crusades"
+      },
+      "description": {
+        "de": "Papst Urban II. rief auf dem Konzil von Clermont zum Ersten Kreuzzug auf, um das Heilige Land von der muslimischen Herrschaft zu befreien.",
+        "en": "Pope Urban II called for the First Crusade at the Council of Clermont to reclaim the Holy Land from Muslim rule."
+      },
+      "year": 1096,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/First_Crusade"
+    },
+    {
+      "id": "his-t-010",
+      "title": {
+        "de": "Unterzeichnung der Magna Carta",
+        "en": "Signing of the Magna Carta"
+      },
+      "description": {
+        "de": "König Johann von England unterzeichnete die Magna Carta in Runnymede, die die Macht des Königs erstmals gesetzlich einschränkte.",
+        "en": "King John of England sealed the Magna Carta at Runnymede, limiting the power of the monarch by law for the first time."
+      },
+      "year": 1215,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Magna_Carta"
+    },
+    {
+      "id": "his-t-011",
+      "title": {
+        "de": "Gründung der Schweizerischen Eidgenossenschaft",
+        "en": "Founding of the Swiss Confederation"
+      },
+      "description": {
+        "de": "Der Bundesbrief gilt als Gründungsurkunde der Schweizerischen Eidgenossenschaft.",
+        "en": "The Federal Charter is considered the founding document of the Swiss Confederation."
+      },
+      "year": 1291,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Federal_Charter_of_1291"
+    },
+    {
+      "id": "his-t-012",
+      "title": {
+        "de": "Der Schwarze Tod erreicht Europa",
+        "en": "The Black Death Reaches Europe"
+      },
+      "description": {
+        "de": "Die Pest erreichte Europa und tötete schätzungsweise ein Drittel der europäischen Bevölkerung.",
+        "en": "The bubonic plague reached Europe and killed an estimated one-third of the European population."
+      },
+      "year": 1347,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Black_Death"
+    },
+    {
+      "id": "his-t-013",
+      "title": {
+        "de": "Erfindung des Buchdrucks durch Gutenberg",
+        "en": "Gutenberg Invents the Printing Press"
+      },
+      "description": {
+        "de": "Johannes Gutenberg entwickelte den Buchdruck mit beweglichen Lettern und revolutionierte damit die Verbreitung von Wissen in Europa.",
+        "en": "Johannes Gutenberg developed the movable-type printing press, revolutionizing the spread of knowledge in Europe."
+      },
+      "year": 1440,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Johannes_Gutenberg"
+    },
+    {
+      "id": "his-t-014",
+      "title": {
+        "de": "Fall von Konstantinopel",
+        "en": "Fall of Constantinople"
+      },
+      "description": {
+        "de": "Sultan Mehmed II. eroberte Konstantinopel und beendete damit das Byzantinische Reich. Die Stadt wurde zur Hauptstadt des Osmanischen Reiches.",
+        "en": "Sultan Mehmed II conquered Constantinople, ending the Byzantine Empire. The city became the capital of the Ottoman Empire."
+      },
+      "year": 1453,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fall_of_Constantinople"
+    },
+    {
+      "id": "his-t-015",
+      "title": {
+        "de": "Kolumbus erreicht Amerika",
+        "en": "Columbus Reaches the Americas"
+      },
+      "description": {
+        "de": "Christoph Kolumbus landete auf einer Insel in den Bahamas und leitete damit das Zeitalter der europäischen Entdeckungen in der Neuen Welt ein.",
+        "en": "Christopher Columbus landed on an island in the Bahamas, initiating the age of European exploration of the New World."
+      },
+      "year": 1492,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus"
+    },
+    {
+      "id": "his-t-016",
+      "title": {
+        "de": "Martin Luthers 95 Thesen",
+        "en": "Martin Luther's 95 Theses"
+      },
+      "description": {
+        "de": "Martin Luther schlug seine 95 Thesen an die Tür der Schlosskirche in Wittenberg und löste damit die Reformation aus.",
+        "en": "Martin Luther posted his 95 Theses on the door of the Castle Church in Wittenberg, sparking the Protestant Reformation."
+      },
+      "year": 1517,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ninety-five_Theses"
+    },
+    {
+      "id": "his-t-017",
+      "title": {
+        "de": "Westfälischer Frieden",
+        "en": "Peace of Westphalia"
+      },
+      "description": {
+        "de": "Der Westfälische Frieden beendete den Dreißigjährigen Krieg und legte den Grundstein für das moderne System souveräner Nationalstaaten.",
+        "en": "The Peace of Westphalia ended the Thirty Years' War and laid the foundation for the modern system of sovereign nation-states."
+      },
+      "year": 1648,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Peace_of_Westphalia"
+    },
+    {
+      "id": "his-t-018",
+      "title": {
+        "de": "Amerikanische Unabhängigkeitserklärung",
+        "en": "American Declaration of Independence"
+      },
+      "description": {
+        "de": "Die dreizehn amerikanischen Kolonien erklärten ihre Unabhängigkeit von Großbritannien und gründeten die Vereinigten Staaten von Amerika.",
+        "en": "The thirteen American colonies declared independence from Great Britain, establishing the United States of America."
+      },
+      "year": 1776,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence"
+    },
+    {
+      "id": "his-t-019",
+      "title": {
+        "de": "Beginn der Französischen Revolution",
+        "en": "Beginning of the French Revolution"
+      },
+      "description": {
+        "de": "Der Sturm auf die Bastille markierte den Beginn der Französischen Revolution, die die politische Landschaft Europas grundlegend veränderte.",
+        "en": "The storming of the Bastille marked the beginning of the French Revolution, which fundamentally changed the political landscape of Europe."
+      },
+      "year": 1789,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/French_Revolution"
+    },
+    {
+      "id": "his-t-020",
+      "title": {
+        "de": "Schlacht bei Waterloo",
+        "en": "Battle of Waterloo"
+      },
+      "description": {
+        "de": "Napoleon Bonaparte wurde in der Schlacht bei Waterloo von britischen und preußischen Truppen endgültig besiegt.",
+        "en": "Napoleon Bonaparte was decisively defeated at the Battle of Waterloo by British and Prussian forces."
+      },
+      "year": 1815,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Waterloo"
+    },
+    {
+      "id": "his-t-021",
+      "title": {
+        "de": "Beginn des Amerikanischen Bürgerkriegs",
+        "en": "Beginning of the American Civil War"
+      },
+      "description": {
+        "de": "Der Angriff auf Fort Sumter markierte den Beginn des Amerikanischen Bürgerkriegs zwischen den Nord- und Südstaaten.",
+        "en": "The attack on Fort Sumter marked the beginning of the American Civil War between the Union and Confederate states."
+      },
+      "year": 1861,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "id": "his-t-022",
+      "title": {
+        "de": "Gründung des Deutschen Kaiserreichs",
+        "en": "Founding of the German Empire"
+      },
+      "description": {
+        "de": "Nach dem Sieg im Deutsch-Französischen Krieg wurde das Deutsche Kaiserreich im Spiegelsaal von Versailles ausgerufen.",
+        "en": "After victory in the Franco-Prussian War, the German Empire was proclaimed in the Hall of Mirrors at Versailles."
+      },
+      "year": 1871,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Unification_of_Germany"
+    },
+    {
+      "id": "his-t-023",
+      "title": {
+        "de": "Beginn des Ersten Weltkriegs",
+        "en": "Beginning of World War I"
+      },
+      "description": {
+        "de": "Nach der Ermordung von Erzherzog Franz Ferdinand in Sarajevo eskalierte eine Kette von Bündnisverpflichtungen zum Ersten Weltkrieg.",
+        "en": "Following the assassination of Archduke Franz Ferdinand in Sarajevo, a chain of alliance obligations escalated into World War I."
+      },
+      "year": 1914,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "id": "his-t-024",
+      "title": {
+        "de": "Russische Oktoberrevolution",
+        "en": "Russian October Revolution"
+      },
+      "description": {
+        "de": "Die Bolschewiki unter der Führung von Wladimir Lenin stürzten die provisorische Regierung und begründeten den ersten sozialistischen Staat.",
+        "en": "The Bolsheviks, led by Vladimir Lenin, overthrew the provisional government and established the first socialist state."
+      },
+      "year": 1917,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/October_Revolution"
+    },
+    {
+      "id": "his-t-025",
+      "title": {
+        "de": "Vertrag von Versailles",
+        "en": "Treaty of Versailles"
+      },
+      "description": {
+        "de": "Der Vertrag von Versailles beendete offiziell den Ersten Weltkrieg und legte Deutschland strenge Bedingungen auf.",
+        "en": "The Treaty of Versailles officially ended World War I and imposed harsh terms on Germany."
+      },
+      "year": 1919,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Versailles"
+    },
+    {
+      "id": "his-t-026",
+      "title": {
+        "de": "Beginn des Zweiten Weltkriegs",
+        "en": "Beginning of World War II"
+      },
+      "description": {
+        "de": "Mit dem deutschen Überfall auf Polen begann der Zweite Weltkrieg.",
+        "en": "World War II began with the German invasion of Poland."
+      },
+      "year": 1939,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "id": "his-t-027",
+      "title": {
+        "de": "Landung in der Normandie (D-Day)",
+        "en": "Normandy Landings (D-Day)"
+      },
+      "description": {
+        "de": "Die alliierten Streitkräfte landeten an den Stränden der Normandie in der größten amphibischen Invasion der Geschichte.",
+        "en": "Allied forces landed on the beaches of Normandy in the largest amphibious invasion in history."
+      },
+      "year": 1944,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Normandy_landings"
+    },
+    {
+      "id": "his-t-028",
+      "title": {
+        "de": "Ende des Zweiten Weltkriegs und Gründung der Vereinten Nationen",
+        "en": "End of World War II and Founding of the United Nations"
+      },
+      "description": {
+        "de": "Der Zweite Weltkrieg endete mit der Kapitulation Deutschlands und Japans. Im selben Jahr wurden die Vereinten Nationen gegründet.",
+        "en": "World War II ended with the surrender of Germany and Japan. The United Nations was founded in the same year."
+      },
+      "year": 1945,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/United_Nations"
+    },
+    {
+      "id": "his-t-029",
+      "title": {
+        "de": "Unabhängigkeit Indiens",
+        "en": "Indian Independence"
+      },
+      "description": {
+        "de": "Indien erlangte die Unabhängigkeit von der britischen Kolonialherrschaft, was gleichzeitig zur Teilung in Indien und Pakistan führte.",
+        "en": "India gained independence from British colonial rule, which simultaneously led to the partition into India and Pakistan."
+      },
+      "year": 1947,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Indian_independence_movement"
+    },
+    {
+      "id": "his-t-030",
+      "title": {
+        "de": "Gründung des Staates Israel",
+        "en": "Founding of the State of Israel"
+      },
+      "description": {
+        "de": "David Ben-Gurion verkündete die Unabhängigkeit des Staates Israel, der damit als jüdischer Nationalstaat gegründet wurde.",
+        "en": "David Ben-Gurion proclaimed the independence of the State of Israel, establishing it as a Jewish national homeland."
+      },
+      "year": 1948,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Israeli_Declaration_of_Independence"
+    },
+    {
+      "id": "his-t-031",
+      "title": {
+        "de": "Mondlandung",
+        "en": "Moon Landing"
+      },
+      "description": {
+        "de": "Neil Armstrong und Buzz Aldrin betraten als erste Menschen den Mond während der Apollo-11-Mission der NASA.",
+        "en": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon during NASA's Apollo 11 mission."
+      },
+      "year": 1969,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Apollo_11"
+    },
+    {
+      "id": "his-t-032",
+      "title": {
+        "de": "Fall der Berliner Mauer",
+        "en": "Fall of the Berlin Wall"
+      },
+      "description": {
+        "de": "Der Fall der Berliner Mauer symbolisierte das Ende der Teilung Deutschlands und des Kalten Krieges.",
+        "en": "The Berlin Wall fell, symbolizing the end of the division of Germany and the Cold War."
+      },
+      "year": 1989,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall"
+    },
+    {
+      "id": "his-t-033",
+      "title": {
+        "de": "Deutsche Wiedervereinigung",
+        "en": "German Reunification"
+      },
+      "description": {
+        "de": "Deutschland wurde offiziell wiedervereinigt, als die DDR der Bundesrepublik Deutschland beitrat.",
+        "en": "Germany was officially reunified when the German Democratic Republic joined the Federal Republic of Germany."
+      },
+      "year": 1990,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/German_reunification"
+    },
+    {
+      "id": "his-t-034",
+      "title": {
+        "de": "Auflösung der Sowjetunion",
+        "en": "Dissolution of the Soviet Union"
+      },
+      "description": {
+        "de": "Die Sowjetunion löste sich offiziell auf und beendete damit den Kalten Krieg. Fünfzehn unabhängige Staaten entstanden.",
+        "en": "The Soviet Union officially dissolved, ending the Cold War. Fifteen independent states emerged."
+      },
+      "year": 1991,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
+    },
+    {
+      "id": "his-t-035",
+      "title": {
+        "de": "Terroranschläge vom 11. September",
+        "en": "September 11 Attacks"
+      },
+      "description": {
+        "de": "Terroristen der al-Qaida entführten vier Flugzeuge und verübten Anschläge auf das World Trade Center und das Pentagon, was fast 3.000 Menschenleben forderte.",
+        "en": "Al-Qaeda terrorists hijacked four airplanes and carried out attacks on the World Trade Center and the Pentagon, killing nearly 3,000 people."
+      },
+      "year": 2001,
+      "category": "history",
+      "sourceUrl": "https://en.wikipedia.org/wiki/September_11_attacks"
+    }
+  ]
+}
