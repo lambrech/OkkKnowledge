@@ -8,7 +8,8 @@
     "quiz": "Quiz",
     "timeline": "Timeline",
     "stats": "Stats",
-    "settings": "Settings"
+    "settings": "Settings",
+    "info": "Info"
   },
   "home": {
     "welcome": "Welcome to KnowledgeApp",
@@ -102,5 +103,24 @@
     "famous-people": "Famous People",
     "science-tech": "Science & Technology",
     "all": "All Categories"
+  },
+  "info": {
+    "title": "App Info",
+    "version": "Version",
+    "swStatus": "Service Worker",
+    "swActive": "Active",
+    "swInactive": "Not available (development mode)",
+    "updateReady": "New version available!",
+    "actions": "Actions",
+    "checkUpdate": "Check for updates",
+    "checking": "Checking...",
+    "installUpdate": "Install update & reload",
+    "clearCache": "Clear cache & reload",
+    "reload": "Reload app",
+    "updateFound": "New version found!",
+    "upToDate": "The app is up to date.",
+    "checkFailed": "Update check failed.",
+    "cacheCleared": "Cache cleared. Reloading page...",
+    "about": "KnowledgeApp - Test your general knowledge with hundreds of questions and the timeline game. Works fully offline as a PWA."
   }
 }

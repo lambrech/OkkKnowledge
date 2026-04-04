@@ -15,7 +15,7 @@ test.describe('App Shell & Navigation', () => {
     await page.setViewportSize({ width: 375, height: 667 });
     const bottomNav = page.locator('.bottom-nav');
     await expect(bottomNav).toBeVisible();
-    await expect(bottomNav.locator('a')).toHaveCount(5);
+    await expect(bottomNav.locator('a')).toHaveCount(6);
   });
 
   test('should navigate to quiz via bottom nav', async ({ page }) => {
@@ -47,7 +47,7 @@ test.describe('App Shell & Navigation', () => {
     await menuButton.click();
     const sidenav = page.locator('mat-sidenav');
     await expect(sidenav).toBeVisible();
-    await expect(sidenav.locator('a')).toHaveCount(5);
+    await expect(sidenav.locator('a')).toHaveCount(6);
   });
 
   test('should navigate via sidenav and close it', async ({ page }) => {

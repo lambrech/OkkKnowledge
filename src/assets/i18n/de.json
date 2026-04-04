@@ -8,7 +8,8 @@
     "quiz": "Quiz",
     "timeline": "Zeitstrahl",
     "stats": "Statistik",
-    "settings": "Einstellungen"
+    "settings": "Einstellungen",
+    "info": "Info"
   },
   "home": {
     "welcome": "Willkommen bei WissensApp",
@@ -102,5 +103,24 @@
     "famous-people": "Berühmte Persönlichkeiten",
     "science-tech": "Wissenschaft & Technik",
     "all": "Alle Kategorien"
+  },
+  "info": {
+    "title": "App-Info",
+    "version": "Version",
+    "swStatus": "Service Worker",
+    "swActive": "Aktiv",
+    "swInactive": "Nicht verfügbar (Entwicklungsmodus)",
+    "updateReady": "Neue Version verfügbar!",
+    "actions": "Aktionen",
+    "checkUpdate": "Nach Updates suchen",
+    "checking": "Suche...",
+    "installUpdate": "Update installieren & neu laden",
+    "clearCache": "Cache leeren & neu laden",
+    "reload": "App neu laden",
+    "updateFound": "Neue Version gefunden!",
+    "upToDate": "Die App ist auf dem neuesten Stand.",
+    "checkFailed": "Update-Prüfung fehlgeschlagen.",
+    "cacheCleared": "Cache wurde geleert. Seite wird neu geladen...",
+    "about": "WissensApp - Teste dein Allgemeinwissen mit hunderten von Fragen und dem Zeitstrahl-Spiel. Funktioniert vollständig offline als PWA."
   }
 }

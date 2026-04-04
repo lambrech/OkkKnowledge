@@ -112,7 +112,7 @@ export class TimelineComponent {
     }
 
     // Always place the event in the correct position
-    this.placedEvents.update(events => [...events, { ...event, revealed: true }]);
+    this.placedEvents.update(events => [...events, { ...event, revealed: !isCorrect }]);
     this.currentEvent.set(null);
 
     // Short delay then move to year guess (if correct) or next
@@ -139,6 +139,7 @@ export class TimelineComponent {
       this.feedbackMessage.set('bonus');
     }
 
+    this.revealLastPlaced();
     this.state.set('playing');
     if (this.lives() <= 0) {
       this.endGame();
@@ -148,12 +149,23 @@ export class TimelineComponent {
   }
 
   skipYearGuess(): void {
+    this.revealLastPlaced();
     this.state.set('playing');
     if (this.lives() <= 0) {
       this.endGame();
     } else {
       this.drawNext();
     }
+  }
+
+  private revealLastPlaced(): void {
+    this.placedEvents.update(events => {
+      const updated = [...events];
+      if (updated.length > 0) {
+        updated[updated.length - 1] = { ...updated[updated.length - 1], revealed: true };
+      }
+      return updated;
+    });
   }
 
   private endGame(): void {

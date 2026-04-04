@@ -1680,8 +1680,8 @@
         "en": "Founding of the Swiss Confederation"
       },
       "description": {
-        "de": "Der Bundesbrief von 1291 gilt als Gründungsurkunde der Schweizerischen Eidgenossenschaft.",
-        "en": "The Federal Charter of 1291 is considered the founding document of the Swiss Confederation."
+        "de": "Der Bundesbrief gilt als Gründungsurkunde der Schweizerischen Eidgenossenschaft.",
+        "en": "The Federal Charter is considered the founding document of the Swiss Confederation."
       },
       "year": 1291,
       "category": "history",
@@ -1792,8 +1792,8 @@
         "en": "Beginning of the French Revolution"
       },
       "description": {
-        "de": "Der Sturm auf die Bastille am 14. Juli 1789 markierte den Beginn der Französischen Revolution, die die politische Landschaft Europas grundlegend veränderte.",
-        "en": "The storming of the Bastille on July 14, 1789 marked the beginning of the French Revolution, which fundamentally changed the political landscape of Europe."
+        "de": "Der Sturm auf die Bastille markierte den Beginn der Französischen Revolution, die die politische Landschaft Europas grundlegend veränderte.",
+        "en": "The storming of the Bastille marked the beginning of the French Revolution, which fundamentally changed the political landscape of Europe."
       },
       "year": 1789,
       "category": "history",
@@ -1890,8 +1890,8 @@
         "en": "Beginning of World War II"
       },
       "description": {
-        "de": "Mit dem deutschen Überfall auf Polen am 1. September 1939 begann der Zweite Weltkrieg.",
-        "en": "World War II began with the German invasion of Poland on September 1, 1939."
+        "de": "Mit dem deutschen Überfall auf Polen begann der Zweite Weltkrieg.",
+        "en": "World War II began with the German invasion of Poland."
       },
       "year": 1939,
       "category": "history",
@@ -1918,8 +1918,8 @@
         "en": "End of World War II and Founding of the United Nations"
       },
       "description": {
-        "de": "Der Zweite Weltkrieg endete 1945 mit der Kapitulation Deutschlands und Japans. Im selben Jahr wurden die Vereinten Nationen gegründet.",
-        "en": "World War II ended in 1945 with the surrender of Germany and Japan. The United Nations was founded in the same year."
+        "de": "Der Zweite Weltkrieg endete mit der Kapitulation Deutschlands und Japans. Im selben Jahr wurden die Vereinten Nationen gegründet.",
+        "en": "World War II ended with the surrender of Germany and Japan. The United Nations was founded in the same year."
       },
       "year": 1945,
       "category": "history",
@@ -1974,8 +1974,8 @@
         "en": "Fall of the Berlin Wall"
       },
       "description": {
-        "de": "Die Berliner Mauer fiel am 9. November 1989, was das Ende der Teilung Deutschlands und des Kalten Krieges symbolisierte.",
-        "en": "The Berlin Wall fell on November 9, 1989, symbolizing the end of the division of Germany and the Cold War."
+        "de": "Der Fall der Berliner Mauer symbolisierte das Ende der Teilung Deutschlands und des Kalten Krieges.",
+        "en": "The Berlin Wall fell, symbolizing the end of the division of Germany and the Cold War."
       },
       "year": 1989,
       "category": "history",
@@ -1988,8 +1988,8 @@
         "en": "German Reunification"
       },
       "description": {
-        "de": "Am 3. Oktober 1990 wurde Deutschland offiziell wiedervereinigt, als die DDR der Bundesrepublik Deutschland beitrat.",
-        "en": "On October 3, 1990, Germany was officially reunified when the German Democratic Republic joined the Federal Republic of Germany."
+        "de": "Deutschland wurde offiziell wiedervereinigt, als die DDR der Bundesrepublik Deutschland beitrat.",
+        "en": "Germany was officially reunified when the German Democratic Republic joined the Federal Republic of Germany."
       },
       "year": 1990,
       "category": "history",

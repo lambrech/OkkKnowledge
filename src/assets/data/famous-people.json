@@ -1281,7 +1281,7 @@
     {
       "id": "ppl-t-001",
       "title": { "de": "Geburt von Albert Einstein", "en": "Birth of Albert Einstein" },
-      "description": { "de": "Albert Einstein wird am 14. März 1879 in Ulm, Deutschland, geboren. Er wird später die Physik mit seiner Relativitätstheorie revolutionieren.", "en": "Albert Einstein is born on March 14, 1879, in Ulm, Germany. He would later revolutionize physics with his theory of relativity." },
+      "description": { "de": "Albert Einstein wird in Ulm, Deutschland, als Sohn einer jüdischen Familie geboren. Er wird später die Physik mit seiner Relativitätstheorie revolutionieren.", "en": "Albert Einstein is born in Ulm, Germany, into a Jewish family. He would later revolutionize physics with his theory of relativity." },
       "year": 1879,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Einstein"
@@ -1289,7 +1289,7 @@
     {
       "id": "ppl-t-002",
       "title": { "de": "Tod von Wolfgang Amadeus Mozart", "en": "Death of Wolfgang Amadeus Mozart" },
-      "description": { "de": "Wolfgang Amadeus Mozart stirbt am 5. Dezember 1791 in Wien im Alter von nur 35 Jahren. Er hinterlässt über 600 Kompositionen.", "en": "Wolfgang Amadeus Mozart dies on December 5, 1791, in Vienna at the age of just 35, leaving behind over 600 compositions." },
+      "description": { "de": "Wolfgang Amadeus Mozart stirbt in Wien im Alter von nur 35 Jahren. Er hinterlässt über 600 Kompositionen.", "en": "Wolfgang Amadeus Mozart dies in Vienna at the age of just 35, leaving behind over 600 compositions." },
       "year": 1791,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
@@ -1305,7 +1305,7 @@
     {
       "id": "ppl-t-004",
       "title": { "de": "Gutenberg erfindet den Buchdruck", "en": "Gutenberg invents the printing press" },
-      "description": { "de": "Johannes Gutenberg erfindet um 1440 den Buchdruck mit beweglichen Lettern und revolutioniert damit die Verbreitung von Wissen in Europa.", "en": "Johannes Gutenberg invents the printing press with movable type around 1440, revolutionizing the spread of knowledge in Europe." },
+      "description": { "de": "Johannes Gutenberg erfindet den Buchdruck mit beweglichen Lettern und revolutioniert damit die Verbreitung von Wissen in Europa.", "en": "Johannes Gutenberg invents the printing press with movable type, revolutionizing the spread of knowledge across Europe." },
       "year": 1440,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Johannes_Gutenberg"
@@ -1313,7 +1313,7 @@
     {
       "id": "ppl-t-005",
       "title": { "de": "Geburt von Leonardo da Vinci", "en": "Birth of Leonardo da Vinci" },
-      "description": { "de": "Leonardo da Vinci wird am 15. April 1452 in Vinci, Italien, geboren. Er wird zu einem der vielseitigsten Genies der Geschichte.", "en": "Leonardo da Vinci is born on April 15, 1452, in Vinci, Italy. He would become one of the most versatile geniuses in history." },
+      "description": { "de": "Leonardo da Vinci wird in Vinci, Italien, geboren. Er wird zu einem der vielseitigsten Genies der Geschichte.", "en": "Leonardo da Vinci is born in Vinci, Italy. He would become one of the most versatile geniuses in history." },
       "year": 1452,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
@@ -1321,7 +1321,7 @@
     {
       "id": "ppl-t-006",
       "title": { "de": "Newton veröffentlicht die Principia Mathematica", "en": "Newton publishes the Principia Mathematica" },
-      "description": { "de": "Isaac Newton veröffentlicht 1687 'Philosophiæ Naturalis Principia Mathematica', worin er die Gesetze der Bewegung und der universellen Gravitation formuliert.", "en": "Isaac Newton publishes 'Philosophiæ Naturalis Principia Mathematica' in 1687, formulating the laws of motion and universal gravitation." },
+      "description": { "de": "Isaac Newton veröffentlicht 'Philosophiæ Naturalis Principia Mathematica', worin er die Gesetze der Bewegung und der universellen Gravitation formuliert.", "en": "Isaac Newton publishes 'Philosophiæ Naturalis Principia Mathematica', formulating the laws of motion and universal gravitation." },
       "year": 1687,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica"
@@ -1329,7 +1329,7 @@
     {
       "id": "ppl-t-007",
       "title": { "de": "Darwin veröffentlicht 'Über die Entstehung der Arten'", "en": "Darwin publishes 'On the Origin of Species'" },
-      "description": { "de": "Charles Darwin veröffentlicht 1859 sein bahnbrechendes Werk 'Über die Entstehung der Arten', das die Theorie der natürlichen Selektion begründet.", "en": "Charles Darwin publishes his groundbreaking work 'On the Origin of Species' in 1859, establishing the theory of natural selection." },
+      "description": { "de": "Charles Darwin veröffentlicht sein bahnbrechendes Werk 'Über die Entstehung der Arten', das die Theorie der natürlichen Selektion begründet.", "en": "Charles Darwin publishes his groundbreaking work 'On the Origin of Species', establishing the theory of natural selection." },
       "year": 1859,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species"
@@ -1337,7 +1337,7 @@
     {
       "id": "ppl-t-008",
       "title": { "de": "Marie Curie erhält ihren ersten Nobelpreis", "en": "Marie Curie wins her first Nobel Prize" },
-      "description": { "de": "Marie Curie erhält 1903 zusammen mit Pierre Curie und Henri Becquerel den Nobelpreis für Physik für ihre Forschungen zur Radioaktivität.", "en": "Marie Curie receives the Nobel Prize in Physics in 1903, shared with Pierre Curie and Henri Becquerel, for their research on radioactivity." },
+      "description": { "de": "Marie Curie erhält zusammen mit Pierre Curie und Henri Becquerel den Nobelpreis für Physik für ihre Forschungen zur Radioaktivität.", "en": "Marie Curie receives the Nobel Prize in Physics, shared with Pierre Curie and Henri Becquerel, for their research on radioactivity." },
       "year": 1903,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Marie_Curie"
@@ -1345,7 +1345,7 @@
     {
       "id": "ppl-t-009",
       "title": { "de": "Ermordung von Abraham Lincoln", "en": "Assassination of Abraham Lincoln" },
-      "description": { "de": "Präsident Abraham Lincoln wird am 14. April 1865 von John Wilkes Booth im Ford's Theatre in Washington erschossen.", "en": "President Abraham Lincoln is shot by John Wilkes Booth at Ford's Theatre in Washington on April 14, 1865." },
+      "description": { "de": "Präsident Abraham Lincoln wird von John Wilkes Booth im Ford's Theatre in Washington erschossen.", "en": "President Abraham Lincoln is shot by John Wilkes Booth at Ford's Theatre in Washington." },
       "year": 1865,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln"
@@ -1353,7 +1353,7 @@
     {
       "id": "ppl-t-010",
       "title": { "de": "Napoleons Niederlage bei Waterloo", "en": "Napoleon's defeat at Waterloo" },
-      "description": { "de": "Napoleon Bonaparte wird am 18. Juni 1815 in der Schlacht bei Waterloo endgültig besiegt, was das Ende seiner Herrschaft besiegelt.", "en": "Napoleon Bonaparte is finally defeated at the Battle of Waterloo on June 18, 1815, marking the end of his rule." },
+      "description": { "de": "Napoleon Bonaparte wird in der Schlacht bei Waterloo endgültig besiegt, was das Ende seiner Herrschaft besiegelt.", "en": "Napoleon Bonaparte is finally defeated at the Battle of Waterloo, marking the end of his rule." },
       "year": 1815,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Waterloo"
@@ -1361,7 +1361,7 @@
     {
       "id": "ppl-t-011",
       "title": { "de": "Neil Armstrong betritt den Mond", "en": "Neil Armstrong walks on the Moon" },
-      "description": { "de": "Am 20. Juli 1969 betritt Neil Armstrong als erster Mensch den Mond und spricht die berühmten Worte: 'Ein kleiner Schritt für einen Menschen, ein großer Sprung für die Menschheit.'", "en": "On July 20, 1969, Neil Armstrong becomes the first person to walk on the Moon, speaking the famous words: 'That's one small step for man, one giant leap for mankind.'" },
+      "description": { "de": "Neil Armstrong betritt als erster Mensch den Mond und spricht die berühmten Worte: 'Ein kleiner Schritt für einen Menschen, ein großer Sprung für die Menschheit.'", "en": "Neil Armstrong becomes the first person to walk on the Moon, speaking the famous words: 'That's one small step for man, one giant leap for mankind.'" },
       "year": 1969,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Apollo_11"
@@ -1369,7 +1369,7 @@
     {
       "id": "ppl-t-012",
       "title": { "de": "Kolumbus erreicht Amerika", "en": "Columbus reaches the Americas" },
-      "description": { "de": "Am 12. Oktober 1492 erreicht Christoph Kolumbus mit seinen Schiffen die Bahamas und leitet damit die europäische Erkundung Amerikas ein.", "en": "On October 12, 1492, Christopher Columbus and his ships reach the Bahamas, initiating the European exploration of the Americas." },
+      "description": { "de": "Christoph Kolumbus erreicht mit seinen Schiffen die Bahamas und leitet damit die europäische Erkundung Amerikas ein.", "en": "Christopher Columbus and his ships reach the Bahamas, initiating the European exploration of the Americas." },
       "year": 1492,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Christopher_Columbus"
@@ -1377,7 +1377,7 @@
     {
       "id": "ppl-t-013",
       "title": { "de": "Geburt von William Shakespeare", "en": "Birth of William Shakespeare" },
-      "description": { "de": "William Shakespeare wird am 26. April 1564 in Stratford-upon-Avon getauft. Er wird der bedeutendste Dramatiker der englischen Sprache.", "en": "William Shakespeare is baptized on April 26, 1564, in Stratford-upon-Avon. He would become the most important playwright in the English language." },
+      "description": { "de": "William Shakespeare wird in Stratford-upon-Avon getauft. Er wird der bedeutendste Dramatiker der englischen Sprache.", "en": "William Shakespeare is baptized in Stratford-upon-Avon. He would become the most important playwright in the English language." },
       "year": 1564,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/William_Shakespeare"
@@ -1385,7 +1385,7 @@
     {
       "id": "ppl-t-014",
       "title": { "de": "Uraufführung von Beethovens Neunter Sinfonie", "en": "Premiere of Beethoven's Ninth Symphony" },
-      "description": { "de": "Ludwig van Beethovens Neunte Sinfonie mit der 'Ode an die Freude' wird am 7. Mai 1824 in Wien uraufgeführt.", "en": "Ludwig van Beethoven's Ninth Symphony, featuring the 'Ode to Joy,' premieres in Vienna on May 7, 1824." },
+      "description": { "de": "Ludwig van Beethovens Neunte Sinfonie mit der 'Ode an die Freude' wird in Wien uraufgeführt.", "en": "Ludwig van Beethoven's Ninth Symphony, featuring the 'Ode to Joy,' premieres in Vienna." },
       "year": 1824,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)"
@@ -1393,7 +1393,7 @@
     {
       "id": "ppl-t-015",
       "title": { "de": "Der erste Motorflug der Gebrüder Wright", "en": "The Wright Brothers' first powered flight" },
-      "description": { "de": "Am 17. Dezember 1903 gelingt Orville und Wilbur Wright in Kitty Hawk, North Carolina, der erste kontrollierte Motorflug der Geschichte.", "en": "On December 17, 1903, Orville and Wilbur Wright achieve the first controlled powered flight in history at Kitty Hawk, North Carolina." },
+      "description": { "de": "Orville und Wilbur Wright gelingt in Kitty Hawk, North Carolina, der erste kontrollierte Motorflug der Geschichte.", "en": "Orville and Wilbur Wright achieve the first controlled powered flight in history at Kitty Hawk, North Carolina." },
       "year": 1903,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Wright_brothers"
@@ -1401,7 +1401,7 @@
     {
       "id": "ppl-t-016",
       "title": { "de": "Nelson Mandela wird aus dem Gefängnis entlassen", "en": "Nelson Mandela released from prison" },
-      "description": { "de": "Am 11. Februar 1990 wird Nelson Mandela nach 27 Jahren Haft aus dem Gefängnis entlassen. 1994 wird er der erste schwarze Präsident Südafrikas.", "en": "On February 11, 1990, Nelson Mandela is released from prison after 27 years of imprisonment. In 1994, he becomes the first Black president of South Africa." },
+      "description": { "de": "Nelson Mandela wird nach 27 Jahren Haft aus dem Gefängnis entlassen. Vier Jahre später wird er der erste schwarze Präsident Südafrikas.", "en": "Nelson Mandela is released from prison after 27 years of imprisonment. Four years later, he becomes the first Black president of South Africa." },
       "year": 1990,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Nelson_Mandela"
@@ -1409,7 +1409,7 @@
     {
       "id": "ppl-t-017",
       "title": { "de": "Magellans Expedition beginnt", "en": "Magellan's expedition begins" },
-      "description": { "de": "Ferdinand Magellan bricht am 20. September 1519 mit fünf Schiffen von Spanien auf zur ersten Weltumsegelung.", "en": "Ferdinand Magellan departs Spain on September 20, 1519, with five ships to begin the first circumnavigation of the globe." },
+      "description": { "de": "Ferdinand Magellan bricht mit fünf Schiffen von Spanien auf zur ersten Weltumsegelung.", "en": "Ferdinand Magellan departs Spain with five ships to begin the first circumnavigation of the globe." },
       "year": 1519,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Ferdinand_Magellan"
@@ -1417,7 +1417,7 @@
     {
       "id": "ppl-t-018",
       "title": { "de": "Martin Luther Kings Rede 'I Have a Dream'", "en": "Martin Luther King Jr.'s 'I Have a Dream' speech" },
-      "description": { "de": "Am 28. August 1963 hält Martin Luther King Jr. seine ikonische Rede 'I Have a Dream' vor dem Lincoln Memorial in Washington, D.C.", "en": "On August 28, 1963, Martin Luther King Jr. delivers his iconic 'I Have a Dream' speech at the Lincoln Memorial in Washington, D.C." },
+      "description": { "de": "Martin Luther King Jr. hält seine ikonische Rede 'I Have a Dream' vor dem Lincoln Memorial in Washington, D.C.", "en": "Martin Luther King Jr. delivers his iconic 'I Have a Dream' speech at the Lincoln Memorial in Washington, D.C." },
       "year": 1963,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/I_Have_a_Dream"
@@ -1425,7 +1425,7 @@
     {
       "id": "ppl-t-019",
       "title": { "de": "Galileo beobachtet die Jupitermonde", "en": "Galileo observes Jupiter's moons" },
-      "description": { "de": "Im Januar 1610 entdeckt Galileo Galilei mit seinem Teleskop die vier größten Monde des Jupiter und liefert damit Beweise für das heliozentrische Weltbild.", "en": "In January 1610, Galileo Galilei discovers the four largest moons of Jupiter with his telescope, providing evidence for the heliocentric model." },
+      "description": { "de": "Galileo Galilei entdeckt mit seinem Teleskop die vier größten Monde des Jupiter und liefert damit Beweise für das heliozentrische Weltbild.", "en": "Galileo Galilei discovers the four largest moons of Jupiter with his telescope, providing evidence for the heliocentric model." },
       "year": 1610,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Galilean_moons"
@@ -1433,7 +1433,7 @@
     {
       "id": "ppl-t-020",
       "title": { "de": "Alexander Fleming entdeckt Penicillin", "en": "Alexander Fleming discovers penicillin" },
-      "description": { "de": "Im September 1928 entdeckt Alexander Fleming zufällig das Antibiotikum Penicillin, das die Medizin revolutionieren wird.", "en": "In September 1928, Alexander Fleming accidentally discovers the antibiotic penicillin, which would revolutionize medicine." },
+      "description": { "de": "Alexander Fleming entdeckt zufällig das Antibiotikum Penicillin, das die Medizin revolutionieren wird.", "en": "Alexander Fleming accidentally discovers the antibiotic penicillin, which would revolutionize medicine." },
       "year": 1928,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Fleming"
@@ -1457,7 +1457,7 @@
     {
       "id": "ppl-t-023",
       "title": { "de": "Goethe vollendet Faust II", "en": "Goethe completes Faust Part Two" },
-      "description": { "de": "Johann Wolfgang von Goethe vollendet 1832 den zweiten Teil seines Meisterwerks 'Faust', an dem er über 60 Jahre gearbeitet hat. Es wird posthum veröffentlicht.", "en": "Johann Wolfgang von Goethe completes the second part of his masterpiece 'Faust' in 1832, after working on it for over 60 years. It is published posthumously." },
+      "description": { "de": "Johann Wolfgang von Goethe vollendet den zweiten Teil seines Meisterwerks 'Faust', an dem er über 60 Jahre gearbeitet hat. Es wird posthum veröffentlicht.", "en": "Johann Wolfgang von Goethe completes the second part of his masterpiece 'Faust' after working on it for over 60 years. It is published posthumously." },
       "year": 1832,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/Goethe%27s_Faust"
@@ -1465,7 +1465,7 @@
     {
       "id": "ppl-t-024",
       "title": { "de": "Tim Berners-Lee erfindet das World Wide Web", "en": "Tim Berners-Lee invents the World Wide Web" },
-      "description": { "de": "Im März 1989 schlägt Tim Berners-Lee am CERN ein Informationsmanagementsystem vor, das zum World Wide Web wird und das Internet für die breite Öffentlichkeit zugänglich macht.", "en": "In March 1989, Tim Berners-Lee proposes an information management system at CERN that becomes the World Wide Web, making the internet accessible to the general public." },
+      "description": { "de": "Tim Berners-Lee schlägt am CERN ein Informationsmanagementsystem vor, das zum World Wide Web wird und das Internet für die breite Öffentlichkeit zugänglich macht.", "en": "Tim Berners-Lee proposes an information management system at CERN that becomes the World Wide Web, making the internet accessible to the general public." },
       "year": 1989,
       "category": "famous-people",
       "sourceUrl": "https://en.wikipedia.org/wiki/World_Wide_Web"

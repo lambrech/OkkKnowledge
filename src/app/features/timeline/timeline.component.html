@@ -42,7 +42,7 @@
           @for (event of sortedPlaced(); track event.id; let i = $index) {
             <mat-card class="timeline-event" appearance="outlined">
               <mat-card-content>
-                <span class="event-year">{{ event.year }}</span>
+                <span class="event-year">@if (event.revealed) { {{ event.year }} } @else { ? }</span>
                 <span class="event-title">{{ event.title | localizedText }}</span>
               </mat-card-content>
             </mat-card>

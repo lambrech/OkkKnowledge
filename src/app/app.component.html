@@ -38,6 +38,11 @@
           <mat-icon matListItemIcon>settings</mat-icon>
           <span matListItemTitle>{{ t('nav.settings') }}</span>
         </a>
+        <a mat-list-item routerLink="/info" routerLinkActive="active"
+           (click)="sidenavOpened.set(false)">
+          <mat-icon matListItemIcon>info</mat-icon>
+          <span matListItemTitle>{{ t('nav.info') }}</span>
+        </a>
       </mat-nav-list>
     </mat-sidenav>
 
@@ -67,6 +72,10 @@
     <a routerLink="/settings" routerLinkActive="active">
       <mat-icon>settings</mat-icon>
       <span>{{ t('nav.settings') }}</span>
+    </a>
+    <a routerLink="/info" routerLinkActive="active">
+      <mat-icon>info</mat-icon>
+      <span>{{ t('nav.info') }}</span>
     </a>
   </nav>
 </ng-container>
