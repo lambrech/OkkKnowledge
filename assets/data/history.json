@@ -1530,6 +1530,2481 @@
       "correctIndex": 2,
       "sourceUrl": "https://en.wikipedia.org/wiki/United_Nations",
       "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-086",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Wer war der erste Präsident der Vereinigten Staaten?", "en": "Who was the first President of the United States?" },
+      "options": [
+        { "de": "Thomas Jefferson", "en": "Thomas Jefferson" },
+        { "de": "George Washington", "en": "George Washington" },
+        { "de": "John Adams", "en": "John Adams" },
+        { "de": "Benjamin Franklin", "en": "Benjamin Franklin" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Washington",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-087",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welches Land schenkte den USA die Freiheitsstatue?", "en": "Which country gifted the Statue of Liberty to the United States?" },
+      "options": [
+        { "de": "Großbritannien", "en": "Great Britain" },
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Spanien", "en": "Spain" },
+        { "de": "Niederlande", "en": "Netherlands" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-088",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welchen Ozean durchquerte Ferdinand Magellan bei seiner Weltumsegelung?", "en": "Which ocean did Ferdinand Magellan cross during his circumnavigation?" },
+      "options": [
+        { "de": "Atlantischer Ozean", "en": "Atlantic Ocean" },
+        { "de": "Indischer Ozean", "en": "Indian Ocean" },
+        { "de": "Pazifischer Ozean", "en": "Pacific Ocean" },
+        { "de": "Arktischer Ozean", "en": "Arctic Ocean" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ferdinand_Magellan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-089",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Jahr wurde die Sklaverei in den USA abgeschafft (13. Verfassungszusatz)?", "en": "In which year was slavery abolished in the USA (13th Amendment)?" },
+      "options": [
+        { "de": "1861", "en": "1861" },
+        { "de": "1863", "en": "1863" },
+        { "de": "1865", "en": "1865" },
+        { "de": "1870", "en": "1870" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-090",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welcher britische Premierminister führte Großbritannien durch den Zweiten Weltkrieg?", "en": "Which British Prime Minister led Britain through World War II?" },
+      "options": [
+        { "de": "Neville Chamberlain", "en": "Neville Chamberlain" },
+        { "de": "Winston Churchill", "en": "Winston Churchill" },
+        { "de": "Clement Attlee", "en": "Clement Attlee" },
+        { "de": "Anthony Eden", "en": "Anthony Eden" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Winston_Churchill",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-091",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welches Ereignis begann am 1. September 1939 mit dem Einmarsch in Polen?", "en": "Which event began on September 1, 1939 with the invasion of Poland?" },
+      "options": [
+        { "de": "Der Spanische Bürgerkrieg", "en": "The Spanish Civil War" },
+        { "de": "Der Zweite Weltkrieg", "en": "World War II" },
+        { "de": "Der Koreakrieg", "en": "The Korean War" },
+        { "de": "Der Erste Weltkrieg", "en": "World War I" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Invasion_of_Poland",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-092",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welches antike Weltwunder befand sich in Alexandria?", "en": "Which ancient wonder was located in Alexandria?" },
+      "options": [
+        { "de": "Koloss von Rhodos", "en": "Colossus of Rhodes" },
+        { "de": "Leuchtturm von Alexandria", "en": "Lighthouse of Alexandria" },
+        { "de": "Zeusstatue von Olympia", "en": "Statue of Zeus at Olympia" },
+        { "de": "Mausoleum von Halikarnassos", "en": "Mausoleum at Halicarnassus" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-093",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Wer war der erste Mensch im Weltraum?", "en": "Who was the first human in space?" },
+      "options": [
+        { "de": "Neil Armstrong", "en": "Neil Armstrong" },
+        { "de": "Juri Gagarin", "en": "Yuri Gagarin" },
+        { "de": "John Glenn", "en": "John Glenn" },
+        { "de": "Alan Shepard", "en": "Alan Shepard" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-094",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Jahr wurde Nelson Mandela aus dem Gefängnis entlassen?", "en": "In which year was Nelson Mandela released from prison?" },
+      "options": [
+        { "de": "1988", "en": "1988" },
+        { "de": "1990", "en": "1990" },
+        { "de": "1992", "en": "1992" },
+        { "de": "1994", "en": "1994" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-095",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welches Reich wurde von Dschingis Khan gegründet?", "en": "Which empire was founded by Genghis Khan?" },
+      "options": [
+        { "de": "Osmanisches Reich", "en": "Ottoman Empire" },
+        { "de": "Mongolisches Reich", "en": "Mongol Empire" },
+        { "de": "Persisches Reich", "en": "Persian Empire" },
+        { "de": "Mogulreich", "en": "Mughal Empire" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-096",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welches Land wurde früher als Persien bezeichnet?", "en": "Which country was formerly known as Persia?" },
+      "options": [
+        { "de": "Irak", "en": "Iraq" },
+        { "de": "Iran", "en": "Iran" },
+        { "de": "Türkei", "en": "Turkey" },
+        { "de": "Afghanistan", "en": "Afghanistan" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Iran",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-097",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Wer schrieb das Kommunistische Manifest zusammen mit Friedrich Engels?", "en": "Who wrote the Communist Manifesto together with Friedrich Engels?" },
+      "options": [
+        { "de": "Wladimir Lenin", "en": "Vladimir Lenin" },
+        { "de": "Karl Marx", "en": "Karl Marx" },
+        { "de": "Leo Trotzki", "en": "Leon Trotsky" },
+        { "de": "Mao Zedong", "en": "Mao Zedong" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Communist_Manifesto",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-098",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Jahr fanden die Terroranschläge vom 11. September statt?", "en": "In which year did the September 11 terrorist attacks occur?" },
+      "options": [
+        { "de": "1999", "en": "1999" },
+        { "de": "2000", "en": "2000" },
+        { "de": "2001", "en": "2001" },
+        { "de": "2003", "en": "2003" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/September_11_attacks",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-099",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Wer war der letzte Zar von Russland?", "en": "Who was the last Tsar of Russia?" },
+      "options": [
+        { "de": "Alexander III.", "en": "Alexander III" },
+        { "de": "Nikolaus II.", "en": "Nicholas II" },
+        { "de": "Alexander II.", "en": "Alexander II" },
+        { "de": "Peter der Große", "en": "Peter the Great" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nicholas_II_of_Russia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-100",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Jahr begann der Amerikanische Bürgerkrieg?", "en": "In which year did the American Civil War begin?" },
+      "options": [
+        { "de": "1859", "en": "1859" },
+        { "de": "1861", "en": "1861" },
+        { "de": "1863", "en": "1863" },
+        { "de": "1865", "en": "1865" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/American_Civil_War",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-101",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Wer hielt die berühmte Rede 'I Have a Dream'?", "en": "Who delivered the famous 'I Have a Dream' speech?" },
+      "options": [
+        { "de": "Malcolm X", "en": "Malcolm X" },
+        { "de": "Martin Luther King Jr.", "en": "Martin Luther King Jr." },
+        { "de": "Rosa Parks", "en": "Rosa Parks" },
+        { "de": "Jesse Jackson", "en": "Jesse Jackson" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-102",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Kanal verbindet das Mittelmeer mit dem Roten Meer?", "en": "Which canal connects the Mediterranean Sea with the Red Sea?" },
+      "options": [
+        { "de": "Panamakanal", "en": "Panama Canal" },
+        { "de": "Suezkanal", "en": "Suez Canal" },
+        { "de": "Kieler Kanal", "en": "Kiel Canal" },
+        { "de": "Korinthkanal", "en": "Corinth Canal" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Suez_Canal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-103",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welches Volk erbaute Machu Picchu?", "en": "Which people built Machu Picchu?" },
+      "options": [
+        { "de": "Azteken", "en": "Aztecs" },
+        { "de": "Maya", "en": "Maya" },
+        { "de": "Inka", "en": "Inca" },
+        { "de": "Olmeken", "en": "Olmec" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Machu_Picchu",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-104",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Kontinent wurde als letzter von Europäern entdeckt?", "en": "Which continent was the last to be discovered by Europeans?" },
+      "options": [
+        { "de": "Australien", "en": "Australia" },
+        { "de": "Antarktis", "en": "Antarctica" },
+        { "de": "Südamerika", "en": "South America" },
+        { "de": "Afrika", "en": "Africa" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antarctica",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-105",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welche antike Handelsstraße verband China mit dem Mittelmeerraum?", "en": "Which ancient trade route connected China with the Mediterranean region?" },
+      "options": [
+        { "de": "Bernsteinstraße", "en": "Amber Road" },
+        { "de": "Seidenstraße", "en": "Silk Road" },
+        { "de": "Weihrauchstraße", "en": "Incense Route" },
+        { "de": "Königsstraße", "en": "Royal Road" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Silk_Road",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-106",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher römische Kaiser machte das Christentum zur Staatsreligion?", "en": "Which Roman Emperor made Christianity the state religion?" },
+      "options": [
+        { "de": "Konstantin I.", "en": "Constantine I" },
+        { "de": "Theodosius I.", "en": "Theodosius I" },
+        { "de": "Augustus", "en": "Augustus" },
+        { "de": "Justinian I.", "en": "Justinian I" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Theodosius_I",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-107",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde der Panamakanal eröffnet?", "en": "In which year was the Panama Canal opened?" },
+      "options": [
+        { "de": "1904", "en": "1904" },
+        { "de": "1910", "en": "1910" },
+        { "de": "1914", "en": "1914" },
+        { "de": "1920", "en": "1920" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Panama_Canal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-108",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Entdecker erreichte 1498 Indien auf dem Seeweg?", "en": "Which explorer reached India by sea in 1498?" },
+      "options": [
+        { "de": "Christoph Kolumbus", "en": "Christopher Columbus" },
+        { "de": "Vasco da Gama", "en": "Vasco da Gama" },
+        { "de": "Bartolomeu Dias", "en": "Bartolomeu Dias" },
+        { "de": "Marco Polo", "en": "Marco Polo" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vasco_da_Gama",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-109",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr fand der Wiener Kongress statt?", "en": "In which year did the Congress of Vienna take place?" },
+      "options": [
+        { "de": "1812", "en": "1812" },
+        { "de": "1814-1815", "en": "1814-1815" },
+        { "de": "1818", "en": "1818" },
+        { "de": "1821", "en": "1821" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Congress_of_Vienna",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-110",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welche Stadt war die Hauptstadt des Byzantinischen Reiches?", "en": "Which city was the capital of the Byzantine Empire?" },
+      "options": [
+        { "de": "Rom", "en": "Rome" },
+        { "de": "Athen", "en": "Athens" },
+        { "de": "Konstantinopel", "en": "Constantinople" },
+        { "de": "Antiochia", "en": "Antioch" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-111",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Pharao ist für den Bau der meisten Tempel in Ägypten bekannt?", "en": "Which pharaoh is known for building the most temples in Egypt?" },
+      "options": [
+        { "de": "Tutanchamun", "en": "Tutankhamun" },
+        { "de": "Cheops", "en": "Khufu" },
+        { "de": "Ramses II.", "en": "Ramesses II" },
+        { "de": "Echnaton", "en": "Akhenaten" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ramesses_II",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-112",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde die Weimarer Republik gegründet?", "en": "In which year was the Weimar Republic established?" },
+      "options": [
+        { "de": "1918", "en": "1918" },
+        { "de": "1919", "en": "1919" },
+        { "de": "1920", "en": "1920" },
+        { "de": "1921", "en": "1921" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Weimar_Republic",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-113",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Krieg wurde 1982 zwischen Großbritannien und Argentinien geführt?", "en": "Which war was fought between Great Britain and Argentina in 1982?" },
+      "options": [
+        { "de": "Golfkrieg", "en": "Gulf War" },
+        { "de": "Falklandkrieg", "en": "Falklands War" },
+        { "de": "Bürgerkrieg", "en": "Civil War" },
+        { "de": "Kalter Krieg", "en": "Cold War" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Falklands_War",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-114",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Wer war der erste Kaiser des vereinten Deutschen Reiches 1871?", "en": "Who was the first Emperor of the unified German Empire in 1871?" },
+      "options": [
+        { "de": "Friedrich III.", "en": "Frederick III" },
+        { "de": "Wilhelm I.", "en": "Wilhelm I" },
+        { "de": "Wilhelm II.", "en": "Wilhelm II" },
+        { "de": "Otto von Bismarck", "en": "Otto von Bismarck" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/William_I,_German_Emperor",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-115",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde die Emanzipationserklärung von Abraham Lincoln veröffentlicht?", "en": "In which year was the Emancipation Proclamation issued by Abraham Lincoln?" },
+      "options": [
+        { "de": "1861", "en": "1861" },
+        { "de": "1862", "en": "1862" },
+        { "de": "1863", "en": "1863" },
+        { "de": "1865", "en": "1865" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Emancipation_Proclamation",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-116",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welche Revolution fand 1848 in vielen europäischen Ländern statt?", "en": "Which revolution took place across many European countries in 1848?" },
+      "options": [
+        { "de": "Industrielle Revolution", "en": "Industrial Revolution" },
+        { "de": "Märzrevolution", "en": "Revolutions of 1848" },
+        { "de": "Französische Revolution", "en": "French Revolution" },
+        { "de": "Glorreiche Revolution", "en": "Glorious Revolution" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Revolutions_of_1848",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-117",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Wer war der Gründer des Osmanischen Reiches?", "en": "Who was the founder of the Ottoman Empire?" },
+      "options": [
+        { "de": "Suleiman der Prächtige", "en": "Suleiman the Magnificent" },
+        { "de": "Osman I.", "en": "Osman I" },
+        { "de": "Mehmed II.", "en": "Mehmed II" },
+        { "de": "Selim I.", "en": "Selim I" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Osman_I",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-118",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Um welches Jahr begann die Industrielle Revolution in England?", "en": "Around which year did the Industrial Revolution begin in England?" },
+      "options": [
+        { "de": "1720", "en": "1720" },
+        { "de": "1760", "en": "1760" },
+        { "de": "1800", "en": "1800" },
+        { "de": "1830", "en": "1830" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-119",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher römische Kaiser regierte während des großen Brandes von Rom 64 n. Chr.?", "en": "Which Roman emperor ruled during the Great Fire of Rome in 64 AD?" },
+      "options": [
+        { "de": "Caligula", "en": "Caligula" },
+        { "de": "Nero", "en": "Nero" },
+        { "de": "Tiberius", "en": "Tiberius" },
+        { "de": "Claudius", "en": "Claudius" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-120",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welches Land war das erste, das Frauen das allgemeine Wahlrecht gewährte?", "en": "Which country was the first to grant women universal suffrage?" },
+      "options": [
+        { "de": "Großbritannien", "en": "Great Britain" },
+        { "de": "USA", "en": "USA" },
+        { "de": "Neuseeland", "en": "New Zealand" },
+        { "de": "Finnland", "en": "Finland" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Women%27s_suffrage_in_New_Zealand",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-121",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde die Europäische Union durch den Vertrag von Maastricht gegründet?", "en": "In which year was the European Union founded by the Maastricht Treaty?" },
+      "options": [
+        { "de": "1989", "en": "1989" },
+        { "de": "1991", "en": "1991" },
+        { "de": "1992", "en": "1992" },
+        { "de": "1995", "en": "1995" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Maastricht_Treaty",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-122",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welches Volk gründete die Stadt Karthago?", "en": "Which people founded the city of Carthage?" },
+      "options": [
+        { "de": "Griechen", "en": "Greeks" },
+        { "de": "Römer", "en": "Romans" },
+        { "de": "Phönizier", "en": "Phoenicians" },
+        { "de": "Ägypter", "en": "Egyptians" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Carthage",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-123",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Wer war der erste Kaiser Roms?", "en": "Who was the first Emperor of Rome?" },
+      "options": [
+        { "de": "Julius Caesar", "en": "Julius Caesar" },
+        { "de": "Augustus", "en": "Augustus" },
+        { "de": "Tiberius", "en": "Tiberius" },
+        { "de": "Nero", "en": "Nero" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Augustus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-124",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher spanische Konquistador eroberte das Aztekenreich?", "en": "Which Spanish conquistador conquered the Aztec Empire?" },
+      "options": [
+        { "de": "Francisco Pizarro", "en": "Francisco Pizarro" },
+        { "de": "Hernan Cortes", "en": "Hernan Cortes" },
+        { "de": "Vasco Nunez de Balboa", "en": "Vasco Nunez de Balboa" },
+        { "de": "Juan Ponce de Leon", "en": "Juan Ponce de Leon" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-125",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde die Allgemeine Erklärung der Menschenrechte verabschiedet?", "en": "In which year was the Universal Declaration of Human Rights adopted?" },
+      "options": [
+        { "de": "1945", "en": "1945" },
+        { "de": "1948", "en": "1948" },
+        { "de": "1950", "en": "1950" },
+        { "de": "1952", "en": "1952" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-126",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Vertrag beendete den Amerikanischen Unabhängigkeitskrieg?", "en": "Which treaty ended the American Revolutionary War?" },
+      "options": [
+        { "de": "Vertrag von Gent", "en": "Treaty of Ghent" },
+        { "de": "Vertrag von Paris (1783)", "en": "Treaty of Paris (1783)" },
+        { "de": "Vertrag von Versailles", "en": "Treaty of Versailles" },
+        { "de": "Jay-Vertrag", "en": "Jay Treaty" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1783)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-127",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde das Deutsche Kaiserreich gegründet?", "en": "In which year was the German Empire founded?" },
+      "options": [
+        { "de": "1866", "en": "1866" },
+        { "de": "1870", "en": "1870" },
+        { "de": "1871", "en": "1871" },
+        { "de": "1875", "en": "1875" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/German_Empire",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-128",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Wikinger soll um das Jahr 1000 Nordamerika erreicht haben?", "en": "Which Viking is believed to have reached North America around the year 1000?" },
+      "options": [
+        { "de": "Erik der Rote", "en": "Erik the Red" },
+        { "de": "Leif Eriksson", "en": "Leif Erikson" },
+        { "de": "Harald Blauzahn", "en": "Harald Bluetooth" },
+        { "de": "Ragnar Lothbrok", "en": "Ragnar Lothbrok" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Leif_Erikson",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-129",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr fand das Massaker auf dem Platz des Himmlischen Friedens statt?", "en": "In which year did the Tiananmen Square massacre take place?" },
+      "options": [
+        { "de": "1987", "en": "1987" },
+        { "de": "1989", "en": "1989" },
+        { "de": "1991", "en": "1991" },
+        { "de": "1993", "en": "1993" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-130",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welche Zivilisation entwickelte die erste bekannte Schrift (Keilschrift)?", "en": "Which civilization developed the first known writing system (cuneiform)?" },
+      "options": [
+        { "de": "Ägypter", "en": "Egyptians" },
+        { "de": "Sumerer", "en": "Sumerians" },
+        { "de": "Phönizier", "en": "Phoenicians" },
+        { "de": "Chinesen", "en": "Chinese" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cuneiform",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-131",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde Abraham Lincoln ermordet?", "en": "In which year was Abraham Lincoln assassinated?" },
+      "options": [
+        { "de": "1863", "en": "1863" },
+        { "de": "1865", "en": "1865" },
+        { "de": "1867", "en": "1867" },
+        { "de": "1869", "en": "1869" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-132",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahrhundert fanden die Kreuzzüge hauptsächlich statt?", "en": "In which centuries did the Crusades mainly take place?" },
+      "options": [
+        { "de": "8.-10. Jahrhundert", "en": "8th-10th century" },
+        { "de": "11.-13. Jahrhundert", "en": "11th-13th century" },
+        { "de": "14.-16. Jahrhundert", "en": "14th-16th century" },
+        { "de": "15.-17. Jahrhundert", "en": "15th-17th century" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Crusades",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-133",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr endete der Iran-Irak-Krieg?", "en": "In which year did the Iran-Iraq War end?" },
+      "options": [
+        { "de": "1986", "en": "1986" },
+        { "de": "1988", "en": "1988" },
+        { "de": "1990", "en": "1990" },
+        { "de": "1991", "en": "1991" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-134",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welches Land wurde 1947 in Indien und Pakistan geteilt?", "en": "Which country was partitioned into India and Pakistan in 1947?" },
+      "options": [
+        { "de": "Britisch-Indien", "en": "British India" },
+        { "de": "Birma", "en": "Burma" },
+        { "de": "Ceylon", "en": "Ceylon" },
+        { "de": "Siam", "en": "Siam" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Partition_of_India",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-135",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher spanische Konquistador eroberte das Inkareich?", "en": "Which Spanish conquistador conquered the Inca Empire?" },
+      "options": [
+        { "de": "Hernan Cortes", "en": "Hernan Cortes" },
+        { "de": "Francisco Pizarro", "en": "Francisco Pizarro" },
+        { "de": "Vasco da Gama", "en": "Vasco da Gama" },
+        { "de": "Ferdinand Magellan", "en": "Ferdinand Magellan" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Francisco_Pizarro",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-136",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr fand die Schlacht bei Cannae statt, Hannibals größter Sieg?", "en": "In which year did the Battle of Cannae take place, Hannibal's greatest victory?" },
+      "options": [
+        { "de": "264 v. Chr.", "en": "264 BC" },
+        { "de": "241 v. Chr.", "en": "241 BC" },
+        { "de": "216 v. Chr.", "en": "216 BC" },
+        { "de": "202 v. Chr.", "en": "202 BC" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Cannae",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-137",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Vertrag beendete den Russisch-Japanischen Krieg 1905?", "en": "Which treaty ended the Russo-Japanese War in 1905?" },
+      "options": [
+        { "de": "Vertrag von Shimonoseki", "en": "Treaty of Shimonoseki" },
+        { "de": "Vertrag von Portsmouth", "en": "Treaty of Portsmouth" },
+        { "de": "Vertrag von Brest-Litowsk", "en": "Treaty of Brest-Litovsk" },
+        { "de": "Vertrag von San Francisco", "en": "Treaty of San Francisco" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Portsmouth",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-138",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde der Codex Justinianus veröffentlicht?", "en": "In which year was the Codex Justinianus published?" },
+      "options": [
+        { "de": "476", "en": "476" },
+        { "de": "529", "en": "529" },
+        { "de": "565", "en": "565" },
+        { "de": "610", "en": "610" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Code_of_Justinian",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-139",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Herrscher vereinigte Ober- und Unterägypten um 3100 v. Chr.?", "en": "Which ruler unified Upper and Lower Egypt around 3100 BC?" },
+      "options": [
+        { "de": "Ramses II.", "en": "Ramesses II" },
+        { "de": "Narmer (Menes)", "en": "Narmer (Menes)" },
+        { "de": "Tutanchamun", "en": "Tutankhamun" },
+        { "de": "Hatschepsut", "en": "Hatshepsut" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Narmer",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-140",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr fand die Schlacht bei Actium statt, die das Ende der Römischen Republik besiegelte?", "en": "In which year did the Battle of Actium take place, sealing the end of the Roman Republic?" },
+      "options": [
+        { "de": "44 v. Chr.", "en": "44 BC" },
+        { "de": "31 v. Chr.", "en": "31 BC" },
+        { "de": "27 v. Chr.", "en": "27 BC" },
+        { "de": "14 n. Chr.", "en": "14 AD" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Actium",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-141",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Vertrag beendete den Ersten Punischen Krieg?", "en": "Which treaty ended the First Punic War?" },
+      "options": [
+        { "de": "Vertrag von Zama", "en": "Treaty of Zama" },
+        { "de": "Vertrag von Lutatius", "en": "Treaty of Lutatius" },
+        { "de": "Vertrag von Karthago", "en": "Treaty of Carthage" },
+        { "de": "Vertrag von Sagunt", "en": "Treaty of Saguntum" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Lutatius",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-142",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde die Habeas-Corpus-Akte in England verabschiedet?", "en": "In which year was the Habeas Corpus Act passed in England?" },
+      "options": [
+        { "de": "1628", "en": "1628" },
+        { "de": "1649", "en": "1649" },
+        { "de": "1679", "en": "1679" },
+        { "de": "1689", "en": "1689" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Habeas_Corpus_Act_1679",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-143",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Mongolen-Khan eroberte 1258 Bagdad?", "en": "Which Mongol Khan conquered Baghdad in 1258?" },
+      "options": [
+        { "de": "Dschingis Khan", "en": "Genghis Khan" },
+        { "de": "Kublai Khan", "en": "Kublai Khan" },
+        { "de": "Hülagü", "en": "Hulagu" },
+        { "de": "Batu Khan", "en": "Batu Khan" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Siege_of_Baghdad_(1258)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-144",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde das Edikt von Nantes erlassen, das den Hugenotten Religionsfreiheit gewährte?", "en": "In which year was the Edict of Nantes issued, granting religious freedom to Huguenots?" },
+      "options": [
+        { "de": "1572", "en": "1572" },
+        { "de": "1589", "en": "1589" },
+        { "de": "1598", "en": "1598" },
+        { "de": "1610", "en": "1610" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Edict_of_Nantes",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-145",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welche Schlacht im Jahr 732 stoppte die muslimische Expansion nach Westeuropa?", "en": "Which battle in 732 stopped the Muslim expansion into Western Europe?" },
+      "options": [
+        { "de": "Schlacht bei Hastings", "en": "Battle of Hastings" },
+        { "de": "Schlacht von Tours und Poitiers", "en": "Battle of Tours" },
+        { "de": "Schlacht bei Adrianopel", "en": "Battle of Adrianople" },
+        { "de": "Schlacht am Yarmuk", "en": "Battle of Yarmouk" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Tours",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-146",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher englische König wurde 1649 während des Bürgerkriegs hingerichtet?", "en": "Which English king was executed during the Civil War in 1649?" },
+      "options": [
+        { "de": "Karl I.", "en": "Charles I" },
+        { "de": "Karl II.", "en": "Charles II" },
+        { "de": "Jakob I.", "en": "James I" },
+        { "de": "Heinrich VIII.", "en": "Henry VIII" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Execution_of_Charles_I",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-147",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr unterzeichnete Japan die bedingungslose Kapitulation auf der USS Missouri?", "en": "In which year did Japan sign the unconditional surrender on the USS Missouri?" },
+      "options": [
+        { "de": "1944", "en": "1944" },
+        { "de": "1945", "en": "1945" },
+        { "de": "1946", "en": "1946" },
+        { "de": "1947", "en": "1947" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Japanese_instrument_of_surrender",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-148",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welches Königreich besiegte das Songhai-Reich im Jahr 1591?", "en": "Which kingdom defeated the Songhai Empire in 1591?" },
+      "options": [
+        { "de": "Osmanisches Reich", "en": "Ottoman Empire" },
+        { "de": "Saadier-Dynastie von Marokko", "en": "Saadi dynasty of Morocco" },
+        { "de": "Königreich Benin", "en": "Kingdom of Benin" },
+        { "de": "Portugiesisches Reich", "en": "Portuguese Empire" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Tondibi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-149",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde der Vertrag von Brest-Litowsk unterzeichnet?", "en": "In which year was the Treaty of Brest-Litovsk signed?" },
+      "options": [
+        { "de": "1916", "en": "1916" },
+        { "de": "1917", "en": "1917" },
+        { "de": "1918", "en": "1918" },
+        { "de": "1919", "en": "1919" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Brest-Litovsk",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-150",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Herrscher gründete das Mogulreich in Indien?", "en": "Which ruler founded the Mughal Empire in India?" },
+      "options": [
+        { "de": "Akbar", "en": "Akbar" },
+        { "de": "Babur", "en": "Babur" },
+        { "de": "Shah Jahan", "en": "Shah Jahan" },
+        { "de": "Aurangzeb", "en": "Aurangzeb" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Babur",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-151",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde die Berliner Konferenz abgehalten, die Afrika unter europäische Mächte aufteilte?", "en": "In which year was the Berlin Conference held, partitioning Africa among European powers?" },
+      "options": [
+        { "de": "1878", "en": "1878" },
+        { "de": "1884-1885", "en": "1884-1885" },
+        { "de": "1890", "en": "1890" },
+        { "de": "1898", "en": "1898" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_Conference",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-152",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Vertrag beendete den Siebenjährigen Krieg im Jahr 1763?", "en": "Which treaty ended the Seven Years' War in 1763?" },
+      "options": [
+        { "de": "Vertrag von Wien", "en": "Treaty of Vienna" },
+        { "de": "Vertrag von Paris (1763)", "en": "Treaty of Paris (1763)" },
+        { "de": "Vertrag von Hubertusburg", "en": "Treaty of Hubertusburg" },
+        { "de": "Vertrag von Utrecht", "en": "Treaty of Utrecht" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1763)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-153",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welche Familie beherrschte Florenz während der Renaissance?", "en": "Which family ruled Florence during the Renaissance?" },
+      "options": [
+        { "de": "Borgia", "en": "Borgia" },
+        { "de": "Medici", "en": "Medici" },
+        { "de": "Sforza", "en": "Sforza" },
+        { "de": "Habsburg", "en": "Habsburg" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/House_of_Medici",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-154",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde die Spanische Armada von England besiegt?", "en": "In which year was the Spanish Armada defeated by England?" },
+      "options": [
+        { "de": "1580", "en": "1580" },
+        { "de": "1585", "en": "1585" },
+        { "de": "1588", "en": "1588" },
+        { "de": "1592", "en": "1592" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spanish_Armada",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-155",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher römische General überquerte 49 v. Chr. den Rubikon?", "en": "Which Roman general crossed the Rubicon in 49 BC?" },
+      "options": [
+        { "de": "Pompeius", "en": "Pompey" },
+        { "de": "Julius Caesar", "en": "Julius Caesar" },
+        { "de": "Marcus Antonius", "en": "Mark Antony" },
+        { "de": "Scipio Africanus", "en": "Scipio Africanus" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-156",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr begann der Spanische Bürgerkrieg?", "en": "In which year did the Spanish Civil War begin?" },
+      "options": [
+        { "de": "1934", "en": "1934" },
+        { "de": "1936", "en": "1936" },
+        { "de": "1938", "en": "1938" },
+        { "de": "1939", "en": "1939" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spanish_Civil_War",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-157",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Reformator gründete den Calvinismus?", "en": "Which reformer founded Calvinism?" },
+      "options": [
+        { "de": "Martin Luther", "en": "Martin Luther" },
+        { "de": "Huldrych Zwingli", "en": "Huldrych Zwingli" },
+        { "de": "Johannes Calvin", "en": "John Calvin" },
+        { "de": "John Knox", "en": "John Knox" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/John_Calvin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-158",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr fand die Bartholomäusnacht statt, ein Massaker an Hugenotten in Frankreich?", "en": "In which year did the St. Bartholomew's Day massacre of Huguenots occur in France?" },
+      "options": [
+        { "de": "1562", "en": "1562" },
+        { "de": "1572", "en": "1572" },
+        { "de": "1589", "en": "1589" },
+        { "de": "1598", "en": "1598" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/St._Bartholomew%27s_Day_massacre",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-159",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welches Reich wurde nach der Schlacht von Manzikert 1071 geschwächt?", "en": "Which empire was weakened after the Battle of Manzikert in 1071?" },
+      "options": [
+        { "de": "Arabisches Kalifat", "en": "Arab Caliphate" },
+        { "de": "Byzantinisches Reich", "en": "Byzantine Empire" },
+        { "de": "Persisches Reich", "en": "Persian Empire" },
+        { "de": "Heiliges Römisches Reich", "en": "Holy Roman Empire" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Manzikert",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-160",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde der Augsburger Religionsfriede geschlossen?", "en": "In which year was the Peace of Augsburg concluded?" },
+      "options": [
+        { "de": "1530", "en": "1530" },
+        { "de": "1545", "en": "1545" },
+        { "de": "1555", "en": "1555" },
+        { "de": "1563", "en": "1563" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Peace_of_Augsburg",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-161",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welche Seeschlacht 1571 stoppte die osmanische Expansion im Mittelmeer?", "en": "Which naval battle in 1571 stopped Ottoman expansion in the Mediterranean?" },
+      "options": [
+        { "de": "Schlacht von Trafalgar", "en": "Battle of Trafalgar" },
+        { "de": "Schlacht von Lepanto", "en": "Battle of Lepanto" },
+        { "de": "Schlacht von Salamis", "en": "Battle of Salamis" },
+        { "de": "Schlacht bei den Dardanellen", "en": "Battle of the Dardanelles" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Lepanto",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-162",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Land wurden die Olympischen Spiele der Neuzeit 1896 zum ersten Mal ausgetragen?", "en": "In which country were the first modern Olympic Games held in 1896?" },
+      "options": [
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Griechenland", "en": "Greece" },
+        { "de": "England", "en": "England" },
+        { "de": "USA", "en": "USA" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/1896_Summer_Olympics",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-163",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welcher US-Präsident ordnete den Abwurf der Atombomben auf Japan an?", "en": "Which US President ordered the atomic bombings of Japan?" },
+      "options": [
+        { "de": "Franklin D. Roosevelt", "en": "Franklin D. Roosevelt" },
+        { "de": "Harry S. Truman", "en": "Harry S. Truman" },
+        { "de": "Dwight D. Eisenhower", "en": "Dwight D. Eisenhower" },
+        { "de": "John F. Kennedy", "en": "John F. Kennedy" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-164",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Jahr wurde John F. Kennedy ermordet?", "en": "In which year was John F. Kennedy assassinated?" },
+      "options": [
+        { "de": "1961", "en": "1961" },
+        { "de": "1963", "en": "1963" },
+        { "de": "1965", "en": "1965" },
+        { "de": "1967", "en": "1967" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-165",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Fluss war die wichtigste Lebensader des alten Ägyptens?", "en": "Which river was the most important lifeline of ancient Egypt?" },
+      "options": [
+        { "de": "Euphrat", "en": "Euphrates" },
+        { "de": "Tigris", "en": "Tigris" },
+        { "de": "Nil", "en": "Nile" },
+        { "de": "Jordan", "en": "Jordan" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nile",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-166",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Vertrag begründete 1949 die NATO?", "en": "Which treaty established NATO in 1949?" },
+      "options": [
+        { "de": "Vertrag von Maastricht", "en": "Maastricht Treaty" },
+        { "de": "Nordatlantikvertrag", "en": "North Atlantic Treaty" },
+        { "de": "Vertrag von Rom", "en": "Treaty of Rome" },
+        { "de": "Warschauer Pakt", "en": "Warsaw Pact" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/North_Atlantic_Treaty",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-167",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr endete die Apartheid in Südafrika offiziell?", "en": "In which year did apartheid officially end in South Africa?" },
+      "options": [
+        { "de": "1990", "en": "1990" },
+        { "de": "1991", "en": "1991" },
+        { "de": "1993", "en": "1993" },
+        { "de": "1994", "en": "1994" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Apartheid",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-168",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher berühmte Seefahrer umrundete als erster das Kap der Guten Hoffnung?", "en": "Which famous navigator was the first to round the Cape of Good Hope?" },
+      "options": [
+        { "de": "Vasco da Gama", "en": "Vasco da Gama" },
+        { "de": "Bartolomeu Dias", "en": "Bartolomeu Dias" },
+        { "de": "Ferdinand Magellan", "en": "Ferdinand Magellan" },
+        { "de": "Christoph Kolumbus", "en": "Christopher Columbus" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bartolomeu_Dias",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-169",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde Mahatma Gandhi ermordet?", "en": "In which year was Mahatma Gandhi assassinated?" },
+      "options": [
+        { "de": "1945", "en": "1945" },
+        { "de": "1947", "en": "1947" },
+        { "de": "1948", "en": "1948" },
+        { "de": "1950", "en": "1950" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Assassination_of_Mahatma_Gandhi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-170",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welches war das größte zusammenhängende Landreich der Geschichte?", "en": "Which was the largest contiguous land empire in history?" },
+      "options": [
+        { "de": "Römisches Reich", "en": "Roman Empire" },
+        { "de": "Britisches Empire", "en": "British Empire" },
+        { "de": "Mongolisches Reich", "en": "Mongol Empire" },
+        { "de": "Osmanisches Reich", "en": "Ottoman Empire" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-171",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher US-Präsident leitete den Kauf von Louisiana 1803 ein?", "en": "Which US President oversaw the Louisiana Purchase in 1803?" },
+      "options": [
+        { "de": "George Washington", "en": "George Washington" },
+        { "de": "John Adams", "en": "John Adams" },
+        { "de": "Thomas Jefferson", "en": "Thomas Jefferson" },
+        { "de": "James Madison", "en": "James Madison" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Louisiana_Purchase",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-172",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde die Bill of Rights der US-Verfassung ratifiziert?", "en": "In which year was the US Bill of Rights ratified?" },
+      "options": [
+        { "de": "1787", "en": "1787" },
+        { "de": "1789", "en": "1789" },
+        { "de": "1791", "en": "1791" },
+        { "de": "1793", "en": "1793" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/United_States_Bill_of_Rights",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-173",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welches Land kolonisierte den größten Teil Südamerikas (ausser Brasilien)?", "en": "Which country colonized most of South America (except Brazil)?" },
+      "options": [
+        { "de": "Portugal", "en": "Portugal" },
+        { "de": "Spanien", "en": "Spain" },
+        { "de": "England", "en": "England" },
+        { "de": "Frankreich", "en": "France" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spanish_colonization_of_the_Americas",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-174",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr eroberte Saladin Jerusalem von den Kreuzfahrern zurück?", "en": "In which year did Saladin recapture Jerusalem from the Crusaders?" },
+      "options": [
+        { "de": "1171", "en": "1171" },
+        { "de": "1187", "en": "1187" },
+        { "de": "1192", "en": "1192" },
+        { "de": "1204", "en": "1204" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1187)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-175",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Aufstand wurde 73 n. Chr. in Masada niedergeschlagen?", "en": "Which revolt was crushed at Masada in 73 AD?" },
+      "options": [
+        { "de": "Spartacus-Aufstand", "en": "Spartacus revolt" },
+        { "de": "Jüdischer Aufstand", "en": "Jewish revolt" },
+        { "de": "Aufstand der Bataver", "en": "Batavian revolt" },
+        { "de": "Boudicca-Aufstand", "en": "Boudica revolt" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Siege_of_Masada",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-176",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde die Ostindische Kompanie der Niederlande (VOC) gegründet?", "en": "In which year was the Dutch East India Company (VOC) founded?" },
+      "options": [
+        { "de": "1588", "en": "1588" },
+        { "de": "1595", "en": "1595" },
+        { "de": "1602", "en": "1602" },
+        { "de": "1621", "en": "1621" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dutch_East_India_Company",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-177",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Aufklärungsphilosoph schrieb 'Der Gesellschaftsvertrag'?", "en": "Which Enlightenment philosopher wrote 'The Social Contract'?" },
+      "options": [
+        { "de": "Voltaire", "en": "Voltaire" },
+        { "de": "John Locke", "en": "John Locke" },
+        { "de": "Jean-Jacques Rousseau", "en": "Jean-Jacques Rousseau" },
+        { "de": "Montesquieu", "en": "Montesquieu" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Social_Contract",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-178",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde die Unabhängigkeit Haitis erklärt, der ersten schwarzen Republik?", "en": "In which year was Haitian independence declared, the first black republic?" },
+      "options": [
+        { "de": "1791", "en": "1791" },
+        { "de": "1798", "en": "1798" },
+        { "de": "1804", "en": "1804" },
+        { "de": "1810", "en": "1810" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Haitian_Revolution",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-179",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welche Schlacht 1805 gilt als Napoleons größter militärischer Sieg?", "en": "Which 1805 battle is considered Napoleon's greatest military victory?" },
+      "options": [
+        { "de": "Schlacht bei Jena", "en": "Battle of Jena" },
+        { "de": "Schlacht bei Austerlitz", "en": "Battle of Austerlitz" },
+        { "de": "Schlacht bei Wagram", "en": "Battle of Wagram" },
+        { "de": "Schlacht bei Borodino", "en": "Battle of Borodino" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Austerlitz",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-180",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welches alte Rechtssystem ist eines der ältesten geschriebenen Gesetzeswerke?", "en": "Which ancient legal code is one of the oldest written sets of laws?" },
+      "options": [
+        { "de": "Römisches Recht", "en": "Roman Law" },
+        { "de": "Codex Hammurabi", "en": "Code of Hammurabi" },
+        { "de": "Mosaisches Gesetz", "en": "Mosaic Law" },
+        { "de": "Edikt von Mailand", "en": "Edict of Milan" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-181",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Erdteil wurde als 'Neue Welt' bezeichnet?", "en": "Which landmass was called the 'New World'?" },
+      "options": [
+        { "de": "Asien", "en": "Asia" },
+        { "de": "Afrika", "en": "Africa" },
+        { "de": "Amerika", "en": "The Americas" },
+        { "de": "Australien", "en": "Australia" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/New_World",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-182",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Jahr endete der Amerikanische Bürgerkrieg?", "en": "In which year did the American Civil War end?" },
+      "options": [
+        { "de": "1863", "en": "1863" },
+        { "de": "1864", "en": "1864" },
+        { "de": "1865", "en": "1865" },
+        { "de": "1866", "en": "1866" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/American_Civil_War",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-183",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welches Land baute die Große Mauer zum Schutz vor Invasionen?", "en": "Which country built the Great Wall to protect against invasions?" },
+      "options": [
+        { "de": "Japan", "en": "Japan" },
+        { "de": "China", "en": "China" },
+        { "de": "Indien", "en": "India" },
+        { "de": "Korea", "en": "Korea" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-184",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Krieg wurde zwischen Nord- und Südvietnam geführt?", "en": "Which war was fought between North and South Vietnam?" },
+      "options": [
+        { "de": "Koreakrieg", "en": "Korean War" },
+        { "de": "Vietnamkrieg", "en": "Vietnam War" },
+        { "de": "Indochinakrieg", "en": "First Indochina War" },
+        { "de": "Kalter Krieg", "en": "Cold War" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vietnam_War",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-185",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Forscher leitete die Expedition, die als erste den Südpol erreichte?", "en": "Which explorer led the first expedition to reach the South Pole?" },
+      "options": [
+        { "de": "Robert Falcon Scott", "en": "Robert Falcon Scott" },
+        { "de": "Roald Amundsen", "en": "Roald Amundsen" },
+        { "de": "Ernest Shackleton", "en": "Ernest Shackleton" },
+        { "de": "Edmund Hillary", "en": "Edmund Hillary" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-186",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde der Warschauer Pakt gegründet?", "en": "In which year was the Warsaw Pact established?" },
+      "options": [
+        { "de": "1949", "en": "1949" },
+        { "de": "1953", "en": "1953" },
+        { "de": "1955", "en": "1955" },
+        { "de": "1961", "en": "1961" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Warsaw_Pact",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-187",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde die Kubakrise beigelegt?", "en": "In which year was the Cuban Missile Crisis resolved?" },
+      "options": [
+        { "de": "1960", "en": "1960" },
+        { "de": "1961", "en": "1961" },
+        { "de": "1962", "en": "1962" },
+        { "de": "1963", "en": "1963" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-188",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welche antike Stadt wurde 79 n. Chr. durch den Ausbruch des Vesuvs zerstört?", "en": "Which ancient city was destroyed by the eruption of Mount Vesuvius in 79 AD?" },
+      "options": [
+        { "de": "Athen", "en": "Athens" },
+        { "de": "Pompeji", "en": "Pompeii" },
+        { "de": "Karthago", "en": "Carthage" },
+        { "de": "Alexandria", "en": "Alexandria" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pompeii",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-189",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welches Dekret von 313 n. Chr. gewährte im Römischen Reich Religionsfreiheit?", "en": "Which decree of 313 AD granted religious freedom in the Roman Empire?" },
+      "options": [
+        { "de": "Edikt von Thessaloniki", "en": "Edict of Thessalonica" },
+        { "de": "Mailänder Vereinbarung", "en": "Edict of Milan" },
+        { "de": "Edikt von Nantes", "en": "Edict of Nantes" },
+        { "de": "Codex Theodosianus", "en": "Codex Theodosianus" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Edict_of_Milan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-190",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Zulu-König besiegte die Briten in der Schlacht von Isandlwana 1879?", "en": "Which Zulu king defeated the British at the Battle of Isandlwana in 1879?" },
+      "options": [
+        { "de": "Shaka", "en": "Shaka" },
+        { "de": "Dingane", "en": "Dingane" },
+        { "de": "Cetshwayo", "en": "Cetshwayo" },
+        { "de": "Mpande", "en": "Mpande" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Isandlwana",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-191",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde der Wiener Kongress beendet?", "en": "In which year did the Congress of Vienna conclude?" },
+      "options": [
+        { "de": "1813", "en": "1813" },
+        { "de": "1815", "en": "1815" },
+        { "de": "1818", "en": "1818" },
+        { "de": "1820", "en": "1820" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Congress_of_Vienna",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-192",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welche Schlacht 1757 war ein entscheidender Sieg Friedrichs des Großen im Siebenjährigen Krieg?", "en": "Which 1757 battle was a decisive victory of Frederick the Great in the Seven Years' War?" },
+      "options": [
+        { "de": "Schlacht bei Rossbach", "en": "Battle of Rossbach" },
+        { "de": "Schlacht bei Leuthen", "en": "Battle of Leuthen" },
+        { "de": "Schlacht bei Kunersdorf", "en": "Battle of Kunersdorf" },
+        { "de": "Schlacht bei Zorndorf", "en": "Battle of Zorndorf" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Leuthen",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-193",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Boxer-Aufstand fand in China im Jahr 1900 statt?", "en": "In which country did the Boxer Rebellion take place in 1900?" },
+      "options": [
+        { "de": "Japan", "en": "Japan" },
+        { "de": "China", "en": "China" },
+        { "de": "Korea", "en": "Korea" },
+        { "de": "Indien", "en": "India" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Boxer_Rebellion",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-194",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr begann der Burenkrieg zwischen Großbritannien und den Burenrepubliken?", "en": "In which year did the Boer War between Great Britain and the Boer republics begin?" },
+      "options": [
+        { "de": "1895", "en": "1895" },
+        { "de": "1899", "en": "1899" },
+        { "de": "1902", "en": "1902" },
+        { "de": "1905", "en": "1905" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Second_Boer_War",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-195",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welche japanische Stadt war Hauptstadt bevor Tokio es wurde?", "en": "Which Japanese city was the capital before Tokyo?" },
+      "options": [
+        { "de": "Osaka", "en": "Osaka" },
+        { "de": "Nara", "en": "Nara" },
+        { "de": "Kyoto", "en": "Kyoto" },
+        { "de": "Kamakura", "en": "Kamakura" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kyoto",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-196",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welches Land war die erste Demokratie der Welt?", "en": "Which country is considered the birthplace of democracy?" },
+      "options": [
+        { "de": "Rom", "en": "Rome" },
+        { "de": "Griechenland (Athen)", "en": "Greece (Athens)" },
+        { "de": "England", "en": "England" },
+        { "de": "Frankreich", "en": "France" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Athenian_democracy",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-197",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welcher berühmte Feldherr wurde auf die Insel Elba verbannt?", "en": "Which famous military leader was exiled to the island of Elba?" },
+      "options": [
+        { "de": "Julius Caesar", "en": "Julius Caesar" },
+        { "de": "Napoleon Bonaparte", "en": "Napoleon Bonaparte" },
+        { "de": "Alexander der Große", "en": "Alexander the Great" },
+        { "de": "Friedrich der Große", "en": "Frederick the Great" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Napoleon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-198",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welche Stadt war die Hauptstadt des Römischen Reiches?", "en": "Which city was the capital of the Roman Empire?" },
+      "options": [
+        { "de": "Athen", "en": "Athens" },
+        { "de": "Konstantinopel", "en": "Constantinople" },
+        { "de": "Rom", "en": "Rome" },
+        { "de": "Karthago", "en": "Carthage" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Roman_Empire",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-199",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Jahr begann der Kalte Krieg ungefähr?", "en": "In which year did the Cold War approximately begin?" },
+      "options": [
+        { "de": "1945", "en": "1945" },
+        { "de": "1947", "en": "1947" },
+        { "de": "1950", "en": "1950" },
+        { "de": "1955", "en": "1955" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-200",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welche berühmte Frau weigerte sich 1955, ihren Sitzplatz im Bus aufzugeben?", "en": "Which famous woman refused to give up her bus seat in 1955?" },
+      "options": [
+        { "de": "Harriet Tubman", "en": "Harriet Tubman" },
+        { "de": "Rosa Parks", "en": "Rosa Parks" },
+        { "de": "Sojourner Truth", "en": "Sojourner Truth" },
+        { "de": "Eleanor Roosevelt", "en": "Eleanor Roosevelt" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rosa_Parks",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-201",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welches Schriftsystem verwendeten die alten Römer?", "en": "Which writing system did the ancient Romans use?" },
+      "options": [
+        { "de": "Kyrillisch", "en": "Cyrillic" },
+        { "de": "Lateinisches Alphabet", "en": "Latin alphabet" },
+        { "de": "Griechisches Alphabet", "en": "Greek alphabet" },
+        { "de": "Keilschrift", "en": "Cuneiform" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Latin_alphabet",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-202",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde der Marshallplan zur Hilfe für Europa eingeführt?", "en": "In which year was the Marshall Plan introduced to aid Europe?" },
+      "options": [
+        { "de": "1945", "en": "1945" },
+        { "de": "1947", "en": "1947" },
+        { "de": "1949", "en": "1949" },
+        { "de": "1951", "en": "1951" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marshall_Plan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-203",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher englische König hatte sechs Ehefrauen?", "en": "Which English king had six wives?" },
+      "options": [
+        { "de": "Heinrich VII.", "en": "Henry VII" },
+        { "de": "Heinrich VIII.", "en": "Henry VIII" },
+        { "de": "Eduard VI.", "en": "Edward VI" },
+        { "de": "Richard III.", "en": "Richard III" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-204",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde der Suezkanal eröffnet?", "en": "In which year was the Suez Canal opened?" },
+      "options": [
+        { "de": "1859", "en": "1859" },
+        { "de": "1865", "en": "1865" },
+        { "de": "1869", "en": "1869" },
+        { "de": "1875", "en": "1875" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Suez_Canal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-205",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Führer vereinte die arabischen Stämme und gründete den Islam?", "en": "Which leader united the Arab tribes and founded Islam?" },
+      "options": [
+        { "de": "Abu Bakr", "en": "Abu Bakr" },
+        { "de": "Prophet Mohammed", "en": "Prophet Muhammad" },
+        { "de": "Ali ibn Abi Talib", "en": "Ali ibn Abi Talib" },
+        { "de": "Umar ibn al-Khattab", "en": "Umar ibn al-Khattab" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Muhammad",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-206",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde die Volksrepublik China Mitglied der Vereinten Nationen?", "en": "In which year did the People's Republic of China join the United Nations?" },
+      "options": [
+        { "de": "1949", "en": "1949" },
+        { "de": "1955", "en": "1955" },
+        { "de": "1971", "en": "1971" },
+        { "de": "1979", "en": "1979" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_2758",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-207",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welches Land führte im 19. Jahrhundert den Opiumkrieg gegen China?", "en": "Which country fought the Opium Wars against China in the 19th century?" },
+      "options": [
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Großbritannien", "en": "Great Britain" },
+        { "de": "USA", "en": "USA" },
+        { "de": "Japan", "en": "Japan" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Opium_Wars",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-208",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr übernahm Adolf Hitler die Macht in Deutschland?", "en": "In which year did Adolf Hitler come to power in Germany?" },
+      "options": [
+        { "de": "1930", "en": "1930" },
+        { "de": "1932", "en": "1932" },
+        { "de": "1933", "en": "1933" },
+        { "de": "1934", "en": "1934" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Adolf_Hitler%27s_rise_to_power",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-209",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welche Kultur baute die Pyramiden von Teotihuacan in Mexiko?", "en": "Which culture built the pyramids of Teotihuacan in Mexico?" },
+      "options": [
+        { "de": "Azteken", "en": "Aztecs" },
+        { "de": "Maya", "en": "Maya" },
+        { "de": "Teotihuacan-Zivilisation", "en": "Teotihuacan civilization" },
+        { "de": "Olmeken", "en": "Olmec" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Teotihuacan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-210",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Staat wurde 1922 als Nachfolger des Osmanischen Reiches gegründet?", "en": "Which state was founded in 1923 as successor to the Ottoman Empire?" },
+      "options": [
+        { "de": "Irak", "en": "Iraq" },
+        { "de": "Saudi-Arabien", "en": "Saudi Arabia" },
+        { "de": "Tuerkische Republik", "en": "Republic of Turkey" },
+        { "de": "Syrien", "en": "Syria" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Republic_of_Turkey",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-211",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr fand der Völkermord in Ruanda statt?", "en": "In which year did the Rwandan genocide take place?" },
+      "options": [
+        { "de": "1990", "en": "1990" },
+        { "de": "1992", "en": "1992" },
+        { "de": "1994", "en": "1994" },
+        { "de": "1996", "en": "1996" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rwandan_genocide",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-212",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher britische Naturforscher veröffentlichte 1859 'Die Entstehung der Arten'?", "en": "Which British naturalist published 'On the Origin of Species' in 1859?" },
+      "options": [
+        { "de": "Alfred Russel Wallace", "en": "Alfred Russel Wallace" },
+        { "de": "Charles Darwin", "en": "Charles Darwin" },
+        { "de": "Thomas Huxley", "en": "Thomas Huxley" },
+        { "de": "Jean-Baptiste Lamarck", "en": "Jean-Baptiste Lamarck" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-213",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde die Charta der Vereinten Nationen in San Francisco unterzeichnet?", "en": "In which year was the United Nations Charter signed in San Francisco?" },
+      "options": [
+        { "de": "1943", "en": "1943" },
+        { "de": "1944", "en": "1944" },
+        { "de": "1945", "en": "1945" },
+        { "de": "1946", "en": "1946" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/United_Nations_Charter",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-214",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welches Imperium beherrschte den größten Teil Südostasiens im 9.-15. Jahrhundert?", "en": "Which empire controlled much of Southeast Asia from the 9th to 15th century?" },
+      "options": [
+        { "de": "Srivijaya", "en": "Srivijaya" },
+        { "de": "Khmer-Reich", "en": "Khmer Empire" },
+        { "de": "Majapahit", "en": "Majapahit" },
+        { "de": "Pagan-Reich", "en": "Pagan Kingdom" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Khmer_Empire",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-215",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde der Rosetta-Stein entdeckt?", "en": "In which year was the Rosetta Stone discovered?" },
+      "options": [
+        { "de": "1789", "en": "1789" },
+        { "de": "1799", "en": "1799" },
+        { "de": "1809", "en": "1809" },
+        { "de": "1822", "en": "1822" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-216",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welches Konzil legte 325 n. Chr. die Grundlagen des christlichen Glaubensbekenntnisses fest?", "en": "Which council established the foundations of the Christian creed in 325 AD?" },
+      "options": [
+        { "de": "Konzil von Chalcedon", "en": "Council of Chalcedon" },
+        { "de": "Erstes Konzil von Nicäa", "en": "First Council of Nicaea" },
+        { "de": "Konzil von Konstantinopel", "en": "Council of Constantinople" },
+        { "de": "Konzil von Ephesus", "en": "Council of Ephesus" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-217",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher oesterreichische Staatsmann leitete den Wiener Kongress?", "en": "Which Austrian statesman presided over the Congress of Vienna?" },
+      "options": [
+        { "de": "Franz Joseph I.", "en": "Franz Joseph I" },
+        { "de": "Klemens von Metternich", "en": "Klemens von Metternich" },
+        { "de": "Karl von Schwarzenberg", "en": "Karl von Schwarzenberg" },
+        { "de": "Friedrich von Gentz", "en": "Friedrich von Gentz" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Klemens_von_Metternich",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-218",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde das Grab von Tutanchamun entdeckt?", "en": "In which year was the tomb of Tutankhamun discovered?" },
+      "options": [
+        { "de": "1912", "en": "1912" },
+        { "de": "1918", "en": "1918" },
+        { "de": "1922", "en": "1922" },
+        { "de": "1928", "en": "1928" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/KV62",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-219",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Aufstand fand 1857 gegen die britische Herrschaft in Indien statt?", "en": "Which uprising took place in 1857 against British rule in India?" },
+      "options": [
+        { "de": "Sepoy-Aufstand", "en": "Indian Rebellion of 1857" },
+        { "de": "Boxer-Aufstand", "en": "Boxer Rebellion" },
+        { "de": "Mau-Mau-Aufstand", "en": "Mau Mau Uprising" },
+        { "de": "Taiping-Aufstand", "en": "Taiping Rebellion" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-220",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde der Vertrag von Nanking unterzeichnet, der den Ersten Opiumkrieg beendete?", "en": "In which year was the Treaty of Nanking signed, ending the First Opium War?" },
+      "options": [
+        { "de": "1839", "en": "1839" },
+        { "de": "1842", "en": "1842" },
+        { "de": "1848", "en": "1848" },
+        { "de": "1856", "en": "1856" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Nanking",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-221",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welches Tier ist das Symbol des Römischen Reiches?", "en": "Which animal is the symbol of the Roman Empire?" },
+      "options": [
+        { "de": "Loewe", "en": "Lion" },
+        { "de": "Adler", "en": "Eagle" },
+        { "de": "Wolf", "en": "Wolf" },
+        { "de": "Stier", "en": "Bull" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aquila_(Roman)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-222",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Jahrzehnt fand der Goldrausch in Kalifornien statt?", "en": "In which decade did the California Gold Rush take place?" },
+      "options": [
+        { "de": "1830er", "en": "1830s" },
+        { "de": "1840er", "en": "1840s" },
+        { "de": "1850er", "en": "1850s" },
+        { "de": "1860er", "en": "1860s" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/California_Gold_Rush",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-223",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Ozean liegt zwischen Europa und Amerika?", "en": "Which ocean lies between Europe and the Americas?" },
+      "options": [
+        { "de": "Pazifischer Ozean", "en": "Pacific Ocean" },
+        { "de": "Indischer Ozean", "en": "Indian Ocean" },
+        { "de": "Atlantischer Ozean", "en": "Atlantic Ocean" },
+        { "de": "Arktischer Ozean", "en": "Arctic Ocean" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Atlantic_Ocean",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-224",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Vertrag von 1648 gilt als Grundlage des modernen Staatensystems?", "en": "Which 1648 treaty is considered the foundation of the modern state system?" },
+      "options": [
+        { "de": "Vertrag von Versailles", "en": "Treaty of Versailles" },
+        { "de": "Westfälischer Frieden", "en": "Peace of Westphalia" },
+        { "de": "Wiener Kongress", "en": "Congress of Vienna" },
+        { "de": "Vertrag von Utrecht", "en": "Treaty of Utrecht" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-225",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr fand die Kubakrise statt?", "en": "In which year did the Cuban Missile Crisis occur?" },
+      "options": [
+        { "de": "1960", "en": "1960" },
+        { "de": "1961", "en": "1961" },
+        { "de": "1962", "en": "1962" },
+        { "de": "1963", "en": "1963" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-226",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Staat wurde 1776 als erster unabhängig von einer europäischen Kolonialmacht?", "en": "Which state became the first independent from a European colonial power in 1776?" },
+      "options": [
+        { "de": "Kanada", "en": "Canada" },
+        { "de": "Vereinigte Staaten", "en": "United States" },
+        { "de": "Haiti", "en": "Haiti" },
+        { "de": "Brasilien", "en": "Brazil" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-227",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Wissenschaftler entwickelte die Relativitätstheorie?", "en": "Which scientist developed the theory of relativity?" },
+      "options": [
+        { "de": "Isaac Newton", "en": "Isaac Newton" },
+        { "de": "Albert Einstein", "en": "Albert Einstein" },
+        { "de": "Niels Bohr", "en": "Niels Bohr" },
+        { "de": "Max Planck", "en": "Max Planck" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-228",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welches Ereignis löste den Ersten Kreuzzug aus?", "en": "Which event triggered the First Crusade?" },
+      "options": [
+        { "de": "Fall von Jerusalem 70 n.Chr.", "en": "Fall of Jerusalem 70 AD" },
+        { "de": "Rede Papst Urbans II. in Clermont", "en": "Pope Urban II's speech at Clermont" },
+        { "de": "Fall von Konstantinopel", "en": "Fall of Constantinople" },
+        { "de": "Mongolische Invasion", "en": "Mongol invasion" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Council_of_Clermont",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-229",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde die Rassentrennung in den USA durch den Civil Rights Act verboten?", "en": "In which year was racial segregation banned in the USA by the Civil Rights Act?" },
+      "options": [
+        { "de": "1960", "en": "1960" },
+        { "de": "1962", "en": "1962" },
+        { "de": "1964", "en": "1964" },
+        { "de": "1968", "en": "1968" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-230",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welches Dekret von 1685 widerrief das Edikt von Nantes?", "en": "Which decree of 1685 revoked the Edict of Nantes?" },
+      "options": [
+        { "de": "Edikt von Fontainebleau", "en": "Edict of Fontainebleau" },
+        { "de": "Edikt von Versailles", "en": "Edict of Versailles" },
+        { "de": "Edikt von Paris", "en": "Edict of Paris" },
+        { "de": "Edikt von Saint-Germain", "en": "Edict of Saint-Germain" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Edict_of_Fontainebleau",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-231",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welches Reich kontrollierte im 14. Jahrhundert die größte Landfläche?", "en": "Which empire controlled the largest land area in the 14th century?" },
+      "options": [
+        { "de": "Osmanisches Reich", "en": "Ottoman Empire" },
+        { "de": "Mongolisches Reich", "en": "Mongol Empire" },
+        { "de": "Ming-Dynastie", "en": "Ming Dynasty" },
+        { "de": "Mali-Reich", "en": "Mali Empire" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-232",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde die Bank von England gegründet?", "en": "In which year was the Bank of England founded?" },
+      "options": [
+        { "de": "1668", "en": "1668" },
+        { "de": "1688", "en": "1688" },
+        { "de": "1694", "en": "1694" },
+        { "de": "1707", "en": "1707" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bank_of_England",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-233",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Herrscher errichtete das Perserreich der Achämeniden?", "en": "Which ruler established the Achaemenid Persian Empire?" },
+      "options": [
+        { "de": "Dareios I.", "en": "Darius I" },
+        { "de": "Kyros II. (der Große)", "en": "Cyrus the Great" },
+        { "de": "Xerxes I.", "en": "Xerxes I" },
+        { "de": "Kambyses II.", "en": "Cambyses II" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cyrus_the_Great",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-234",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr fand das Massaker von Wounded Knee statt?", "en": "In which year did the Wounded Knee Massacre take place?" },
+      "options": [
+        { "de": "1876", "en": "1876" },
+        { "de": "1885", "en": "1885" },
+        { "de": "1890", "en": "1890" },
+        { "de": "1898", "en": "1898" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wounded_Knee_Massacre",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-235",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Vertrag beendete den Krimkrieg 1856?", "en": "Which treaty ended the Crimean War in 1856?" },
+      "options": [
+        { "de": "Vertrag von Paris (1856)", "en": "Treaty of Paris (1856)" },
+        { "de": "Vertrag von Berlin", "en": "Treaty of Berlin" },
+        { "de": "Vertrag von San Stefano", "en": "Treaty of San Stefano" },
+        { "de": "Vertrag von Wien", "en": "Treaty of Vienna" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1856)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-236",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welches Grossreich ging aus der Teilung des Reiches Alexanders des Großen hervor und beherrschte Ägypten?", "en": "Which empire emerged from the partition of Alexander the Great's empire and ruled Egypt?" },
+      "options": [
+        { "de": "Seleukidenreich", "en": "Seleucid Empire" },
+        { "de": "Ptolemäerreich", "en": "Ptolemaic Kingdom" },
+        { "de": "Antigonidenreich", "en": "Antigonid dynasty" },
+        { "de": "Baktrisches Königreich", "en": "Greco-Bactrian Kingdom" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-237",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde die Unabhängigkeitserklärung der Niederlande von Spanien (Plakkaat van Verlatinghe) veröffentlicht?", "en": "In which year was the Dutch Act of Abjuration (declaration of independence from Spain) published?" },
+      "options": [
+        { "de": "1568", "en": "1568" },
+        { "de": "1579", "en": "1579" },
+        { "de": "1581", "en": "1581" },
+        { "de": "1609", "en": "1609" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Act_of_Abjuration",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-238",
+      "category": "history",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Jahr endete der Erste Weltkrieg mit dem Waffenstillstand?", "en": "In which year did World War I end with the armistice?" },
+      "options": [
+        { "de": "1916", "en": "1916" },
+        { "de": "1917", "en": "1917" },
+        { "de": "1918", "en": "1918" },
+        { "de": "1919", "en": "1919" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-239",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welche Stadt war die Hauptstadt des Inkareiches?", "en": "Which city was the capital of the Inca Empire?" },
+      "options": [
+        { "de": "Machu Picchu", "en": "Machu Picchu" },
+        { "de": "Cusco", "en": "Cusco" },
+        { "de": "Lima", "en": "Lima" },
+        { "de": "Quito", "en": "Quito" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cusco",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-240",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Wer gründete die erste dauerhafte englische Siedlung in Nordamerika (Jamestown)?", "en": "Who established the first permanent English settlement in North America (Jamestown)?" },
+      "options": [
+        { "de": "Pilgerväter", "en": "Pilgrims" },
+        { "de": "Virginia Company", "en": "Virginia Company" },
+        { "de": "John Smith", "en": "John Smith" },
+        { "de": "Francis Drake", "en": "Francis Drake" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jamestown,_Virginia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-241",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde der Völkerbund gegründet?", "en": "In which year was the League of Nations founded?" },
+      "options": [
+        { "de": "1918", "en": "1918" },
+        { "de": "1919", "en": "1919" },
+        { "de": "1920", "en": "1920" },
+        { "de": "1921", "en": "1921" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/League_of_Nations",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-242",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Pharao führte eine monotheistische Religion ein und verehrte den Sonnengott Aton?", "en": "Which pharaoh introduced a monotheistic religion worshipping the sun god Aten?" },
+      "options": [
+        { "de": "Ramses II.", "en": "Ramesses II" },
+        { "de": "Echnaton (Amenhotep IV.)", "en": "Akhenaten (Amenhotep IV)" },
+        { "de": "Tutanchamun", "en": "Tutankhamun" },
+        { "de": "Thutmosis III.", "en": "Thutmose III" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Akhenaten",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-243",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welche Schlacht 1709 war eine entscheidende Niederlage für Schweden im Großen Nordischen Krieg?", "en": "Which 1709 battle was a decisive defeat for Sweden in the Great Northern War?" },
+      "options": [
+        { "de": "Schlacht bei Narva", "en": "Battle of Narva" },
+        { "de": "Schlacht bei Poltawa", "en": "Battle of Poltava" },
+        { "de": "Schlacht bei Lützen", "en": "Battle of Lutzen" },
+        { "de": "Schlacht bei Breitenfeld", "en": "Battle of Breitenfeld" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Poltava",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-244",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde die Konfuzianische Lehre in China begründet?", "en": "Around which century BC was Confucianism founded in China?" },
+      "options": [
+        { "de": "8. Jh. v. Chr.", "en": "8th century BC" },
+        { "de": "6.-5. Jh. v. Chr.", "en": "6th-5th century BC" },
+        { "de": "3. Jh. v. Chr.", "en": "3rd century BC" },
+        { "de": "1. Jh. v. Chr.", "en": "1st century BC" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Confucius",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-245",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Friedensvertrag beendete den Dreißigjährigen Krieg und den Achtzigjährigen Krieg gleichzeitig?", "en": "Which peace treaty ended both the Thirty Years' War and the Eighty Years' War?" },
+      "options": [
+        { "de": "Augsburger Religionsfriede", "en": "Peace of Augsburg" },
+        { "de": "Westfälischer Frieden", "en": "Peace of Westphalia" },
+        { "de": "Frieden von Muenster", "en": "Peace of Munster" },
+        { "de": "Vertrag von Osnabrück", "en": "Treaty of Osnabruck" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-246",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher römische Kaiser teilte das Reich in eine oestliche und eine westliche Haelfte?", "en": "Which Roman emperor divided the empire into eastern and western halves?" },
+      "options": [
+        { "de": "Konstantin", "en": "Constantine" },
+        { "de": "Diokletian", "en": "Diocletian" },
+        { "de": "Theodosius", "en": "Theodosius" },
+        { "de": "Augustus", "en": "Augustus" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Diocletian",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-247",
+      "category": "history",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Kontinent wurde von James Cook 1770 für Großbritannien beansprucht?", "en": "Which continent was claimed for Great Britain by James Cook in 1770?" },
+      "options": [
+        { "de": "Afrika", "en": "Africa" },
+        { "de": "Südamerika", "en": "South America" },
+        { "de": "Australien", "en": "Australia" },
+        { "de": "Antarktis", "en": "Antarctica" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/James_Cook",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-248",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde die Haager Landkriegsordnung erstmals verabschiedet?", "en": "In which year was the Hague Convention on land warfare first adopted?" },
+      "options": [
+        { "de": "1889", "en": "1889" },
+        { "de": "1899", "en": "1899" },
+        { "de": "1907", "en": "1907" },
+        { "de": "1919", "en": "1919" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hague_Conventions_of_1899_and_1907",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-249",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "Welcher chinesische Admiral führte im 15. Jahrhundert große Expeditionen in den Indischen Ozean durch?", "en": "Which Chinese admiral led major expeditions into the Indian Ocean in the 15th century?" },
+      "options": [
+        { "de": "Kublai Khan", "en": "Kublai Khan" },
+        { "de": "Zheng He", "en": "Zheng He" },
+        { "de": "Sun Tzu", "en": "Sun Tzu" },
+        { "de": "Yongle", "en": "Yongle" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Zheng_He",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "his-250",
+      "category": "history",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Jahr wurde die erste englische Kolonie in Nordamerika (Roanoke) gegründet?", "en": "In which year was the first English colony in North America (Roanoke) established?" },
+      "options": [
+        { "de": "1580", "en": "1580" },
+        { "de": "1585", "en": "1585" },
+        { "de": "1590", "en": "1590" },
+        { "de": "1607", "en": "1607" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Roanoke_Colony",
+      "sourceLabel": "Wikipedia"
     }
   ],
   "timelineEvents": [

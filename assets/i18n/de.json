@@ -107,11 +107,16 @@
   "info": {
     "title": "App-Info",
     "version": "Version",
+    "questionCount": "Fragen in der App",
+    "questions": "Fragen",
+    "timelineCount": "Zeitstrahl-Ereignisse",
+    "events": "Ereignisse",
     "swStatus": "Service Worker",
     "swActive": "Aktiv",
     "swInactive": "Nicht verfügbar (Entwicklungsmodus)",
     "updateReady": "Neue Version verfügbar!",
     "actions": "Aktionen",
+    "browseQuestions": "Fragen durchsuchen",
     "checkUpdate": "Nach Updates suchen",
     "checking": "Suche...",
     "installUpdate": "Update installieren & neu laden",
@@ -122,5 +127,14 @@
     "checkFailed": "Update-Prüfung fehlgeschlagen.",
     "cacheCleared": "Cache wurde geleert. Seite wird neu geladen...",
     "about": "WissensApp - Teste dein Allgemeinwissen mit hunderten von Fragen und dem Zeitstrahl-Spiel. Funktioniert vollständig offline als PWA."
+  },
+  "browse": {
+    "title": "Fragen durchsuchen",
+    "questions": "Fragen",
+    "timeline": "Zeitstrahl",
+    "search": "Suchen...",
+    "results": "Ergebnisse",
+    "loadMore": "Mehr laden",
+    "remaining": "verbleibend"
   }
 }

@@ -1275,6 +1275,2481 @@
       "correctIndex": 1,
       "sourceUrl": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
       "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-086",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Polen?", "en": "What is the capital of Poland?" },
+      "options": [
+        { "de": "Krakau", "en": "Krakow" },
+        { "de": "Warschau", "en": "Warsaw" },
+        { "de": "Danzig", "en": "Gdansk" },
+        { "de": "Breslau", "en": "Wroclaw" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Warsaw",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-087",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Thailand?", "en": "What is the capital of Thailand?" },
+      "options": [
+        { "de": "Chiang Mai", "en": "Chiang Mai" },
+        { "de": "Phuket", "en": "Phuket" },
+        { "de": "Bangkok", "en": "Bangkok" },
+        { "de": "Pattaya", "en": "Pattaya" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bangkok",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-088",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Griechenland?", "en": "What is the capital of Greece?" },
+      "options": [
+        { "de": "Thessaloniki", "en": "Thessaloniki" },
+        { "de": "Athen", "en": "Athens" },
+        { "de": "Patras", "en": "Patras" },
+        { "de": "Heraklion", "en": "Heraklion" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Athens",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-089",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Südkorea?", "en": "What is the capital of South Korea?" },
+      "options": [
+        { "de": "Busan", "en": "Busan" },
+        { "de": "Incheon", "en": "Incheon" },
+        { "de": "Seoul", "en": "Seoul" },
+        { "de": "Daegu", "en": "Daegu" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Seoul",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-090",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt von Kolumbien?", "en": "What is the capital of Colombia?" },
+      "options": [
+        { "de": "Medellín", "en": "Medellin" },
+        { "de": "Bogotá", "en": "Bogota" },
+        { "de": "Cali", "en": "Cali" },
+        { "de": "Cartagena", "en": "Cartagena" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-091",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt der Philippinen?", "en": "What is the capital of the Philippines?" },
+      "options": [
+        { "de": "Cebu", "en": "Cebu" },
+        { "de": "Davao", "en": "Davao" },
+        { "de": "Manila", "en": "Manila" },
+        { "de": "Quezon City", "en": "Quezon City" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Manila",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-092",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt von Äthiopien?", "en": "What is the capital of Ethiopia?" },
+      "options": [
+        { "de": "Addis Abeba", "en": "Addis Ababa" },
+        { "de": "Dire Dawa", "en": "Dire Dawa" },
+        { "de": "Mek'ele", "en": "Mekelle" },
+        { "de": "Gondar", "en": "Gondar" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Addis_Ababa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-093",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt von Peru?", "en": "What is the capital of Peru?" },
+      "options": [
+        { "de": "Cusco", "en": "Cusco" },
+        { "de": "Arequipa", "en": "Arequipa" },
+        { "de": "Lima", "en": "Lima" },
+        { "de": "Trujillo", "en": "Trujillo" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lima",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-094",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die Hauptstadt von Madagaskar?", "en": "What is the capital of Madagascar?" },
+      "options": [
+        { "de": "Toamasina", "en": "Toamasina" },
+        { "de": "Antananarivo", "en": "Antananarivo" },
+        { "de": "Mahajanga", "en": "Mahajanga" },
+        { "de": "Fianarantsoa", "en": "Fianarantsoa" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antananarivo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-095",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die Hauptstadt der Mongolei?", "en": "What is the capital of Mongolia?" },
+      "options": [
+        { "de": "Erdenet", "en": "Erdenet" },
+        { "de": "Darkhan", "en": "Darkhan" },
+        { "de": "Ulaanbaatar", "en": "Ulaanbaatar" },
+        { "de": "Tschoibalsan", "en": "Choibalsan" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-096",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Mexiko?", "en": "What is the capital of Mexico?" },
+      "options": [
+        { "de": "Guadalajara", "en": "Guadalajara" },
+        { "de": "Monterrey", "en": "Monterrey" },
+        { "de": "Mexiko-Stadt", "en": "Mexico City" },
+        { "de": "Cancún", "en": "Cancun" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-097",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt von Indonesien?", "en": "What is the capital of Indonesia?" },
+      "options": [
+        { "de": "Surabaya", "en": "Surabaya" },
+        { "de": "Jakarta", "en": "Jakarta" },
+        { "de": "Bali", "en": "Bali" },
+        { "de": "Bandung", "en": "Bandung" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jakarta",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-098",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die Hauptstadt der Elfenbeinküste?", "en": "What is the capital of Ivory Coast?" },
+      "options": [
+        { "de": "Abidjan", "en": "Abidjan" },
+        { "de": "Bouaké", "en": "Bouake" },
+        { "de": "Yamoussoukro", "en": "Yamoussoukro" },
+        { "de": "San-Pédro", "en": "San-Pedro" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yamoussoukro",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-099",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die Hauptstadt von Malawi?", "en": "What is the capital of Malawi?" },
+      "options": [
+        { "de": "Blantyre", "en": "Blantyre" },
+        { "de": "Lilongwe", "en": "Lilongwe" },
+        { "de": "Mzuzu", "en": "Mzuzu" },
+        { "de": "Zomba", "en": "Zomba" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lilongwe",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-100",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt von Kuba?", "en": "What is the capital of Cuba?" },
+      "options": [
+        { "de": "Santiago de Cuba", "en": "Santiago de Cuba" },
+        { "de": "Havanna", "en": "Havana" },
+        { "de": "Trinidad", "en": "Trinidad" },
+        { "de": "Camagüey", "en": "Camaguey" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Havana",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-101",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die größte Heißwüste der Welt?", "en": "What is the largest hot desert in the world?" },
+      "options": [
+        { "de": "Sahara", "en": "Sahara" },
+        { "de": "Gobi", "en": "Gobi" },
+        { "de": "Arabische Wüste", "en": "Arabian Desert" },
+        { "de": "Kalahari", "en": "Kalahari" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sahara",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-102",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Auf welchem Kontinent liegt die Atacama-Wüste?", "en": "On which continent is the Atacama Desert?" },
+      "options": [
+        { "de": "Afrika", "en": "Africa" },
+        { "de": "Asien", "en": "Asia" },
+        { "de": "Südamerika", "en": "South America" },
+        { "de": "Australien", "en": "Australia" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Atacama_Desert",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-103",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In welchem US-Bundesstaat liegt das Death Valley?", "en": "In which US state is Death Valley located?" },
+      "options": [
+        { "de": "Nevada", "en": "Nevada" },
+        { "de": "Arizona", "en": "Arizona" },
+        { "de": "Kalifornien", "en": "California" },
+        { "de": "Utah", "en": "Utah" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Death_Valley",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-104",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches ist die größte Wüste der Welt nach Gesamtfläche?", "en": "What is the largest desert in the world by total area?" },
+      "options": [
+        { "de": "Sahara", "en": "Sahara" },
+        { "de": "Arktische Wüste", "en": "Arctic Desert" },
+        { "de": "Antarktische Wüste", "en": "Antarctic Desert" },
+        { "de": "Gobi", "en": "Gobi" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antarctica",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-105",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In welchen zwei Ländern liegt die Wüste Gobi?", "en": "In which two countries does the Gobi Desert lie?" },
+      "options": [
+        { "de": "Mongolei und China", "en": "Mongolia and China" },
+        { "de": "Indien und Pakistan", "en": "India and Pakistan" },
+        { "de": "Kasachstan und Usbekistan", "en": "Kazakhstan and Uzbekistan" },
+        { "de": "Iran und Afghanistan", "en": "Iran and Afghanistan" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gobi_Desert",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-106",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welche Wüste in Südamerika gilt als der trockenste nicht-polare Ort der Erde?", "en": "Which desert in South America is considered the driest non-polar place on Earth?" },
+      "options": [
+        { "de": "Patagonische Wüste", "en": "Patagonian Desert" },
+        { "de": "Sechura-Wüste", "en": "Sechura Desert" },
+        { "de": "Atacama-Wüste", "en": "Atacama Desert" },
+        { "de": "Monte-Wüste", "en": "Monte Desert" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Atacama_Desert",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-107",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Land liegt die Namib-Wüste?", "en": "In which country is the Namib Desert?" },
+      "options": [
+        { "de": "Namibia", "en": "Namibia" },
+        { "de": "Botswana", "en": "Botswana" },
+        { "de": "Südafrika", "en": "South Africa" },
+        { "de": "Angola", "en": "Angola" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Namib",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-108",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Auf welchem Kontinent liegt die Sahara?", "en": "On which continent is the Sahara Desert located?" },
+      "options": [
+        { "de": "Asien", "en": "Asia" },
+        { "de": "Afrika", "en": "Africa" },
+        { "de": "Südamerika", "en": "South America" },
+        { "de": "Australien", "en": "Australia" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sahara",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-109",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welche große Wüste bedeckt weite Teile Turkmenistans?", "en": "Which large desert covers much of Turkmenistan?" },
+      "options": [
+        { "de": "Gobi", "en": "Gobi" },
+        { "de": "Kysylkum", "en": "Kyzylkum" },
+        { "de": "Karakum", "en": "Karakum" },
+        { "de": "Taklamakan", "en": "Taklamakan" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Karakum_Desert",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-110",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Land liegt die Simpson-Wüste?", "en": "In which country is the Simpson Desert?" },
+      "options": [
+        { "de": "Australien", "en": "Australia" },
+        { "de": "Südafrika", "en": "South Africa" },
+        { "de": "Mongolei", "en": "Mongolia" },
+        { "de": "Saudi-Arabien", "en": "Saudi Arabia" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Simpson_Desert",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-111",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist der größte See Afrikas?", "en": "What is the largest lake in Africa?" },
+      "options": [
+        { "de": "Tanganjikasee", "en": "Lake Tanganyika" },
+        { "de": "Victoriasee", "en": "Lake Victoria" },
+        { "de": "Malawisee", "en": "Lake Malawi" },
+        { "de": "Tschadsee", "en": "Lake Chad" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Victoria",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-112",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist der tiefste See der Welt?", "en": "What is the deepest lake in the world?" },
+      "options": [
+        { "de": "Oberer See", "en": "Lake Superior" },
+        { "de": "Tanganjikasee", "en": "Lake Tanganyika" },
+        { "de": "Baikalsee", "en": "Lake Baikal" },
+        { "de": "Kaspisches Meer", "en": "Caspian Sea" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Baikal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-113",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist der größte See Nordamerikas nach Fläche?", "en": "What is the largest lake in North America by surface area?" },
+      "options": [
+        { "de": "Michigansee", "en": "Lake Michigan" },
+        { "de": "Huronsee", "en": "Lake Huron" },
+        { "de": "Oberer See", "en": "Lake Superior" },
+        { "de": "Eriesee", "en": "Lake Erie" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Superior",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-114",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "An der Grenze welcher zwei Länder liegt der Titicacasee?", "en": "On the border of which two countries is Lake Titicaca?" },
+      "options": [
+        { "de": "Peru und Bolivien", "en": "Peru and Bolivia" },
+        { "de": "Ecuador und Kolumbien", "en": "Ecuador and Colombia" },
+        { "de": "Chile und Argentinien", "en": "Chile and Argentina" },
+        { "de": "Brasilien und Paraguay", "en": "Brazil and Paraguay" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Titicaca",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-115",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist der größte See der Welt nach Fläche?", "en": "What is the largest lake in the world by surface area?" },
+      "options": [
+        { "de": "Oberer See", "en": "Lake Superior" },
+        { "de": "Victoriasee", "en": "Lake Victoria" },
+        { "de": "Baikalsee", "en": "Lake Baikal" },
+        { "de": "Kaspisches Meer", "en": "Caspian Sea" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Caspian_Sea",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-116",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist der größte Süßwassersee der Welt nach Volumen?", "en": "What is the largest freshwater lake in the world by volume?" },
+      "options": [
+        { "de": "Oberer See", "en": "Lake Superior" },
+        { "de": "Baikalsee", "en": "Lake Baikal" },
+        { "de": "Tanganjikasee", "en": "Lake Tanganyika" },
+        { "de": "Victoriasee", "en": "Lake Victoria" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Baikal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-117",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Land liegt der Baikalsee?", "en": "In which country is Lake Baikal located?" },
+      "options": [
+        { "de": "Russland", "en": "Russia" },
+        { "de": "Mongolei", "en": "Mongolia" },
+        { "de": "Kasachstan", "en": "Kazakhstan" },
+        { "de": "China", "en": "China" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Baikal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-118",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Wie viele Große Seen gibt es in Nordamerika?", "en": "How many Great Lakes are there in North America?" },
+      "options": [
+        { "de": "3", "en": "3" },
+        { "de": "4", "en": "4" },
+        { "de": "5", "en": "5" },
+        { "de": "6", "en": "6" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Lakes",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-119",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches Gewässer ist der tiefstgelegene Punkt auf der Erdoberfläche?", "en": "Which body of water is the lowest point on Earth's surface?" },
+      "options": [
+        { "de": "Totes Meer", "en": "Dead Sea" },
+        { "de": "Kaspisches Meer", "en": "Caspian Sea" },
+        { "de": "Assalsee", "en": "Lake Assal" },
+        { "de": "See Genezareth", "en": "Sea of Galilee" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dead_Sea",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-120",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "An der Grenze welcher zwei Länder liegt der Genfersee?", "en": "On the border of which two countries is Lake Geneva?" },
+      "options": [
+        { "de": "Frankreich und Schweiz", "en": "France and Switzerland" },
+        { "de": "Deutschland und Österreich", "en": "Germany and Austria" },
+        { "de": "Italien und Schweiz", "en": "Italy and Switzerland" },
+        { "de": "Frankreich und Italien", "en": "France and Italy" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Geneva",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-121",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die größte Insel im Mittelmeer?", "en": "What is the largest island in the Mediterranean Sea?" },
+      "options": [
+        { "de": "Sardinien", "en": "Sardinia" },
+        { "de": "Kreta", "en": "Crete" },
+        { "de": "Sizilien", "en": "Sicily" },
+        { "de": "Korsika", "en": "Corsica" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sicily",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-122",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches dieser Länder hat KEIN Territorium auf der Insel Borneo?", "en": "Which of these countries does NOT have territory on the island of Borneo?" },
+      "options": [
+        { "de": "Malaysia", "en": "Malaysia" },
+        { "de": "Indonesien", "en": "Indonesia" },
+        { "de": "Philippinen", "en": "Philippines" },
+        { "de": "Brunei", "en": "Brunei" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Borneo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-123",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Ozean liegt Madagaskar?", "en": "In which ocean is Madagascar located?" },
+      "options": [
+        { "de": "Atlantischer Ozean", "en": "Atlantic Ocean" },
+        { "de": "Pazifischer Ozean", "en": "Pacific Ocean" },
+        { "de": "Indischer Ozean", "en": "Indian Ocean" },
+        { "de": "Südlicher Ozean", "en": "Southern Ocean" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Madagascar",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-124",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die größte Insel Südostasiens?", "en": "What is the largest island in Southeast Asia?" },
+      "options": [
+        { "de": "Sumatra", "en": "Sumatra" },
+        { "de": "Java", "en": "Java" },
+        { "de": "Borneo", "en": "Borneo" },
+        { "de": "Luzon", "en": "Luzon" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Borneo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-125",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches Land ist der größte Inselstaat der Welt?", "en": "Which country is the world's largest archipelagic state?" },
+      "options": [
+        { "de": "Philippinen", "en": "Philippines" },
+        { "de": "Japan", "en": "Japan" },
+        { "de": "Indonesien", "en": "Indonesia" },
+        { "de": "Malaysia", "en": "Malaysia" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Indonesia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-126",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Ozean liegen die Malediven?", "en": "In which ocean are the Maldives located?" },
+      "options": [
+        { "de": "Pazifischer Ozean", "en": "Pacific Ocean" },
+        { "de": "Atlantischer Ozean", "en": "Atlantic Ocean" },
+        { "de": "Indischer Ozean", "en": "Indian Ocean" },
+        { "de": "Arktischer Ozean", "en": "Arctic Ocean" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Maldives",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-127",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die größte Insel der Karibik?", "en": "What is the largest island in the Caribbean?" },
+      "options": [
+        { "de": "Jamaika", "en": "Jamaica" },
+        { "de": "Hispaniola", "en": "Hispaniola" },
+        { "de": "Kuba", "en": "Cuba" },
+        { "de": "Puerto Rico", "en": "Puerto Rico" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cuba",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-128",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Inselstaat liegt südöstlich von Indien?", "en": "Which island nation is located southeast of India?" },
+      "options": [
+        { "de": "Malediven", "en": "Maldives" },
+        { "de": "Sri Lanka", "en": "Sri Lanka" },
+        { "de": "Indonesien", "en": "Indonesia" },
+        { "de": "Philippinen", "en": "Philippines" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sri_Lanka",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-129",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Ozean liegt Island?", "en": "In which ocean is Iceland located?" },
+      "options": [
+        { "de": "Arktischer Ozean", "en": "Arctic Ocean" },
+        { "de": "Atlantischer Ozean", "en": "Atlantic Ocean" },
+        { "de": "Pazifischer Ozean", "en": "Pacific Ocean" },
+        { "de": "Indischer Ozean", "en": "Indian Ocean" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Iceland",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-130",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die größte Insel Japans?", "en": "What is the largest island of Japan?" },
+      "options": [
+        { "de": "Hokkaido", "en": "Hokkaido" },
+        { "de": "Honshu", "en": "Honshu" },
+        { "de": "Kyushu", "en": "Kyushu" },
+        { "de": "Shikoku", "en": "Shikoku" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Honshu",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-131",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches Land teilt die längste internationale Grenze mit den Vereinigten Staaten?", "en": "Which country shares the longest international border with the United States?" },
+      "options": [
+        { "de": "Mexiko", "en": "Mexico" },
+        { "de": "Kanada", "en": "Canada" },
+        { "de": "Russland", "en": "Russia" },
+        { "de": "Kuba", "en": "Cuba" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Canada%E2%80%93United_States_border",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-132",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches vollständig in Europa liegende Land grenzt an die meisten anderen Länder?", "en": "Which country entirely within Europe borders the most other countries?" },
+      "options": [
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Deutschland", "en": "Germany" },
+        { "de": "Österreich", "en": "Austria" },
+        { "de": "Polen", "en": "Poland" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Geography_of_Germany",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-133",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welche zwei Kontinente trennt der Suezkanal?", "en": "Which two continents does the Suez Canal separate?" },
+      "options": [
+        { "de": "Europa und Asien", "en": "Europe and Asia" },
+        { "de": "Afrika und Asien", "en": "Africa and Asia" },
+        { "de": "Nord- und Südamerika", "en": "North and South America" },
+        { "de": "Europa und Afrika", "en": "Europe and Africa" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Suez_Canal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-134",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welche Meerenge trennt Europa von Afrika?", "en": "Which strait separates Europe from Africa?" },
+      "options": [
+        { "de": "Straße von Hormus", "en": "Strait of Hormuz" },
+        { "de": "Straße von Malakka", "en": "Strait of Malacca" },
+        { "de": "Straße von Gibraltar", "en": "Strait of Gibraltar" },
+        { "de": "Bosporus", "en": "Bosphorus" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Strait_of_Gibraltar",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-135",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Kanal verbindet den Atlantischen und den Pazifischen Ozean?", "en": "Which canal connects the Atlantic and Pacific Oceans?" },
+      "options": [
+        { "de": "Suezkanal", "en": "Suez Canal" },
+        { "de": "Panamakanal", "en": "Panama Canal" },
+        { "de": "Nord-Ostsee-Kanal", "en": "Kiel Canal" },
+        { "de": "Eriekanal", "en": "Erie Canal" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Panama_Canal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-136",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches schmale Gewässer trennt den asiatischen und den europäischen Teil der Türkei?", "en": "Which narrow body of water separates the Asian and European parts of Turkey?" },
+      "options": [
+        { "de": "Dardanellen", "en": "Dardanelles" },
+        { "de": "Bosporus", "en": "Bosphorus" },
+        { "de": "Straße von Gibraltar", "en": "Strait of Gibraltar" },
+        { "de": "Suezkanal", "en": "Suez Canal" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bosphorus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-137",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welche zwei Länder teilen die längste Landgrenze in Südamerika?", "en": "Which two countries share the longest land border in South America?" },
+      "options": [
+        { "de": "Brasilien und Argentinien", "en": "Brazil and Argentina" },
+        { "de": "Argentinien und Chile", "en": "Argentina and Chile" },
+        { "de": "Brasilien und Kolumbien", "en": "Brazil and Colombia" },
+        { "de": "Peru und Bolivien", "en": "Peru and Bolivia" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Argentina%E2%80%93Chile_border",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-138",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "An wie viele Länder grenzt Brasilien?", "en": "How many countries does Brazil share a border with?" },
+      "options": [
+        { "de": "7", "en": "7" },
+        { "de": "8", "en": "8" },
+        { "de": "10", "en": "10" },
+        { "de": "12", "en": "12" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Geography_of_Brazil",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-139",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches Gewässer trennt das Vereinigte Königreich von Frankreich?", "en": "Which body of water separates the United Kingdom from France?" },
+      "options": [
+        { "de": "Nordsee", "en": "North Sea" },
+        { "de": "Ärmelkanal", "en": "English Channel" },
+        { "de": "Irische See", "en": "Irish Sea" },
+        { "de": "Golf von Biskaya", "en": "Bay of Biscay" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/English_Channel",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-140",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welches Gebirge trennt Europa von Asien?", "en": "Which mountain range separates Europe from Asia?" },
+      "options": [
+        { "de": "Alpen", "en": "Alps" },
+        { "de": "Himalaya", "en": "Himalayas" },
+        { "de": "Uralgebirge", "en": "Ural Mountains" },
+        { "de": "Kaukasus", "en": "Caucasus" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ural_Mountains",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-141",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Währung von Japan?", "en": "What is the currency of Japan?" },
+      "options": [
+        { "de": "Won", "en": "Won" },
+        { "de": "Yen", "en": "Yen" },
+        { "de": "Yuan", "en": "Yuan" },
+        { "de": "Rupie", "en": "Rupee" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Japanese_yen",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-142",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Währung des Vereinigten Königreichs?", "en": "What is the currency of the United Kingdom?" },
+      "options": [
+        { "de": "Euro", "en": "Euro" },
+        { "de": "Dollar", "en": "Dollar" },
+        { "de": "Pfund Sterling", "en": "Pound Sterling" },
+        { "de": "Krone", "en": "Crown" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pound_sterling",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-143",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Währung von Polen?", "en": "What is the currency of Poland?" },
+      "options": [
+        { "de": "Euro", "en": "Euro" },
+        { "de": "Koruna", "en": "Koruna" },
+        { "de": "Zloty", "en": "Zloty" },
+        { "de": "Forint", "en": "Forint" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Polish_z%C5%82oty",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-144",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Währung von Indien?", "en": "What is the currency of India?" },
+      "options": [
+        { "de": "Rupiah", "en": "Rupiah" },
+        { "de": "Indische Rupie", "en": "Indian Rupee" },
+        { "de": "Taka", "en": "Taka" },
+        { "de": "Ringgit", "en": "Ringgit" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Indian_rupee",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-145",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die Währung von Thailand?", "en": "What is the currency of Thailand?" },
+      "options": [
+        { "de": "Dong", "en": "Dong" },
+        { "de": "Rupiah", "en": "Rupiah" },
+        { "de": "Baht", "en": "Baht" },
+        { "de": "Peso", "en": "Peso" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thai_baht",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-146",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Währung von Südkorea?", "en": "What is the currency of South Korea?" },
+      "options": [
+        { "de": "Yen", "en": "Yen" },
+        { "de": "Yuan", "en": "Yuan" },
+        { "de": "Won", "en": "Won" },
+        { "de": "Ringgit", "en": "Ringgit" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/South_Korean_won",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-147",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die Währung von Ungarn?", "en": "What is the currency of Hungary?" },
+      "options": [
+        { "de": "Koruna", "en": "Koruna" },
+        { "de": "Zloty", "en": "Zloty" },
+        { "de": "Leu", "en": "Leu" },
+        { "de": "Forint", "en": "Forint" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hungarian_forint",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-148",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Währung der Schweiz?", "en": "What is the currency of Switzerland?" },
+      "options": [
+        { "de": "Euro", "en": "Euro" },
+        { "de": "Schweizer Franken", "en": "Swiss Franc" },
+        { "de": "Krone", "en": "Crown" },
+        { "de": "Mark", "en": "Mark" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Swiss_franc",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-149",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die Währung von Vietnam?", "en": "What is the currency of Vietnam?" },
+      "options": [
+        { "de": "Baht", "en": "Baht" },
+        { "de": "Peso", "en": "Peso" },
+        { "de": "Dong", "en": "Dong" },
+        { "de": "Rupie", "en": "Rupee" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vietnamese_%C4%91%E1%BB%93ng",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-150",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Währung von Brasilien?", "en": "What is the currency of Brazil?" },
+      "options": [
+        { "de": "Peso", "en": "Peso" },
+        { "de": "Real", "en": "Real" },
+        { "de": "Sol", "en": "Sol" },
+        { "de": "Bolivar", "en": "Bolivar" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brazilian_real",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-151",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die meistgesprochene Muttersprache der Welt?", "en": "What is the most spoken native language in the world?" },
+      "options": [
+        { "de": "Englisch", "en": "English" },
+        { "de": "Spanisch", "en": "Spanish" },
+        { "de": "Mandarin-Chinesisch", "en": "Mandarin Chinese" },
+        { "de": "Hindi", "en": "Hindi" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mandarin_Chinese",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-152",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welche Sprache ist KEINE Amtssprache der Schweiz?", "en": "Which language is NOT an official language of Switzerland?" },
+      "options": [
+        { "de": "Französisch", "en": "French" },
+        { "de": "Italienisch", "en": "Italian" },
+        { "de": "Rätoromanisch", "en": "Romansh" },
+        { "de": "Englisch", "en": "English" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Languages_of_Switzerland",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-153",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Land ist Swahili eine Amtssprache?", "en": "In which country is Swahili an official language?" },
+      "options": [
+        { "de": "Nigeria", "en": "Nigeria" },
+        { "de": "Tansania", "en": "Tanzania" },
+        { "de": "Äthiopien", "en": "Ethiopia" },
+        { "de": "Südafrika", "en": "South Africa" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Swahili_language",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-154",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Amtssprache von Brasilien?", "en": "What is the official language of Brazil?" },
+      "options": [
+        { "de": "Spanisch", "en": "Spanish" },
+        { "de": "Portugiesisch", "en": "Portuguese" },
+        { "de": "Französisch", "en": "French" },
+        { "de": "Englisch", "en": "English" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brazilian_Portuguese",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-155",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Wie viele Amtssprachen hat Südafrika?", "en": "How many official languages does South Africa have?" },
+      "options": [
+        { "de": "4", "en": "4" },
+        { "de": "7", "en": "7" },
+        { "de": "11", "en": "11" },
+        { "de": "15", "en": "15" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Languages_of_South_Africa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-156",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In ungefähr wie vielen Ländern ist Spanisch eine Amtssprache?", "en": "In approximately how many countries is Spanish an official language?" },
+      "options": [
+        { "de": "10", "en": "10" },
+        { "de": "15", "en": "15" },
+        { "de": "20", "en": "20" },
+        { "de": "25", "en": "25" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spanish_language",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-157",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches ist das einzige Land in Mittelamerika mit Englisch als Amtssprache?", "en": "What is the only country in Central America where English is the official language?" },
+      "options": [
+        { "de": "Costa Rica", "en": "Costa Rica" },
+        { "de": "Belize", "en": "Belize" },
+        { "de": "Panama", "en": "Panama" },
+        { "de": "Guatemala", "en": "Guatemala" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Belize",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-158",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Amtssprache von Ägypten?", "en": "What is the official language of Egypt?" },
+      "options": [
+        { "de": "Englisch", "en": "English" },
+        { "de": "Arabisch", "en": "Arabic" },
+        { "de": "Französisch", "en": "French" },
+        { "de": "Türkisch", "en": "Turkish" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Languages_of_Egypt",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-159",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches europäische Land hat drei Amtssprachen: Niederländisch, Französisch und Deutsch?", "en": "Which European country has three official languages: Dutch, French, and German?" },
+      "options": [
+        { "de": "Luxemburg", "en": "Luxembourg" },
+        { "de": "Belgien", "en": "Belgium" },
+        { "de": "Schweiz", "en": "Switzerland" },
+        { "de": "Niederlande", "en": "Netherlands" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Languages_of_Belgium",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-160",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Zu welcher Sprachfamilie gehört Finnisch?", "en": "What language family does Finnish belong to?" },
+      "options": [
+        { "de": "Indogermanisch", "en": "Indo-European" },
+        { "de": "Uralisch", "en": "Uralic" },
+        { "de": "Turksprachen", "en": "Turkic" },
+        { "de": "Slawisch", "en": "Slavic" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Finnish_language",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-161",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist das bevölkerungsreichste Land der Welt?", "en": "What is the most populous country in the world?" },
+      "options": [
+        { "de": "China", "en": "China" },
+        { "de": "Indien", "en": "India" },
+        { "de": "Vereinigte Staaten", "en": "United States" },
+        { "de": "Indonesien", "en": "Indonesia" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/India",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-162",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches ist das bevölkerungsreichste Land Afrikas?", "en": "Which is the most populous country in Africa?" },
+      "options": [
+        { "de": "Ägypten", "en": "Egypt" },
+        { "de": "Nigeria", "en": "Nigeria" },
+        { "de": "Äthiopien", "en": "Ethiopia" },
+        { "de": "Südafrika", "en": "South Africa" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nigeria",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-163",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die bevölkerungsreichste Stadt der Vereinigten Staaten?", "en": "What is the most populous city in the United States?" },
+      "options": [
+        { "de": "Los Angeles", "en": "Los Angeles" },
+        { "de": "Chicago", "en": "Chicago" },
+        { "de": "New York City", "en": "New York City" },
+        { "de": "Houston", "en": "Houston" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/New_York_City",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-164",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches ist das am dichtesten besiedelte Land der Welt?", "en": "Which is the most densely populated country in the world?" },
+      "options": [
+        { "de": "Singapur", "en": "Singapore" },
+        { "de": "Monaco", "en": "Monaco" },
+        { "de": "Vatikanstadt", "en": "Vatican City" },
+        { "de": "Malta", "en": "Malta" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Monaco",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-165",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist das bevölkerungsreichste Land Südamerikas?", "en": "What is the most populous country in South America?" },
+      "options": [
+        { "de": "Argentinien", "en": "Argentina" },
+        { "de": "Kolumbien", "en": "Colombia" },
+        { "de": "Brasilien", "en": "Brazil" },
+        { "de": "Peru", "en": "Peru" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brazil",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-166",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches asiatische Land hat die viertgrößte Bevölkerung der Welt?", "en": "Which Asian country has the fourth largest population in the world?" },
+      "options": [
+        { "de": "Japan", "en": "Japan" },
+        { "de": "Indonesien", "en": "Indonesia" },
+        { "de": "Pakistan", "en": "Pakistan" },
+        { "de": "Bangladesch", "en": "Bangladesh" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Indonesia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-167",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die bevölkerungsreichste Insel der Welt?", "en": "What is the most populous island in the world?" },
+      "options": [
+        { "de": "Honshu", "en": "Honshu" },
+        { "de": "Java", "en": "Java" },
+        { "de": "Großbritannien", "en": "Great Britain" },
+        { "de": "Luzon", "en": "Luzon" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Java",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-168",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Kontinent hat die größte Bevölkerung?", "en": "Which continent has the largest population?" },
+      "options": [
+        { "de": "Afrika", "en": "Africa" },
+        { "de": "Europa", "en": "Europe" },
+        { "de": "Asien", "en": "Asia" },
+        { "de": "Nordamerika", "en": "North America" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Asia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-169",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches vollständig in Europa liegende Land hat die größte Bevölkerung?", "en": "Which country entirely within Europe has the largest population?" },
+      "options": [
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Deutschland", "en": "Germany" },
+        { "de": "Vereinigtes Königreich", "en": "United Kingdom" },
+        { "de": "Italien", "en": "Italy" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Germany",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-170",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist das bevölkerungsreichste spanischsprachige Land?", "en": "What is the most populous Spanish-speaking country?" },
+      "options": [
+        { "de": "Spanien", "en": "Spain" },
+        { "de": "Kolumbien", "en": "Colombia" },
+        { "de": "Mexiko", "en": "Mexico" },
+        { "de": "Argentinien", "en": "Argentina" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mexico",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-171",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Wie heißt die imaginäre Linie, die die Erde in Nord- und Südhalbkugel teilt?", "en": "What is the name of the imaginary line that divides the Earth into Northern and Southern Hemispheres?" },
+      "options": [
+        { "de": "Wendekreis des Krebses", "en": "Tropic of Cancer" },
+        { "de": "Äquator", "en": "Equator" },
+        { "de": "Nullmeridian", "en": "Prime Meridian" },
+        { "de": "Wendekreis des Steinbocks", "en": "Tropic of Capricorn" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Equator",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-172",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welche Klimazone liegt zwischen dem Wendekreis des Krebses und dem Wendekreis des Steinbocks?", "en": "Which climate zone lies between the Tropic of Cancer and the Tropic of Capricorn?" },
+      "options": [
+        { "de": "Gemäßigte Zone", "en": "Temperate zone" },
+        { "de": "Arktische Zone", "en": "Arctic zone" },
+        { "de": "Tropen", "en": "Tropics" },
+        { "de": "Subtropen", "en": "Subtropics" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tropics",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-173",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Wie heißt die warme Meeresströmung, die das Klima Europas beeinflusst?", "en": "What is the name of the warm ocean current that affects Europe's climate?" },
+      "options": [
+        { "de": "Kuroshio", "en": "Kuroshio" },
+        { "de": "Humboldtstrom", "en": "Humboldt Current" },
+        { "de": "Golfstrom", "en": "Gulf Stream" },
+        { "de": "Benguelastrom", "en": "Benguela Current" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gulf_Stream",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-174",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welches Naturphänomen wird auf der Richterskala gemessen?", "en": "What natural phenomenon is measured on the Richter scale?" },
+      "options": [
+        { "de": "Hurrikane", "en": "Hurricanes" },
+        { "de": "Tornados", "en": "Tornadoes" },
+        { "de": "Erdbeben", "en": "Earthquakes" },
+        { "de": "Tsunamis", "en": "Tsunamis" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Richter_magnitude_scale",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-175",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Land gibt es die meisten aktiven Vulkane?", "en": "In which country would you find the most active volcanoes?" },
+      "options": [
+        { "de": "Japan", "en": "Japan" },
+        { "de": "Indonesien", "en": "Indonesia" },
+        { "de": "Vereinigte Staaten", "en": "United States" },
+        { "de": "Island", "en": "Iceland" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Volcanology_of_Indonesia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-176",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Um welchen Ozean herum liegt der Pazifische Feuerring?", "en": "Around which ocean is the Ring of Fire located?" },
+      "options": [
+        { "de": "Atlantischer Ozean", "en": "Atlantic Ocean" },
+        { "de": "Indischer Ozean", "en": "Indian Ocean" },
+        { "de": "Pazifischer Ozean", "en": "Pacific Ocean" },
+        { "de": "Arktischer Ozean", "en": "Arctic Ocean" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-177",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist der trockenste bewohnte Kontinent?", "en": "What is the driest inhabited continent?" },
+      "options": [
+        { "de": "Afrika", "en": "Africa" },
+        { "de": "Europa", "en": "Europe" },
+        { "de": "Australien", "en": "Australia" },
+        { "de": "Südamerika", "en": "South America" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Australia_(continent)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-178",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Durch wie viele Kontinente verläuft der Äquator?", "en": "Through how many continents does the Equator pass?" },
+      "options": [
+        { "de": "2", "en": "2" },
+        { "de": "3", "en": "3" },
+        { "de": "4", "en": "4" },
+        { "de": "5", "en": "5" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Equator",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-179",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Wie heißt der Breitenkreis bei ungefähr 66,5 Grad Nord?", "en": "What is the name of the line of latitude at approximately 66.5 degrees north?" },
+      "options": [
+        { "de": "Wendekreis des Krebses", "en": "Tropic of Cancer" },
+        { "de": "Nördlicher Polarkreis", "en": "Arctic Circle" },
+        { "de": "Südlicher Polarkreis", "en": "Antarctic Circle" },
+        { "de": "Äquator", "en": "Equator" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Arctic_Circle",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-180",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Ort wird oft als der feuchteste bewohnte Ort der Erde bezeichnet?", "en": "Which place is often cited as the wettest inhabited place on Earth?" },
+      "options": [
+        { "de": "Amazonas-Regenwald, Brasilien", "en": "Amazon Rainforest, Brazil" },
+        { "de": "Mawsynram, Indien", "en": "Mawsynram, India" },
+        { "de": "Mount Waialeale, Hawaii", "en": "Mount Waialeale, Hawaii" },
+        { "de": "Tutunendo, Kolumbien", "en": "Tutunendo, Colombia" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mawsynram",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-181",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "In welcher Stadt steht der Eiffelturm?", "en": "In which city is the Eiffel Tower?" },
+      "options": [
+        { "de": "London", "en": "London" },
+        { "de": "Paris", "en": "Paris" },
+        { "de": "Rom", "en": "Rome" },
+        { "de": "Berlin", "en": "Berlin" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-182",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Land liegt das Great Barrier Reef?", "en": "In which country is the Great Barrier Reef?" },
+      "options": [
+        { "de": "Indonesien", "en": "Indonesia" },
+        { "de": "Philippinen", "en": "Philippines" },
+        { "de": "Australien", "en": "Australia" },
+        { "de": "Fidschi", "en": "Fiji" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-183",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "An der Grenze welcher zwei Länder liegen die Niagarafälle?", "en": "On the border of which two countries are the Niagara Falls?" },
+      "options": [
+        { "de": "USA und Kanada", "en": "USA and Canada" },
+        { "de": "USA und Mexiko", "en": "USA and Mexico" },
+        { "de": "Sambia und Simbabwe", "en": "Zambia and Zimbabwe" },
+        { "de": "Kanada und Mexiko", "en": "Canada and Mexico" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Niagara_Falls",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-184",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Land liegt die antike Stadt Timbuktu?", "en": "In which country is the ancient city of Timbuktu?" },
+      "options": [
+        { "de": "Niger", "en": "Niger" },
+        { "de": "Mali", "en": "Mali" },
+        { "de": "Burkina Faso", "en": "Burkina Faso" },
+        { "de": "Senegal", "en": "Senegal" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Timbuktu",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-185",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In welcher Stadt befindet sich der Parthenon?", "en": "In which city is the Parthenon located?" },
+      "options": [
+        { "de": "Rom", "en": "Rome" },
+        { "de": "Athen", "en": "Athens" },
+        { "de": "Istanbul", "en": "Istanbul" },
+        { "de": "Kairo", "en": "Cairo" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Parthenon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-186",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Land befindet sich Stonehenge?", "en": "In which country is Stonehenge located?" },
+      "options": [
+        { "de": "Irland", "en": "Ireland" },
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Vereinigtes Königreich", "en": "United Kingdom" },
+        { "de": "Deutschland", "en": "Germany" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Stonehenge",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-187",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Land befinden sich die Moai-Statuen?", "en": "In which country are the Moai statues found?" },
+      "options": [
+        { "de": "Peru", "en": "Peru" },
+        { "de": "Chile", "en": "Chile" },
+        { "de": "Indonesien", "en": "Indonesia" },
+        { "de": "Neuseeland", "en": "New Zealand" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moai",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-188",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "In welcher Stadt befindet sich der Uhrenturm Big Ben?", "en": "In which city is the Big Ben clock tower?" },
+      "options": [
+        { "de": "London", "en": "London" },
+        { "de": "Edinburgh", "en": "Edinburgh" },
+        { "de": "Dublin", "en": "Dublin" },
+        { "de": "Manchester", "en": "Manchester" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Big_Ben",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-189",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Land liegt die antike Stadt Persepolis?", "en": "In which country is the ancient city of Persepolis?" },
+      "options": [
+        { "de": "Irak", "en": "Iraq" },
+        { "de": "Iran", "en": "Iran" },
+        { "de": "Türkei", "en": "Turkey" },
+        { "de": "Afghanistan", "en": "Afghanistan" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Persepolis",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-190",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In welcher Stadt befindet sich der Kreml?", "en": "In which city is the Kremlin located?" },
+      "options": [
+        { "de": "Sankt Petersburg", "en": "Saint Petersburg" },
+        { "de": "Moskau", "en": "Moscow" },
+        { "de": "Kiew", "en": "Kyiv" },
+        { "de": "Minsk", "en": "Minsk" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moscow_Kremlin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-191",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welches Meer liegt zwischen Europa und Afrika?", "en": "Which sea lies between Europe and Africa?" },
+      "options": [
+        { "de": "Schwarzes Meer", "en": "Black Sea" },
+        { "de": "Rotes Meer", "en": "Red Sea" },
+        { "de": "Mittelmeer", "en": "Mediterranean Sea" },
+        { "de": "Kaspisches Meer", "en": "Caspian Sea" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-192",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches Gewässer ist trotz seines Namens ein Salzsee und eines der salzhaltigsten der Erde?", "en": "Which body of water, despite its name, is actually a salt lake and one of the saltiest on Earth?" },
+      "options": [
+        { "de": "Rotes Meer", "en": "Red Sea" },
+        { "de": "Totes Meer", "en": "Dead Sea" },
+        { "de": "Kaspisches Meer", "en": "Caspian Sea" },
+        { "de": "Aralsee", "en": "Aral Sea" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dead_Sea",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-193",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welche Meerenge trennt die Inseln Sumatra und Java?", "en": "Which strait separates the islands of Sumatra and Java?" },
+      "options": [
+        { "de": "Straße von Malakka", "en": "Strait of Malacca" },
+        { "de": "Sundastraße", "en": "Sunda Strait" },
+        { "de": "Lombokstraße", "en": "Lombok Strait" },
+        { "de": "Makassarstraße", "en": "Makassar Strait" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sunda_Strait",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-194",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist das größte abgeschlossene Gewässer der Welt?", "en": "What is the largest enclosed body of water in the world?" },
+      "options": [
+        { "de": "Oberer See", "en": "Lake Superior" },
+        { "de": "Victoriasee", "en": "Lake Victoria" },
+        { "de": "Kaspisches Meer", "en": "Caspian Sea" },
+        { "de": "Aralsee", "en": "Aral Sea" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Caspian_Sea",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-195",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Ozean ist der kleinste?", "en": "Which ocean is the smallest?" },
+      "options": [
+        { "de": "Atlantischer Ozean", "en": "Atlantic Ocean" },
+        { "de": "Indischer Ozean", "en": "Indian Ocean" },
+        { "de": "Arktischer Ozean", "en": "Arctic Ocean" },
+        { "de": "Südlicher Ozean", "en": "Southern Ocean" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Arctic_Ocean",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-196",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches Meer liegt zwischen Saudi-Arabien und Afrika?", "en": "Which sea is located between Saudi Arabia and Africa?" },
+      "options": [
+        { "de": "Arabisches Meer", "en": "Arabian Sea" },
+        { "de": "Rotes Meer", "en": "Red Sea" },
+        { "de": "Persischer Golf", "en": "Persian Gulf" },
+        { "de": "Golf von Aden", "en": "Gulf of Aden" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Red_Sea",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-197",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches Gewässer liegt zwischen Italien und der Balkanhalbinsel?", "en": "What body of water lies between Italy and the Balkan Peninsula?" },
+      "options": [
+        { "de": "Tyrrhenisches Meer", "en": "Tyrrhenian Sea" },
+        { "de": "Adriatisches Meer", "en": "Adriatic Sea" },
+        { "de": "Ionisches Meer", "en": "Ionian Sea" },
+        { "de": "Ligurisches Meer", "en": "Ligurian Sea" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Adriatic_Sea",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-198",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "In welches Gewässer mündet der Amazonas?", "en": "Into which body of water does the Amazon River flow?" },
+      "options": [
+        { "de": "Pazifischer Ozean", "en": "Pacific Ocean" },
+        { "de": "Atlantischer Ozean", "en": "Atlantic Ocean" },
+        { "de": "Karibisches Meer", "en": "Caribbean Sea" },
+        { "de": "Golf von Mexiko", "en": "Gulf of Mexico" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_River",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-199",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die größte Bucht der Welt nach Fläche?", "en": "What is the largest bay in the world by area?" },
+      "options": [
+        { "de": "Hudson Bay", "en": "Hudson Bay" },
+        { "de": "Golf von Bengalen", "en": "Bay of Bengal" },
+        { "de": "Golf von Mexiko", "en": "Gulf of Mexico" },
+        { "de": "Golf von Biskaya", "en": "Bay of Biscay" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bay_of_Bengal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-200",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches Meer grenzt sowohl an Schweden als auch an Finnland?", "en": "Which sea borders both Sweden and Finland?" },
+      "options": [
+        { "de": "Nordsee", "en": "North Sea" },
+        { "de": "Ostsee", "en": "Baltic Sea" },
+        { "de": "Norwegische See", "en": "Norwegian Sea" },
+        { "de": "Barentssee", "en": "Barents Sea" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Baltic_Sea",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-201",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welches Land ist als das Land der aufgehenden Sonne bekannt?", "en": "Which country is known as the Land of the Rising Sun?" },
+      "options": [
+        { "de": "China", "en": "China" },
+        { "de": "Japan", "en": "Japan" },
+        { "de": "Südkorea", "en": "South Korea" },
+        { "de": "Thailand", "en": "Thailand" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Japan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-202",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches ist das flächenmäßig größte Land Mittelamerikas?", "en": "Which is the largest country in Central America by area?" },
+      "options": [
+        { "de": "Guatemala", "en": "Guatemala" },
+        { "de": "Honduras", "en": "Honduras" },
+        { "de": "Nicaragua", "en": "Nicaragua" },
+        { "de": "Costa Rica", "en": "Costa Rica" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nicaragua",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-203",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches Binnenland in Südamerika hat zwei Hauptstädte?", "en": "Which landlocked country in South America has two capitals?" },
+      "options": [
+        { "de": "Paraguay", "en": "Paraguay" },
+        { "de": "Bolivien", "en": "Bolivia" },
+        { "de": "Ecuador", "en": "Ecuador" },
+        { "de": "Peru", "en": "Peru" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bolivia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-204",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Aus wie vielen Ländern besteht das Vereinigte Königreich?", "en": "How many countries make up the United Kingdom?" },
+      "options": [
+        { "de": "2", "en": "2" },
+        { "de": "3", "en": "3" },
+        { "de": "4", "en": "4" },
+        { "de": "5", "en": "5" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/United_Kingdom",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-205",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches Land erstreckt sich über die meisten zusammenhängenden Zeitzonen?", "en": "Which country spans the most contiguous time zones?" },
+      "options": [
+        { "de": "Russland", "en": "Russia" },
+        { "de": "Vereinigte Staaten", "en": "United States" },
+        { "de": "China", "en": "China" },
+        { "de": "Kanada", "en": "Canada" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Time_in_Russia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-206",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches ist das einzige Land, das vollständig in den Alpen liegt?", "en": "Which is the only country that lies entirely within the Alps?" },
+      "options": [
+        { "de": "Schweiz", "en": "Switzerland" },
+        { "de": "Österreich", "en": "Austria" },
+        { "de": "Liechtenstein", "en": "Liechtenstein" },
+        { "de": "Andorra", "en": "Andorra" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Liechtenstein",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-207",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Auf welchem Kontinent liegt Ägypten?", "en": "On which continent is Egypt?" },
+      "options": [
+        { "de": "Asien", "en": "Asia" },
+        { "de": "Afrika", "en": "Africa" },
+        { "de": "Europa", "en": "Europe" },
+        { "de": "Südamerika", "en": "South America" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Egypt",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-208",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches dieser Länder hat Territorium sowohl in Europa als auch in Asien?", "en": "Which of these countries has territory in both Europe and Asia?" },
+      "options": [
+        { "de": "Griechenland", "en": "Greece" },
+        { "de": "Türkei", "en": "Turkey" },
+        { "de": "Iran", "en": "Iran" },
+        { "de": "Syrien", "en": "Syria" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Turkey",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-209",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches ist das flächenmäßig kleinste Land auf dem afrikanischen Festland?", "en": "Which is the smallest country on mainland Africa by area?" },
+      "options": [
+        { "de": "Eswatini", "en": "Eswatini" },
+        { "de": "Gambia", "en": "Gambia" },
+        { "de": "Dschibuti", "en": "Djibouti" },
+        { "de": "Burundi", "en": "Burundi" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Gambia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-210",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welche zwei Länder bilden die Iberische Halbinsel?", "en": "Which two countries make up the Iberian Peninsula?" },
+      "options": [
+        { "de": "Spanien und Frankreich", "en": "Spain and France" },
+        { "de": "Spanien und Portugal", "en": "Spain and Portugal" },
+        { "de": "Spanien und Italien", "en": "Spain and Italy" },
+        { "de": "Portugal und Frankreich", "en": "Portugal and France" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Iberian_Peninsula",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-211",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welches Land ist als 'Land Down Under' bekannt?", "en": "Which country is known as the 'Land Down Under'?" },
+      "options": [
+        { "de": "Neuseeland", "en": "New Zealand" },
+        { "de": "Australien", "en": "Australia" },
+        { "de": "Südafrika", "en": "South Africa" },
+        { "de": "Argentinien", "en": "Argentina" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Australia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-212",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches ist das meistbesuchte Land der Welt nach internationalen Touristen?", "en": "What is the most visited country in the world by international tourists?" },
+      "options": [
+        { "de": "Spanien", "en": "Spain" },
+        { "de": "Vereinigte Staaten", "en": "United States" },
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Italien", "en": "Italy" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tourism_in_France",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-213",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches nordische Land ist KEINE Monarchie?", "en": "Which Nordic country is NOT a monarchy?" },
+      "options": [
+        { "de": "Schweden", "en": "Sweden" },
+        { "de": "Dänemark", "en": "Denmark" },
+        { "de": "Norwegen", "en": "Norway" },
+        { "de": "Finnland", "en": "Finland" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Finland",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-214",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches Land hat die meisten UNESCO-Welterbestätten?", "en": "Which country has the most UNESCO World Heritage Sites?" },
+      "options": [
+        { "de": "China", "en": "China" },
+        { "de": "Italien", "en": "Italy" },
+        { "de": "Spanien", "en": "Spain" },
+        { "de": "Frankreich", "en": "France" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/World_Heritage_Site",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-215",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Wie lautet der offizielle Name des Landes, das oft 'Holland' genannt wird?", "en": "What is the official name of the country commonly called 'Holland'?" },
+      "options": [
+        { "de": "Niederlande", "en": "Netherlands" },
+        { "de": "Belgien", "en": "Belgium" },
+        { "de": "Dänemark", "en": "Denmark" },
+        { "de": "Luxemburg", "en": "Luxembourg" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Netherlands",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-216",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Fluss fließt durch Ägypten?", "en": "Which river flows through Egypt?" },
+      "options": [
+        { "de": "Tigris", "en": "Tigris" },
+        { "de": "Euphrat", "en": "Euphrates" },
+        { "de": "Nil", "en": "Nile" },
+        { "de": "Kongo", "en": "Congo" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nile",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-217",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welche zwei Flüsse fließen durch den Irak?", "en": "Which two rivers flow through Iraq?" },
+      "options": [
+        { "de": "Nil und Kongo", "en": "Nile and Congo" },
+        { "de": "Tigris und Euphrat", "en": "Tigris and Euphrates" },
+        { "de": "Ganges und Brahmaputra", "en": "Ganges and Brahmaputra" },
+        { "de": "Rhein und Donau", "en": "Rhine and Danube" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tigris",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-218",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Fluss bildet einen Teil der Grenze zwischen den USA und Mexiko?", "en": "Which river forms part of the border between the United States and Mexico?" },
+      "options": [
+        { "de": "Colorado", "en": "Colorado" },
+        { "de": "Rio Grande", "en": "Rio Grande" },
+        { "de": "Mississippi", "en": "Mississippi" },
+        { "de": "Columbia", "en": "Columbia" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rio_Grande",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-219",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Durch welche dieser europäischen Hauptstädte fließt die Donau NICHT?", "en": "Through which of these European capitals does the Danube NOT flow?" },
+      "options": [
+        { "de": "Wien", "en": "Vienna" },
+        { "de": "Budapest", "en": "Budapest" },
+        { "de": "Bratislava", "en": "Bratislava" },
+        { "de": "Paris", "en": "Paris" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Danube",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-220",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "In welches Gewässer mündet der Ganges hauptsächlich?", "en": "Into which body of water does the Ganges River primarily empty?" },
+      "options": [
+        { "de": "Arabisches Meer", "en": "Arabian Sea" },
+        { "de": "Golf von Bengalen", "en": "Bay of Bengal" },
+        { "de": "Indischer Ozean", "en": "Indian Ocean" },
+        { "de": "Golf von Thailand", "en": "Gulf of Thailand" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ganges",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-221",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Land liegt der Olymp, der Sitz der griechischen Götter?", "en": "In which country is Mount Olympus, the home of the Greek gods?" },
+      "options": [
+        { "de": "Türkei", "en": "Turkey" },
+        { "de": "Italien", "en": "Italy" },
+        { "de": "Griechenland", "en": "Greece" },
+        { "de": "Ägypten", "en": "Egypt" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Olympus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-222",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist der höchste Berg Australiens?", "en": "What is the highest mountain in Australia?" },
+      "options": [
+        { "de": "Mount Kosciuszko", "en": "Mount Kosciuszko" },
+        { "de": "Mount Townsend", "en": "Mount Townsend" },
+        { "de": "Mount Bogong", "en": "Mount Bogong" },
+        { "de": "Mount Ossa", "en": "Mount Ossa" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Kosciuszko",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-223",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Gebirge liegt das Matterhorn?", "en": "In which mountain range is the Matterhorn located?" },
+      "options": [
+        { "de": "Pyrenäen", "en": "Pyrenees" },
+        { "de": "Alpen", "en": "Alps" },
+        { "de": "Karpaten", "en": "Carpathians" },
+        { "de": "Apennin", "en": "Apennines" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Matterhorn",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-224",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "An der Grenze welcher zwei Länder liegt das Matterhorn?", "en": "On the border of which two countries is the Matterhorn?" },
+      "options": [
+        { "de": "Frankreich und Schweiz", "en": "France and Switzerland" },
+        { "de": "Schweiz und Italien", "en": "Switzerland and Italy" },
+        { "de": "Österreich und Italien", "en": "Austria and Italy" },
+        { "de": "Frankreich und Italien", "en": "France and Italy" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Matterhorn",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-225",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist der höchste Gipfel der Pyrenäen?", "en": "What is the highest peak in the Pyrenees?" },
+      "options": [
+        { "de": "Aneto", "en": "Aneto" },
+        { "de": "Monte Perdido", "en": "Monte Perdido" },
+        { "de": "Vignemale", "en": "Vignemale" },
+        { "de": "Pic du Midi", "en": "Pic du Midi" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aneto",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-226",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist der größte Regenwald der Welt?", "en": "What is the largest rainforest in the world?" },
+      "options": [
+        { "de": "Kongowald", "en": "Congo Rainforest" },
+        { "de": "Amazonas-Regenwald", "en": "Amazon Rainforest" },
+        { "de": "Daintree-Regenwald", "en": "Daintree Rainforest" },
+        { "de": "Tongass-Wald", "en": "Tongass Forest" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-227",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Land ist die Fjordlandschaft am bekanntesten?", "en": "In which country is the fjord landscape most famous?" },
+      "options": [
+        { "de": "Schweden", "en": "Sweden" },
+        { "de": "Finnland", "en": "Finland" },
+        { "de": "Norwegen", "en": "Norway" },
+        { "de": "Island", "en": "Iceland" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fjords_of_Norway",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-228",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist der höchste Wasserfall der Welt?", "en": "What is the tallest waterfall in the world?" },
+      "options": [
+        { "de": "Niagarafälle", "en": "Niagara Falls" },
+        { "de": "Victoriafälle", "en": "Victoria Falls" },
+        { "de": "Salto Ángel", "en": "Angel Falls" },
+        { "de": "Iguazú-Wasserfälle", "en": "Iguazu Falls" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Angel_Falls",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-229",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Land liegt der Salto Ángel (Angel Falls)?", "en": "In which country are Angel Falls located?" },
+      "options": [
+        { "de": "Brasilien", "en": "Brazil" },
+        { "de": "Kolumbien", "en": "Colombia" },
+        { "de": "Venezuela", "en": "Venezuela" },
+        { "de": "Peru", "en": "Peru" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Angel_Falls",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-230",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Wie heißt die berühmte Schlucht im US-Bundesstaat Arizona?", "en": "What is the name of the famous canyon in the US state of Arizona?" },
+      "options": [
+        { "de": "Yellowstone", "en": "Yellowstone" },
+        { "de": "Grand Canyon", "en": "Grand Canyon" },
+        { "de": "Monument Valley", "en": "Monument Valley" },
+        { "de": "Death Valley", "en": "Death Valley" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Canyon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-231",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Land befindet sich das längste Höhlensystem der Welt, die Mammoth Cave?", "en": "In which country is the world's longest cave system, Mammoth Cave?" },
+      "options": [
+        { "de": "Mexiko", "en": "Mexico" },
+        { "de": "Vereinigte Staaten", "en": "United States" },
+        { "de": "China", "en": "China" },
+        { "de": "Slowenien", "en": "Slovenia" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mammoth_Cave_National_Park",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-232",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist das größte Flussdelta der Welt?", "en": "What is the largest river delta in the world?" },
+      "options": [
+        { "de": "Nil-Delta", "en": "Nile Delta" },
+        { "de": "Mississippi-Delta", "en": "Mississippi Delta" },
+        { "de": "Ganges-Brahmaputra-Delta", "en": "Ganges-Brahmaputra Delta" },
+        { "de": "Mekong-Delta", "en": "Mekong Delta" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ganges_Delta",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-233",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Wie heißt der südlichste Kontinent der Erde?", "en": "What is the name of Earth's southernmost continent?" },
+      "options": [
+        { "de": "Australien", "en": "Australia" },
+        { "de": "Antarktika", "en": "Antarctica" },
+        { "de": "Südamerika", "en": "South America" },
+        { "de": "Afrika", "en": "Africa" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antarctica",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-234",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches Land hat die längste Küstenlinie der Welt?", "en": "Which country has the longest coastline in the world?" },
+      "options": [
+        { "de": "Australien", "en": "Australia" },
+        { "de": "Indonesien", "en": "Indonesia" },
+        { "de": "Kanada", "en": "Canada" },
+        { "de": "Norwegen", "en": "Norway" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Geography_of_Canada",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-235",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die am weitesten verbreitete Sprache in Nordafrika?", "en": "What is the most widely spoken language in North Africa?" },
+      "options": [
+        { "de": "Französisch", "en": "French" },
+        { "de": "Arabisch", "en": "Arabic" },
+        { "de": "Berberisch", "en": "Berber" },
+        { "de": "Englisch", "en": "English" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Arabic",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-236",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Land liegt der Serengeti-Nationalpark?", "en": "In which country is the Serengeti National Park?" },
+      "options": [
+        { "de": "Kenia", "en": "Kenya" },
+        { "de": "Tansania", "en": "Tanzania" },
+        { "de": "Südafrika", "en": "South Africa" },
+        { "de": "Botswana", "en": "Botswana" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Serengeti",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-237",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Wie viel Prozent der Erdoberfläche sind ungefähr mit Wasser bedeckt?", "en": "What percentage of Earth's surface is approximately covered by water?" },
+      "options": [
+        { "de": "51 %", "en": "51%" },
+        { "de": "61 %", "en": "61%" },
+        { "de": "71 %", "en": "71%" },
+        { "de": "81 %", "en": "81%" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Earth",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-238",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches afrikanische Land ist vollständig von Südafrika umgeben?", "en": "Which African country is entirely surrounded by South Africa?" },
+      "options": [
+        { "de": "Eswatini", "en": "Eswatini" },
+        { "de": "Lesotho", "en": "Lesotho" },
+        { "de": "Botswana", "en": "Botswana" },
+        { "de": "Malawi", "en": "Malawi" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lesotho",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-239",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches ist das einzige Meer ohne Landgrenzen?", "en": "What is the only sea without any land boundaries?" },
+      "options": [
+        { "de": "Sargassosee", "en": "Sargasso Sea" },
+        { "de": "Kaspisches Meer", "en": "Caspian Sea" },
+        { "de": "Totes Meer", "en": "Dead Sea" },
+        { "de": "Rotes Meer", "en": "Red Sea" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sargasso_Sea",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-240",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "An welchem Fluss liegt die Stadt Wien?", "en": "On which river is the city of Vienna located?" },
+      "options": [
+        { "de": "Rhein", "en": "Rhine" },
+        { "de": "Donau", "en": "Danube" },
+        { "de": "Elbe", "en": "Elbe" },
+        { "de": "Oder", "en": "Oder" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vienna",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-241",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Ozean liegt zwischen Nordamerika und Europa?", "en": "Which ocean lies between North America and Europe?" },
+      "options": [
+        { "de": "Pazifischer Ozean", "en": "Pacific Ocean" },
+        { "de": "Atlantischer Ozean", "en": "Atlantic Ocean" },
+        { "de": "Indischer Ozean", "en": "Indian Ocean" },
+        { "de": "Arktischer Ozean", "en": "Arctic Ocean" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Atlantic_Ocean",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-242",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welche Hauptstadt liegt in der größten Höhe über dem Meeresspiegel?", "en": "Which capital city is located at the highest altitude above sea level?" },
+      "options": [
+        { "de": "Bogotá", "en": "Bogota" },
+        { "de": "Quito", "en": "Quito" },
+        { "de": "La Paz", "en": "La Paz" },
+        { "de": "Addis Abeba", "en": "Addis Ababa" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/La_Paz",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-243",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches Land ist sowohl eine Insel als auch ein Kontinent?", "en": "Which country is both an island and a continent?" },
+      "options": [
+        { "de": "Neuseeland", "en": "New Zealand" },
+        { "de": "Australien", "en": "Australia" },
+        { "de": "Madagaskar", "en": "Madagascar" },
+        { "de": "Grönland", "en": "Greenland" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Australia_(continent)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-244",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Wie heißt die imaginäre Linie bei 0 Grad Länge?", "en": "What is the imaginary line at 0 degrees longitude called?" },
+      "options": [
+        { "de": "Äquator", "en": "Equator" },
+        { "de": "Wendekreis des Krebses", "en": "Tropic of Cancer" },
+        { "de": "Nullmeridian", "en": "Prime Meridian" },
+        { "de": "Datumsgrenze", "en": "International Date Line" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Prime_meridian",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-245",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Durch welchen Stadtteil Londons verläuft der Nullmeridian?", "en": "Through which part of London does the Prime Meridian pass?" },
+      "options": [
+        { "de": "Westminster", "en": "Westminster" },
+        { "de": "Greenwich", "en": "Greenwich" },
+        { "de": "Camden", "en": "Camden" },
+        { "de": "Kensington", "en": "Kensington" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Greenwich",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-246",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist das größte Binnenland der Welt?", "en": "What is the largest landlocked country in the world?" },
+      "options": [
+        { "de": "Mongolei", "en": "Mongolia" },
+        { "de": "Tschad", "en": "Chad" },
+        { "de": "Kasachstan", "en": "Kazakhstan" },
+        { "de": "Bolivien", "en": "Bolivia" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-247",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Zu welchem Land gehören die Galápagos-Inseln?", "en": "Which country is home to the Galapagos Islands?" },
+      "options": [
+        { "de": "Peru", "en": "Peru" },
+        { "de": "Ecuador", "en": "Ecuador" },
+        { "de": "Kolumbien", "en": "Colombia" },
+        { "de": "Chile", "en": "Chile" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-248",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welches Naturwunder trennt Sambia und Simbabwe?", "en": "What natural wonder separates Zambia and Zimbabwe?" },
+      "options": [
+        { "de": "Niagarafälle", "en": "Niagara Falls" },
+        { "de": "Victoriafälle", "en": "Victoria Falls" },
+        { "de": "Iguazú-Wasserfälle", "en": "Iguazu Falls" },
+        { "de": "Salto Ángel", "en": "Angel Falls" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Victoria_Falls",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-249",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welche europäische Hauptstadt ist auf 14 Inseln erbaut?", "en": "Which European capital city is built on 14 islands?" },
+      "options": [
+        { "de": "Venedig", "en": "Venice" },
+        { "de": "Amsterdam", "en": "Amsterdam" },
+        { "de": "Stockholm", "en": "Stockholm" },
+        { "de": "Kopenhagen", "en": "Copenhagen" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-250",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Wie heißt der größtenteils versunkene Kontinent unter Neuseeland?", "en": "What is the name of the mostly submerged continent beneath New Zealand?" },
+      "options": [
+        { "de": "Lemuria", "en": "Lemuria" },
+        { "de": "Zealandia", "en": "Zealandia" },
+        { "de": "Pangaea", "en": "Pangaea" },
+        { "de": "Gondwana", "en": "Gondwana" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Zealandia",
+      "sourceLabel": "Wikipedia"
     }
   ],
   "timelineEvents": [

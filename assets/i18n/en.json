@@ -107,11 +107,16 @@
   "info": {
     "title": "App Info",
     "version": "Version",
+    "questionCount": "Questions in app",
+    "questions": "questions",
+    "timelineCount": "Timeline events",
+    "events": "events",
     "swStatus": "Service Worker",
     "swActive": "Active",
     "swInactive": "Not available (development mode)",
     "updateReady": "New version available!",
     "actions": "Actions",
+    "browseQuestions": "Browse questions",
     "checkUpdate": "Check for updates",
     "checking": "Checking...",
     "installUpdate": "Install update & reload",
@@ -122,5 +127,14 @@
     "checkFailed": "Update check failed.",
     "cacheCleared": "Cache cleared. Reloading page...",
     "about": "KnowledgeApp - Test your general knowledge with hundreds of questions and the timeline game. Works fully offline as a PWA."
+  },
+  "browse": {
+    "title": "Browse Questions",
+    "questions": "Questions",
+    "timeline": "Timeline",
+    "search": "Search...",
+    "results": "results",
+    "loadMore": "Load more",
+    "remaining": "remaining"
   }
 }

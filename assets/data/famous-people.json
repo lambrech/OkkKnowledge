@@ -1275,6 +1275,2481 @@
       "correctIndex": 2,
       "sourceUrl": "https://en.wikipedia.org/wiki/Confucius",
       "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-086",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Mönch gilt als Begründer der modernen Genetik durch seine Experimente mit Erbsen?", "en": "Which monk is considered the founder of modern genetics through his experiments with peas?" },
+      "options": [
+        { "de": "Charles Darwin", "en": "Charles Darwin" },
+        { "de": "Gregor Mendel", "en": "Gregor Mendel" },
+        { "de": "Louis Pasteur", "en": "Louis Pasteur" },
+        { "de": "Carl Linnaeus", "en": "Carl Linnaeus" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-087",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche britische Primatologin ist für ihre jahrzehntelange Erforschung von Schimpansen in Tansania bekannt?", "en": "Which British primatologist is known for her decades-long study of chimpanzees in Tanzania?" },
+      "options": [
+        { "de": "Dian Fossey", "en": "Dian Fossey" },
+        { "de": "Jane Goodall", "en": "Jane Goodall" },
+        { "de": "Birute Galdikas", "en": "Birute Galdikas" },
+        { "de": "Joy Adamson", "en": "Joy Adamson" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jane_Goodall",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-088",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher englische Autor schrieb 'Eine Weihnachtsgeschichte'?", "en": "Which English author wrote 'A Christmas Carol'?" },
+      "options": [
+        { "de": "William Thackeray", "en": "William Thackeray" },
+        { "de": "Charles Dickens", "en": "Charles Dickens" },
+        { "de": "Thomas Hardy", "en": "Thomas Hardy" },
+        { "de": "Oscar Wilde", "en": "Oscar Wilde" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Christmas_Carol",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-089",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche Krimiautorin ist die meistverkaufte Belletristik-Autorin aller Zeiten?", "en": "Which mystery writer is the best-selling fiction author of all time?" },
+      "options": [
+        { "de": "Dorothy L. Sayers", "en": "Dorothy L. Sayers" },
+        { "de": "Arthur Conan Doyle", "en": "Arthur Conan Doyle" },
+        { "de": "Agatha Christie", "en": "Agatha Christie" },
+        { "de": "P.D. James", "en": "P.D. James" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Agatha_Christie",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-090",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Aus welchem Land stammte der Märchenerzähler Hans Christian Andersen?", "en": "From which country did fairy tale writer Hans Christian Andersen come?" },
+      "options": [
+        { "de": "Schweden", "en": "Sweden" },
+        { "de": "Norwegen", "en": "Norway" },
+        { "de": "Dänemark", "en": "Denmark" },
+        { "de": "Finnland", "en": "Finland" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hans_Christian_Andersen",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-091",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Wer gründete das Mongolenreich, das größte zusammenhängende Landreich der Geschichte?", "en": "Who founded the Mongol Empire, the largest contiguous land empire in history?" },
+      "options": [
+        { "de": "Kublai Khan", "en": "Kublai Khan" },
+        { "de": "Dschingis Khan", "en": "Genghis Khan" },
+        { "de": "Timur", "en": "Timur" },
+        { "de": "Attila", "en": "Attila" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-092",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher amerikanische Musiker wird als 'King of Rock and Roll' bezeichnet?", "en": "Which American musician is known as the 'King of Rock and Roll'?" },
+      "options": [
+        { "de": "Chuck Berry", "en": "Chuck Berry" },
+        { "de": "Elvis Presley", "en": "Elvis Presley" },
+        { "de": "Little Richard", "en": "Little Richard" },
+        { "de": "Buddy Holly", "en": "Buddy Holly" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-093",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Aus welcher Stadt kamen die Beatles?", "en": "From which city did the Beatles come?" },
+      "options": [
+        { "de": "London", "en": "London" },
+        { "de": "Manchester", "en": "Manchester" },
+        { "de": "Liverpool", "en": "Liverpool" },
+        { "de": "Birmingham", "en": "Birmingham" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-094",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Aus welchem Land stammte der Reggae-Musiker Bob Marley?", "en": "From which country did reggae musician Bob Marley come?" },
+      "options": [
+        { "de": "Trinidad und Tobago", "en": "Trinidad and Tobago" },
+        { "de": "Jamaika", "en": "Jamaica" },
+        { "de": "Barbados", "en": "Barbados" },
+        { "de": "Bahamas", "en": "Bahamas" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bob_Marley",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-095",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher jamaikanische Sprinter hält den Weltrekord über 100 Meter?", "en": "Which Jamaican sprinter holds the world record for the 100 metres?" },
+      "options": [
+        { "de": "Yohan Blake", "en": "Yohan Blake" },
+        { "de": "Usain Bolt", "en": "Usain Bolt" },
+        { "de": "Asafa Powell", "en": "Asafa Powell" },
+        { "de": "Tyson Gay", "en": "Tyson Gay" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Usain_Bolt",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-096",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher amerikanische Basketballspieler gewann sechs NBA-Meisterschaften mit den Chicago Bulls?", "en": "Which American basketball player won six NBA championships with the Chicago Bulls?" },
+      "options": [
+        { "de": "Kobe Bryant", "en": "Kobe Bryant" },
+        { "de": "LeBron James", "en": "LeBron James" },
+        { "de": "Michael Jordan", "en": "Michael Jordan" },
+        { "de": "Larry Bird", "en": "Larry Bird" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Jordan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-097",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher griechische Philosoph wurde zum Tode durch den Schierlingsbecher verurteilt?", "en": "Which Greek philosopher was sentenced to death by drinking hemlock?" },
+      "options": [
+        { "de": "Platon", "en": "Plato" },
+        { "de": "Sokrates", "en": "Socrates" },
+        { "de": "Aristoteles", "en": "Aristotle" },
+        { "de": "Diogenes", "en": "Diogenes" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Socrates",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-098",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher britische Regisseur war als 'Master of Suspense' bekannt?", "en": "Which British director was known as the 'Master of Suspense'?" },
+      "options": [
+        { "de": "David Lean", "en": "David Lean" },
+        { "de": "Alfred Hitchcock", "en": "Alfred Hitchcock" },
+        { "de": "Carol Reed", "en": "Carol Reed" },
+        { "de": "Michael Powell", "en": "Michael Powell" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alfred_Hitchcock",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-099",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher erste abendfüllende Zeichentrickfilm wurde von Walt Disney produziert?", "en": "Which was the first full-length animated feature film produced by Walt Disney?" },
+      "options": [
+        { "de": "Pinocchio", "en": "Pinocchio" },
+        { "de": "Fantasia", "en": "Fantasia" },
+        { "de": "Schneewittchen und die sieben Zwerge", "en": "Snow White and the Seven Dwarfs" },
+        { "de": "Bambi", "en": "Bambi" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-100",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher griechische Mathematiker wird als 'Vater der Geometrie' bezeichnet?", "en": "Which Greek mathematician is known as the 'Father of Geometry'?" },
+      "options": [
+        { "de": "Pythagoras", "en": "Pythagoras" },
+        { "de": "Euklid", "en": "Euclid" },
+        { "de": "Archimedes", "en": "Archimedes" },
+        { "de": "Thales", "en": "Thales" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Euclid",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-101",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Wer ist die jüngste Nobelpreisträgerin der Geschichte?", "en": "Who is the youngest Nobel Prize laureate in history?" },
+      "options": [
+        { "de": "Rigoberta Menchu", "en": "Rigoberta Menchu" },
+        { "de": "Malala Yousafzai", "en": "Malala Yousafzai" },
+        { "de": "Nadia Murad", "en": "Nadia Murad" },
+        { "de": "Tawakkol Karman", "en": "Tawakkol Karman" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Malala_Yousafzai",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-102",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche Britin gilt als Begründerin der modernen Krankenpflege?", "en": "Which British woman is regarded as the founder of modern nursing?" },
+      "options": [
+        { "de": "Mary Seacole", "en": "Mary Seacole" },
+        { "de": "Florence Nightingale", "en": "Florence Nightingale" },
+        { "de": "Edith Cavell", "en": "Edith Cavell" },
+        { "de": "Clara Barton", "en": "Clara Barton" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Florence_Nightingale",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-103",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche Pilotin war 1932 die erste Frau, die allein den Atlantik überflog?", "en": "Which aviator was the first woman to fly solo across the Atlantic Ocean in 1932?" },
+      "options": [
+        { "de": "Bessie Coleman", "en": "Bessie Coleman" },
+        { "de": "Amelia Earhart", "en": "Amelia Earhart" },
+        { "de": "Harriet Quimby", "en": "Harriet Quimby" },
+        { "de": "Jacqueline Cochran", "en": "Jacqueline Cochran" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-104",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche Afroamerikanerin löste 1955 den Busboykott von Montgomery aus, indem sie sich weigerte, ihren Sitzplatz aufzugeben?", "en": "Which African American woman sparked the 1955 Montgomery Bus Boycott by refusing to give up her seat?" },
+      "options": [
+        { "de": "Harriet Tubman", "en": "Harriet Tubman" },
+        { "de": "Rosa Parks", "en": "Rosa Parks" },
+        { "de": "Coretta Scott King", "en": "Coretta Scott King" },
+        { "de": "Sojourner Truth", "en": "Sojourner Truth" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rosa_Parks",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-105",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welches jüdische Mädchen wurde durch ihr Tagebuch berühmt, das sie im Versteck während des Zweiten Weltkriegs schrieb?", "en": "Which Jewish girl became famous for her diary written while in hiding during World War II?" },
+      "options": [
+        { "de": "Etty Hillesum", "en": "Etty Hillesum" },
+        { "de": "Anne Frank", "en": "Anne Frank" },
+        { "de": "Hannah Senesh", "en": "Hannah Senesh" },
+        { "de": "Irena Sendler", "en": "Irena Sendler" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anne_Frank",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-106",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche französische Modedesignerin revolutionierte die Damenmode und kreierte das 'Kleine Schwarze'?", "en": "Which French fashion designer revolutionized women's fashion and created the 'little black dress'?" },
+      "options": [
+        { "de": "Christian Dior", "en": "Christian Dior" },
+        { "de": "Coco Chanel", "en": "Coco Chanel" },
+        { "de": "Yves Saint Laurent", "en": "Yves Saint Laurent" },
+        { "de": "Elsa Schiaparelli", "en": "Elsa Schiaparelli" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Coco_Chanel",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-107",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher britische Komiker und Filmemacher wurde für seine Rolle als 'Der Tramp' im Stummfilm berühmt?", "en": "Which British comedian and filmmaker became famous for his character 'The Tramp' in silent films?" },
+      "options": [
+        { "de": "Buster Keaton", "en": "Buster Keaton" },
+        { "de": "Harold Lloyd", "en": "Harold Lloyd" },
+        { "de": "Charlie Chaplin", "en": "Charlie Chaplin" },
+        { "de": "Stan Laurel", "en": "Stan Laurel" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Charlie_Chaplin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-108",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche taubblinde amerikanische Autorin und Aktivistin wurde durch ihre Autobiografie weltberühmt?", "en": "Which deaf-blind American author and activist became world-famous through her autobiography?" },
+      "options": [
+        { "de": "Anne Sullivan", "en": "Anne Sullivan" },
+        { "de": "Helen Keller", "en": "Helen Keller" },
+        { "de": "Laura Bridgman", "en": "Laura Bridgman" },
+        { "de": "Dorothea Dix", "en": "Dorothea Dix" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Helen_Keller",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-109",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche französische Königin soll der Legende nach gesagt haben 'Sollen sie doch Kuchen essen'?", "en": "Which French queen legendarily is said to have uttered 'Let them eat cake'?" },
+      "options": [
+        { "de": "Marie de Medici", "en": "Marie de Medici" },
+        { "de": "Marie Antoinette", "en": "Marie Antoinette" },
+        { "de": "Josephine de Beauharnais", "en": "Josephine de Beauharnais" },
+        { "de": "Catherine de Medici", "en": "Catherine de Medici" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marie_Antoinette",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-110",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Beatle schrieb und sang den Song 'Imagine'?", "en": "Which Beatle wrote and performed the song 'Imagine'?" },
+      "options": [
+        { "de": "Paul McCartney", "en": "Paul McCartney" },
+        { "de": "George Harrison", "en": "George Harrison" },
+        { "de": "John Lennon", "en": "John Lennon" },
+        { "de": "Ringo Starr", "en": "Ringo Starr" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-111",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher ägyptische Pharao wurde berühmt, als Howard Carter 1922 sein Grab entdeckte?", "en": "Which Egyptian pharaoh became famous when Howard Carter discovered his tomb in 1922?" },
+      "options": [
+        { "de": "Ramses II.", "en": "Ramesses II" },
+        { "de": "Tutanchamun", "en": "Tutankhamun" },
+        { "de": "Echnaton", "en": "Akhenaten" },
+        { "de": "Cheops", "en": "Khufu" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tutankhamun",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-112",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher deutsche Theologe löste 1517 die Reformation aus?", "en": "Which German theologian sparked the Reformation in 1517?" },
+      "options": [
+        { "de": "Johannes Calvin", "en": "John Calvin" },
+        { "de": "Martin Luther", "en": "Martin Luther" },
+        { "de": "Huldrych Zwingli", "en": "Huldrych Zwingli" },
+        { "de": "Philipp Melanchthon", "en": "Philipp Melanchthon" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Martin_Luther",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-113",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher amerikanische Gründervater führte das berühmte Drachenexperiment mit Blitz durch?", "en": "Which American Founding Father conducted the famous kite experiment with lightning?" },
+      "options": [
+        { "de": "Thomas Jefferson", "en": "Thomas Jefferson" },
+        { "de": "Benjamin Franklin", "en": "Benjamin Franklin" },
+        { "de": "John Adams", "en": "John Adams" },
+        { "de": "Alexander Hamilton", "en": "Alexander Hamilton" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-114",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche afroamerikanische Frau führte Sklaven über die Underground Railroad in die Freiheit?", "en": "Which African American woman led enslaved people to freedom via the Underground Railroad?" },
+      "options": [
+        { "de": "Sojourner Truth", "en": "Sojourner Truth" },
+        { "de": "Harriet Tubman", "en": "Harriet Tubman" },
+        { "de": "Frederick Douglass", "en": "Frederick Douglass" },
+        { "de": "Rosa Parks", "en": "Rosa Parks" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Harriet_Tubman",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-115",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche britische Monarchin war die am längsten regierende Königin des Vereinigten Königreichs?", "en": "Which British monarch was the longest-reigning queen of the United Kingdom?" },
+      "options": [
+        { "de": "Königin Victoria", "en": "Queen Victoria" },
+        { "de": "Königin Elisabeth I.", "en": "Queen Elizabeth I" },
+        { "de": "Königin Elisabeth II.", "en": "Queen Elizabeth II" },
+        { "de": "Königin Anne", "en": "Queen Anne" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-116",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher griechische Arzt wird als 'Vater der Medizin' bezeichnet?", "en": "Which Greek physician is known as the 'Father of Medicine'?" },
+      "options": [
+        { "de": "Galen", "en": "Galen" },
+        { "de": "Hippokrates", "en": "Hippocrates" },
+        { "de": "Herophilos", "en": "Herophilus" },
+        { "de": "Asklepios", "en": "Asclepius" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hippocrates",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-117",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher chilenische Dichter erhielt 1971 den Nobelpreis für Literatur?", "en": "Which Chilean poet received the Nobel Prize in Literature in 1971?" },
+      "options": [
+        { "de": "Gabriela Mistral", "en": "Gabriela Mistral" },
+        { "de": "Pablo Neruda", "en": "Pablo Neruda" },
+        { "de": "Octavio Paz", "en": "Octavio Paz" },
+        { "de": "Jorge Luis Borges", "en": "Jorge Luis Borges" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pablo_Neruda",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-118",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Wer führte die kubanische Revolution von 1959 an?", "en": "Who led the Cuban Revolution of 1959?" },
+      "options": [
+        { "de": "Che Guevara", "en": "Che Guevara" },
+        { "de": "Fidel Castro", "en": "Fidel Castro" },
+        { "de": "Raul Castro", "en": "Raul Castro" },
+        { "de": "Camilo Cienfuegos", "en": "Camilo Cienfuegos" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-119",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher französische Schriftsteller schrieb 'Der kleine Prinz'?", "en": "Which French writer wrote 'The Little Prince'?" },
+      "options": [
+        { "de": "Victor Hugo", "en": "Victor Hugo" },
+        { "de": "Antoine de Saint-Exupery", "en": "Antoine de Saint-Exupery" },
+        { "de": "Jules Verne", "en": "Jules Verne" },
+        { "de": "Albert Camus", "en": "Albert Camus" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Little_Prince",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-120",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche Sportart machte die brasilianische Legende Pele weltberühmt?", "en": "Which sport made Brazilian legend Pele world-famous?" },
+      "options": [
+        { "de": "Basketball", "en": "Basketball" },
+        { "de": "Tennis", "en": "Tennis" },
+        { "de": "Fussball", "en": "Football (Soccer)" },
+        { "de": "Volleyball", "en": "Volleyball" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pel%C3%A9",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-121",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher österreichische Neurologe begründete die Psychoanalyse?", "en": "Which Austrian neurologist founded psychoanalysis?" },
+      "options": [
+        { "de": "Carl Jung", "en": "Carl Jung" },
+        { "de": "Sigmund Freud", "en": "Sigmund Freud" },
+        { "de": "Alfred Adler", "en": "Alfred Adler" },
+        { "de": "Wilhelm Reich", "en": "Wilhelm Reich" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sigmund_Freud",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-122",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche britische Prinzessin wurde als 'Prinzessin des Volkes' bekannt?", "en": "Which British princess was known as the 'People's Princess'?" },
+      "options": [
+        { "de": "Prinzessin Margaret", "en": "Princess Margaret" },
+        { "de": "Prinzessin Anne", "en": "Princess Anne" },
+        { "de": "Prinzessin Diana", "en": "Princess Diana" },
+        { "de": "Prinzessin Charlotte", "en": "Princess Charlotte" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-123",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher russische Schriftsteller schrieb 'Schuld und Suehne'?", "en": "Which Russian author wrote 'Crime and Punishment'?" },
+      "options": [
+        { "de": "Leo Tolstoi", "en": "Leo Tolstoy" },
+        { "de": "Fjodor Dostojewski", "en": "Fyodor Dostoevsky" },
+        { "de": "Anton Tschechow", "en": "Anton Chekhov" },
+        { "de": "Nikolai Gogol", "en": "Nikolai Gogol" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Crime_and_Punishment",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-124",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche amerikanische Tennisspielerin gewann 23 Grand-Slam-Einzeltitel?", "en": "Which American tennis player won 23 Grand Slam singles titles?" },
+      "options": [
+        { "de": "Venus Williams", "en": "Venus Williams" },
+        { "de": "Serena Williams", "en": "Serena Williams" },
+        { "de": "Steffi Graf", "en": "Steffi Graf" },
+        { "de": "Martina Navratilova", "en": "Martina Navratilova" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Serena_Williams",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-125",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche amerikanische Biologin löste mit ihrem Buch 'Der stumme Frühling' die Umweltbewegung aus?", "en": "Which American biologist launched the environmental movement with her book 'Silent Spring'?" },
+      "options": [
+        { "de": "Rachel Carson", "en": "Rachel Carson" },
+        { "de": "Jane Goodall", "en": "Jane Goodall" },
+        { "de": "Sylvia Earle", "en": "Sylvia Earle" },
+        { "de": "Wangari Maathai", "en": "Wangari Maathai" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rachel_Carson",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-126",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Physiker entdeckte die elektromagnetische Induktion und legte damit die Grundlage für den Elektromotor?", "en": "Which physicist discovered electromagnetic induction, laying the groundwork for the electric motor?" },
+      "options": [
+        { "de": "James Clerk Maxwell", "en": "James Clerk Maxwell" },
+        { "de": "Michael Faraday", "en": "Michael Faraday" },
+        { "de": "Andre-Marie Ampere", "en": "Andre-Marie Ampere" },
+        { "de": "Georg Simon Ohm", "en": "Georg Simon Ohm" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Michael_Faraday",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-127",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher schwedische Botaniker entwickelte das binäre System zur Benennung von Arten?", "en": "Which Swedish botanist developed the binomial system for naming species?" },
+      "options": [
+        { "de": "Joseph Banks", "en": "Joseph Banks" },
+        { "de": "Carl Linnaeus", "en": "Carl Linnaeus" },
+        { "de": "Georges-Louis Leclerc de Buffon", "en": "Georges-Louis Leclerc de Buffon" },
+        { "de": "Alexander von Humboldt", "en": "Alexander von Humboldt" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Carl_Linnaeus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-128",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher amerikanische Physiker war bekannt für seine Beiträge zur Quantenelektrodynamik und gewann 1965 den Nobelpreis?", "en": "Which American physicist was known for his contributions to quantum electrodynamics and won the 1965 Nobel Prize?" },
+      "options": [
+        { "de": "Murray Gell-Mann", "en": "Murray Gell-Mann" },
+        { "de": "Richard Feynman", "en": "Richard Feynman" },
+        { "de": "Julian Schwinger", "en": "Julian Schwinger" },
+        { "de": "Freeman Dyson", "en": "Freeman Dyson" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Richard_Feynman",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-129",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher neuseeländische Physiker wird als 'Vater der Kernphysik' bezeichnet?", "en": "Which New Zealand-born physicist is known as the 'Father of Nuclear Physics'?" },
+      "options": [
+        { "de": "Niels Bohr", "en": "Niels Bohr" },
+        { "de": "Ernest Rutherford", "en": "Ernest Rutherford" },
+        { "de": "J.J. Thomson", "en": "J.J. Thomson" },
+        { "de": "James Chadwick", "en": "James Chadwick" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ernest_Rutherford",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-130",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welche englische Autorin schrieb den Roman 'Stolz und Vorurteil'?", "en": "Which English author wrote the novel 'Pride and Prejudice'?" },
+      "options": [
+        { "de": "Charlotte Bronte", "en": "Charlotte Bronte" },
+        { "de": "Jane Austen", "en": "Jane Austen" },
+        { "de": "George Eliot", "en": "George Eliot" },
+        { "de": "Mary Shelley", "en": "Mary Shelley" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-131",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher spanische Autor schrieb 'Don Quijote', den ersten modernen Roman?", "en": "Which Spanish author wrote 'Don Quixote', considered the first modern novel?" },
+      "options": [
+        { "de": "Federico Garcia Lorca", "en": "Federico Garcia Lorca" },
+        { "de": "Miguel de Cervantes", "en": "Miguel de Cervantes" },
+        { "de": "Lope de Vega", "en": "Lope de Vega" },
+        { "de": "Pedro Calderon de la Barca", "en": "Pedro Calderon de la Barca" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Don_Quixote",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-132",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher französische Autor schrieb 'Die Elenden' (Les Miserables)?", "en": "Which French author wrote 'Les Miserables'?" },
+      "options": [
+        { "de": "Émile Zola", "en": "Émile Zola" },
+        { "de": "Gustave Flaubert", "en": "Gustave Flaubert" },
+        { "de": "Victor Hugo", "en": "Victor Hugo" },
+        { "de": "Alexandre Dumas", "en": "Alexandre Dumas" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-133",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher amerikanische Schriftsteller erhielt 1954 den Nobelpreis für Literatur und schrieb 'Der alte Mann und das Meer'?", "en": "Which American writer won the 1954 Nobel Prize in Literature and wrote 'The Old Man and the Sea'?" },
+      "options": [
+        { "de": "F. Scott Fitzgerald", "en": "F. Scott Fitzgerald" },
+        { "de": "Ernest Hemingway", "en": "Ernest Hemingway" },
+        { "de": "William Faulkner", "en": "William Faulkner" },
+        { "de": "John Steinbeck", "en": "John Steinbeck" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ernest_Hemingway",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-134",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Boxer, geboren als Cassius Clay, wurde dreimaliger Schwergewichtsweltmeister?", "en": "Which boxer, born Cassius Clay, became a three-time world heavyweight champion?" },
+      "options": [
+        { "de": "Joe Frazier", "en": "Joe Frazier" },
+        { "de": "Muhammad Ali", "en": "Muhammad Ali" },
+        { "de": "George Foreman", "en": "George Foreman" },
+        { "de": "Mike Tyson", "en": "Mike Tyson" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-135",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Schweizer Tennisspieler gewann 20 Grand-Slam-Einzeltitel?", "en": "Which Swiss tennis player won 20 Grand Slam singles titles?" },
+      "options": [
+        { "de": "Stan Wawrinka", "en": "Stan Wawrinka" },
+        { "de": "Roger Federer", "en": "Roger Federer" },
+        { "de": "Rafael Nadal", "en": "Rafael Nadal" },
+        { "de": "Novak Djokovic", "en": "Novak Djokovic" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Roger_Federer",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-136",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher französische Philosoph ist für den Ausspruch 'Ich denke, also bin ich' bekannt?", "en": "Which French philosopher is known for the statement 'I think, therefore I am'?" },
+      "options": [
+        { "de": "Blaise Pascal", "en": "Blaise Pascal" },
+        { "de": "Rene Descartes", "en": "Rene Descartes" },
+        { "de": "Voltaire", "en": "Voltaire" },
+        { "de": "Jean-Jacques Rousseau", "en": "Jean-Jacques Rousseau" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-137",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher deutsche Philosoph und Ökonom verfasste 'Das Kapital'?", "en": "Which German philosopher and economist wrote 'Das Kapital'?" },
+      "options": [
+        { "de": "Friedrich Engels", "en": "Friedrich Engels" },
+        { "de": "Karl Marx", "en": "Karl Marx" },
+        { "de": "Max Weber", "en": "Max Weber" },
+        { "de": "Georg Wilhelm Friedrich Hegel", "en": "Georg Wilhelm Friedrich Hegel" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Das_Kapital",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-138",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher amerikanisch-britische Regisseur drehte '2001: Odyssee im Weltraum'?", "en": "Which American-British director made '2001: A Space Odyssey'?" },
+      "options": [
+        { "de": "Steven Spielberg", "en": "Steven Spielberg" },
+        { "de": "Stanley Kubrick", "en": "Stanley Kubrick" },
+        { "de": "Ridley Scott", "en": "Ridley Scott" },
+        { "de": "Martin Scorsese", "en": "Martin Scorsese" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-139",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher amerikanische Regisseur führte Regie bei 'Schindlers Liste'?", "en": "Which American director directed 'Schindler's List'?" },
+      "options": [
+        { "de": "Francis Ford Coppola", "en": "Francis Ford Coppola" },
+        { "de": "Steven Spielberg", "en": "Steven Spielberg" },
+        { "de": "Martin Scorsese", "en": "Martin Scorsese" },
+        { "de": "Clint Eastwood", "en": "Clint Eastwood" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Schindler%27s_List",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-140",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher spanische Architekt entwarf die Sagrada Familia in Barcelona?", "en": "Which Spanish architect designed the Sagrada Familia in Barcelona?" },
+      "options": [
+        { "de": "Santiago Calatrava", "en": "Santiago Calatrava" },
+        { "de": "Antoni Gaudi", "en": "Antoni Gaudi" },
+        { "de": "Rafael Moneo", "en": "Rafael Moneo" },
+        { "de": "Ricardo Bofill", "en": "Ricardo Bofill" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-141",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher deutsche Mathematiker wird als 'Fuerst der Mathematiker' bezeichnet?", "en": "Which German mathematician is known as the 'Prince of Mathematicians'?" },
+      "options": [
+        { "de": "Bernhard Riemann", "en": "Bernhard Riemann" },
+        { "de": "Carl Friedrich Gauss", "en": "Carl Friedrich Gauss" },
+        { "de": "David Hilbert", "en": "David Hilbert" },
+        { "de": "Gottfried Wilhelm Leibniz", "en": "Gottfried Wilhelm Leibniz" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-142",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher britische Mathematiker knackte im Zweiten Weltkrieg den Enigma-Code?", "en": "Which British mathematician broke the Enigma code during World War II?" },
+      "options": [
+        { "de": "Charles Babbage", "en": "Charles Babbage" },
+        { "de": "Alan Turing", "en": "Alan Turing" },
+        { "de": "John von Neumann", "en": "John von Neumann" },
+        { "de": "Gordon Welchman", "en": "Gordon Welchman" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alan_Turing",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-143",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welche Ordensschwester erhielt 1979 den Friedensnobelpreis für ihre Arbeit mit den Armen in Kalkutta?", "en": "Which nun received the 1979 Nobel Peace Prize for her work with the poor in Calcutta?" },
+      "options": [
+        { "de": "Schwester Nirmala", "en": "Sister Nirmala" },
+        { "de": "Mutter Teresa", "en": "Mother Teresa" },
+        { "de": "Schwester Emmanuelle", "en": "Sister Emmanuelle" },
+        { "de": "Dorothy Day", "en": "Dorothy Day" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mother_Teresa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-144",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher italienische Komponist schrieb die Oper 'Aida'?", "en": "Which Italian composer wrote the opera 'Aida'?" },
+      "options": [
+        { "de": "Giacomo Puccini", "en": "Giacomo Puccini" },
+        { "de": "Giuseppe Verdi", "en": "Giuseppe Verdi" },
+        { "de": "Gioachino Rossini", "en": "Gioachino Rossini" },
+        { "de": "Gaetano Donizetti", "en": "Gaetano Donizetti" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aida",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-145",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher deutsche Komponist schrieb den vierteiligen Opernzyklus 'Der Ring des Nibelungen'?", "en": "Which German composer wrote the four-opera cycle 'The Ring of the Nibelung'?" },
+      "options": [
+        { "de": "Johannes Brahms", "en": "Johannes Brahms" },
+        { "de": "Richard Wagner", "en": "Richard Wagner" },
+        { "de": "Richard Strauss", "en": "Richard Strauss" },
+        { "de": "Robert Schumann", "en": "Robert Schumann" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-146",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher italienische Komponist schrieb 'Die vier Jahreszeiten'?", "en": "Which Italian composer wrote 'The Four Seasons'?" },
+      "options": [
+        { "de": "Arcangelo Corelli", "en": "Arcangelo Corelli" },
+        { "de": "Antonio Vivaldi", "en": "Antonio Vivaldi" },
+        { "de": "Claudio Monteverdi", "en": "Claudio Monteverdi" },
+        { "de": "Alessandro Scarlatti", "en": "Alessandro Scarlatti" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-147",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welche russische Zarin modernisierte Russland im 18. Jahrhundert und erweiterte das Reich erheblich?", "en": "Which Russian empress modernized Russia in the 18th century and significantly expanded the empire?" },
+      "options": [
+        { "de": "Katharina I.", "en": "Catherine I" },
+        { "de": "Katharina die Große", "en": "Catherine the Great" },
+        { "de": "Elisabeth I. von Russland", "en": "Elizabeth of Russia" },
+        { "de": "Anna Iwanowna", "en": "Anna of Russia" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Catherine_the_Great",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-148",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher US-Präsident war mit 42 Jahren der jüngste, der je ins Amt kam?", "en": "Which US President was the youngest ever to take office at age 42?" },
+      "options": [
+        { "de": "John F. Kennedy", "en": "John F. Kennedy" },
+        { "de": "Theodore Roosevelt", "en": "Theodore Roosevelt" },
+        { "de": "Bill Clinton", "en": "Bill Clinton" },
+        { "de": "Barack Obama", "en": "Barack Obama" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-149",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher chinesische Revolutionsführer rief 1949 die Volksrepublik China aus?", "en": "Which Chinese revolutionary leader proclaimed the People's Republic of China in 1949?" },
+      "options": [
+        { "de": "Sun Yat-sen", "en": "Sun Yat-sen" },
+        { "de": "Mao Zedong", "en": "Mao Zedong" },
+        { "de": "Deng Xiaoping", "en": "Deng Xiaoping" },
+        { "de": "Chiang Kai-shek", "en": "Chiang Kai-shek" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mao_Zedong",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-150",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher mexikanische Wandmaler schuf großflächige Fresken über die mexikanische Geschichte?", "en": "Which Mexican muralist created large-scale frescoes about Mexican history?" },
+      "options": [
+        { "de": "David Alfaro Siqueiros", "en": "David Alfaro Siqueiros" },
+        { "de": "Diego Rivera", "en": "Diego Rivera" },
+        { "de": "Jose Clemente Orozco", "en": "Jose Clemente Orozco" },
+        { "de": "Rufino Tamayo", "en": "Rufino Tamayo" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Diego_Rivera",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-151",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher kolumbianische Schriftsteller schrieb 'Hundert Jahre Einsamkeit'?", "en": "Which Colombian author wrote 'One Hundred Years of Solitude'?" },
+      "options": [
+        { "de": "Mario Vargas Llosa", "en": "Mario Vargas Llosa" },
+        { "de": "Gabriel García Márquez", "en": "Gabriel García Márquez" },
+        { "de": "Jorge Luis Borges", "en": "Jorge Luis Borges" },
+        { "de": "Isabel Allende", "en": "Isabel Allende" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-152",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher italienische Philosoph und Diplomat schrieb 'Der Fuerst'?", "en": "Which Italian philosopher and diplomat wrote 'The Prince'?" },
+      "options": [
+        { "de": "Niccolo Machiavelli", "en": "Niccolo Machiavelli" },
+        { "de": "Cesare Borgia", "en": "Cesare Borgia" },
+        { "de": "Thomas Morus", "en": "Thomas More" },
+        { "de": "Baldassare Castiglione", "en": "Baldassare Castiglione" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Prince",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-153",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher französische Aufklärungsphilosoph ist für seinen Aufruf zur Meinungsfreiheit bekannt?", "en": "Which French Enlightenment philosopher is known for his advocacy of freedom of speech?" },
+      "options": [
+        { "de": "Jean-Jacques Rousseau", "en": "Jean-Jacques Rousseau" },
+        { "de": "Voltaire", "en": "Voltaire" },
+        { "de": "Denis Diderot", "en": "Denis Diderot" },
+        { "de": "Montesquieu", "en": "Montesquieu" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Voltaire",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-154",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher deutsche Raketenwissenschaftler entwickelte die Saturn-V-Rakete für die Apollo-Missionen?", "en": "Which German rocket scientist developed the Saturn V rocket for the Apollo missions?" },
+      "options": [
+        { "de": "Hermann Oberth", "en": "Hermann Oberth" },
+        { "de": "Wernher von Braun", "en": "Wernher von Braun" },
+        { "de": "Robert Goddard", "en": "Robert Goddard" },
+        { "de": "Sergei Koroljow", "en": "Sergei Korolev" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wernher_von_Braun",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-155",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher chinesische Militärstratege schrieb 'Die Kunst des Krieges'?", "en": "Which Chinese military strategist wrote 'The Art of War'?" },
+      "options": [
+        { "de": "Konfuzius", "en": "Confucius" },
+        { "de": "Sun Tzu", "en": "Sun Tzu" },
+        { "de": "Lao Tse", "en": "Lao Tzu" },
+        { "de": "Zhuge Liang", "en": "Zhuge Liang" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sun_Tzu",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-156",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher französische Komponist schrieb das Klavierstück 'Clair de Lune'?", "en": "Which French composer wrote the piano piece 'Clair de Lune'?" },
+      "options": [
+        { "de": "Maurice Ravel", "en": "Maurice Ravel" },
+        { "de": "Claude Debussy", "en": "Claude Debussy" },
+        { "de": "Camille Saint-Saens", "en": "Camille Saint-Saens" },
+        { "de": "Erik Satie", "en": "Erik Satie" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Clair_de_Lune_(Debussy)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-157",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher deutsche Naturforscher und Entdecker erforschte Südamerika und gilt als Mitbegründer der Biogeographie?", "en": "Which German naturalist and explorer researched South America and is considered a co-founder of biogeography?" },
+      "options": [
+        { "de": "Carl Linnaeus", "en": "Carl Linnaeus" },
+        { "de": "Alexander von Humboldt", "en": "Alexander von Humboldt" },
+        { "de": "Charles Darwin", "en": "Charles Darwin" },
+        { "de": "Alfred Russel Wallace", "en": "Alfred Russel Wallace" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_von_Humboldt",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-158",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher südamerikanische Befreiungsführer wird 'El Libertador' genannt und befreite mehrere Länder von der spanischen Herrschaft?", "en": "Which South American liberation leader is called 'El Libertador' and freed several countries from Spanish rule?" },
+      "options": [
+        { "de": "Jose de San Martin", "en": "Jose de San Martin" },
+        { "de": "Simon Bolivar", "en": "Simon Bolivar" },
+        { "de": "Bernardo O'Higgins", "en": "Bernardo O'Higgins" },
+        { "de": "Antonio Jose de Sucre", "en": "Antonio Jose de Sucre" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-159",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher irische Schriftsteller schrieb den Roman 'Ulysses'?", "en": "Which Irish writer wrote the novel 'Ulysses'?" },
+      "options": [
+        { "de": "Oscar Wilde", "en": "Oscar Wilde" },
+        { "de": "James Joyce", "en": "James Joyce" },
+        { "de": "Samuel Beckett", "en": "Samuel Beckett" },
+        { "de": "W.B. Yeats", "en": "W.B. Yeats" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ulysses_(novel)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-160",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher österreichisch-ungarische Psychologe begründete die analytische Psychologie und das Konzept des kollektiven Unbewussten?", "en": "Which Swiss psychiatrist founded analytical psychology and the concept of the collective unconscious?" },
+      "options": [
+        { "de": "Sigmund Freud", "en": "Sigmund Freud" },
+        { "de": "Carl Jung", "en": "Carl Jung" },
+        { "de": "Alfred Adler", "en": "Alfred Adler" },
+        { "de": "Erik Erikson", "en": "Erik Erikson" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Carl_Jung",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-161",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher italienischer Physiker baute 1942 den ersten Kernreaktor?", "en": "Which Italian physicist built the first nuclear reactor in 1942?" },
+      "options": [
+        { "de": "Ettore Majorana", "en": "Ettore Majorana" },
+        { "de": "Enrico Fermi", "en": "Enrico Fermi" },
+        { "de": "Emilio Segrè", "en": "Emilio Segrè" },
+        { "de": "Bruno Pontecorvo", "en": "Bruno Pontecorvo" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Enrico_Fermi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-162",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher indische Dichter und Philosoph war 1913 der erste Nicht-Europäer, der den Nobelpreis für Literatur erhielt?", "en": "Which Indian poet and philosopher was the first non-European to win the Nobel Prize in Literature in 1913?" },
+      "options": [
+        { "de": "Mahatma Gandhi", "en": "Mahatma Gandhi" },
+        { "de": "Rabindranath Tagore", "en": "Rabindranath Tagore" },
+        { "de": "Jawaharlal Nehru", "en": "Jawaharlal Nehru" },
+        { "de": "Sri Aurobindo", "en": "Sri Aurobindo" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-163",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welche Hollywoodschauspielerin, geboren als Norma Jeane Mortenson, wurde zum Inbegriff des Glamours der 1950er Jahre?", "en": "Which Hollywood actress, born Norma Jeane Mortenson, became an icon of 1950s glamour?" },
+      "options": [
+        { "de": "Audrey Hepburn", "en": "Audrey Hepburn" },
+        { "de": "Marilyn Monroe", "en": "Marilyn Monroe" },
+        { "de": "Grace Kelly", "en": "Grace Kelly" },
+        { "de": "Elizabeth Taylor", "en": "Elizabeth Taylor" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marilyn_Monroe",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-164",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher amerikanische Physiker leitete das Manhattan-Projekt zur Entwicklung der Atombombe?", "en": "Which American physicist led the Manhattan Project to develop the atomic bomb?" },
+      "options": [
+        { "de": "Enrico Fermi", "en": "Enrico Fermi" },
+        { "de": "J. Robert Oppenheimer", "en": "J. Robert Oppenheimer" },
+        { "de": "Edward Teller", "en": "Edward Teller" },
+        { "de": "Richard Feynman", "en": "Richard Feynman" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-165",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher österreichisch-böhmische Schriftsteller schrieb 'Die Verwandlung'?", "en": "Which Austrian-Bohemian writer wrote 'The Metamorphosis'?" },
+      "options": [
+        { "de": "Robert Musil", "en": "Robert Musil" },
+        { "de": "Franz Kafka", "en": "Franz Kafka" },
+        { "de": "Stefan Zweig", "en": "Stefan Zweig" },
+        { "de": "Hermann Hesse", "en": "Hermann Hesse" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Metamorphosis",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-166",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welche rumänische Turnerin erzielte 1976 bei den Olympischen Spielen in Montreal die erste perfekte 10?", "en": "Which Romanian gymnast scored the first perfect 10 at the 1976 Montreal Olympics?" },
+      "options": [
+        { "de": "Olga Korbut", "en": "Olga Korbut" },
+        { "de": "Nadia Comaneci", "en": "Nadia Comaneci" },
+        { "de": "Vera Caslavska", "en": "Vera Caslavska" },
+        { "de": "Larisa Latynina", "en": "Larisa Latynina" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-167",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher französischer Schriftsteller schrieb die Science-Fiction-Klassiker 'Zwanzigtausend Meilen unter dem Meer' und 'In 80 Tagen um die Welt'?", "en": "Which French writer wrote the science fiction classics 'Twenty Thousand Leagues Under the Sea' and 'Around the World in Eighty Days'?" },
+      "options": [
+        { "de": "Alexandre Dumas", "en": "Alexandre Dumas" },
+        { "de": "Jules Verne", "en": "Jules Verne" },
+        { "de": "H.G. Wells", "en": "H.G. Wells" },
+        { "de": "Victor Hugo", "en": "Victor Hugo" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jules_Verne",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-168",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher amerikanische Bürgerrechtler gründete die Southern Christian Leadership Conference?", "en": "Which American civil rights leader founded the Southern Christian Leadership Conference?" },
+      "options": [
+        { "de": "Malcolm X", "en": "Malcolm X" },
+        { "de": "Martin Luther King Jr.", "en": "Martin Luther King Jr." },
+        { "de": "Jesse Jackson", "en": "Jesse Jackson" },
+        { "de": "Ralph Abernathy", "en": "Ralph Abernathy" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Southern_Christian_Leadership_Conference",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-169",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher österreichische Komponist schuf das 'Lied von der Erde' und vollendete neun Sinfonien?", "en": "Which Austrian composer created 'Das Lied von der Erde' and completed nine symphonies?" },
+      "options": [
+        { "de": "Anton Bruckner", "en": "Anton Bruckner" },
+        { "de": "Gustav Mahler", "en": "Gustav Mahler" },
+        { "de": "Hugo Wolf", "en": "Hugo Wolf" },
+        { "de": "Arnold Schönberg", "en": "Arnold Schoenberg" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gustav_Mahler",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-170",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher englische Naturforscher entwickelte unabhängig von Darwin eine Theorie der natürlichen Selektion?", "en": "Which English naturalist independently developed a theory of natural selection at the same time as Darwin?" },
+      "options": [
+        { "de": "Thomas Huxley", "en": "Thomas Huxley" },
+        { "de": "Alfred Russel Wallace", "en": "Alfred Russel Wallace" },
+        { "de": "Joseph Hooker", "en": "Joseph Hooker" },
+        { "de": "Jean-Baptiste Lamarck", "en": "Jean-Baptiste Lamarck" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alfred_Russel_Wallace",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-171",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher französische Bildhauer schuf 'Der Denker'?", "en": "Which French sculptor created 'The Thinker'?" },
+      "options": [
+        { "de": "Camille Claudel", "en": "Camille Claudel" },
+        { "de": "Auguste Rodin", "en": "Auguste Rodin" },
+        { "de": "Antoine Bourdelle", "en": "Antoine Bourdelle" },
+        { "de": "Aristide Maillol", "en": "Aristide Maillol" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Thinker",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-172",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Herrscher ließ im 8. Jahrhundert das Frankenreich zu einem europäischen Großreich werden und wurde zum Kaiser gekrönt?", "en": "Which ruler expanded the Frankish kingdom into a major European empire and was crowned emperor in 800 AD?" },
+      "options": [
+        { "de": "Chlodwig I.", "en": "Clovis I" },
+        { "de": "Karl der Große", "en": "Charlemagne" },
+        { "de": "Karl Martell", "en": "Charles Martel" },
+        { "de": "Ludwig der Fromme", "en": "Louis the Pious" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Charlemagne",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-173",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher US-Sprinter gewann bei den Olympischen Spielen 1936 in Berlin vier Goldmedaillen?", "en": "Which US sprinter won four gold medals at the 1936 Berlin Olympics?" },
+      "options": [
+        { "de": "Ralph Metcalfe", "en": "Ralph Metcalfe" },
+        { "de": "Jesse Owens", "en": "Jesse Owens" },
+        { "de": "Eddie Tolan", "en": "Eddie Tolan" },
+        { "de": "Mack Robinson", "en": "Mack Robinson" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jesse_Owens",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-174",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welche Schauspielerin und Erfinderin trug zur Entwicklung der Frequenzspreizung bei, einer Grundlage moderner Kommunikation?", "en": "Which actress and inventor contributed to developing frequency-hopping spread spectrum, a basis for modern communication?" },
+      "options": [
+        { "de": "Marlene Dietrich", "en": "Marlene Dietrich" },
+        { "de": "Hedy Lamarr", "en": "Hedy Lamarr" },
+        { "de": "Greta Garbo", "en": "Greta Garbo" },
+        { "de": "Ingrid Bergman", "en": "Ingrid Bergman" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-175",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher griechische Mathematiker wird für den nach ihm benannten Satz über rechtwinklige Dreiecke gewürdigt?", "en": "Which Greek mathematician is credited with the theorem about right-angled triangles that bears his name?" },
+      "options": [
+        { "de": "Euklid", "en": "Euclid" },
+        { "de": "Pythagoras", "en": "Pythagoras" },
+        { "de": "Archimedes", "en": "Archimedes" },
+        { "de": "Thales", "en": "Thales" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pythagoras",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-176",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher russische Chemiker erstellte 1869 das erste allgemein anerkannte Periodensystem der Elemente?", "en": "Which Russian chemist created the first widely recognized periodic table of elements in 1869?" },
+      "options": [
+        { "de": "Lothar Meyer", "en": "Lothar Meyer" },
+        { "de": "Dmitri Mendelejew", "en": "Dmitri Mendeleev" },
+        { "de": "Alexander Butlerow", "en": "Alexander Butlerov" },
+        { "de": "Stanislao Cannizzaro", "en": "Stanislao Cannizzaro" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-177",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher schottische Physiker vereinheitlichte Elektrizität, Magnetismus und Optik in seinen berühmten Gleichungen?", "en": "Which Scottish physicist unified electricity, magnetism and optics in his famous equations?" },
+      "options": [
+        { "de": "Lord Kelvin", "en": "Lord Kelvin" },
+        { "de": "James Clerk Maxwell", "en": "James Clerk Maxwell" },
+        { "de": "Michael Faraday", "en": "Michael Faraday" },
+        { "de": "James Prescott Joule", "en": "James Prescott Joule" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-178",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welche österreichische Physikerin lieferte die erste theoretische Erklärung der Kernspaltung?", "en": "Which Austrian physicist provided the first theoretical explanation of nuclear fission?" },
+      "options": [
+        { "de": "Marie Curie", "en": "Marie Curie" },
+        { "de": "Lise Meitner", "en": "Lise Meitner" },
+        { "de": "Emmy Noether", "en": "Emmy Noether" },
+        { "de": "Irène Joliot-Curie", "en": "Irène Joliot-Curie" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lise_Meitner",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-179",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Schweizer Mathematiker führte die Eulersche Zahl e, die Funktionsschreibweise f(x) und das Summenzeichen ein?", "en": "Which Swiss mathematician introduced Euler's number e, function notation f(x), and the summation symbol?" },
+      "options": [
+        { "de": "Carl Friedrich Gauss", "en": "Carl Friedrich Gauss" },
+        { "de": "Leonhard Euler", "en": "Leonhard Euler" },
+        { "de": "Johann Bernoulli", "en": "Johann Bernoulli" },
+        { "de": "Joseph-Louis Lagrange", "en": "Joseph-Louis Lagrange" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-180",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher französische Mathematiker und Physiker leistete Pionierarbeit in der Wahrscheinlichkeitstheorie und erfand eine frühe Rechenmaschine?", "en": "Which French mathematician and physicist pioneered probability theory and invented an early calculating machine?" },
+      "options": [
+        { "de": "Pierre de Fermat", "en": "Pierre de Fermat" },
+        { "de": "Blaise Pascal", "en": "Blaise Pascal" },
+        { "de": "Rene Descartes", "en": "Rene Descartes" },
+        { "de": "Marin Mersenne", "en": "Marin Mersenne" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-181",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher deutsche Physiker erhielt 1901 den allerersten Nobelpreis für Physik für die Entdeckung der Röntgenstrahlen?", "en": "Which German physicist received the very first Nobel Prize in Physics in 1901 for the discovery of X-rays?" },
+      "options": [
+        { "de": "Max Planck", "en": "Max Planck" },
+        { "de": "Wilhelm Conrad Röntgen", "en": "Wilhelm Conrad Röntgen" },
+        { "de": "Heinrich Hertz", "en": "Heinrich Hertz" },
+        { "de": "Philipp Lenard", "en": "Philipp Lenard" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-182",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welche deutsche Mathematikerin formulierte ein grundlegendes Theorem, das Symmetrien und Erhaltungsgrößen in der Physik verbindet?", "en": "Which German mathematician formulated a fundamental theorem linking symmetries and conservation laws in physics?" },
+      "options": [
+        { "de": "Sofia Kowalewskaja", "en": "Sofia Kovalevskaya" },
+        { "de": "Emmy Noether", "en": "Emmy Noether" },
+        { "de": "Ada Lovelace", "en": "Ada Lovelace" },
+        { "de": "Maria Gaetana Agnesi", "en": "Maria Gaetana Agnesi" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Emmy_Noether",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-183",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welche alexandrinische Mathematikerin und Philosophin wurde um 415 n. Chr. getötet und gilt als eine der ersten bekannten Wissenschaftlerinnen?", "en": "Which Alexandrian mathematician and philosopher was killed around 415 AD and is considered one of the first known female scientists?" },
+      "options": [
+        { "de": "Aspasia", "en": "Aspasia" },
+        { "de": "Hypatia", "en": "Hypatia" },
+        { "de": "Theano", "en": "Theano" },
+        { "de": "Kleopatra die Alchemistin", "en": "Cleopatra the Alchemist" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hypatia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-184",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher amerikanische Informatikpionier pragte den Begriff 'Bug' für einen Computerfehler und entwickelte COBOL mit?", "en": "Which American computer science pioneer coined the term 'bug' for a computer error and helped develop COBOL?" },
+      "options": [
+        { "de": "Ada Lovelace", "en": "Ada Lovelace" },
+        { "de": "Grace Hopper", "en": "Grace Hopper" },
+        { "de": "Margaret Hamilton", "en": "Margaret Hamilton" },
+        { "de": "Jean Bartik", "en": "Jean Bartik" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Grace_Hopper",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-185",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher japanische Regisseur drehte 'Die sieben Samurai' und beeinflusste das Weltkino maßgeblich?", "en": "Which Japanese director made 'Seven Samurai' and profoundly influenced world cinema?" },
+      "options": [
+        { "de": "Yasujiro Ozu", "en": "Yasujiro Ozu" },
+        { "de": "Akira Kurosawa", "en": "Akira Kurosawa" },
+        { "de": "Kenji Mizoguchi", "en": "Kenji Mizoguchi" },
+        { "de": "Hayao Miyazaki", "en": "Hayao Miyazaki" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Seven_Samurai",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-186",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher amerikanische Architekt entwarf 'Fallingwater', eines der berühmtesten Haeuser des 20. Jahrhunderts?", "en": "Which American architect designed 'Fallingwater', one of the most famous houses of the 20th century?" },
+      "options": [
+        { "de": "Ludwig Mies van der Rohe", "en": "Ludwig Mies van der Rohe" },
+        { "de": "Frank Lloyd Wright", "en": "Frank Lloyd Wright" },
+        { "de": "Philip Johnson", "en": "Philip Johnson" },
+        { "de": "Louis Kahn", "en": "Louis Kahn" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fallingwater",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-187",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher schweizerisch-französische Architekt ist für seine fünf Punkte der modernen Architektur und die Villa Savoye bekannt?", "en": "Which Swiss-French architect is known for his five points of modern architecture and the Villa Savoye?" },
+      "options": [
+        { "de": "Walter Gropius", "en": "Walter Gropius" },
+        { "de": "Le Corbusier", "en": "Le Corbusier" },
+        { "de": "Alvar Aalto", "en": "Alvar Aalto" },
+        { "de": "Oscar Niemeyer", "en": "Oscar Niemeyer" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Le_Corbusier",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-188",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher französische Existentialist lehnte 1964 den Nobelpreis für Literatur ab?", "en": "Which French existentialist declined the Nobel Prize in Literature in 1964?" },
+      "options": [
+        { "de": "Albert Camus", "en": "Albert Camus" },
+        { "de": "Jean-Paul Sartre", "en": "Jean-Paul Sartre" },
+        { "de": "Simone de Beauvoir", "en": "Simone de Beauvoir" },
+        { "de": "Maurice Merleau-Ponty", "en": "Maurice Merleau-Ponty" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-189",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher englische Philosoph verfasste die 'Zwei Abhandlungen über die Regierung' und gilt als Vater des Liberalismus?", "en": "Which English philosopher wrote the 'Two Treatises of Government' and is considered the father of liberalism?" },
+      "options": [
+        { "de": "Thomas Hobbes", "en": "Thomas Hobbes" },
+        { "de": "John Locke", "en": "John Locke" },
+        { "de": "David Hume", "en": "David Hume" },
+        { "de": "Francis Bacon", "en": "Francis Bacon" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/John_Locke",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-190",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher indische Mathematiker arbeitete mit G.H. Hardy in Cambridge und leistete bahnbrechende Beiträge zur Zahlentheorie?", "en": "Which Indian mathematician worked with G.H. Hardy at Cambridge and made groundbreaking contributions to number theory?" },
+      "options": [
+        { "de": "C.V. Raman", "en": "C.V. Raman" },
+        { "de": "Srinivasa Ramanujan", "en": "Srinivasa Ramanujan" },
+        { "de": "Satyendra Nath Bose", "en": "Satyendra Nath Bose" },
+        { "de": "Harish-Chandra", "en": "Harish-Chandra" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-191",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher persische Arzt und Philosoph verfasste im 11. Jahrhundert den 'Kanon der Medizin'?", "en": "Which Persian physician and philosopher wrote 'The Canon of Medicine' in the 11th century?" },
+      "options": [
+        { "de": "Al-Razi", "en": "Al-Razi" },
+        { "de": "Ibn Sina (Avicenna)", "en": "Ibn Sina (Avicenna)" },
+        { "de": "Al-Zahrawi", "en": "Al-Zahrawi" },
+        { "de": "Ibn Rushd (Averroes)", "en": "Ibn Rushd (Averroes)" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Avicenna",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-192",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welche deutsche Benediktinerin des 12. Jahrhunderts war Visionärin, Komponistin, Naturforscherin und Philosophin?", "en": "Which 12th-century German Benedictine abbess was a visionary, composer, naturalist and philosopher?" },
+      "options": [
+        { "de": "Mechthild von Magdeburg", "en": "Mechthild of Magdeburg" },
+        { "de": "Hildegard von Bingen", "en": "Hildegard of Bingen" },
+        { "de": "Julian von Norwich", "en": "Julian of Norwich" },
+        { "de": "Katharina von Siena", "en": "Catherine of Siena" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hildegard_of_Bingen",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-193",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher russische Komponist löste mit der Uraufführung von 'Le Sacre du printemps' 1913 einen Aufruhr aus?", "en": "Which Russian composer caused a riot with the premiere of 'The Rite of Spring' in 1913?" },
+      "options": [
+        { "de": "Sergei Rachmaninow", "en": "Sergei Rachmaninoff" },
+        { "de": "Igor Strawinsky", "en": "Igor Stravinsky" },
+        { "de": "Sergei Prokofjew", "en": "Sergei Prokofiev" },
+        { "de": "Nikolai Rimski-Korsakow", "en": "Nikolai Rimsky-Korsakov" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Rite_of_Spring",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-194",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher russische Komponist schrieb die 'Leningrader Sinfonie' (Nr. 7) während der Belagerung im Zweiten Weltkrieg?", "en": "Which Russian composer wrote the 'Leningrad Symphony' (No. 7) during the WWII siege?" },
+      "options": [
+        { "de": "Sergei Prokofjew", "en": "Sergei Prokofiev" },
+        { "de": "Dmitri Schostakowitsch", "en": "Dmitri Shostakovich" },
+        { "de": "Aram Chatschaturjan", "en": "Aram Khachaturian" },
+        { "de": "Alfred Schnittke", "en": "Alfred Schnittke" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_No._7_(Shostakovich)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-195",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher ungarische Komponist erforschte die Volksmusik Osteuropas und integrierte sie in seine Kompositionen?", "en": "Which Hungarian composer researched Eastern European folk music and integrated it into his compositions?" },
+      "options": [
+        { "de": "Franz Liszt", "en": "Franz Liszt" },
+        { "de": "Bela Bartok", "en": "Bela Bartok" },
+        { "de": "Zoltan Kodaly", "en": "Zoltan Kodaly" },
+        { "de": "Gyorgy Ligeti", "en": "Gyorgy Ligeti" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-196",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher italienische Barockmeister war für seinen dramatischen Einsatz von Licht und Schatten (Chiaroscuro) bekannt?", "en": "Which Italian Baroque master was known for his dramatic use of light and shadow (chiaroscuro)?" },
+      "options": [
+        { "de": "Guido Reni", "en": "Guido Reni" },
+        { "de": "Caravaggio", "en": "Caravaggio" },
+        { "de": "Artemisia Gentileschi", "en": "Artemisia Gentileschi" },
+        { "de": "Annibale Carracci", "en": "Annibale Carracci" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Caravaggio",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-197",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher niederländische Philosoph des 17. Jahrhunderts verfasste die 'Ethik' und vertrat einen radikalen Rationalismus?", "en": "Which 17th-century Dutch philosopher wrote the 'Ethics' and advocated radical rationalism?" },
+      "options": [
+        { "de": "Rene Descartes", "en": "Rene Descartes" },
+        { "de": "Baruch Spinoza", "en": "Baruch Spinoza" },
+        { "de": "Gottfried Wilhelm Leibniz", "en": "Gottfried Wilhelm Leibniz" },
+        { "de": "Hugo Grotius", "en": "Hugo Grotius" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Baruch_Spinoza",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-198",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher japanische Shogun vereinte Japan und begründete eine Dynastie, die über 250 Jahre regierte?", "en": "Which Japanese shogun unified Japan and founded a dynasty that ruled for over 250 years?" },
+      "options": [
+        { "de": "Oda Nobunaga", "en": "Oda Nobunaga" },
+        { "de": "Tokugawa Ieyasu", "en": "Tokugawa Ieyasu" },
+        { "de": "Toyotomi Hideyoshi", "en": "Toyotomi Hideyoshi" },
+        { "de": "Minamoto no Yoritomo", "en": "Minamoto no Yoritomo" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-199",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher ägyptische Pharao regierte über 60 Jahre und ließ die Tempel von Abu Simbel errichten?", "en": "Which Egyptian pharaoh reigned for over 60 years and built the temples of Abu Simbel?" },
+      "options": [
+        { "de": "Tutanchamun", "en": "Tutankhamun" },
+        { "de": "Ramses II.", "en": "Ramesses II" },
+        { "de": "Thutmosis III.", "en": "Thutmose III" },
+        { "de": "Amenhotep III.", "en": "Amenhotep III" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ramesses_II",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-200",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher dänische Astronom betrieb im 16. Jahrhundert das Observatorium Uraniborg und sammelte präzise astronomische Daten?", "en": "Which Danish astronomer operated the Uraniborg observatory in the 16th century and collected precise astronomical data?" },
+      "options": [
+        { "de": "Nikolaus Kopernikus", "en": "Nicolaus Copernicus" },
+        { "de": "Tycho Brahe", "en": "Tycho Brahe" },
+        { "de": "Johannes Kepler", "en": "Johannes Kepler" },
+        { "de": "Ole Roemer", "en": "Ole Roemer" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tycho_Brahe",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-201",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher britische Naturforscher erforschte die Galapagos-Inseln und formulierte die Theorie der natürlichen Auslese zusammen mit Wallace?", "en": "Which British naturalist explored the Galapagos Islands and co-formulated the theory of natural selection with Wallace?" },
+      "options": [
+        { "de": "Alfred Russel Wallace", "en": "Alfred Russel Wallace" },
+        { "de": "Charles Darwin", "en": "Charles Darwin" },
+        { "de": "Thomas Huxley", "en": "Thomas Huxley" },
+        { "de": "Joseph Hooker", "en": "Joseph Hooker" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Galapagos_Islands",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-202",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher englische Schriftsteller verfasste die dystopische Novelle '1984' unter dem Pseudonym George Orwell?", "en": "Which English writer wrote the dystopian novel '1984' under the pen name George Orwell?" },
+      "options": [
+        { "de": "Eric Arthur Blair", "en": "Eric Arthur Blair" },
+        { "de": "Aldous Huxley", "en": "Aldous Huxley" },
+        { "de": "H.G. Wells", "en": "H.G. Wells" },
+        { "de": "Arthur Koestler", "en": "Arthur Koestler" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Orwell",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-203",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher italienische Entdecker gab dem amerikanischen Kontinent indirekt seinen Namen?", "en": "Which Italian explorer indirectly gave the American continent its name?" },
+      "options": [
+        { "de": "Christoph Kolumbus", "en": "Christopher Columbus" },
+        { "de": "Amerigo Vespucci", "en": "Amerigo Vespucci" },
+        { "de": "Giovanni Caboto", "en": "John Cabot" },
+        { "de": "Giovanni da Verrazzano", "en": "Giovanni da Verrazzano" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amerigo_Vespucci",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-204",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher norwegisch-amerikanische Entdecker durchquerte 1906 als Erster die Nordwestpassage vollständig?", "en": "Which Norwegian explorer was the first to navigate the Northwest Passage entirely in 1906?" },
+      "options": [
+        { "de": "Fridtjof Nansen", "en": "Fridtjof Nansen" },
+        { "de": "Roald Amundsen", "en": "Roald Amundsen" },
+        { "de": "Robert Peary", "en": "Robert Peary" },
+        { "de": "Ernest Shackleton", "en": "Ernest Shackleton" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Northwest_Passage",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-205",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher britische Entdecker leitete die gescheiterte Endurance-Expedition in die Antarktis (1914-1917)?", "en": "Which British explorer led the failed Endurance expedition to Antarctica (1914-1917)?" },
+      "options": [
+        { "de": "Robert Falcon Scott", "en": "Robert Falcon Scott" },
+        { "de": "Ernest Shackleton", "en": "Ernest Shackleton" },
+        { "de": "Roald Amundsen", "en": "Roald Amundsen" },
+        { "de": "Douglas Mawson", "en": "Douglas Mawson" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-206",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher englische Physiker und Alchemist schrieb nicht nur die 'Principia', sondern auch umfangreiche theologische Schriften?", "en": "Which English physicist and alchemist wrote not only the 'Principia' but also extensive theological works?" },
+      "options": [
+        { "de": "Robert Hooke", "en": "Robert Hooke" },
+        { "de": "Isaac Newton", "en": "Isaac Newton" },
+        { "de": "Edmund Halley", "en": "Edmund Halley" },
+        { "de": "Christiaan Huygens", "en": "Christiaan Huygens" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Isaac_Newton%27s_religious_views",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-207",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher französische Naturforscher schlug als erster eine Theorie der biologischen Evolution durch Vererbung erworbener Merkmale vor?", "en": "Which French naturalist was the first to propose a theory of biological evolution through the inheritance of acquired characteristics?" },
+      "options": [
+        { "de": "Georges Cuvier", "en": "Georges Cuvier" },
+        { "de": "Jean-Baptiste Lamarck", "en": "Jean-Baptiste Lamarck" },
+        { "de": "Etienne Geoffroy Saint-Hilaire", "en": "Etienne Geoffroy Saint-Hilaire" },
+        { "de": "Comte de Buffon", "en": "Comte de Buffon" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-208",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welche polnisch-französische Physikerin war die erste Person, die zwei Nobelpreise in verschiedenen Wissenschaftsbereichen erhielt?", "en": "Which Polish-French physicist was the first person to win Nobel Prizes in two different sciences?" },
+      "options": [
+        { "de": "Irène Joliot-Curie", "en": "Irène Joliot-Curie" },
+        { "de": "Marie Curie", "en": "Marie Curie" },
+        { "de": "Lise Meitner", "en": "Lise Meitner" },
+        { "de": "Dorothy Hodgkin", "en": "Dorothy Hodgkin" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-209",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Renaissance-Künstler und Ingenieur entwarf Flugmaschinen, Panzer und anatomische Studien in seinen berühmten Notizbüchern?", "en": "Which Renaissance artist and engineer designed flying machines, tanks and anatomical studies in his famous notebooks?" },
+      "options": [
+        { "de": "Michelangelo", "en": "Michelangelo" },
+        { "de": "Leonardo da Vinci", "en": "Leonardo da Vinci" },
+        { "de": "Raffael", "en": "Raphael" },
+        { "de": "Leon Battista Alberti", "en": "Leon Battista Alberti" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-210",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher deutsche Philosoph prägte den Begriff 'Dasein' und schrieb 'Sein und Zeit'?", "en": "Which German philosopher coined the term 'Dasein' and wrote 'Being and Time'?" },
+      "options": [
+        { "de": "Edmund Husserl", "en": "Edmund Husserl" },
+        { "de": "Martin Heidegger", "en": "Martin Heidegger" },
+        { "de": "Hans-Georg Gadamer", "en": "Hans-Georg Gadamer" },
+        { "de": "Karl Jaspers", "en": "Karl Jaspers" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Martin_Heidegger",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-211",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher deutsche Philosoph schrieb 'Die Welt als Wille und Vorstellung'?", "en": "Which German philosopher wrote 'The World as Will and Representation'?" },
+      "options": [
+        { "de": "Friedrich Nietzsche", "en": "Friedrich Nietzsche" },
+        { "de": "Arthur Schopenhauer", "en": "Arthur Schopenhauer" },
+        { "de": "Immanuel Kant", "en": "Immanuel Kant" },
+        { "de": "Ludwig Feuerbach", "en": "Ludwig Feuerbach" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-212",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher dänische Philosoph gilt als Begründer des Existentialismus und schrieb 'Entweder - Oder'?", "en": "Which Danish philosopher is considered the founder of existentialism and wrote 'Either/Or'?" },
+      "options": [
+        { "de": "Friedrich Nietzsche", "en": "Friedrich Nietzsche" },
+        { "de": "Soeren Kierkegaard", "en": "Soren Kierkegaard" },
+        { "de": "Martin Heidegger", "en": "Martin Heidegger" },
+        { "de": "Jean-Paul Sartre", "en": "Jean-Paul Sartre" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-213",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher französische Mathematiker bewies wichtige Saetze der Gruppentheorie, bevor er im Alter von 20 Jahren in einem Duell starb?", "en": "Which French mathematician proved important theorems in group theory before dying in a duel at age 20?" },
+      "options": [
+        { "de": "Evariste Galois", "en": "Evariste Galois" },
+        { "de": "Augustin-Louis Cauchy", "en": "Augustin-Louis Cauchy" },
+        { "de": "Niels Henrik Abel", "en": "Niels Henrik Abel" },
+        { "de": "Joseph Liouville", "en": "Joseph Liouville" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/%C3%89variste_Galois",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-214",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welche französische Schriftstellerin und Feministin schrieb 'Das andere Geschlecht'?", "en": "Which French writer and feminist wrote 'The Second Sex'?" },
+      "options": [
+        { "de": "Marguerite Duras", "en": "Marguerite Duras" },
+        { "de": "Simone de Beauvoir", "en": "Simone de Beauvoir" },
+        { "de": "Colette", "en": "Colette" },
+        { "de": "Nathalie Sarraute", "en": "Nathalie Sarraute" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Second_Sex",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-215",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher britische Ökonom verfasste 'Allgemeine Theorie der Beschäftigung, des Zinses und des Geldes'?", "en": "Which British economist wrote 'The General Theory of Employment, Interest and Money'?" },
+      "options": [
+        { "de": "Adam Smith", "en": "Adam Smith" },
+        { "de": "John Maynard Keynes", "en": "John Maynard Keynes" },
+        { "de": "David Ricardo", "en": "David Ricardo" },
+        { "de": "John Stuart Mill", "en": "John Stuart Mill" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/John_Maynard_Keynes",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-216",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher schottische Ökonom schrieb 'Der Wohlstand der Nationen' und gilt als Vater der modernen Volkswirtschaftslehre?", "en": "Which Scottish economist wrote 'The Wealth of Nations' and is considered the father of modern economics?" },
+      "options": [
+        { "de": "David Hume", "en": "David Hume" },
+        { "de": "Adam Smith", "en": "Adam Smith" },
+        { "de": "John Stuart Mill", "en": "John Stuart Mill" },
+        { "de": "Thomas Malthus", "en": "Thomas Malthus" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Wealth_of_Nations",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-217",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher österreichische Physiker formulierte die Grundgleichung der Quantenmechanik, die seinen Namen trägt?", "en": "Which Austrian physicist formulated the fundamental equation of quantum mechanics that bears his name?" },
+      "options": [
+        { "de": "Werner Heisenberg", "en": "Werner Heisenberg" },
+        { "de": "Erwin Schrödinger", "en": "Erwin Schrödinger" },
+        { "de": "Paul Dirac", "en": "Paul Dirac" },
+        { "de": "Wolfgang Pauli", "en": "Wolfgang Pauli" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-218",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher deutsche Mathematiker formulierte die nach ihm benannte Vermutung über die Verteilung der Primzahlen?", "en": "Which German mathematician formulated the famous hypothesis about the distribution of prime numbers that bears his name?" },
+      "options": [
+        { "de": "Carl Friedrich Gauss", "en": "Carl Friedrich Gauss" },
+        { "de": "Bernhard Riemann", "en": "Bernhard Riemann" },
+        { "de": "Peter Gustav Lejeune Dirichlet", "en": "Peter Gustav Lejeune Dirichlet" },
+        { "de": "Karl Weierstrass", "en": "Karl Weierstrass" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-219",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher österreichisch-britische Philosoph schrieb 'Die offene Gesellschaft und ihre Feinde'?", "en": "Which Austrian-British philosopher wrote 'The Open Society and Its Enemies'?" },
+      "options": [
+        { "de": "Ludwig Wittgenstein", "en": "Ludwig Wittgenstein" },
+        { "de": "Karl Popper", "en": "Karl Popper" },
+        { "de": "Friedrich Hayek", "en": "Friedrich Hayek" },
+        { "de": "Hans Kelsen", "en": "Hans Kelsen" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Karl_Popper",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-220",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher österreichisch-britische Philosoph schrieb den 'Tractatus Logico-Philosophicus'?", "en": "Which Austrian-British philosopher wrote the 'Tractatus Logico-Philosophicus'?" },
+      "options": [
+        { "de": "Karl Popper", "en": "Karl Popper" },
+        { "de": "Ludwig Wittgenstein", "en": "Ludwig Wittgenstein" },
+        { "de": "Rudolf Carnap", "en": "Rudolf Carnap" },
+        { "de": "Moritz Schlick", "en": "Moritz Schlick" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-221",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher französische Mikrobiologe entwickelte den ersten Impfstoff gegen Tollwut?", "en": "Which French microbiologist developed the first vaccine against rabies?" },
+      "options": [
+        { "de": "Robert Koch", "en": "Robert Koch" },
+        { "de": "Louis Pasteur", "en": "Louis Pasteur" },
+        { "de": "Edward Jenner", "en": "Edward Jenner" },
+        { "de": "Joseph Lister", "en": "Joseph Lister" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-222",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher deutscher Arzt identifizierte die Erreger von Tuberkulose und Cholera und begründete die moderne Bakteriologie?", "en": "Which German physician identified the pathogens of tuberculosis and cholera and founded modern bacteriology?" },
+      "options": [
+        { "de": "Rudolf Virchow", "en": "Rudolf Virchow" },
+        { "de": "Robert Koch", "en": "Robert Koch" },
+        { "de": "Paul Ehrlich", "en": "Paul Ehrlich" },
+        { "de": "Emil von Behring", "en": "Emil von Behring" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Koch",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-223",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher österreichische Komponist war für seine unvollendeten Werke bekannt, darunter die 'Unvollendete Sinfonie'?", "en": "Which Austrian composer was known for his unfinished works, including the 'Unfinished Symphony'?" },
+      "options": [
+        { "de": "Joseph Haydn", "en": "Joseph Haydn" },
+        { "de": "Franz Schubert", "en": "Franz Schubert" },
+        { "de": "Anton Bruckner", "en": "Anton Bruckner" },
+        { "de": "Gustav Mahler", "en": "Gustav Mahler" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_No._8_(Schubert)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-224",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher englische Dichter schrieb das epische Gedicht 'Das verlorene Paradies'?", "en": "Which English poet wrote the epic poem 'Paradise Lost'?" },
+      "options": [
+        { "de": "Geoffrey Chaucer", "en": "Geoffrey Chaucer" },
+        { "de": "John Milton", "en": "John Milton" },
+        { "de": "Edmund Spenser", "en": "Edmund Spenser" },
+        { "de": "William Blake", "en": "William Blake" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paradise_Lost",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-225",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher italienische Dichter schrieb die 'Göttliche Komödie'?", "en": "Which Italian poet wrote the 'Divine Comedy'?" },
+      "options": [
+        { "de": "Francesco Petrarca", "en": "Francesco Petrarca" },
+        { "de": "Dante Alighieri", "en": "Dante Alighieri" },
+        { "de": "Giovanni Boccaccio", "en": "Giovanni Boccaccio" },
+        { "de": "Ludovico Ariosto", "en": "Ludovico Ariosto" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Divine_Comedy",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-226",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher persische Mathematiker und Dichter des 11. Jahrhunderts schrieb die 'Rubaiyat'?", "en": "Which 11th-century Persian mathematician and poet wrote the 'Rubaiyat'?" },
+      "options": [
+        { "de": "Rumi", "en": "Rumi" },
+        { "de": "Omar Khayyam", "en": "Omar Khayyam" },
+        { "de": "Hafis", "en": "Hafez" },
+        { "de": "Firdausi", "en": "Ferdowsi" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Omar_Khayyam",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-227",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher kenianische Laeufer brach wiederholt Weltrekorde im Marathon und lief als Erster unter 2 Stunden?", "en": "Which Kenyan runner repeatedly broke marathon world records and was the first to run under 2 hours?" },
+      "options": [
+        { "de": "Kipchoge Keino", "en": "Kipchoge Keino" },
+        { "de": "Eliud Kipchoge", "en": "Eliud Kipchoge" },
+        { "de": "Dennis Kimetto", "en": "Dennis Kimetto" },
+        { "de": "Wilson Kipsang", "en": "Wilson Kipsang" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eliud_Kipchoge",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-228",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher neuseeländische Bergsteiger bestieg 1953 mit Tenzing Norgay als erster den Mount Everest und engagierte sich später für das Sherpa-Volk?", "en": "Which New Zealand mountaineer first summited Everest in 1953 with Tenzing Norgay and later devoted himself to helping the Sherpa people?" },
+      "options": [
+        { "de": "George Mallory", "en": "George Mallory" },
+        { "de": "Edmund Hillary", "en": "Edmund Hillary" },
+        { "de": "Reinhold Messner", "en": "Reinhold Messner" },
+        { "de": "Chris Bonington", "en": "Chris Bonington" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Edmund_Hillary",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-229",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher spanische Cellist und Dirigent gilt als einer der größten Cellisten des 20. Jahrhunderts und weigerte sich, in Franco-Spanien aufzutreten?", "en": "Which Spanish cellist and conductor is considered one of the greatest cellists of the 20th century and refused to perform in Franco's Spain?" },
+      "options": [
+        { "de": "Jacqueline du Pré", "en": "Jacqueline du Pré" },
+        { "de": "Pablo Casals", "en": "Pablo Casals" },
+        { "de": "Mstislaw Rostropowitsch", "en": "Mstislav Rostropovich" },
+        { "de": "Yo-Yo Ma", "en": "Yo-Yo Ma" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pablo_Casals",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-230",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher nigerianische Schriftsteller schrieb 'Alles zerfällt' und gilt als Vater der modernen afrikanischen Literatur?", "en": "Which Nigerian author wrote 'Things Fall Apart' and is considered the father of modern African literature?" },
+      "options": [
+        { "de": "Wole Soyinka", "en": "Wole Soyinka" },
+        { "de": "Chinua Achebe", "en": "Chinua Achebe" },
+        { "de": "Ngugi wa Thiong'o", "en": "Ngugi wa Thiong'o" },
+        { "de": "Ben Okri", "en": "Ben Okri" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chinua_Achebe",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-231",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher japanische Schriftsteller erhielt 1968 als erster Japaner den Nobelpreis für Literatur?", "en": "Which Japanese author was the first Japanese person to receive the Nobel Prize in Literature in 1968?" },
+      "options": [
+        { "de": "Yukio Mishima", "en": "Yukio Mishima" },
+        { "de": "Yasunari Kawabata", "en": "Yasunari Kawabata" },
+        { "de": "Haruki Murakami", "en": "Haruki Murakami" },
+        { "de": "Kenzaburo Oe", "en": "Kenzaburo Oe" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yasunari_Kawabata",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-232",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher Naturwissenschaftler aus dem arabischen Raum verfasste das 'Buch der Optik' und gilt als Pionier der wissenschaftlichen Methode?", "en": "Which Arab scholar wrote the 'Book of Optics' and is considered a pioneer of the scientific method?" },
+      "options": [
+        { "de": "Al-Biruni", "en": "Al-Biruni" },
+        { "de": "Ibn al-Haytham (Alhazen)", "en": "Ibn al-Haytham (Alhazen)" },
+        { "de": "Al-Khwarizmi", "en": "Al-Khwarizmi" },
+        { "de": "Jabir ibn Hayyan", "en": "Jabir ibn Hayyan" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ibn_al-Haytham",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-233",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher englische Physiker entdeckte 1897 das Elektron?", "en": "Which English physicist discovered the electron in 1897?" },
+      "options": [
+        { "de": "Ernest Rutherford", "en": "Ernest Rutherford" },
+        { "de": "J.J. Thomson", "en": "J.J. Thomson" },
+        { "de": "James Chadwick", "en": "James Chadwick" },
+        { "de": "Robert Millikan", "en": "Robert Millikan" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/J._J._Thomson",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-234",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher deutsche Physiker erhielt 1918 den Nobelpreis für Physik für seine Arbeit über Energiequanten?", "en": "Which German physicist received the 1918 Nobel Prize in Physics for his work on energy quanta?" },
+      "options": [
+        { "de": "Albert Abraham Michelson", "en": "Albert Abraham Michelson" },
+        { "de": "Max Planck", "en": "Max Planck" },
+        { "de": "Robert Millikan", "en": "Robert Millikan" },
+        { "de": "Arthur Compton", "en": "Arthur Compton" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Max_Planck",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-235",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welche britische Chemikerin erhielt den Nobelpreis für die Bestimmung der Struktur von Penicillin und Insulin mittels Röntgenkristallographie?", "en": "Which British chemist won the Nobel Prize for determining the structures of penicillin and insulin using X-ray crystallography?" },
+      "options": [
+        { "de": "Rosalind Franklin", "en": "Rosalind Franklin" },
+        { "de": "Dorothy Hodgkin", "en": "Dorothy Hodgkin" },
+        { "de": "Kathleen Lonsdale", "en": "Kathleen Lonsdale" },
+        { "de": "Marie Curie", "en": "Marie Curie" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dorothy_Hodgkin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-236",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher persische Dichter des 13. Jahrhunderts schrieb das 'Masnawi' und gilt als einer der größten mystischen Dichter?", "en": "Which 13th-century Persian poet wrote the 'Masnavi' and is regarded as one of the greatest mystical poets?" },
+      "options": [
+        { "de": "Hafis", "en": "Hafez" },
+        { "de": "Rumi", "en": "Rumi" },
+        { "de": "Omar Khayyam", "en": "Omar Khayyam" },
+        { "de": "Saadi", "en": "Saadi" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rumi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-237",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher arabische Mathematiker des 9. Jahrhunderts wird als 'Vater der Algebra' bezeichnet?", "en": "Which 9th-century Arab mathematician is known as the 'Father of Algebra'?" },
+      "options": [
+        { "de": "Ibn al-Haytham", "en": "Ibn al-Haytham" },
+        { "de": "Al-Khwarizmi", "en": "Al-Khwarizmi" },
+        { "de": "Al-Biruni", "en": "Al-Biruni" },
+        { "de": "Omar Khayyam", "en": "Omar Khayyam" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-238",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher ungarisch-amerikanische Mathematiker leistete grundlegende Beiträge zur Spieltheorie und zur Computerarchitektur?", "en": "Which Hungarian-American mathematician made fundamental contributions to game theory and computer architecture?" },
+      "options": [
+        { "de": "Paul Erdos", "en": "Paul Erdos" },
+        { "de": "John von Neumann", "en": "John von Neumann" },
+        { "de": "Edward Teller", "en": "Edward Teller" },
+        { "de": "Leo Szilard", "en": "Leo Szilard" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/John_von_Neumann",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-239",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher ägyptische Präsident wurde 1978 mit dem Friedensnobelpreis ausgezeichnet für die Camp-David-Abkommen?", "en": "Which Egyptian president was awarded the 1978 Nobel Peace Prize for the Camp David Accords?" },
+      "options": [
+        { "de": "Gamal Abdel Nasser", "en": "Gamal Abdel Nasser" },
+        { "de": "Anwar Sadat", "en": "Anwar Sadat" },
+        { "de": "Hosni Mubarak", "en": "Hosni Mubarak" },
+        { "de": "Mohamed Morsi", "en": "Mohamed Morsi" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anwar_Sadat",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-240",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher tschechische Dramatiker und Dissident wurde nach der Samtenen Revolution 1989 Präsident der Tschechoslowakei?", "en": "Which Czech playwright and dissident became president of Czechoslovakia after the Velvet Revolution in 1989?" },
+      "options": [
+        { "de": "Alexander Dubcek", "en": "Alexander Dubcek" },
+        { "de": "Vaclav Havel", "en": "Vaclav Havel" },
+        { "de": "Tomas Masaryk", "en": "Tomas Masaryk" },
+        { "de": "Milan Kundera", "en": "Milan Kundera" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/V%C3%A1clav_Havel",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-241",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher irische Dramatiker schrieb 'Ernst sein ist alles' und 'Das Bildnis des Dorian Gray'?", "en": "Which Irish playwright wrote 'The Importance of Being Earnest' and 'The Picture of Dorian Gray'?" },
+      "options": [
+        { "de": "George Bernard Shaw", "en": "George Bernard Shaw" },
+        { "de": "Oscar Wilde", "en": "Oscar Wilde" },
+        { "de": "Samuel Beckett", "en": "Samuel Beckett" },
+        { "de": "W.B. Yeats", "en": "W.B. Yeats" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-242",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher antike griechische Historiker wird als 'Vater der Geschichtsschreibung' bezeichnet?", "en": "Which ancient Greek historian is called the 'Father of History'?" },
+      "options": [
+        { "de": "Thukydides", "en": "Thucydides" },
+        { "de": "Herodot", "en": "Herodotus" },
+        { "de": "Xenophon", "en": "Xenophon" },
+        { "de": "Polybios", "en": "Polybius" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Herodotus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-243",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher südafrikanische Erzbischof erhielt 1984 den Friedensnobelpreis für seinen Kampf gegen die Apartheid?", "en": "Which South African archbishop received the 1984 Nobel Peace Prize for his fight against apartheid?" },
+      "options": [
+        { "de": "Nelson Mandela", "en": "Nelson Mandela" },
+        { "de": "Desmond Tutu", "en": "Desmond Tutu" },
+        { "de": "F.W. de Klerk", "en": "F.W. de Klerk" },
+        { "de": "Albert Luthuli", "en": "Albert Luthuli" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Desmond_Tutu",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-244",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher karthagische Feldherr überquerte mit Elefanten die Alpen, um Rom im Zweiten Punischen Krieg anzugreifen?", "en": "Which Carthaginian general crossed the Alps with elephants to attack Rome in the Second Punic War?" },
+      "options": [
+        { "de": "Hasdrubal Barkas", "en": "Hasdrubal Barca" },
+        { "de": "Hannibal Barkas", "en": "Hannibal Barca" },
+        { "de": "Hamilkar Barkas", "en": "Hamilcar Barca" },
+        { "de": "Scipio Africanus", "en": "Scipio Africanus" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hannibal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-245",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher schwedische Filmregisseur drehte 'Das siebente Siegel' und 'Wilde Erdbeeren'?", "en": "Which Swedish film director made 'The Seventh Seal' and 'Wild Strawberries'?" },
+      "options": [
+        { "de": "Carl Theodor Dreyer", "en": "Carl Theodor Dreyer" },
+        { "de": "Ingmar Bergman", "en": "Ingmar Bergman" },
+        { "de": "Andrei Tarkowski", "en": "Andrei Tarkovsky" },
+        { "de": "Federico Fellini", "en": "Federico Fellini" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ingmar_Bergman",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-246",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher italienische Regisseur drehte 'La Dolce Vita' und '8 1/2'?", "en": "Which Italian director made 'La Dolce Vita' and '8 1/2'?" },
+      "options": [
+        { "de": "Roberto Rossellini", "en": "Roberto Rossellini" },
+        { "de": "Federico Fellini", "en": "Federico Fellini" },
+        { "de": "Luchino Visconti", "en": "Luchino Visconti" },
+        { "de": "Michelangelo Antonioni", "en": "Michelangelo Antonioni" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Federico_Fellini",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-247",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welche kenianische Umweltaktivistin erhielt 2004 als erste afrikanische Frau den Friedensnobelpreis?", "en": "Which Kenyan environmental activist was the first African woman to receive the Nobel Peace Prize in 2004?" },
+      "options": [
+        { "de": "Ellen Johnson Sirleaf", "en": "Ellen Johnson Sirleaf" },
+        { "de": "Wangari Maathai", "en": "Wangari Maathai" },
+        { "de": "Leymah Gbowee", "en": "Leymah Gbowee" },
+        { "de": "Rigoberta Menchu", "en": "Rigoberta Menchu" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wangari_Maathai",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-248",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher amerikanische Softwareentwickler gründete die Free Software Foundation und begann das GNU-Projekt?", "en": "Which American software developer founded the Free Software Foundation and started the GNU Project?" },
+      "options": [
+        { "de": "Linus Torvalds", "en": "Linus Torvalds" },
+        { "de": "Richard Stallman", "en": "Richard Stallman" },
+        { "de": "Dennis Ritchie", "en": "Dennis Ritchie" },
+        { "de": "Ken Thompson", "en": "Ken Thompson" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Richard_Stallman",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-249",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher indische Physiker entdeckte den Raman-Effekt und erhielt dafür1930 den Nobelpreis?", "en": "Which Indian physicist discovered the Raman effect and received the 1930 Nobel Prize for it?" },
+      "options": [
+        { "de": "Satyendra Nath Bose", "en": "Satyendra Nath Bose" },
+        { "de": "C.V. Raman", "en": "C.V. Raman" },
+        { "de": "Homi J. Bhabha", "en": "Homi J. Bhabha" },
+        { "de": "Meghnad Saha", "en": "Meghnad Saha" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/C._V._Raman",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-250",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welcher britische Ingenieur entwarf die Great Western Railway und die SS Great Britain?", "en": "Which British engineer designed the Great Western Railway and the SS Great Britain?" },
+      "options": [
+        { "de": "George Stephenson", "en": "George Stephenson" },
+        { "de": "Isambard Kingdom Brunel", "en": "Isambard Kingdom Brunel" },
+        { "de": "Thomas Telford", "en": "Thomas Telford" },
+        { "de": "Robert Stephenson", "en": "Robert Stephenson" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel",
+      "sourceLabel": "Wikipedia"
     }
   ],
   "timelineEvents": [
