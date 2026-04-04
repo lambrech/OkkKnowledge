@@ -56,17 +56,20 @@ test.describe('Timeline Mode', () => {
     // Click the first drop zone
     await page.locator('.drop-zone').first().click();
 
-    // Should show feedback
-    await expect(page.locator('.placement-feedback')).toBeVisible();
+    // Should show feedback or year guess screen
+    await expect(page.locator('.placement-feedback, .year-guess-screen')).toBeVisible();
 
     // If year guess screen appears (correct placement), skip it
     const skipBtn = page.locator('button', { hasText: /Überspringen|Skip/ });
-    if (await skipBtn.isVisible().catch(() => false)) {
+    try {
+      await skipBtn.waitFor({ state: 'visible', timeout: 3000 });
       await skipBtn.click();
+    } catch {
+      // Wrong placement — no year guess
     }
 
-    // Wait for the next state (new event card or game state update)
-    await page.waitForTimeout(1500);
+    // Wait for the next state (new event card or game over)
+    await expect(page.locator('.current-event-card, .game-over')).toBeVisible({ timeout: 5000 });
 
     // After handling placement, event count should increase
     const newEventCount = await page.locator('.timeline-event').count();

@@ -1,4 +1,5 @@
-import { Component, inject, signal, OnInit, isDevMode } from '@angular/core';
+import { Component, inject, signal, OnInit } from '@angular/core';
+import { RouterLink } from '@angular/router';
 import { MatCardModule } from '@angular/material/card';
 import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
@@ -7,11 +8,13 @@ import { MatSnackBar, MatSnackBarModule } from '@angular/material/snack-bar';
 import { SwUpdate, VersionReadyEvent } from '@angular/service-worker';
 import { TranslocoDirective, TranslocoService } from '@jsverse/transloco';
 import { filter } from 'rxjs';
+import { QuestionService } from '../../core/services/question.service';
 
 @Component({
   selector: 'app-info',
   standalone: true,
   imports: [
+    RouterLink,
     MatCardModule, MatButtonModule, MatIconModule, MatDividerModule, MatSnackBarModule,
     TranslocoDirective,
   ],
@@ -27,6 +30,27 @@ import { filter } from 'rxjs';
               <div>
                 <span class="label">{{ t('info.version') }}</span>
                 <span class="value">{{ appVersion }}</span>
+              </div>
+            </div>
+            <mat-divider />
+            <div class="info-row">
+              <mat-icon>quiz</mat-icon>
+              <div>
+                <span class="label">{{ t('info.questionCount') }}</span>
+                <span class="value">{{ totalQuestions() }} {{ t('info.questions') }}</span>
+              </div>
+            </div>
+            <div class="category-counts">
+              @for (cat of categoryCounts(); track cat.category) {
+                <span class="cat-chip">{{ t('categories.' + cat.category) }}: {{ cat.count }}</span>
+              }
+            </div>
+            <mat-divider />
+            <div class="info-row">
+              <mat-icon>timeline</mat-icon>
+              <div>
+                <span class="label">{{ t('info.timelineCount') }}</span>
+                <span class="value">{{ totalTimeline() }} {{ t('info.events') }}</span>
               </div>
             </div>
             <mat-divider />
@@ -52,8 +76,13 @@ import { filter } from 'rxjs';
         <h3>{{ t('info.actions') }}</h3>
 
         <div class="action-buttons">
+          <button mat-flat-button color="primary" routerLink="/browse">
+            <mat-icon>search</mat-icon>
+            {{ t('info.browseQuestions') }}
+          </button>
+
           @if (swEnabled) {
-            <button mat-flat-button color="primary" (click)="checkForUpdate()" [disabled]="checking()">
+            <button mat-stroked-button (click)="checkForUpdate()" [disabled]="checking()">
               <mat-icon>sync</mat-icon>
               {{ checking() ? t('info.checking') : t('info.checkUpdate') }}
             </button>
@@ -112,6 +141,21 @@ import { filter } from 'rxjs';
       font-weight: 500;
       font-size: 1.1em;
     }
+    .category-counts {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      padding: 0 0 12px 36px;
+    }
+    .cat-chip {
+      font-size: 0.82em;
+      background: rgba(0, 0, 0, 0.06);
+      padding: 2px 10px;
+      border-radius: 12px;
+    }
+    :host-context(body.dark-theme) .cat-chip {
+      background: rgba(255, 255, 255, 0.1);
+    }
     .sw-active { color: #4caf50; }
     .highlight { color: #ff9800; }
     .update-available {
@@ -150,13 +194,31 @@ export class InfoComponent implements OnInit {
   private swUpdate = inject(SwUpdate);
   private snackBar = inject(MatSnackBar);
   private transloco = inject(TranslocoService);
+  private questionService = inject(QuestionService);
 
-  appVersion = '1.0.0';
+  appVersion = '0.1.0-alpha.1';
   swEnabled = this.swUpdate.isEnabled;
   updateAvailable = signal(false);
   checking = signal(false);
 
+  totalQuestions = signal(0);
+  totalTimeline = signal(0);
+  categoryCounts = signal<{ category: string; count: number }[]>([]);
+
   ngOnInit(): void {
+    const questions = this.questionService.questions();
+    const timeline = this.questionService.timelineEvents();
+    this.totalQuestions.set(questions.length);
+    this.totalTimeline.set(timeline.length);
+
+    const counts = new Map<string, number>();
+    for (const q of questions) {
+      counts.set(q.category, (counts.get(q.category) || 0) + 1);
+    }
+    this.categoryCounts.set(
+      Array.from(counts.entries()).map(([category, count]) => ({ category, count }))
+    );
+
     if (this.swEnabled) {
       this.swUpdate.versionUpdates.pipe(
         filter((evt): evt is VersionReadyEvent => evt.type === 'VERSION_READY')
@@ -171,7 +233,6 @@ export class InfoComponent implements OnInit {
     this.checking.set(true);
     try {
       const hasUpdate = await this.swUpdate.checkForUpdate();
-      const t = this.transloco.translateObject.bind(this.transloco);
       if (hasUpdate) {
         this.updateAvailable.set(true);
         this.snackBar.open(this.transloco.translate('info.updateFound'), '', { duration: 3000 });
@@ -200,7 +261,6 @@ export class InfoComponent implements OnInit {
       const names = await caches.keys();
       await Promise.all(names.map(name => caches.delete(name)));
     }
-    // Unregister service workers
     if ('serviceWorker' in navigator) {
       const registrations = await navigator.serviceWorker.getRegistrations();
       await Promise.all(registrations.map(reg => reg.unregister()));

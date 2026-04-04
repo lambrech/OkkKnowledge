@@ -1530,6 +1530,2976 @@
       "correctIndex": 1,
       "sourceUrl": "https://en.wikipedia.org/wiki/Cheetah",
       "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-086",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist das chemische Symbol für Gold?",
+        "en": "What is the chemical symbol for gold?"
+      },
+      "options": [
+        { "de": "Fe", "en": "Fe" },
+        { "de": "Ag", "en": "Ag" },
+        { "de": "Au", "en": "Au" },
+        { "de": "Go", "en": "Go" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gold",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-087",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie viele Planeten hat unser Sonnensystem?",
+        "en": "How many planets are in our solar system?"
+      },
+      "options": [
+        { "de": "7", "en": "7" },
+        { "de": "8", "en": "8" },
+        { "de": "9", "en": "9" },
+        { "de": "10", "en": "10" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Solar_System",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-088",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist die härteste natürliche Substanz auf der Erde?",
+        "en": "What is the hardest natural substance on Earth?"
+      },
+      "options": [
+        { "de": "Quarz", "en": "Quartz" },
+        { "de": "Topas", "en": "Topaz" },
+        { "de": "Korund", "en": "Corundum" },
+        { "de": "Diamant", "en": "Diamond" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Diamond",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-089",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Welcher Planet ist als der Rote Planet bekannt?",
+        "en": "Which planet is known as the Red Planet?"
+      },
+      "options": [
+        { "de": "Mars", "en": "Mars" },
+        { "de": "Venus", "en": "Venus" },
+        { "de": "Jupiter", "en": "Jupiter" },
+        { "de": "Saturn", "en": "Saturn" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mars",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-090",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist das häufigste Gas in der Erdatmosphäre?",
+        "en": "What is the most abundant gas in Earth's atmosphere?"
+      },
+      "options": [
+        { "de": "Sauerstoff", "en": "Oxygen" },
+        { "de": "Stickstoff", "en": "Nitrogen" },
+        { "de": "Kohlendioxid", "en": "Carbon dioxide" },
+        { "de": "Argon", "en": "Argon" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Atmosphere_of_Earth",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-091",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Was ist die ungefähre Halbwertszeit von Kohlenstoff-14?",
+        "en": "What is the approximate half-life of Carbon-14?"
+      },
+      "options": [
+        { "de": "1.000 Jahre", "en": "1,000 years" },
+        { "de": "5.730 Jahre", "en": "5,730 years" },
+        { "de": "10.000 Jahre", "en": "10,000 years" },
+        { "de": "50.000 Jahre", "en": "50,000 years" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Carbon-14",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-092",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist der Siedepunkt von Wasser auf Meereshöhe in Celsius?",
+        "en": "What is the boiling point of water at sea level in degrees Celsius?"
+      },
+      "options": [
+        { "de": "90 °C", "en": "90 °C" },
+        { "de": "95 °C", "en": "95 °C" },
+        { "de": "100 °C", "en": "100 °C" },
+        { "de": "110 °C", "en": "110 °C" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Boiling_point",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-093",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Welcher Planet in unserem Sonnensystem hat die meisten bekannten Monde?",
+        "en": "Which planet in our solar system has the most known moons?"
+      },
+      "options": [
+        { "de": "Jupiter", "en": "Jupiter" },
+        { "de": "Uranus", "en": "Uranus" },
+        { "de": "Neptun", "en": "Neptune" },
+        { "de": "Saturn", "en": "Saturn" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moons_of_Saturn",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-094",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wem entspricht die Chandrasekhar-Grenze ungefähr?",
+        "en": "What is the Chandrasekhar limit approximately equal to?"
+      },
+      "options": [
+        { "de": "0,5 Sonnenmassen", "en": "0.5 solar masses" },
+        { "de": "3,0 Sonnenmassen", "en": "3.0 solar masses" },
+        { "de": "1,4 Sonnenmassen", "en": "1.4 solar masses" },
+        { "de": "5,0 Sonnenmassen", "en": "5.0 solar masses" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chandrasekhar_limit",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-095",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die chemische Formel für Wasser?",
+        "en": "What is the chemical formula for water?"
+      },
+      "options": [
+        { "de": "CO₂", "en": "CO₂" },
+        { "de": "NaCl", "en": "NaCl" },
+        { "de": "O₂", "en": "O₂" },
+        { "de": "H₂O", "en": "H₂O" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Water",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-096",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist der nächste Stern zu unserem Sonnensystem?",
+        "en": "What is the closest star to our solar system?"
+      },
+      "options": [
+        { "de": "Sirius", "en": "Sirius" },
+        { "de": "Barnards Stern", "en": "Barnard's Star" },
+        { "de": "Alpha Centauri A", "en": "Alpha Centauri A" },
+        { "de": "Proxima Centauri", "en": "Proxima Centauri" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Proxima_Centauri",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-097",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer formulierte die Unschärferelation in der Quantenmechanik?",
+        "en": "Who proposed the uncertainty principle in quantum mechanics?"
+      },
+      "options": [
+        { "de": "Werner Heisenberg", "en": "Werner Heisenberg" },
+        { "de": "Erwin Schrödinger", "en": "Erwin Schrödinger" },
+        { "de": "Niels Bohr", "en": "Niels Bohr" },
+        { "de": "Max Born", "en": "Max Born" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Uncertainty_principle",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-098",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist der größte Planet in unserem Sonnensystem?",
+        "en": "What is the largest planet in our solar system?"
+      },
+      "options": [
+        { "de": "Saturn", "en": "Saturn" },
+        { "de": "Neptun", "en": "Neptune" },
+        { "de": "Uranus", "en": "Uranus" },
+        { "de": "Jupiter", "en": "Jupiter" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jupiter",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-099",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welches Metall ist bei Raumtemperatur flüssig?",
+        "en": "Which metal is liquid at room temperature?"
+      },
+      "options": [
+        { "de": "Blei", "en": "Lead" },
+        { "de": "Quecksilber", "en": "Mercury" },
+        { "de": "Zinn", "en": "Tin" },
+        { "de": "Gallium", "en": "Gallium" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mercury_(element)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-100",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist das leichteste Element im Periodensystem?",
+        "en": "What is the lightest element in the periodic table?"
+      },
+      "options": [
+        { "de": "Helium", "en": "Helium" },
+        { "de": "Lithium", "en": "Lithium" },
+        { "de": "Kohlenstoff", "en": "Carbon" },
+        { "de": "Wasserstoff", "en": "Hydrogen" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hydrogen",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-101",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie viele Beine hat eine Spinne?",
+        "en": "How many legs does a spider have?"
+      },
+      "options": [
+        { "de": "6", "en": "6" },
+        { "de": "8", "en": "8" },
+        { "de": "10", "en": "10" },
+        { "de": "12", "en": "12" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spider",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-102",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welches Pigment verleiht Pflanzen ihre grüne Farbe?",
+        "en": "What pigment gives plants their green color?"
+      },
+      "options": [
+        { "de": "Carotin", "en": "Carotene" },
+        { "de": "Melanin", "en": "Melanin" },
+        { "de": "Chlorophyll", "en": "Chlorophyll" },
+        { "de": "Xanthophyll", "en": "Xanthophyll" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chlorophyll",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-103",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie viele Kammern hat das menschliche Herz?",
+        "en": "How many chambers does the human heart have?"
+      },
+      "options": [
+        { "de": "2", "en": "2" },
+        { "de": "3", "en": "3" },
+        { "de": "4", "en": "4" },
+        { "de": "5", "en": "5" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Heart",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-104",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was für ein Tier ist ein Wal?",
+        "en": "What type of animal is a whale?"
+      },
+      "options": [
+        { "de": "Fisch", "en": "Fish" },
+        { "de": "Reptil", "en": "Reptile" },
+        { "de": "Amphibie", "en": "Amphibian" },
+        { "de": "Säugetier", "en": "Mammal" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Whale",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-105",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welches Organell enthält das genetische Material der Zelle?",
+        "en": "Which organelle contains the cell's genetic material?"
+      },
+      "options": [
+        { "de": "Mitochondrium", "en": "Mitochondrion" },
+        { "de": "Zellkern", "en": "Nucleus" },
+        { "de": "Ribosom", "en": "Ribosome" },
+        { "de": "Golgi-Apparat", "en": "Golgi apparatus" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cell_nucleus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-106",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie viele Zähne hat ein typischer erwachsener Mensch?",
+        "en": "How many teeth does a typical adult human have?"
+      },
+      "options": [
+        { "de": "28", "en": "28" },
+        { "de": "30", "en": "30" },
+        { "de": "32", "en": "32" },
+        { "de": "34", "en": "34" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Human_tooth",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-107",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist der längste Knochen im menschlichen Körper?",
+        "en": "What is the longest bone in the human body?"
+      },
+      "options": [
+        { "de": "Oberarmknochen", "en": "Humerus" },
+        { "de": "Schienbein", "en": "Tibia" },
+        { "de": "Wadenbein", "en": "Fibula" },
+        { "de": "Oberschenkelknochen", "en": "Femur" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Femur",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-108",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist der kleinste Knochen im menschlichen Körper?",
+        "en": "What is the smallest bone in the human body?"
+      },
+      "options": [
+        { "de": "Steigbügel", "en": "Stapes" },
+        { "de": "Amboss", "en": "Incus" },
+        { "de": "Hammer", "en": "Malleus" },
+        { "de": "Zungenbein", "en": "Hyoid" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Stapes",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-109",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welche Blutgruppe ist als Universalspender bekannt?",
+        "en": "Which blood type is known as the universal donor?"
+      },
+      "options": [
+        { "de": "A positiv", "en": "A positive" },
+        { "de": "B negativ", "en": "B negative" },
+        { "de": "AB positiv", "en": "AB positive" },
+        { "de": "O negativ", "en": "O negative" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Blood_type",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-110",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die Hauptfunktion der roten Blutkörperchen?",
+        "en": "What is the primary function of red blood cells?"
+      },
+      "options": [
+        { "de": "Infektionsbekämpfung", "en": "Fighting infections" },
+        { "de": "Blutgerinnung", "en": "Blood clotting" },
+        { "de": "Sauerstofftransport", "en": "Transporting oxygen" },
+        { "de": "Antikörperproduktion", "en": "Producing antibodies" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Red_blood_cell",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-111",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Was ist der schnellste Vogel der Welt?",
+        "en": "What is the fastest bird in the world?"
+      },
+      "options": [
+        { "de": "Steinadler", "en": "Golden eagle" },
+        { "de": "Mauersegler", "en": "Swift" },
+        { "de": "Gerfalke", "en": "Gyrfalcon" },
+        { "de": "Wanderfalke", "en": "Peregrine falcon" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Peregrine_falcon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-112",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie viele Herzen hat ein Oktopus?",
+        "en": "How many hearts does an octopus have?"
+      },
+      "options": [
+        { "de": "1", "en": "1" },
+        { "de": "2", "en": "2" },
+        { "de": "3", "en": "3" },
+        { "de": "4", "en": "4" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Octopus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-113",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die durchschnittliche normale Körpertemperatur des Menschen in Celsius?",
+        "en": "What is the average normal human body temperature in degrees Celsius?"
+      },
+      "options": [
+        { "de": "35 °C", "en": "35 °C" },
+        { "de": "36 °C", "en": "36 °C" },
+        { "de": "37 °C", "en": "37 °C" },
+        { "de": "38 °C", "en": "38 °C" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Human_body_temperature",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-114",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wie heißt die wissenschaftliche Lehre von Insekten?",
+        "en": "What is the scientific study of insects called?"
+      },
+      "options": [
+        { "de": "Ornithologie", "en": "Ornithology" },
+        { "de": "Herpetologie", "en": "Herpetology" },
+        { "de": "Entomologie", "en": "Entomology" },
+        { "de": "Ichthyologie", "en": "Ichthyology" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Entomology",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-115",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was für ein Galaxientyp ist die Milchstraße?",
+        "en": "What type of galaxy is the Milky Way?"
+      },
+      "options": [
+        { "de": "Elliptisch", "en": "Elliptical" },
+        { "de": "Irregulär", "en": "Irregular" },
+        { "de": "Balkenspiralgalaxie", "en": "Barred spiral" },
+        { "de": "Linsenförmig", "en": "Lenticular" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Milky_Way",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-116",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Welcher Planet ist der Sonne am nächsten?",
+        "en": "What is the closest planet to the Sun?"
+      },
+      "options": [
+        { "de": "Venus", "en": "Venus" },
+        { "de": "Merkur", "en": "Mercury" },
+        { "de": "Mars", "en": "Mars" },
+        { "de": "Erde", "en": "Earth" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-117",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Ungefähr wie lange braucht Sonnenlicht, um die Erde zu erreichen?",
+        "en": "Approximately how long does it take sunlight to reach Earth?"
+      },
+      "options": [
+        { "de": "Etwa 4 Minuten", "en": "About 4 minutes" },
+        { "de": "Etwa 8 Minuten", "en": "About 8 minutes" },
+        { "de": "Etwa 12 Minuten", "en": "About 12 minutes" },
+        { "de": "Etwa 20 Minuten", "en": "About 20 minutes" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sunlight",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-118",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Was ist der größte Mond in unserem Sonnensystem?",
+        "en": "What is the largest moon in our solar system?"
+      },
+      "options": [
+        { "de": "Titan", "en": "Titan" },
+        { "de": "Ganymed", "en": "Ganymede" },
+        { "de": "Europa", "en": "Europa" },
+        { "de": "Kallisto", "en": "Callisto" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ganymede_(moon)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-119",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Welcher Planet hat den Großen Roten Fleck?",
+        "en": "Which planet has the Great Red Spot?"
+      },
+      "options": [
+        { "de": "Mars", "en": "Mars" },
+        { "de": "Saturn", "en": "Saturn" },
+        { "de": "Jupiter", "en": "Jupiter" },
+        { "de": "Neptun", "en": "Neptune" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Red_Spot",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-120",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist der heißeste Planet in unserem Sonnensystem?",
+        "en": "What is the hottest planet in our solar system?"
+      },
+      "options": [
+        { "de": "Merkur", "en": "Mercury" },
+        { "de": "Mars", "en": "Mars" },
+        { "de": "Jupiter", "en": "Jupiter" },
+        { "de": "Venus", "en": "Venus" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Venus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-121",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Woraus bestehen die Ringe des Saturn hauptsächlich?",
+        "en": "What are Saturn's rings primarily made of?"
+      },
+      "options": [
+        { "de": "Gase", "en": "Gas" },
+        { "de": "Staub", "en": "Dust" },
+        { "de": "Eis und Gestein", "en": "Ice and rock" },
+        { "de": "Flüssiges Metall", "en": "Liquid metal" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rings_of_Saturn",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-122",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist die nächste große Galaxie zur Milchstraße?",
+        "en": "What is the nearest large galaxy to the Milky Way?"
+      },
+      "options": [
+        { "de": "Andromedagalaxie", "en": "Andromeda Galaxy" },
+        { "de": "Dreiecksgalaxie", "en": "Triangulum Galaxy" },
+        { "de": "Große Magellansche Wolke", "en": "Large Magellanic Cloud" },
+        { "de": "Centaurus A", "en": "Centaurus A" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Andromeda_Galaxy",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-123",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Aus welchem Element besteht die Sonne hauptsächlich?",
+        "en": "What element is the Sun primarily composed of?"
+      },
+      "options": [
+        { "de": "Helium", "en": "Helium" },
+        { "de": "Sauerstoff", "en": "Oxygen" },
+        { "de": "Wasserstoff", "en": "Hydrogen" },
+        { "de": "Kohlenstoff", "en": "Carbon" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sun",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-124",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Welcher Planet in unserem Sonnensystem rotiert auf der Seite?",
+        "en": "Which planet in our solar system rotates on its side?"
+      },
+      "options": [
+        { "de": "Neptun", "en": "Neptune" },
+        { "de": "Saturn", "en": "Saturn" },
+        { "de": "Venus", "en": "Venus" },
+        { "de": "Uranus", "en": "Uranus" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Uranus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-125",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was misst ein Lichtjahr?",
+        "en": "What does a light-year measure?"
+      },
+      "options": [
+        { "de": "Zeit", "en": "Time" },
+        { "de": "Helligkeit", "en": "Brightness" },
+        { "de": "Geschwindigkeit", "en": "Speed" },
+        { "de": "Entfernung", "en": "Distance" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Light-year",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-126",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer hat den Linux-Betriebssystemkern entwickelt?",
+        "en": "Who created the Linux operating system kernel?"
+      },
+      "options": [
+        { "de": "Bill Gates", "en": "Bill Gates" },
+        { "de": "Linus Torvalds", "en": "Linus Torvalds" },
+        { "de": "Steve Jobs", "en": "Steve Jobs" },
+        { "de": "Dennis Ritchie", "en": "Dennis Ritchie" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Linux_kernel",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-127",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer hat die Programmiersprache Python entwickelt?",
+        "en": "Who created the Python programming language?"
+      },
+      "options": [
+        { "de": "James Gosling", "en": "James Gosling" },
+        { "de": "Bjarne Stroustrup", "en": "Bjarne Stroustrup" },
+        { "de": "Dennis Ritchie", "en": "Dennis Ritchie" },
+        { "de": "Guido van Rossum", "en": "Guido van Rossum" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-128",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wofür steht die Abkürzung CPU?",
+        "en": "What does CPU stand for?"
+      },
+      "options": [
+        { "de": "Central Processing Unit", "en": "Central Processing Unit" },
+        { "de": "Computer Power Unit", "en": "Computer Power Unit" },
+        { "de": "Central Program Utility", "en": "Central Program Utility" },
+        { "de": "Core Processing Unit", "en": "Core Processing Unit" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Central_processing_unit",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-129",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wofür steht die Abkürzung HTML?",
+        "en": "What does HTML stand for?"
+      },
+      "options": [
+        { "de": "HyperText Markup Language", "en": "HyperText Markup Language" },
+        { "de": "High-Level Text Machine Language", "en": "High-Level Text Machine Language" },
+        { "de": "HyperText Machine Language", "en": "HyperText Machine Language" },
+        { "de": "Hyper Transfer Markup Language", "en": "Hyper Transfer Markup Language" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/HTML",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-130",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie viele Ziffern verwendet das Binärzahlensystem?",
+        "en": "How many digits does the binary number system use?"
+      },
+      "options": [
+        { "de": "2", "en": "2" },
+        { "de": "8", "en": "8" },
+        { "de": "10", "en": "10" },
+        { "de": "16", "en": "16" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Binary_number",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-131",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer gilt weithin als erste Computerprogrammiererin?",
+        "en": "Who is widely considered the first computer programmer?"
+      },
+      "options": [
+        { "de": "Grace Hopper", "en": "Grace Hopper" },
+        { "de": "Ada Lovelace", "en": "Ada Lovelace" },
+        { "de": "Alan Turing", "en": "Alan Turing" },
+        { "de": "Charles Babbage", "en": "Charles Babbage" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-132",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wofür steht die Abkürzung RAM in der Informatik?",
+        "en": "What does RAM stand for in computing?"
+      },
+      "options": [
+        { "de": "Random Access Memory", "en": "Random Access Memory" },
+        { "de": "Read-Only Alternate Memory", "en": "Read-Only Alternate Memory" },
+        { "de": "Rapid Allocation Memory", "en": "Rapid Allocation Memory" },
+        { "de": "Remote Access Module", "en": "Remote Access Module" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Random-access_memory",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-133",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer hat die Programmiersprache Java entwickelt?",
+        "en": "Who created the Java programming language?"
+      },
+      "options": [
+        { "de": "Guido van Rossum", "en": "Guido van Rossum" },
+        { "de": "Brendan Eich", "en": "Brendan Eich" },
+        { "de": "James Gosling", "en": "James Gosling" },
+        { "de": "Bjarne Stroustrup", "en": "Bjarne Stroustrup" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-134",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr wurde Google gegründet?",
+        "en": "In what year was Google founded?"
+      },
+      "options": [
+        { "de": "1996", "en": "1996" },
+        { "de": "1998", "en": "1998" },
+        { "de": "2000", "en": "2000" },
+        { "de": "2002", "en": "2002" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Google",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-135",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wofür steht die Abkürzung USB?",
+        "en": "What does USB stand for?"
+      },
+      "options": [
+        { "de": "Ultra Speed Bus", "en": "Ultra Speed Bus" },
+        { "de": "Universal Serial Bus", "en": "Universal Serial Bus" },
+        { "de": "Unified System Bridge", "en": "Unified System Bridge" },
+        { "de": "Universal System Backup", "en": "Universal System Backup" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/USB",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-136",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer hat die Programmiersprache C entwickelt?",
+        "en": "Who developed the C programming language?"
+      },
+      "options": [
+        { "de": "Ken Thompson", "en": "Ken Thompson" },
+        { "de": "Brian Kernighan", "en": "Brian Kernighan" },
+        { "de": "Bjarne Stroustrup", "en": "Bjarne Stroustrup" },
+        { "de": "Dennis Ritchie", "en": "Dennis Ritchie" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/C_(programming_language)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-137",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wofür steht die Abkürzung HTTP?",
+        "en": "What does HTTP stand for?"
+      },
+      "options": [
+        { "de": "HyperText Transfer Protocol", "en": "HyperText Transfer Protocol" },
+        { "de": "High Throughput Transfer Protocol", "en": "High Throughput Transfer Protocol" },
+        { "de": "Hyper Terminal Transfer Process", "en": "Hyper Terminal Transfer Process" },
+        { "de": "HyperText Transmission Protocol", "en": "HyperText Transmission Protocol" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/HTTP",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-138",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die weltweit häufigste Blutgruppe?",
+        "en": "What is the most common blood type worldwide?"
+      },
+      "options": [
+        { "de": "A positiv", "en": "A positive" },
+        { "de": "O positiv", "en": "O positive" },
+        { "de": "B positiv", "en": "B positive" },
+        { "de": "AB positiv", "en": "AB positive" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Blood_type",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-139",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welches Vitamin wird produziert, wenn die menschliche Haut Sonnenlicht ausgesetzt ist?",
+        "en": "Which vitamin is produced when human skin is exposed to sunlight?"
+      },
+      "options": [
+        { "de": "Vitamin A", "en": "Vitamin A" },
+        { "de": "Vitamin B12", "en": "Vitamin B12" },
+        { "de": "Vitamin C", "en": "Vitamin C" },
+        { "de": "Vitamin D", "en": "Vitamin D" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vitamin_D",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-140",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welches Organ im menschlichen Körper produziert Insulin?",
+        "en": "Which organ in the human body produces insulin?"
+      },
+      "options": [
+        { "de": "Leber", "en": "Liver" },
+        { "de": "Niere", "en": "Kidney" },
+        { "de": "Bauchspeicheldrüse", "en": "Pancreas" },
+        { "de": "Milz", "en": "Spleen" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Insulin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-141",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer entwickelte den ersten erfolgreichen inaktivierten Polio-Impfstoff?",
+        "en": "Who developed the first successful inactivated polio vaccine?"
+      },
+      "options": [
+        { "de": "Albert Sabin", "en": "Albert Sabin" },
+        { "de": "Jonas Salk", "en": "Jonas Salk" },
+        { "de": "Alexander Fleming", "en": "Alexander Fleming" },
+        { "de": "Louis Pasteur", "en": "Louis Pasteur" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jonas_Salk",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-142",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welche Krankheit wird durch einen Mangel an Vitamin C verursacht?",
+        "en": "Which disease is caused by a deficiency of vitamin C?"
+      },
+      "options": [
+        { "de": "Rachitis", "en": "Rickets" },
+        { "de": "Skorbut", "en": "Scurvy" },
+        { "de": "Beriberi", "en": "Beriberi" },
+        { "de": "Pellagra", "en": "Pellagra" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Scurvy",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-143",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Welcher Teil des Gehirns ist hauptsächlich für die Koordination von Bewegung und Gleichgewicht verantwortlich?",
+        "en": "Which part of the brain is primarily responsible for coordinating movement and balance?"
+      },
+      "options": [
+        { "de": "Großhirn", "en": "Cerebrum" },
+        { "de": "Hirnstamm", "en": "Brainstem" },
+        { "de": "Kleinhirn", "en": "Cerebellum" },
+        { "de": "Hypothalamus", "en": "Hypothalamus" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cerebellum",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-144",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer entdeckte das Bakterium, das Tuberkulose verursacht?",
+        "en": "Who discovered the bacterium that causes tuberculosis?"
+      },
+      "options": [
+        { "de": "Louis Pasteur", "en": "Louis Pasteur" },
+        { "de": "Joseph Lister", "en": "Joseph Lister" },
+        { "de": "Rudolf Virchow", "en": "Rudolf Virchow" },
+        { "de": "Robert Koch", "en": "Robert Koch" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Koch",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-145",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welches Instrument wird zur Blutdruckmessung verwendet?",
+        "en": "What instrument is used to measure blood pressure?"
+      },
+      "options": [
+        { "de": "Stethoskop", "en": "Stethoscope" },
+        { "de": "Otoskop", "en": "Otoscope" },
+        { "de": "Sphygmomanometer", "en": "Sphygmomanometer" },
+        { "de": "Thermometer", "en": "Thermometer" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sphygmomanometer",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-146",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist der Wert von Pi (π) auf zwei Dezimalstellen gerundet?",
+        "en": "What is the value of pi rounded to two decimal places?"
+      },
+      "options": [
+        { "de": "3,12", "en": "3.12" },
+        { "de": "3,14", "en": "3.14" },
+        { "de": "3,16", "en": "3.16" },
+        { "de": "3,18", "en": "3.18" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-147",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welcher antike griechische Mathematiker ist als 'Vater der Geometrie' bekannt?",
+        "en": "Which ancient Greek mathematician is known as the 'father of geometry'?"
+      },
+      "options": [
+        { "de": "Pythagoras", "en": "Pythagoras" },
+        { "de": "Archimedes", "en": "Archimedes" },
+        { "de": "Euklid", "en": "Euclid" },
+        { "de": "Aristoteles", "en": "Aristotle" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Euclid",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-148",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer bewies Fermats letzten Satz im Jahr 1995?",
+        "en": "Who proved Fermat's Last Theorem in 1995?"
+      },
+      "options": [
+        { "de": "Terence Tao", "en": "Terence Tao" },
+        { "de": "Grigori Perelman", "en": "Grigori Perelman" },
+        { "de": "Pierre de Fermat", "en": "Pierre de Fermat" },
+        { "de": "Andrew Wiles", "en": "Andrew Wiles" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-149",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die Quadratwurzel von 144?",
+        "en": "What is the square root of 144?"
+      },
+      "options": [
+        { "de": "10", "en": "10" },
+        { "de": "11", "en": "11" },
+        { "de": "12", "en": "12" },
+        { "de": "14", "en": "14" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Square_root",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-150",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was definiert eine Primzahl?",
+        "en": "What defines a prime number?"
+      },
+      "options": [
+        { "de": "Durch jede Zahl teilbar", "en": "Divisible by any number" },
+        { "de": "Nur durch 1 und sich selbst teilbar", "en": "Divisible only by 1 and itself" },
+        { "de": "Immer eine gerade Zahl", "en": "Always an even number" },
+        { "de": "Eine Zahl größer als 100", "en": "A number greater than 100" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Prime_number",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-151",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Welcher Philosoph und Mathematiker entwickelte die analytische Geometrie?",
+        "en": "Which philosopher and mathematician developed analytic geometry?"
+      },
+      "options": [
+        { "de": "Blaise Pascal", "en": "Blaise Pascal" },
+        { "de": "René Descartes", "en": "René Descartes" },
+        { "de": "Pierre de Fermat", "en": "Pierre de Fermat" },
+        { "de": "Gottfried Wilhelm Leibniz", "en": "Gottfried Wilhelm Leibniz" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-152",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer entwickelte die Infinitesimalrechnung unabhängig von Isaac Newton?",
+        "en": "Who developed calculus independently alongside Isaac Newton?"
+      },
+      "options": [
+        { "de": "Leonhard Euler", "en": "Leonhard Euler" },
+        { "de": "Carl Friedrich Gauss", "en": "Carl Friedrich Gauss" },
+        { "de": "Gottfried Wilhelm Leibniz", "en": "Gottfried Wilhelm Leibniz" },
+        { "de": "Blaise Pascal", "en": "Blaise Pascal" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-153",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie nennt man ein Dreieck mit drei gleich langen Seiten?",
+        "en": "What is a triangle with all three sides equal called?"
+      },
+      "options": [
+        { "de": "Gleichschenklig", "en": "Isosceles" },
+        { "de": "Rechtwinklig", "en": "Right" },
+        { "de": "Gleichseitig", "en": "Equilateral" },
+        { "de": "Ungleichseitig", "en": "Scalene" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Equilateral_triangle",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-154",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ergibt a² + b² im Satz des Pythagoras?",
+        "en": "In the Pythagorean theorem, what does a² + b² equal?"
+      },
+      "options": [
+        { "de": "c", "en": "c" },
+        { "de": "c²", "en": "c²" },
+        { "de": "2c", "en": "2c" },
+        { "de": "c³", "en": "c³" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pythagorean_theorem",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-155",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Woraus besteht der innere Erdkern hauptsächlich?",
+        "en": "What is Earth's inner core primarily made of?"
+      },
+      "options": [
+        { "de": "Silizium und Sauerstoff", "en": "Silicon and oxygen" },
+        { "de": "Eisen und Nickel", "en": "Iron and nickel" },
+        { "de": "Magnesium und Eisen", "en": "Magnesium and iron" },
+        { "de": "Aluminium und Silizium", "en": "Aluminum and silicon" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Earth%27s_inner_core",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-156",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Welche Skala wird üblicherweise zur Messung der Erdbebenstärke verwendet?",
+        "en": "What scale is commonly used to measure earthquake magnitude?"
+      },
+      "options": [
+        { "de": "Beaufortskala", "en": "Beaufort scale" },
+        { "de": "Richterskala", "en": "Richter scale" },
+        { "de": "Mohsskala", "en": "Mohs scale" },
+        { "de": "Dezibelskala", "en": "Decibel scale" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Richter_magnitude_scale",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-157",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welcher Schicht der Erdatmosphäre befindet sich die Ozonschicht?",
+        "en": "In which layer of Earth's atmosphere is the ozone layer found?"
+      },
+      "options": [
+        { "de": "Troposphäre", "en": "Troposphere" },
+        { "de": "Stratosphäre", "en": "Stratosphere" },
+        { "de": "Mesosphäre", "en": "Mesosphere" },
+        { "de": "Thermosphäre", "en": "Thermosphere" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ozone_layer",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-158",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Was ist der tiefste bekannte Punkt in den Weltmeeren?",
+        "en": "What is the deepest known point in the world's oceans?"
+      },
+      "options": [
+        { "de": "Tongagraben", "en": "Tonga Trench" },
+        { "de": "Puertoricograben", "en": "Puerto Rico Trench" },
+        { "de": "Javagraben", "en": "Java Trench" },
+        { "de": "Challengertief", "en": "Challenger Deep" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Challenger_Deep",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-159",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welche Art von Gestein entsteht aus abgekühlter Lava oder Magma?",
+        "en": "What type of rock is formed from cooled lava or magma?"
+      },
+      "options": [
+        { "de": "Sedimentgestein", "en": "Sedimentary rock" },
+        { "de": "Metamorphes Gestein", "en": "Metamorphic rock" },
+        { "de": "Magmatisches Gestein", "en": "Igneous rock" },
+        { "de": "Kalkstein", "en": "Limestone" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Igneous_rock",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-160",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie alt ist die Erde ungefähr?",
+        "en": "Approximately how old is Earth?"
+      },
+      "options": [
+        { "de": "2,5 Milliarden Jahre", "en": "2.5 billion years" },
+        { "de": "4,5 Milliarden Jahre", "en": "4.5 billion years" },
+        { "de": "6,5 Milliarden Jahre", "en": "6.5 billion years" },
+        { "de": "10 Milliarden Jahre", "en": "10 billion years" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Age_of_Earth",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-161",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was verursacht hauptsächlich die Gezeiten auf der Erde?",
+        "en": "What primarily causes tides on Earth?"
+      },
+      "options": [
+        { "de": "Wind", "en": "Wind" },
+        { "de": "Erdrotation", "en": "Earth's rotation" },
+        { "de": "Anziehungskraft des Mondes", "en": "Gravitational pull of the Moon" },
+        { "de": "Meeresströmungen", "en": "Ocean currents" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tide",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-162",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Was misst die Mohs-Skala?",
+        "en": "What does the Mohs scale measure?"
+      },
+      "options": [
+        { "de": "Erdbebenintensität", "en": "Earthquake intensity" },
+        { "de": "Windgeschwindigkeit", "en": "Wind speed" },
+        { "de": "Lautstärke", "en": "Sound volume" },
+        { "de": "Mineralhärte", "en": "Mineral hardness" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mohs_scale",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-163",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die SI-Einheit der Kraft?",
+        "en": "What is the SI unit of force?"
+      },
+      "options": [
+        { "de": "Joule", "en": "Joule" },
+        { "de": "Watt", "en": "Watt" },
+        { "de": "Pascal", "en": "Pascal" },
+        { "de": "Newton", "en": "Newton" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Newton_(unit)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-164",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die SI-Einheit der Energie?",
+        "en": "What is the SI unit of energy?"
+      },
+      "options": [
+        { "de": "Newton", "en": "Newton" },
+        { "de": "Joule", "en": "Joule" },
+        { "de": "Watt", "en": "Watt" },
+        { "de": "Volt", "en": "Volt" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Joule",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-165",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist der absolute Nullpunkt in Grad Celsius?",
+        "en": "What is absolute zero in degrees Celsius?"
+      },
+      "options": [
+        { "de": "−100 °C", "en": "−100 °C" },
+        { "de": "−196 °C", "en": "−196 °C" },
+        { "de": "−273,15 °C", "en": "−273.15 °C" },
+        { "de": "−300 °C", "en": "−300 °C" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Absolute_zero",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-166",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die SI-Einheit der elektrischen Stromstärke?",
+        "en": "What is the SI unit of electric current?"
+      },
+      "options": [
+        { "de": "Volt", "en": "Volt" },
+        { "de": "Ohm", "en": "Ohm" },
+        { "de": "Ampere", "en": "Ampere" },
+        { "de": "Watt", "en": "Watt" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ampere",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-167",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die elektrische Ladung eines Elektrons?",
+        "en": "What is the electric charge of an electron?"
+      },
+      "options": [
+        { "de": "Positiv", "en": "Positive" },
+        { "de": "Negativ", "en": "Negative" },
+        { "de": "Neutral", "en": "Neutral" },
+        { "de": "Variabel", "en": "Variable" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Electron",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-168",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer schlug vor, dass Materie wellenähnliche Eigenschaften hat?",
+        "en": "Who proposed that matter has wave-like properties?"
+      },
+      "options": [
+        { "de": "Werner Heisenberg", "en": "Werner Heisenberg" },
+        { "de": "Erwin Schrödinger", "en": "Erwin Schrödinger" },
+        { "de": "Louis de Broglie", "en": "Louis de Broglie" },
+        { "de": "Paul Dirac", "en": "Paul Dirac" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Louis_de_Broglie",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-169",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die SI-Einheit des elektrischen Widerstands?",
+        "en": "What is the SI unit of electrical resistance?"
+      },
+      "options": [
+        { "de": "Ampere", "en": "Ampere" },
+        { "de": "Volt", "en": "Volt" },
+        { "de": "Watt", "en": "Watt" },
+        { "de": "Ohm", "en": "Ohm" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ohm",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-170",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie heißt der Vorgang, wenn ein Atomkern in kleinere Teile zerfällt?",
+        "en": "What is the process called when an atomic nucleus splits into smaller parts?"
+      },
+      "options": [
+        { "de": "Kernfusion", "en": "Nuclear fusion" },
+        { "de": "Kernspaltung", "en": "Nuclear fission" },
+        { "de": "Radioaktiver Zerfall", "en": "Radioactive decay" },
+        { "de": "Ionisation", "en": "Ionization" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nuclear_fission",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-171",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer entdeckte die Supraleitung im Jahr 1911?",
+        "en": "Who discovered superconductivity in 1911?"
+      },
+      "options": [
+        { "de": "Niels Bohr", "en": "Niels Bohr" },
+        { "de": "Max Planck", "en": "Max Planck" },
+        { "de": "Heike Kamerlingh Onnes", "en": "Heike Kamerlingh Onnes" },
+        { "de": "Ernest Rutherford", "en": "Ernest Rutherford" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Superconductivity",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-172",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Der erste Hauptsatz der Thermodynamik ist eine Aussage welchen Prinzips?",
+        "en": "The first law of thermodynamics is a statement of which principle?"
+      },
+      "options": [
+        { "de": "Impulserhaltung", "en": "Conservation of momentum" },
+        { "de": "Energieerhaltung", "en": "Conservation of energy" },
+        { "de": "Massenerhaltung", "en": "Conservation of mass" },
+        { "de": "Ladungserhaltung", "en": "Conservation of charge" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/First_law_of_thermodynamics",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-173",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer hat als Erster die Ladung eines Elektrons genau gemessen?",
+        "en": "Who first accurately measured the charge of an electron?"
+      },
+      "options": [
+        { "de": "J.J. Thomson", "en": "J.J. Thomson" },
+        { "de": "Ernest Rutherford", "en": "Ernest Rutherford" },
+        { "de": "Niels Bohr", "en": "Niels Bohr" },
+        { "de": "Robert Millikan", "en": "Robert Millikan" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Andrews_Millikan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-174",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie heißt das Antiteilchen des Elektrons?",
+        "en": "What is the antiparticle of the electron called?"
+      },
+      "options": [
+        { "de": "Proton", "en": "Proton" },
+        { "de": "Neutron", "en": "Neutron" },
+        { "de": "Positron", "en": "Positron" },
+        { "de": "Photon", "en": "Photon" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Positron",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-175",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Welche Kraft hält Protonen und Neutronen im Atomkern zusammen?",
+        "en": "What force holds protons and neutrons together in an atomic nucleus?"
+      },
+      "options": [
+        { "de": "Elektromagnetische Kraft", "en": "Electromagnetic force" },
+        { "de": "Gravitation", "en": "Gravity" },
+        { "de": "Schwache Kernkraft", "en": "Weak nuclear force" },
+        { "de": "Starke Kernkraft", "en": "Strong nuclear force" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Strong_interaction",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-176",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist die Ordnungszahl von Kohlenstoff?",
+        "en": "What is the atomic number of carbon?"
+      },
+      "options": [
+        { "de": "4", "en": "4" },
+        { "de": "6", "en": "6" },
+        { "de": "8", "en": "8" },
+        { "de": "12", "en": "12" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Carbon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-177",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist das häufigste Element im Universum?",
+        "en": "What is the most abundant element in the universe?"
+      },
+      "options": [
+        { "de": "Helium", "en": "Helium" },
+        { "de": "Sauerstoff", "en": "Oxygen" },
+        { "de": "Wasserstoff", "en": "Hydrogen" },
+        { "de": "Kohlenstoff", "en": "Carbon" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hydrogen",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-178",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist der pH-Wert von reinem Wasser?",
+        "en": "What is the pH value of pure water?"
+      },
+      "options": [
+        { "de": "0", "en": "0" },
+        { "de": "5", "en": "5" },
+        { "de": "7", "en": "7" },
+        { "de": "14", "en": "14" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/PH",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-179",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer gewann den Nobelpreis für die Entdeckung der Edelgase?",
+        "en": "Who won the Nobel Prize for discovering the noble gases?"
+      },
+      "options": [
+        { "de": "Dmitri Mendelejew", "en": "Dmitri Mendeleev" },
+        { "de": "Henry Cavendish", "en": "Henry Cavendish" },
+        { "de": "William Ramsay", "en": "William Ramsay" },
+        { "de": "Joseph Priestley", "en": "Joseph Priestley" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/William_Ramsay",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-180",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die chemische Formel für Kochsalz?",
+        "en": "What is the chemical formula for table salt?"
+      },
+      "options": [
+        { "de": "NaOH", "en": "NaOH" },
+        { "de": "KCl", "en": "KCl" },
+        { "de": "NaCl", "en": "NaCl" },
+        { "de": "CaCl₂", "en": "CaCl₂" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sodium_chloride",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-181",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wie heißt der Vorgang, wenn ein Feststoff direkt in ein Gas übergeht?",
+        "en": "What is the process called when a solid changes directly into a gas?"
+      },
+      "options": [
+        { "de": "Verdampfung", "en": "Evaporation" },
+        { "de": "Kondensation", "en": "Condensation" },
+        { "de": "Sublimation", "en": "Sublimation" },
+        { "de": "Deposition", "en": "Deposition" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sublimation_(phase_transition)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-182",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist das häufigste Element in der Erdkruste?",
+        "en": "What is the most abundant element in Earth's crust?"
+      },
+      "options": [
+        { "de": "Silizium", "en": "Silicon" },
+        { "de": "Eisen", "en": "Iron" },
+        { "de": "Sauerstoff", "en": "Oxygen" },
+        { "de": "Aluminium", "en": "Aluminum" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Abundance_of_elements_in_Earth%27s_crust",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-183",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie viele chemische Elemente stehen derzeit im Periodensystem?",
+        "en": "How many chemical elements are currently on the periodic table?"
+      },
+      "options": [
+        { "de": "108", "en": "108" },
+        { "de": "112", "en": "112" },
+        { "de": "118", "en": "118" },
+        { "de": "124", "en": "124" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Periodic_table",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-184",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist das chemische Symbol für Eisen?",
+        "en": "What is the chemical symbol for iron?"
+      },
+      "options": [
+        { "de": "Ir", "en": "Ir" },
+        { "de": "Fe", "en": "Fe" },
+        { "de": "In", "en": "In" },
+        { "de": "Io", "en": "Io" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Iron",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-185",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist das chemische Symbol für Natrium?",
+        "en": "What is the chemical symbol for sodium?"
+      },
+      "options": [
+        { "de": "So", "en": "So" },
+        { "de": "Sd", "en": "Sd" },
+        { "de": "Na", "en": "Na" },
+        { "de": "No", "en": "No" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sodium",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-186",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die chemische Formel für Kohlendioxid?",
+        "en": "What is the chemical formula for carbon dioxide?"
+      },
+      "options": [
+        { "de": "CO", "en": "CO" },
+        { "de": "CO₂", "en": "CO₂" },
+        { "de": "C₂O", "en": "C₂O" },
+        { "de": "CH₄", "en": "CH₄" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Carbon_dioxide",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-187",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Was ist das leichteste Edelgas?",
+        "en": "What is the lightest noble gas?"
+      },
+      "options": [
+        { "de": "Neon", "en": "Neon" },
+        { "de": "Argon", "en": "Argon" },
+        { "de": "Helium", "en": "Helium" },
+        { "de": "Krypton", "en": "Krypton" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Helium",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-188",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welche Art von chemischer Bindung beinhaltet die gemeinsame Nutzung von Elektronenpaaren zwischen Atomen?",
+        "en": "What type of chemical bond involves the sharing of electron pairs between atoms?"
+      },
+      "options": [
+        { "de": "Ionenbindung", "en": "Ionic bond" },
+        { "de": "Kovalente Bindung", "en": "Covalent bond" },
+        { "de": "Metallische Bindung", "en": "Metallic bond" },
+        { "de": "Wasserstoffbrückenbindung", "en": "Hydrogen bond" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Covalent_bond",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-189",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist die chemische Formel für Methan?",
+        "en": "What is the chemical formula for methane?"
+      },
+      "options": [
+        { "de": "CH₄", "en": "CH₄" },
+        { "de": "C₂H₆", "en": "C₂H₆" },
+        { "de": "CO₂", "en": "CO₂" },
+        { "de": "C₂H₂", "en": "C₂H₂" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Methane",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-190",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer erfand den Dieselmotor?",
+        "en": "Who invented the diesel engine?"
+      },
+      "options": [
+        { "de": "Karl Benz", "en": "Karl Benz" },
+        { "de": "Nikolaus Otto", "en": "Nikolaus Otto" },
+        { "de": "Rudolf Diesel", "en": "Rudolf Diesel" },
+        { "de": "Gottlieb Daimler", "en": "Gottlieb Daimler" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rudolf_Diesel",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-191",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer baute den ersten in Serie produzierten Hubschrauber?",
+        "en": "Who built the first mass-produced helicopter?"
+      },
+      "options": [
+        { "de": "Leonardo da Vinci", "en": "Leonardo da Vinci" },
+        { "de": "Juan de la Cierva", "en": "Juan de la Cierva" },
+        { "de": "Heinrich Focke", "en": "Heinrich Focke" },
+        { "de": "Igor Sikorsky", "en": "Igor Sikorsky" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Igor_Sikorsky",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-192",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welches Material wird am häufigsten in Halbleiterchips verwendet?",
+        "en": "What material is most commonly used in semiconductor chips?"
+      },
+      "options": [
+        { "de": "Kupfer", "en": "Copper" },
+        { "de": "Silizium", "en": "Silicon" },
+        { "de": "Germanium", "en": "Germanium" },
+        { "de": "Gold", "en": "Gold" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Silicon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-193",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer erfand das Verfahren der Vulkanisierung von Gummi?",
+        "en": "Who invented the process of vulcanizing rubber?"
+      },
+      "options": [
+        { "de": "Charles Goodyear", "en": "Charles Goodyear" },
+        { "de": "John Boyd Dunlop", "en": "John Boyd Dunlop" },
+        { "de": "Harvey Firestone", "en": "Harvey Firestone" },
+        { "de": "Charles Macintosh", "en": "Charles Macintosh" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Goodyear",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-194",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist das höchste Gebäude der Welt (Stand 2024)?",
+        "en": "What is the tallest building in the world as of 2024?"
+      },
+      "options": [
+        { "de": "Shanghai Tower", "en": "Shanghai Tower" },
+        { "de": "One World Trade Center", "en": "One World Trade Center" },
+        { "de": "Taipei 101", "en": "Taipei 101" },
+        { "de": "Burj Khalifa", "en": "Burj Khalifa" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-195",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer erfand das Barometer?",
+        "en": "Who invented the barometer?"
+      },
+      "options": [
+        { "de": "Galileo Galilei", "en": "Galileo Galilei" },
+        { "de": "Blaise Pascal", "en": "Blaise Pascal" },
+        { "de": "Evangelista Torricelli", "en": "Evangelista Torricelli" },
+        { "de": "Robert Boyle", "en": "Robert Boyle" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Evangelista_Torricelli",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-196",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist das häufigste Metall in der Erdkruste?",
+        "en": "What is the most abundant metal in Earth's crust?"
+      },
+      "options": [
+        { "de": "Eisen", "en": "Iron" },
+        { "de": "Aluminium", "en": "Aluminum" },
+        { "de": "Kupfer", "en": "Copper" },
+        { "de": "Kalzium", "en": "Calcium" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aluminium",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-197",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer baute den ersten funktionierenden Laser im Jahr 1960?",
+        "en": "Who built the first functioning laser in 1960?"
+      },
+      "options": [
+        { "de": "Albert Einstein", "en": "Albert Einstein" },
+        { "de": "Charles Townes", "en": "Charles Townes" },
+        { "de": "Theodore Maiman", "en": "Theodore Maiman" },
+        { "de": "Gordon Gould", "en": "Gordon Gould" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Theodore_Maiman",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-198",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie heißt die wissenschaftliche Lehre vom Wetter und der Atmosphäre?",
+        "en": "What is the scientific study of weather and the atmosphere called?"
+      },
+      "options": [
+        { "de": "Geologie", "en": "Geology" },
+        { "de": "Meteorologie", "en": "Meteorology" },
+        { "de": "Ökologie", "en": "Ecology" },
+        { "de": "Astronomie", "en": "Astronomy" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Meteorology",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-199",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Was ist die höchste Baumart der Welt?",
+        "en": "What is the tallest species of tree in the world?"
+      },
+      "options": [
+        { "de": "Riesenmammutbaum", "en": "Giant sequoia" },
+        { "de": "Douglasie", "en": "Douglas fir" },
+        { "de": "Küstenmammutbaum", "en": "Coast redwood" },
+        { "de": "Eukalyptus", "en": "Eucalyptus" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sequoia_sempervirens",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-200",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die größte Haiart?",
+        "en": "What is the largest species of shark?"
+      },
+      "options": [
+        { "de": "Weißer Hai", "en": "Great white shark" },
+        { "de": "Walhai", "en": "Whale shark" },
+        { "de": "Hammerhai", "en": "Hammerhead shark" },
+        { "de": "Tigerhai", "en": "Tiger shark" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Whale_shark",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-201",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist das einzige Säugetier, das wirklich fliegen kann?",
+        "en": "What is the only mammal naturally capable of true flight?"
+      },
+      "options": [
+        { "de": "Flughörnchen", "en": "Flying squirrel" },
+        { "de": "Riesengleiter", "en": "Colugo" },
+        { "de": "Fledermaus", "en": "Bat" },
+        { "de": "Kurzkopfgleitbeutler", "en": "Sugar glider" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bat",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-202",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Was ist das häufigste Protein im menschlichen Körper?",
+        "en": "What is the most abundant protein in the human body?"
+      },
+      "options": [
+        { "de": "Keratin", "en": "Keratin" },
+        { "de": "Hämoglobin", "en": "Hemoglobin" },
+        { "de": "Aktin", "en": "Actin" },
+        { "de": "Kollagen", "en": "Collagen" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Collagen",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-203",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer formulierte die drei Gesetze der Planetenbewegung?",
+        "en": "Who formulated the three laws of planetary motion?"
+      },
+      "options": [
+        { "de": "Galileo Galilei", "en": "Galileo Galilei" },
+        { "de": "Isaac Newton", "en": "Isaac Newton" },
+        { "de": "Johannes Kepler", "en": "Johannes Kepler" },
+        { "de": "Tycho Brahe", "en": "Tycho Brahe" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-204",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie hieß das erste geklonte Säugetier?",
+        "en": "What was the name of the first cloned mammal?"
+      },
+      "options": [
+        { "de": "Molly", "en": "Molly" },
+        { "de": "Polly", "en": "Polly" },
+        { "de": "Holly", "en": "Holly" },
+        { "de": "Dolly", "en": "Dolly" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dolly_(sheep)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-205",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist das chemische Symbol für Blei?",
+        "en": "What is the chemical symbol for lead?"
+      },
+      "options": [
+        { "de": "Le", "en": "Le" },
+        { "de": "Ld", "en": "Ld" },
+        { "de": "Pb", "en": "Pb" },
+        { "de": "Pl", "en": "Pl" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lead",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-206",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist das chemische Symbol für Silber?",
+        "en": "What is the chemical symbol for silver?"
+      },
+      "options": [
+        { "de": "Si", "en": "Si" },
+        { "de": "Sl", "en": "Sl" },
+        { "de": "Ar", "en": "Ar" },
+        { "de": "Ag", "en": "Ag" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Silver",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-207",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Was ist das chemische Symbol für Kalium?",
+        "en": "What is the chemical symbol for potassium?"
+      },
+      "options": [
+        { "de": "Po", "en": "Po" },
+        { "de": "Pt", "en": "Pt" },
+        { "de": "Ka", "en": "Ka" },
+        { "de": "K", "en": "K" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Potassium",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-208",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Was ist das chemische Symbol für Zinn?",
+        "en": "What is the chemical symbol for tin?"
+      },
+      "options": [
+        { "de": "Ti", "en": "Ti" },
+        { "de": "Sn", "en": "Sn" },
+        { "de": "Tn", "en": "Tn" },
+        { "de": "Zi", "en": "Zi" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-209",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist der kleinste Planet in unserem Sonnensystem?",
+        "en": "What is the smallest planet in our solar system?"
+      },
+      "options": [
+        { "de": "Merkur", "en": "Mercury" },
+        { "de": "Mars", "en": "Mars" },
+        { "de": "Venus", "en": "Venus" },
+        { "de": "Pluto", "en": "Pluto" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-210",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Was ist der dichteste Planet in unserem Sonnensystem?",
+        "en": "What is the densest planet in our solar system?"
+      },
+      "options": [
+        { "de": "Jupiter", "en": "Jupiter" },
+        { "de": "Merkur", "en": "Mercury" },
+        { "de": "Saturn", "en": "Saturn" },
+        { "de": "Erde", "en": "Earth" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Earth",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-211",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie viel Prozent der Erdatmosphäre macht Sauerstoff ungefähr aus?",
+        "en": "Approximately what percentage of Earth's atmosphere is oxygen?"
+      },
+      "options": [
+        { "de": "10 %", "en": "10%" },
+        { "de": "21 %", "en": "21%" },
+        { "de": "35 %", "en": "35%" },
+        { "de": "50 %", "en": "50%" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Atmosphere_of_Earth",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-212",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist der größte Ozean der Erde?",
+        "en": "What is the largest ocean on Earth?"
+      },
+      "options": [
+        { "de": "Atlantischer Ozean", "en": "Atlantic Ocean" },
+        { "de": "Indischer Ozean", "en": "Indian Ocean" },
+        { "de": "Pazifischer Ozean", "en": "Pacific Ocean" },
+        { "de": "Arktischer Ozean", "en": "Arctic Ocean" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pacific_Ocean",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-213",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer veröffentlichte die allgemeine Relativitätstheorie im Jahr 1915?",
+        "en": "Who published the general theory of relativity in 1915?"
+      },
+      "options": [
+        { "de": "Max Planck", "en": "Max Planck" },
+        { "de": "Albert Einstein", "en": "Albert Einstein" },
+        { "de": "Niels Bohr", "en": "Niels Bohr" },
+        { "de": "Werner Heisenberg", "en": "Werner Heisenberg" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/General_relativity",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-214",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist die SI-Einheit der Leistung?",
+        "en": "What is the SI unit of power?"
+      },
+      "options": [
+        { "de": "Joule", "en": "Joule" },
+        { "de": "Newton", "en": "Newton" },
+        { "de": "Watt", "en": "Watt" },
+        { "de": "Volt", "en": "Volt" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Watt",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-215",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist die ungefähre Schallgeschwindigkeit in Luft bei Raumtemperatur?",
+        "en": "What is the approximate speed of sound in air at room temperature?"
+      },
+      "options": [
+        { "de": "150 m/s", "en": "150 m/s" },
+        { "de": "343 m/s", "en": "343 m/s" },
+        { "de": "500 m/s", "en": "500 m/s" },
+        { "de": "700 m/s", "en": "700 m/s" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Speed_of_sound",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-216",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Welche Art elektromagnetischer Strahlung hat die kürzeste Wellenlänge?",
+        "en": "Which type of electromagnetic radiation has the shortest wavelength?"
+      },
+      "options": [
+        { "de": "Röntgenstrahlen", "en": "X-rays" },
+        { "de": "Ultraviolett", "en": "Ultraviolet" },
+        { "de": "Gammastrahlen", "en": "Gamma rays" },
+        { "de": "Mikrowellen", "en": "Microwaves" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gamma_ray",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-217",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wie heißt die Grenze um ein Schwarzes Loch, aus der nichts entkommen kann?",
+        "en": "What is the boundary around a black hole from which nothing can escape called?"
+      },
+      "options": [
+        { "de": "Singularität", "en": "Singularity" },
+        { "de": "Ereignishorizont", "en": "Event horizon" },
+        { "de": "Photonensphäre", "en": "Photon sphere" },
+        { "de": "Schwarzschild-Radius", "en": "Schwarzschild radius" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Event_horizon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-218",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welches Teilchen in einem Atom trägt eine positive elektrische Ladung?",
+        "en": "What particle in an atom carries a positive electric charge?"
+      },
+      "options": [
+        { "de": "Elektron", "en": "Electron" },
+        { "de": "Neutron", "en": "Neutron" },
+        { "de": "Proton", "en": "Proton" },
+        { "de": "Photon", "en": "Photon" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Proton",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-219",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer entdeckte das Elastizitätsgesetz, bekannt als das Hookesche Gesetz?",
+        "en": "Who discovered the law of elasticity, known as Hooke's Law?"
+      },
+      "options": [
+        { "de": "Isaac Newton", "en": "Isaac Newton" },
+        { "de": "Robert Boyle", "en": "Robert Boyle" },
+        { "de": "Edmund Halley", "en": "Edmund Halley" },
+        { "de": "Robert Hooke", "en": "Robert Hooke" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hooke%27s_law",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-220",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer formulierte die drei Bewegungsgesetze?",
+        "en": "Who formulated the three laws of motion?"
+      },
+      "options": [
+        { "de": "Galileo Galilei", "en": "Galileo Galilei" },
+        { "de": "Isaac Newton", "en": "Isaac Newton" },
+        { "de": "Johannes Kepler", "en": "Johannes Kepler" },
+        { "de": "Albert Einstein", "en": "Albert Einstein" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-221",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer entwickelte den ersten praktischen Wechselstrommotor?",
+        "en": "Who developed the first practical alternating current (AC) motor?"
+      },
+      "options": [
+        { "de": "Thomas Edison", "en": "Thomas Edison" },
+        { "de": "George Westinghouse", "en": "George Westinghouse" },
+        { "de": "Nikola Tesla", "en": "Nikola Tesla" },
+        { "de": "Werner von Siemens", "en": "Werner von Siemens" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-222",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welchen Brennstoff verwenden die meisten Kernkraftwerke?",
+        "en": "What fuel do most nuclear power plants use?"
+      },
+      "options": [
+        { "de": "Plutonium", "en": "Plutonium" },
+        { "de": "Thorium", "en": "Thorium" },
+        { "de": "Uran", "en": "Uranium" },
+        { "de": "Wasserstoff", "en": "Hydrogen" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nuclear_power",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-223",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer erfand den Sicherheitsaufzug, der hohe Gebäude praktikabel machte?",
+        "en": "Who invented the safety elevator, making tall buildings practical?"
+      },
+      "options": [
+        { "de": "Elisha Otis", "en": "Elisha Otis" },
+        { "de": "Werner von Siemens", "en": "Werner von Siemens" },
+        { "de": "Alexander Miles", "en": "Alexander Miles" },
+        { "de": "Frank Sprague", "en": "Frank Sprague" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elisha_Otis",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-224",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie heißt die wissenschaftliche Lehre von den Pilzen?",
+        "en": "What is the scientific study of fungi called?"
+      },
+      "options": [
+        { "de": "Botanik", "en": "Botany" },
+        { "de": "Mykologie", "en": "Mycology" },
+        { "de": "Virologie", "en": "Virology" },
+        { "de": "Bakteriologie", "en": "Bacteriology" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mycology",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-225",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Welche Zahl kommt in der Fibonacci-Folge nach 1, 1, 2, 3, 5?",
+        "en": "In the Fibonacci sequence, which number comes after 1, 1, 2, 3, 5?"
+      },
+      "options": [
+        { "de": "6", "en": "6" },
+        { "de": "7", "en": "7" },
+        { "de": "8", "en": "8" },
+        { "de": "10", "en": "10" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fibonacci_sequence",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-226",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie nennt man Tiere, die sowohl Pflanzen als auch Fleisch fressen?",
+        "en": "What are animals that eat both plants and meat called?"
+      },
+      "options": [
+        { "de": "Pflanzenfresser", "en": "Herbivores" },
+        { "de": "Fleischfresser", "en": "Carnivores" },
+        { "de": "Allesfresser", "en": "Omnivores" },
+        { "de": "Insektenfresser", "en": "Insectivores" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Omnivore",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-227",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie viele Knochen hat ein Neugeborenes ungefähr?",
+        "en": "Approximately how many bones does a newborn baby have?"
+      },
+      "options": [
+        { "de": "206", "en": "206" },
+        { "de": "250", "en": "250" },
+        { "de": "270", "en": "270" },
+        { "de": "350", "en": "350" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bone",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-228",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist die größte Wüste der Welt nach Fläche?",
+        "en": "What is the largest desert in the world by area?"
+      },
+      "options": [
+        { "de": "Sahara", "en": "Sahara" },
+        { "de": "Antarktische Wüste", "en": "Antarctic Desert" },
+        { "de": "Arabische Wüste", "en": "Arabian Desert" },
+        { "de": "Gobi-Wüste", "en": "Gobi Desert" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antarctic_Desert",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-229",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie heißt die wissenschaftliche Lehre von Erdbeben?",
+        "en": "What is the scientific study of earthquakes called?"
+      },
+      "options": [
+        { "de": "Vulkanologie", "en": "Volcanology" },
+        { "de": "Seismologie", "en": "Seismology" },
+        { "de": "Geologie", "en": "Geology" },
+        { "de": "Tektonik", "en": "Tectonics" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Seismology",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-230",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wie heißt die Erkrankung, bei der der Körper den Blutzuckerspiegel nicht richtig regulieren kann?",
+        "en": "What is the condition called in which the body cannot properly regulate blood sugar levels?"
+      },
+      "options": [
+        { "de": "Anämie", "en": "Anemia" },
+        { "de": "Bluthochdruck", "en": "Hypertension" },
+        { "de": "Diabetes mellitus", "en": "Diabetes mellitus" },
+        { "de": "Hypothyreose", "en": "Hypothyroidism" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Diabetes",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-231",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie nennt man die Beugung von Wellen um Hindernisse und durch Öffnungen?",
+        "en": "What is the bending of waves around obstacles and through openings called?"
+      },
+      "options": [
+        { "de": "Reflexion", "en": "Reflection" },
+        { "de": "Brechung", "en": "Refraction" },
+        { "de": "Beugung", "en": "Diffraction" },
+        { "de": "Absorption", "en": "Absorption" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Diffraction",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-232",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer gründete 1975 Microsoft mit?",
+        "en": "Who co-founded Microsoft in 1975?"
+      },
+      "options": [
+        { "de": "Steve Jobs und Steve Wozniak", "en": "Steve Jobs and Steve Wozniak" },
+        { "de": "Bill Gates und Paul Allen", "en": "Bill Gates and Paul Allen" },
+        { "de": "Larry Page und Sergey Brin", "en": "Larry Page and Sergey Brin" },
+        { "de": "Mark Zuckerberg und Eduardo Saverin", "en": "Mark Zuckerberg and Eduardo Saverin" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Microsoft",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-233",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer gründete 1976 Apple Inc. mit?",
+        "en": "Who co-founded Apple Inc. in 1976?"
+      },
+      "options": [
+        { "de": "Bill Gates und Paul Allen", "en": "Bill Gates and Paul Allen" },
+        { "de": "Larry Page und Sergey Brin", "en": "Larry Page and Sergey Brin" },
+        { "de": "Steve Jobs und Steve Wozniak", "en": "Steve Jobs and Steve Wozniak" },
+        { "de": "Jeff Bezos und MacKenzie Scott", "en": "Jeff Bezos and MacKenzie Scott" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-234",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer baute die Z3, den ersten funktionierenden programmierbaren, vollautomatischen Digitalcomputer der Welt?",
+        "en": "Who built the Z3, the world's first working programmable, fully automatic digital computer?"
+      },
+      "options": [
+        { "de": "Alan Turing", "en": "Alan Turing" },
+        { "de": "John von Neumann", "en": "John von Neumann" },
+        { "de": "Konrad Zuse", "en": "Konrad Zuse" },
+        { "de": "Charles Babbage", "en": "Charles Babbage" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Z3_(computer)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-235",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer entdeckte das Element Radium im Jahr 1898?",
+        "en": "Who discovered the element radium in 1898?"
+      },
+      "options": [
+        { "de": "Ernest Rutherford und Frederick Soddy", "en": "Ernest Rutherford and Frederick Soddy" },
+        { "de": "Henri Becquerel und Paul Villard", "en": "Henri Becquerel and Paul Villard" },
+        { "de": "Marie und Pierre Curie", "en": "Marie and Pierre Curie" },
+        { "de": "Wilhelm Röntgen und Philipp Lenard", "en": "Wilhelm Röntgen and Philipp Lenard" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Radium",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-236",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie nennt man ein Lichtteilchen?",
+        "en": "What is a particle of light called?"
+      },
+      "options": [
+        { "de": "Elektron", "en": "Electron" },
+        { "de": "Proton", "en": "Proton" },
+        { "de": "Photon", "en": "Photon" },
+        { "de": "Neutron", "en": "Neutron" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Photon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-237",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welcher Galaxie befindet sich die Erde?",
+        "en": "In which galaxy is Earth located?"
+      },
+      "options": [
+        { "de": "Andromedagalaxie", "en": "Andromeda Galaxy" },
+        { "de": "Milchstraße", "en": "Milky Way" },
+        { "de": "Dreiecksgalaxie", "en": "Triangulum Galaxy" },
+        { "de": "Strudelgalaxie", "en": "Whirlpool Galaxy" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Milky_Way",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-238",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ergibt laut dem Ohmschen Gesetz die Spannung geteilt durch den Widerstand?",
+        "en": "According to Ohm's Law, what equals voltage divided by resistance?"
+      },
+      "options": [
+        { "de": "Leistung", "en": "Power" },
+        { "de": "Energie", "en": "Energy" },
+        { "de": "Stromstärke", "en": "Current" },
+        { "de": "Kapazität", "en": "Capacitance" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ohm%27s_law",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-239",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was sind die drei Hauptkategorien von Gestein?",
+        "en": "What are the three main categories of rocks?"
+      },
+      "options": [
+        { "de": "Magmatisch, sedimentär, metamorph", "en": "Igneous, sedimentary, metamorphic" },
+        { "de": "Granit, Basalt, Kalkstein", "en": "Granite, basalt, limestone" },
+        { "de": "Hart, weich, mittel", "en": "Hard, soft, medium" },
+        { "de": "Primär, sekundär, tertiär", "en": "Primary, secondary, tertiary" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rock_(geology)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-240",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Was ist die häufigste Mineralgruppe in der Erdkruste?",
+        "en": "What is the most abundant mineral group in Earth's crust?"
+      },
+      "options": [
+        { "de": "Quarz", "en": "Quartz" },
+        { "de": "Feldspat", "en": "Feldspar" },
+        { "de": "Glimmer", "en": "Mica" },
+        { "de": "Olivin", "en": "Olivine" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Feldspar",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-241",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer entdeckte den Atomkern durch das Goldfolienexperiment?",
+        "en": "Who discovered the atomic nucleus through the gold foil experiment?"
+      },
+      "options": [
+        { "de": "J.J. Thomson", "en": "J.J. Thomson" },
+        { "de": "Niels Bohr", "en": "Niels Bohr" },
+        { "de": "Ernest Rutherford", "en": "Ernest Rutherford" },
+        { "de": "James Chadwick", "en": "James Chadwick" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rutherford_model",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-242",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist das größte innere Organ im menschlichen Körper?",
+        "en": "What is the largest internal organ in the human body?"
+      },
+      "options": [
+        { "de": "Herz", "en": "Heart" },
+        { "de": "Leber", "en": "Liver" },
+        { "de": "Lunge", "en": "Lungs" },
+        { "de": "Gehirn", "en": "Brain" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Liver",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-243",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer entwickelte das Verfahren der Pasteurisierung?",
+        "en": "Who developed the process of pasteurization?"
+      },
+      "options": [
+        { "de": "Robert Koch", "en": "Robert Koch" },
+        { "de": "Joseph Lister", "en": "Joseph Lister" },
+        { "de": "Louis Pasteur", "en": "Louis Pasteur" },
+        { "de": "Edward Jenner", "en": "Edward Jenner" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-244",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie nennt man eine massive Explosion eines sterbenden Sterns?",
+        "en": "What is a massive explosion of a dying star called?"
+      },
+      "options": [
+        { "de": "Nebel", "en": "Nebula" },
+        { "de": "Supernova", "en": "Supernova" },
+        { "de": "Pulsar", "en": "Pulsar" },
+        { "de": "Quasar", "en": "Quasar" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Supernova",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-245",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie lange braucht die Erde für eine vollständige Umrundung der Sonne?",
+        "en": "How long does Earth take to complete one orbit around the Sun?"
+      },
+      "options": [
+        { "de": "24 Stunden", "en": "24 hours" },
+        { "de": "30 Tage", "en": "30 days" },
+        { "de": "365,25 Tage", "en": "365.25 days" },
+        { "de": "400 Tage", "en": "400 days" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Earth%27s_orbit",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-246",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wessen Röntgenbeugungsbilder waren entscheidend für die Entdeckung der DNA-Struktur?",
+        "en": "Whose X-ray diffraction images were crucial to discovering the structure of DNA?"
+      },
+      "options": [
+        { "de": "Barbara McClintock", "en": "Barbara McClintock" },
+        { "de": "Rosalind Franklin", "en": "Rosalind Franklin" },
+        { "de": "Dorothy Hodgkin", "en": "Dorothy Hodgkin" },
+        { "de": "Lise Meitner", "en": "Lise Meitner" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-247",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Von welchem Tier leitete Edward Jenner den Begriff 'Vakzin' ab?",
+        "en": "From which animal did Edward Jenner derive the term 'vaccine'?"
+      },
+      "options": [
+        { "de": "Pferd", "en": "Horse" },
+        { "de": "Schaf", "en": "Sheep" },
+        { "de": "Kuh", "en": "Cow" },
+        { "de": "Schwein", "en": "Pig" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vaccine",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-248",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Welche Physikerin lieferte die erste theoretische Erklärung der Kernspaltung?",
+        "en": "Which physicist provided the first theoretical explanation of nuclear fission?"
+      },
+      "options": [
+        { "de": "Marie Curie", "en": "Marie Curie" },
+        { "de": "Emmy Noether", "en": "Emmy Noether" },
+        { "de": "Lise Meitner", "en": "Lise Meitner" },
+        { "de": "Chien-Shiung Wu", "en": "Chien-Shiung Wu" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lise_Meitner",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-249",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wofür steht CRISPR in der Genbearbeitungstechnologie?",
+        "en": "What does CRISPR stand for in gene editing technology?"
+      },
+      "options": [
+        { "de": "Clustered Regularly Interspaced Short Palindromic Repeats", "en": "Clustered Regularly Interspaced Short Palindromic Repeats" },
+        { "de": "Controlled RNA Integration System for Protein Replication", "en": "Controlled RNA Integration System for Protein Replication" },
+        { "de": "Cellular Repair and Insertion of Structured Protein Receptors", "en": "Cellular Repair and Insertion of Structured Protein Receptors" },
+        { "de": "Combined Restriction and Integration of Specific Palindromic Regions", "en": "Combined Restriction and Integration of Specific Palindromic Regions" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/CRISPR",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "st-250",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Jahr wurden Gravitationswellen erstmals direkt nachgewiesen?",
+        "en": "In what year were gravitational waves first directly detected?"
+      },
+      "options": [
+        { "de": "2005", "en": "2005" },
+        { "de": "2010", "en": "2010" },
+        { "de": "2015", "en": "2015" },
+        { "de": "2020", "en": "2020" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gravitational_wave",
+      "sourceLabel": "Wikipedia"
     }
   ],
   "timelineEvents": [
