@@ -1,0 +1,106 @@
+<ng-container *transloco="let t">
+  @switch (state()) {
+    @case ('setup') {
+      <div class="quiz-setup">
+        <h1>{{ t('quiz.title') }}</h1>
+        <h3>{{ t('quiz.selectCategories') }}</h3>
+        <div class="category-chips">
+          @for (cat of allCategories; track cat) {
+            <button mat-stroked-button
+                    [class.selected]="isCategorySelected(cat)"
+                    (click)="toggleCategory(cat)">
+              {{ t('categories.' + cat) }}
+            </button>
+          }
+        </div>
+        <button mat-flat-button color="primary" class="start-btn" (click)="startQuiz()">
+          <mat-icon>play_arrow</mat-icon>
+          {{ t('quiz.startRound') }}
+        </button>
+      </div>
+    }
+
+    @case ('playing') {
+      @if (currentQuestion(); as q) {
+        <div class="quiz-playing">
+          <div class="quiz-header">
+            <span>{{ t('quiz.question', { current: currentIndex() + 1, total: questions().length }) }}</span>
+            <span>{{ t('quiz.score', { score: sessionScore() }) }}</span>
+          </div>
+          <mat-progress-bar mode="determinate" [value]="progress()"></mat-progress-bar>
+
+          <mat-card class="question-card" appearance="outlined">
+            <mat-card-content>
+              <h2 class="question-text">{{ q.question | localizedText }}</h2>
+
+              <div class="options">
+                @for (option of q.options; track $index) {
+                  <button mat-raised-button
+                          class="option-btn"
+                          [class.correct]="showFeedback() && $index === q.correctIndex"
+                          [class.incorrect]="showFeedback() && selectedAnswer() === $index && $index !== q.correctIndex"
+                          [disabled]="showFeedback()"
+                          (click)="selectAnswer($index)">
+                    {{ option | localizedText }}
+                  </button>
+                }
+              </div>
+
+              @if (showFeedback()) {
+                <div class="feedback" [class.correct]="isCorrect()" [class.incorrect]="!isCorrect()">
+                  @if (isCorrect()) {
+                    <mat-icon>check_circle</mat-icon>
+                    <span>{{ t('quiz.correct') }}</span>
+                  } @else {
+                    <mat-icon>cancel</mat-icon>
+                    <span>{{ t('quiz.incorrect') }}</span>
+                  }
+                </div>
+
+                <div class="source-link">
+                  <a [href]="q.sourceUrl" target="_blank" rel="noopener">
+                    <mat-icon>open_in_new</mat-icon>
+                    {{ t('quiz.source') }}: {{ q.sourceLabel }}
+                  </a>
+                </div>
+
+                <button mat-flat-button color="primary" class="next-btn" (click)="nextQuestion()">
+                  @if (currentIndex() < questions().length - 1) {
+                    {{ t('quiz.next') }}
+                  } @else {
+                    {{ t('quiz.finish') }}
+                  }
+                  <mat-icon>arrow_forward</mat-icon>
+                </button>
+              }
+            </mat-card-content>
+          </mat-card>
+        </div>
+      }
+    }
+
+    @case ('result') {
+      <div class="quiz-result">
+        <h1>{{ t('quiz.result') }}</h1>
+        <mat-card appearance="outlined">
+          <mat-card-content>
+            <div class="result-score">
+              <span class="big-score">{{ sessionScore() }}/{{ questions().length }}</span>
+              <p>{{ t('quiz.resultText', { score: sessionScore(), total: questions().length }) }}</p>
+            </div>
+            <div class="result-actions">
+              <button mat-flat-button color="primary" (click)="startQuiz()">
+                <mat-icon>replay</mat-icon>
+                {{ t('quiz.playAgain') }}
+              </button>
+              <button mat-stroked-button routerLink="/">
+                <mat-icon>home</mat-icon>
+                {{ t('quiz.backHome') }}
+              </button>
+            </div>
+          </mat-card-content>
+        </mat-card>
+      </div>
+    }
+  }
+</ng-container>

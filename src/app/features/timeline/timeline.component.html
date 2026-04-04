@@ -1,0 +1,118 @@
+<ng-container *transloco="let t">
+  @switch (state()) {
+    @case ('start') {
+      <div class="timeline-start">
+        <h1>{{ t('timeline.title') }}</h1>
+        <p class="description">{{ t('timeline.placeEvent') }}</p>
+        <button mat-flat-button color="primary" class="start-btn" (click)="startGame()">
+          <mat-icon>play_arrow</mat-icon>
+          {{ t('timeline.newGame') }}
+        </button>
+      </div>
+    }
+
+    @case ('playing') {
+      <div class="timeline-playing">
+        <div class="game-header">
+          <span class="score">{{ t('quiz.score', { score: score() }) }}</span>
+          <span class="lives">
+            @for (l of [].constructor(lives()); track $index) {
+              <mat-icon class="heart">favorite</mat-icon>
+            }
+          </span>
+        </div>
+
+        @if (currentEvent(); as event) {
+          <mat-card class="current-event-card" appearance="outlined">
+            <mat-card-content>
+              <h3>{{ t('timeline.placeEvent') }}</h3>
+              <h2>{{ event.title | localizedText }}</h2>
+              <p class="event-desc">{{ event.description | localizedText }}</p>
+            </mat-card-content>
+          </mat-card>
+        }
+
+        <div class="timeline-board">
+          <!-- Drop zone before first event -->
+          <button mat-stroked-button class="drop-zone" (click)="placeAt(0)"
+                  [disabled]="showFeedback() || !currentEvent()">
+            {{ t('timeline.placeHere') }}
+          </button>
+
+          @for (event of sortedPlaced(); track event.id; let i = $index) {
+            <mat-card class="timeline-event" appearance="outlined">
+              <mat-card-content>
+                <span class="event-year">{{ event.year }}</span>
+                <span class="event-title">{{ event.title | localizedText }}</span>
+              </mat-card-content>
+            </mat-card>
+
+            <!-- Drop zone after each event -->
+            <button mat-stroked-button class="drop-zone" (click)="placeAt(i + 1)"
+                    [disabled]="showFeedback() || !currentEvent()">
+              {{ t('timeline.placeHere') }}
+            </button>
+          }
+        </div>
+
+        @if (showFeedback()) {
+          <div class="placement-feedback" [class.correct]="lastPlacementCorrect()" [class.incorrect]="!lastPlacementCorrect()">
+            @if (lastPlacementCorrect()) {
+              <mat-icon>check_circle</mat-icon>
+              <span>{{ t('timeline.correct') }} +10</span>
+            } @else {
+              <mat-icon>cancel</mat-icon>
+              <span>{{ t('timeline.incorrect') }}</span>
+            }
+          </div>
+        }
+      </div>
+    }
+
+    @case ('yearGuess') {
+      <div class="year-guess">
+        <h2>{{ t('timeline.exactYear') }}</h2>
+        <mat-form-field appearance="outline">
+          <mat-label>{{ t('timeline.yearPlaceholder') }}</mat-label>
+          <input matInput type="number" [(ngModel)]="yearGuess"
+                 (keyup.enter)="checkYearGuess()">
+        </mat-form-field>
+        <div class="year-actions">
+          <button mat-flat-button color="primary" (click)="checkYearGuess()">
+            {{ t('timeline.checkYear') }}
+          </button>
+          <button mat-stroked-button (click)="skipYearGuess()">
+            {{ t('timeline.skip') }}
+          </button>
+        </div>
+      </div>
+    }
+
+    @case ('result') {
+      <div class="timeline-result">
+        <h1>{{ t('timeline.gameOver') }}</h1>
+        <mat-card appearance="outlined">
+          <mat-card-content>
+            <div class="result-score">
+              <span class="big-score">{{ score() }}</span>
+              <span class="score-label">{{ t('timeline.finalScore', { score: score() }) }}</span>
+            </div>
+            <div class="result-details">
+              <p>{{ t('timeline.eventsPlaced', { correct: correctPlacements(), total: eventsPlaced() }) }}</p>
+            </div>
+            <div class="result-actions">
+              <button mat-flat-button color="primary" (click)="startGame()">
+                <mat-icon>replay</mat-icon>
+                {{ t('timeline.newGame') }}
+              </button>
+              <button mat-stroked-button routerLink="/">
+                <mat-icon>home</mat-icon>
+                {{ t('quiz.backHome') }}
+              </button>
+            </div>
+          </mat-card-content>
+        </mat-card>
+      </div>
+    }
+  }
+</ng-container>

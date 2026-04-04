@@ -1,0 +1,1482 @@
+{
+  "category": "geography",
+  "questions": [
+    {
+      "id": "geo-001",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Frankreich?", "en": "What is the capital of France?" },
+      "options": [
+        { "de": "Paris", "en": "Paris" },
+        { "de": "Lyon", "en": "Lyon" },
+        { "de": "Marseille", "en": "Marseille" },
+        { "de": "Nizza", "en": "Nice" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paris",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-002",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Deutschland?", "en": "What is the capital of Germany?" },
+      "options": [
+        { "de": "München", "en": "Munich" },
+        { "de": "Hamburg", "en": "Hamburg" },
+        { "de": "Berlin", "en": "Berlin" },
+        { "de": "Frankfurt", "en": "Frankfurt" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Berlin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-003",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Spanien?", "en": "What is the capital of Spain?" },
+      "options": [
+        { "de": "Barcelona", "en": "Barcelona" },
+        { "de": "Madrid", "en": "Madrid" },
+        { "de": "Sevilla", "en": "Seville" },
+        { "de": "Valencia", "en": "Valencia" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Madrid",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-004",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Italien?", "en": "What is the capital of Italy?" },
+      "options": [
+        { "de": "Mailand", "en": "Milan" },
+        { "de": "Neapel", "en": "Naples" },
+        { "de": "Rom", "en": "Rome" },
+        { "de": "Florenz", "en": "Florence" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rome",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-005",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Japan?", "en": "What is the capital of Japan?" },
+      "options": [
+        { "de": "Osaka", "en": "Osaka" },
+        { "de": "Kyoto", "en": "Kyoto" },
+        { "de": "Tokio", "en": "Tokyo" },
+        { "de": "Yokohama", "en": "Yokohama" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-006",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Australien?", "en": "What is the capital of Australia?" },
+      "options": [
+        { "de": "Sydney", "en": "Sydney" },
+        { "de": "Melbourne", "en": "Melbourne" },
+        { "de": "Canberra", "en": "Canberra" },
+        { "de": "Brisbane", "en": "Brisbane" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Canberra",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-007",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Kanada?", "en": "What is the capital of Canada?" },
+      "options": [
+        { "de": "Toronto", "en": "Toronto" },
+        { "de": "Vancouver", "en": "Vancouver" },
+        { "de": "Montreal", "en": "Montreal" },
+        { "de": "Ottawa", "en": "Ottawa" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ottawa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-008",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Brasilien?", "en": "What is the capital of Brazil?" },
+      "options": [
+        { "de": "Rio de Janeiro", "en": "Rio de Janeiro" },
+        { "de": "São Paulo", "en": "São Paulo" },
+        { "de": "Brasília", "en": "Brasília" },
+        { "de": "Salvador", "en": "Salvador" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-009",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt von Ägypten?", "en": "What is the capital of Egypt?" },
+      "options": [
+        { "de": "Alexandria", "en": "Alexandria" },
+        { "de": "Kairo", "en": "Cairo" },
+        { "de": "Luxor", "en": "Luxor" },
+        { "de": "Gizeh", "en": "Giza" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cairo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-010",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist die Hauptstadt der Vereinigten Staaten?", "en": "What is the capital of the United States?" },
+      "options": [
+        { "de": "New York", "en": "New York" },
+        { "de": "Los Angeles", "en": "Los Angeles" },
+        { "de": "Washington, D.C.", "en": "Washington, D.C." },
+        { "de": "Chicago", "en": "Chicago" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-011",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt der Türkei?", "en": "What is the capital of Turkey?" },
+      "options": [
+        { "de": "Istanbul", "en": "Istanbul" },
+        { "de": "Ankara", "en": "Ankara" },
+        { "de": "Izmir", "en": "Izmir" },
+        { "de": "Antalya", "en": "Antalya" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ankara",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-012",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Bundesstadt der Schweiz?", "en": "What is the federal city (de facto capital) of Switzerland?" },
+      "options": [
+        { "de": "Zürich", "en": "Zurich" },
+        { "de": "Genf", "en": "Geneva" },
+        { "de": "Bern", "en": "Bern" },
+        { "de": "Basel", "en": "Basel" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bern",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-013",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt von Neuseeland?", "en": "What is the capital of New Zealand?" },
+      "options": [
+        { "de": "Auckland", "en": "Auckland" },
+        { "de": "Wellington", "en": "Wellington" },
+        { "de": "Christchurch", "en": "Christchurch" },
+        { "de": "Hamilton", "en": "Hamilton" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wellington",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-014",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Exekutivhauptstadt von Südafrika?", "en": "What is the executive capital of South Africa?" },
+      "options": [
+        { "de": "Kapstadt", "en": "Cape Town" },
+        { "de": "Johannesburg", "en": "Johannesburg" },
+        { "de": "Pretoria", "en": "Pretoria" },
+        { "de": "Durban", "en": "Durban" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pretoria",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-015",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt von Marokko?", "en": "What is the capital of Morocco?" },
+      "options": [
+        { "de": "Casablanca", "en": "Casablanca" },
+        { "de": "Marrakesch", "en": "Marrakech" },
+        { "de": "Rabat", "en": "Rabat" },
+        { "de": "Fès", "en": "Fez" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rabat",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-016",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt von Nigeria?", "en": "What is the capital of Nigeria?" },
+      "options": [
+        { "de": "Lagos", "en": "Lagos" },
+        { "de": "Abuja", "en": "Abuja" },
+        { "de": "Kano", "en": "Kano" },
+        { "de": "Ibadan", "en": "Ibadan" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Abuja",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-017",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt von Pakistan?", "en": "What is the capital of Pakistan?" },
+      "options": [
+        { "de": "Karatschi", "en": "Karachi" },
+        { "de": "Lahore", "en": "Lahore" },
+        { "de": "Islamabad", "en": "Islamabad" },
+        { "de": "Peschawar", "en": "Peshawar" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Islamabad",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-018",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt von Vietnam?", "en": "What is the capital of Vietnam?" },
+      "options": [
+        { "de": "Ho-Chi-Minh-Stadt", "en": "Ho Chi Minh City" },
+        { "de": "Hanoi", "en": "Hanoi" },
+        { "de": "Da Nang", "en": "Da Nang" },
+        { "de": "Huế", "en": "Hue" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hanoi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-019",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt von Kasachstan?", "en": "What is the capital of Kazakhstan?" },
+      "options": [
+        { "de": "Almaty", "en": "Almaty" },
+        { "de": "Astana", "en": "Astana" },
+        { "de": "Schymkent", "en": "Shymkent" },
+        { "de": "Karaganda", "en": "Karaganda" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Astana",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-020",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die Hauptstadt von Tansania?", "en": "What is the capital of Tanzania?" },
+      "options": [
+        { "de": "Daressalam", "en": "Dar es Salaam" },
+        { "de": "Dodoma", "en": "Dodoma" },
+        { "de": "Arusha", "en": "Arusha" },
+        { "de": "Mwanza", "en": "Mwanza" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dodoma",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-021",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die Hauptstadt von Bhutan?", "en": "What is the capital of Bhutan?" },
+      "options": [
+        { "de": "Paro", "en": "Paro" },
+        { "de": "Thimphu", "en": "Thimphu" },
+        { "de": "Punakha", "en": "Punakha" },
+        { "de": "Bumthang", "en": "Bumthang" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thimphu",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-022",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die Hauptstadt von Kiribati?", "en": "What is the capital of Kiribati?" },
+      "options": [
+        { "de": "Funafuti", "en": "Funafuti" },
+        { "de": "Majuro", "en": "Majuro" },
+        { "de": "Süd-Tarawa", "en": "South Tarawa" },
+        { "de": "Apia", "en": "Apia" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/South_Tarawa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-023",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die Hauptstadt von Myanmar?", "en": "What is the capital of Myanmar?" },
+      "options": [
+        { "de": "Rangun", "en": "Yangon" },
+        { "de": "Mandalay", "en": "Mandalay" },
+        { "de": "Naypyidaw", "en": "Naypyidaw" },
+        { "de": "Bagan", "en": "Bagan" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Naypyidaw",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-024",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die Legislativhauptstadt von Sri Lanka?", "en": "What is the legislative capital of Sri Lanka?" },
+      "options": [
+        { "de": "Colombo", "en": "Colombo" },
+        { "de": "Sri Jayawardenepura Kotte", "en": "Sri Jayawardenepura Kotte" },
+        { "de": "Kandy", "en": "Kandy" },
+        { "de": "Galle", "en": "Galle" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sri_Jayawardenepura_Kotte",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-025",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist die Hauptstadt von Palau?", "en": "What is the capital of Palau?" },
+      "options": [
+        { "de": "Koror", "en": "Koror" },
+        { "de": "Ngerulmud", "en": "Ngerulmud" },
+        { "de": "Melekeok", "en": "Melekeok" },
+        { "de": "Airai", "en": "Airai" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ngerulmud",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-026",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welches Land hat eine rote Flagge mit einem weißen Halbmond und einem weißen Stern?", "en": "Which country has a red flag with a white crescent moon and a white star?" },
+      "options": [
+        { "de": "Tunesien", "en": "Tunisia" },
+        { "de": "Türkei", "en": "Turkey" },
+        { "de": "Algerien", "en": "Algeria" },
+        { "de": "Libyen", "en": "Libya" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Turkey",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-027",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welches Land hat eine weiße Flagge mit einem roten Kreis in der Mitte?", "en": "Which country has a white flag with a red circle in the center?" },
+      "options": [
+        { "de": "Südkorea", "en": "South Korea" },
+        { "de": "Bangladesch", "en": "Bangladesh" },
+        { "de": "Japan", "en": "Japan" },
+        { "de": "Laos", "en": "Laos" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Japan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-028",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welches Land hat eine rot-weiße Flagge mit einem Ahornblatt?", "en": "Which country has a red and white flag with a maple leaf?" },
+      "options": [
+        { "de": "Kanada", "en": "Canada" },
+        { "de": "Libanon", "en": "Lebanon" },
+        { "de": "Österreich", "en": "Austria" },
+        { "de": "Dänemark", "en": "Denmark" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Canada",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-029",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welches Land hat eine quadratische rote Flagge mit einem weißen Kreuz?", "en": "Which country has a square red flag with a white cross?" },
+      "options": [
+        { "de": "Dänemark", "en": "Denmark" },
+        { "de": "Schweden", "en": "Sweden" },
+        { "de": "Schweiz", "en": "Switzerland" },
+        { "de": "Norwegen", "en": "Norway" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Switzerland",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-030",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welches Land hat eine grüne Flagge mit einer gelben Raute und einem blauen Globus mit Sternen?", "en": "Which country has a green flag with a yellow diamond and a blue globe with stars?" },
+      "options": [
+        { "de": "Brasilien", "en": "Brazil" },
+        { "de": "Bolivien", "en": "Bolivia" },
+        { "de": "Kolumbien", "en": "Colombia" },
+        { "de": "Guyana", "en": "Guyana" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Brazil",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-031",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches Land hat eine Flagge mit einem rot-blauen Yin-Yang-Symbol auf weißem Hintergrund?", "en": "Which country's flag features a red and blue yin-yang symbol on a white background?" },
+      "options": [
+        { "de": "Japan", "en": "Japan" },
+        { "de": "Taiwan", "en": "Taiwan" },
+        { "de": "Südkorea", "en": "South Korea" },
+        { "de": "Nordkorea", "en": "North Korea" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_South_Korea",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-032",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches Land hat eine rote Flagge mit einem blauen Kreuz, das weiß umrandet ist?", "en": "Which country has a red flag with a blue cross outlined in white?" },
+      "options": [
+        { "de": "Island", "en": "Iceland" },
+        { "de": "Norwegen", "en": "Norway" },
+        { "de": "Dänemark", "en": "Denmark" },
+        { "de": "Finnland", "en": "Finland" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Norway",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-033",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches Land hat eine Flagge mit einem goldenen diagonalen Kreuz auf grünen und schwarzen Dreiecken?", "en": "Which country has a flag with a gold diagonal cross creating green and black triangles?" },
+      "options": [
+        { "de": "Südafrika", "en": "South Africa" },
+        { "de": "Jamaika", "en": "Jamaica" },
+        { "de": "Bahamas", "en": "Bahamas" },
+        { "de": "Trinidad und Tobago", "en": "Trinidad and Tobago" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Jamaica",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-034",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches Land hat eine dunkelgrüne Flagge mit einem roten Kreis, der leicht nach links versetzt ist?", "en": "Which country has a dark green flag with a red circle offset slightly to the left?" },
+      "options": [
+        { "de": "Japan", "en": "Japan" },
+        { "de": "Bangladesch", "en": "Bangladesh" },
+        { "de": "Palau", "en": "Palau" },
+        { "de": "Libyen", "en": "Libya" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Bangladesh",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-035",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches ist das einzige Land der Welt mit einer nicht-rechteckigen Flagge?", "en": "Which is the only country in the world with a non-rectangular flag?" },
+      "options": [
+        { "de": "Bhutan", "en": "Bhutan" },
+        { "de": "Nepal", "en": "Nepal" },
+        { "de": "Schweiz", "en": "Switzerland" },
+        { "de": "Vatikanstadt", "en": "Vatican City" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Nepal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-036",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches Land hat eine diagonal geteilte orange-gelbe Flagge mit einem weißen Drachen?", "en": "Which country has a diagonally divided orange and yellow flag with a white dragon?" },
+      "options": [
+        { "de": "Wales", "en": "Wales" },
+        { "de": "Bhutan", "en": "Bhutan" },
+        { "de": "Sri Lanka", "en": "Sri Lanka" },
+        { "de": "Malta", "en": "Malta" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Bhutan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-037",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches Land hat eine Flagge, auf der ein AK-47-Gewehr abgebildet ist?", "en": "Which country's flag features an AK-47 rifle?" },
+      "options": [
+        { "de": "Angola", "en": "Angola" },
+        { "de": "Mosambik", "en": "Mozambique" },
+        { "de": "Simbabwe", "en": "Zimbabwe" },
+        { "de": "Eritrea", "en": "Eritrea" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Mozambique",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-038",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches Land hat eine weiße Flagge mit roten horizontalen Streifen und einer grünen Zeder in der Mitte?", "en": "Which country has a white flag with red horizontal stripes and a green cedar tree in the center?" },
+      "options": [
+        { "de": "Iran", "en": "Iran" },
+        { "de": "Syrien", "en": "Syria" },
+        { "de": "Libanon", "en": "Lebanon" },
+        { "de": "Zypern", "en": "Cyprus" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Lebanon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-039",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches Land hat eine Flagge mit hellblauen und weißen horizontalen Streifen und einer goldenen Sonne in der Mitte?", "en": "Which country has a flag with light blue and white horizontal stripes and a golden sun in the center?" },
+      "options": [
+        { "de": "Uruguay", "en": "Uruguay" },
+        { "de": "Argentinien", "en": "Argentina" },
+        { "de": "Honduras", "en": "Honduras" },
+        { "de": "El Salvador", "en": "El Salvador" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Argentina",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-040",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches Land hat eine Flagge mit schwarzen, roten und grünen Streifen sowie einem Maasai-Schild und gekreuzten Speeren?", "en": "Which country's flag features black, red, and green stripes with a Maasai shield and crossed spears?" },
+      "options": [
+        { "de": "Südafrika", "en": "South Africa" },
+        { "de": "Uganda", "en": "Uganda" },
+        { "de": "Kenia", "en": "Kenya" },
+        { "de": "Tansania", "en": "Tanzania" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flag_of_Kenya",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-041",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Fluss gilt allgemein als der längste der Welt?", "en": "Which river is generally considered the longest in the world?" },
+      "options": [
+        { "de": "Amazonas", "en": "Amazon" },
+        { "de": "Nil", "en": "Nile" },
+        { "de": "Jangtsekiang", "en": "Yangtze" },
+        { "de": "Mississippi", "en": "Mississippi" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nile",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-042",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist der längste Fluss Europas?", "en": "What is the longest river in Europe?" },
+      "options": [
+        { "de": "Donau", "en": "Danube" },
+        { "de": "Rhein", "en": "Rhine" },
+        { "de": "Wolga", "en": "Volga" },
+        { "de": "Dnjepr", "en": "Dnieper" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Volga",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-043",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches ist das längste Flusssystem Nordamerikas?", "en": "What is the longest river system in North America?" },
+      "options": [
+        { "de": "Mississippi-Missouri", "en": "Mississippi-Missouri" },
+        { "de": "Rio Grande", "en": "Rio Grande" },
+        { "de": "Colorado", "en": "Colorado" },
+        { "de": "Yukon", "en": "Yukon" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mississippi_River",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-044",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist der längste Fluss Südamerikas?", "en": "What is the longest river in South America?" },
+      "options": [
+        { "de": "Paraná", "en": "Paraná" },
+        { "de": "Orinoco", "en": "Orinoco" },
+        { "de": "Amazonas", "en": "Amazon" },
+        { "de": "São Francisco", "en": "São Francisco" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_River",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-045",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welcher dieser europäischen Flüsse ist der längste?", "en": "Which of these European rivers is the longest?" },
+      "options": [
+        { "de": "Rhein", "en": "Rhine" },
+        { "de": "Donau", "en": "Danube" },
+        { "de": "Elbe", "en": "Elbe" },
+        { "de": "Seine", "en": "Seine" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Danube",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-046",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist der längste Fluss Asiens?", "en": "What is the longest river in Asia?" },
+      "options": [
+        { "de": "Ganges", "en": "Ganges" },
+        { "de": "Mekong", "en": "Mekong" },
+        { "de": "Jangtsekiang", "en": "Yangtze" },
+        { "de": "Gelber Fluss", "en": "Yellow River" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yangtze",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-047",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Durch wie viele Länder fließt die Donau?", "en": "Through how many countries does the Danube flow?" },
+      "options": [
+        { "de": "6", "en": "6" },
+        { "de": "8", "en": "8" },
+        { "de": "10", "en": "10" },
+        { "de": "12", "en": "12" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Danube",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-048",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Fluss fließt durch London?", "en": "Which river flows through London?" },
+      "options": [
+        { "de": "Severn", "en": "Severn" },
+        { "de": "Mersey", "en": "Mersey" },
+        { "de": "Themse", "en": "Thames" },
+        { "de": "Avon", "en": "Avon" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/River_Thames",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-049",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches ist das längste Flusssystem Australiens?", "en": "What is the longest river system in Australia?" },
+      "options": [
+        { "de": "Murray-Darling", "en": "Murray-Darling" },
+        { "de": "Cooper Creek", "en": "Cooper Creek" },
+        { "de": "Fitzroy", "en": "Fitzroy" },
+        { "de": "Swan", "en": "Swan" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Murray%E2%80%93Darling_basin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-050",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Fluss fließt durch Paris?", "en": "Which river flows through Paris?" },
+      "options": [
+        { "de": "Loire", "en": "Loire" },
+        { "de": "Rhône", "en": "Rhône" },
+        { "de": "Seine", "en": "Seine" },
+        { "de": "Garonne", "en": "Garonne" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Seine",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-051",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist der höchste Berg der Welt?", "en": "What is the highest mountain in the world?" },
+      "options": [
+        { "de": "K2", "en": "K2" },
+        { "de": "Kangchenjunga", "en": "Kangchenjunga" },
+        { "de": "Mount Everest", "en": "Mount Everest" },
+        { "de": "Lhotse", "en": "Lhotse" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Everest",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-052",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist der höchste Berg der Alpen?", "en": "What is the highest mountain in the Alps?" },
+      "options": [
+        { "de": "Matterhorn", "en": "Matterhorn" },
+        { "de": "Mont Blanc", "en": "Mont Blanc" },
+        { "de": "Monte Rosa", "en": "Monte Rosa" },
+        { "de": "Eiger", "en": "Eiger" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mont_Blanc",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-053",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist der höchste Berg Afrikas?", "en": "What is the highest mountain in Africa?" },
+      "options": [
+        { "de": "Mount Kenya", "en": "Mount Kenya" },
+        { "de": "Kilimandscharo", "en": "Mount Kilimanjaro" },
+        { "de": "Ruwenzori", "en": "Mount Stanley" },
+        { "de": "Mount Meru", "en": "Mount Meru" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-054",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist der höchste Berg Nordamerikas?", "en": "What is the highest mountain in North America?" },
+      "options": [
+        { "de": "Mount Logan", "en": "Mount Logan" },
+        { "de": "Mount Whitney", "en": "Mount Whitney" },
+        { "de": "Denali", "en": "Denali" },
+        { "de": "Mount Rainier", "en": "Mount Rainier" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Denali",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-055",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist der höchste Berg Südamerikas?", "en": "What is the highest mountain in South America?" },
+      "options": [
+        { "de": "Ojos del Salado", "en": "Ojos del Salado" },
+        { "de": "Aconcagua", "en": "Aconcagua" },
+        { "de": "Huascarán", "en": "Huascarán" },
+        { "de": "Chimborazo", "en": "Chimborazo" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aconcagua",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-056",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist der zweithöchste Berg der Welt?", "en": "What is the second highest mountain in the world?" },
+      "options": [
+        { "de": "Kangchenjunga", "en": "Kangchenjunga" },
+        { "de": "Lhotse", "en": "Lhotse" },
+        { "de": "K2", "en": "K2" },
+        { "de": "Makalu", "en": "Makalu" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/K2",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-057",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "An der Grenze welcher zwei Länder liegt der Mount Everest?", "en": "On the border of which two countries is Mount Everest located?" },
+      "options": [
+        { "de": "Indien und China", "en": "India and China" },
+        { "de": "Nepal und Indien", "en": "Nepal and India" },
+        { "de": "Nepal und China", "en": "Nepal and China" },
+        { "de": "Bhutan und China", "en": "Bhutan and China" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Everest",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-058",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist der höchste Berg Japans?", "en": "What is the highest mountain in Japan?" },
+      "options": [
+        { "de": "Mount Kita", "en": "Mount Kita" },
+        { "de": "Fuji", "en": "Mount Fuji" },
+        { "de": "Mount Hotaka", "en": "Mount Hotaka" },
+        { "de": "Mount Tate", "en": "Mount Tate" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Fuji",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-059",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist der höchste Berg im Kaukasus?", "en": "What is the highest mountain in the Caucasus range?" },
+      "options": [
+        { "de": "Elbrus", "en": "Mount Elbrus" },
+        { "de": "Kasbek", "en": "Mount Kazbek" },
+        { "de": "Schchara", "en": "Mount Shkhara" },
+        { "de": "Dychtau", "en": "Dykh-Tau" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Elbrus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-060",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "In welchem Gebirge befindet sich der K2?", "en": "In which mountain range is K2 located?" },
+      "options": [
+        { "de": "Himalaya", "en": "Himalayas" },
+        { "de": "Hindukusch", "en": "Hindu Kush" },
+        { "de": "Karakorum", "en": "Karakoram" },
+        { "de": "Pamir", "en": "Pamir" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/K2",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-061",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist das flächenmäßig größte Land der Welt?", "en": "What is the largest country in the world by area?" },
+      "options": [
+        { "de": "China", "en": "China" },
+        { "de": "Kanada", "en": "Canada" },
+        { "de": "Vereinigte Staaten", "en": "United States" },
+        { "de": "Russland", "en": "Russia" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Russia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-062",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist das zweitgrößte Land der Welt nach Fläche?", "en": "What is the second largest country in the world by area?" },
+      "options": [
+        { "de": "Vereinigte Staaten", "en": "United States" },
+        { "de": "China", "en": "China" },
+        { "de": "Kanada", "en": "Canada" },
+        { "de": "Brasilien", "en": "Brazil" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Canada",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-063",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Was ist das flächenmäßig größte Land Afrikas?", "en": "What is the largest country in Africa by area?" },
+      "options": [
+        { "de": "Demokratische Republik Kongo", "en": "Democratic Republic of the Congo" },
+        { "de": "Sudan", "en": "Sudan" },
+        { "de": "Algerien", "en": "Algeria" },
+        { "de": "Libyen", "en": "Libya" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Algeria",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-064",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist das flächenmäßig größte Land Südamerikas?", "en": "What is the largest country in South America by area?" },
+      "options": [
+        { "de": "Argentinien", "en": "Argentina" },
+        { "de": "Kolumbien", "en": "Colombia" },
+        { "de": "Brasilien", "en": "Brazil" },
+        { "de": "Peru", "en": "Peru" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brazil",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-065",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Welches ist, abgesehen von Russland, das flächenmäßig größte Land Europas?", "en": "Excluding Russia, what is the largest country in Europe by area?" },
+      "options": [
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Spanien", "en": "Spain" },
+        { "de": "Ukraine", "en": "Ukraine" },
+        { "de": "Schweden", "en": "Sweden" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ukraine",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-066",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist das flächenmäßig kleinste Land der Welt?", "en": "What is the smallest country in the world by area?" },
+      "options": [
+        { "de": "Monaco", "en": "Monaco" },
+        { "de": "San Marino", "en": "San Marino" },
+        { "de": "Vatikanstadt", "en": "Vatican City" },
+        { "de": "Liechtenstein", "en": "Liechtenstein" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vatican_City",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-067",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist die größte Insel der Welt?", "en": "What is the largest island in the world?" },
+      "options": [
+        { "de": "Borneo", "en": "Borneo" },
+        { "de": "Madagaskar", "en": "Madagascar" },
+        { "de": "Neuguinea", "en": "New Guinea" },
+        { "de": "Grönland", "en": "Greenland" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Greenland",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-068",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches ist, abgesehen von Russland, das flächenmäßig größte Land Asiens?", "en": "Excluding Russia, what is the largest country in Asia by area?" },
+      "options": [
+        { "de": "Indien", "en": "India" },
+        { "de": "Kasachstan", "en": "Kazakhstan" },
+        { "de": "China", "en": "China" },
+        { "de": "Mongolei", "en": "Mongolia" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/China",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-069",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches dieser Länder hat die größte Fläche?", "en": "Which of these countries has the largest area?" },
+      "options": [
+        { "de": "Indien", "en": "India" },
+        { "de": "Argentinien", "en": "Argentina" },
+        { "de": "Kasachstan", "en": "Kazakhstan" },
+        { "de": "Australien", "en": "Australia" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Australia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-070",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Was ist das flächenmäßig größte Land im Nahen Osten?", "en": "What is the largest country in the Middle East by area?" },
+      "options": [
+        { "de": "Iran", "en": "Iran" },
+        { "de": "Irak", "en": "Iraq" },
+        { "de": "Saudi-Arabien", "en": "Saudi Arabia" },
+        { "de": "Jemen", "en": "Yemen" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-071",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Wie viele Kontinente gibt es im am weitesten verbreiteten Modell?", "en": "How many continents are there in the most widely used model?" },
+      "options": [
+        { "de": "5", "en": "5" },
+        { "de": "6", "en": "6" },
+        { "de": "7", "en": "7" },
+        { "de": "8", "en": "8" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Continent",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-072",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist der größte Ozean der Erde?", "en": "What is the largest ocean on Earth?" },
+      "options": [
+        { "de": "Atlantischer Ozean", "en": "Atlantic Ocean" },
+        { "de": "Indischer Ozean", "en": "Indian Ocean" },
+        { "de": "Pazifischer Ozean", "en": "Pacific Ocean" },
+        { "de": "Arktischer Ozean", "en": "Arctic Ocean" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pacific_Ocean",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-073",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist der flächenmäßig kleinste Kontinent?", "en": "What is the smallest continent by area?" },
+      "options": [
+        { "de": "Europa", "en": "Europe" },
+        { "de": "Antarktika", "en": "Antarctica" },
+        { "de": "Australien", "en": "Australia" },
+        { "de": "Südamerika", "en": "South America" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Australia_(continent)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-074",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "Was ist der flächenmäßig größte Kontinent?", "en": "What is the largest continent by area?" },
+      "options": [
+        { "de": "Afrika", "en": "Africa" },
+        { "de": "Nordamerika", "en": "North America" },
+        { "de": "Asien", "en": "Asia" },
+        { "de": "Europa", "en": "Europe" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Asia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-075",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Ozean liegt der Marianengraben, die tiefste Stelle der Erde?", "en": "In which ocean is the Mariana Trench, the deepest point on Earth?" },
+      "options": [
+        { "de": "Atlantischer Ozean", "en": "Atlantic Ocean" },
+        { "de": "Indischer Ozean", "en": "Indian Ocean" },
+        { "de": "Pazifischer Ozean", "en": "Pacific Ocean" },
+        { "de": "Südlicher Ozean", "en": "Southern Ocean" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mariana_Trench",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-076",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Land befindet sich die antike Inkastadt Machu Picchu?", "en": "In which country is the ancient Inca city of Machu Picchu?" },
+      "options": [
+        { "de": "Bolivien", "en": "Bolivia" },
+        { "de": "Ecuador", "en": "Ecuador" },
+        { "de": "Peru", "en": "Peru" },
+        { "de": "Kolumbien", "en": "Colombia" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Machu_Picchu",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-077",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Land befindet sich das Taj Mahal?", "en": "In which country is the Taj Mahal located?" },
+      "options": [
+        { "de": "Pakistan", "en": "Pakistan" },
+        { "de": "Indien", "en": "India" },
+        { "de": "Bangladesch", "en": "Bangladesh" },
+        { "de": "Nepal", "en": "Nepal" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Taj_Mahal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-078",
+      "category": "geography",
+      "difficulty": "hard",
+      "question": { "de": "Wie lang ist die Chinesische Mauer einschließlich aller Abzweigungen ungefähr?", "en": "Approximately how long is the Great Wall of China including all branches?" },
+      "options": [
+        { "de": "6.000 km", "en": "6,000 km" },
+        { "de": "13.000 km", "en": "13,000 km" },
+        { "de": "21.000 km", "en": "21,000 km" },
+        { "de": "35.000 km", "en": "35,000 km" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-079",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "In welcher Stadt befindet sich das Kolosseum?", "en": "In which city is the Colosseum located?" },
+      "options": [
+        { "de": "Athen", "en": "Athens" },
+        { "de": "Rom", "en": "Rome" },
+        { "de": "Istanbul", "en": "Istanbul" },
+        { "de": "Neapel", "en": "Naples" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Colosseum",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-080",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Land befindet sich die antike Felsenstadt Petra?", "en": "In which country is the ancient rock city of Petra?" },
+      "options": [
+        { "de": "Ägypten", "en": "Egypt" },
+        { "de": "Israel", "en": "Israel" },
+        { "de": "Jordanien", "en": "Jordan" },
+        { "de": "Syrien", "en": "Syria" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Petra",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-081",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "In welcher Stadt steht die Christusstatue (Cristo Redentor)?", "en": "In which city is the statue of Christ the Redeemer (Cristo Redentor)?" },
+      "options": [
+        { "de": "São Paulo", "en": "São Paulo" },
+        { "de": "Buenos Aires", "en": "Buenos Aires" },
+        { "de": "Rio de Janeiro", "en": "Rio de Janeiro" },
+        { "de": "Lima", "en": "Lima" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-082",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Land befindet sich die Tempelanlage Angkor Wat?", "en": "In which country is the temple complex Angkor Wat?" },
+      "options": [
+        { "de": "Thailand", "en": "Thailand" },
+        { "de": "Vietnam", "en": "Vietnam" },
+        { "de": "Kambodscha", "en": "Cambodia" },
+        { "de": "Myanmar", "en": "Myanmar" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-083",
+      "category": "geography",
+      "difficulty": "easy",
+      "question": { "de": "In der Nähe welcher modernen Stadt befinden sich die Pyramiden von Gizeh?", "en": "Near which modern city are the Pyramids of Giza located?" },
+      "options": [
+        { "de": "Luxor", "en": "Luxor" },
+        { "de": "Kairo", "en": "Cairo" },
+        { "de": "Alexandria", "en": "Alexandria" },
+        { "de": "Assuan", "en": "Aswan" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-084",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "In welcher Stadt befindet sich die Basilika Sagrada Familia?", "en": "In which city is the Sagrada Familia basilica?" },
+      "options": [
+        { "de": "Madrid", "en": "Madrid" },
+        { "de": "Lissabon", "en": "Lisbon" },
+        { "de": "Barcelona", "en": "Barcelona" },
+        { "de": "Sevilla", "en": "Seville" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-085",
+      "category": "geography",
+      "difficulty": "medium",
+      "question": { "de": "Welches Land schenkte den Vereinigten Staaten die Freiheitsstatue?", "en": "Which country gifted the Statue of Liberty to the United States?" },
+      "options": [
+        { "de": "Vereinigtes Königreich", "en": "United Kingdom" },
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Niederlande", "en": "Netherlands" },
+        { "de": "Spanien", "en": "Spain" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+      "sourceLabel": "Wikipedia"
+    }
+  ],
+  "timelineEvents": [
+    {
+      "id": "geo-t-001",
+      "title": { "de": "Traditionelle Gründung Roms", "en": "Traditional Founding of Rome" },
+      "description": { "de": "Der Legende nach wurde Rom von Romulus und Remus am 21. April 753 v. Chr. gegründet, was den Beginn einer der einflussreichsten Zivilisationen der Geschichte markierte.", "en": "According to legend, Rome was founded by Romulus and Remus on April 21, 753 BC, marking the beginning of one of the most influential civilizations in history." },
+      "year": -753,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Founding_of_Rome"
+    },
+    {
+      "id": "geo-t-002",
+      "title": { "de": "Gründung von Konstantinopel", "en": "Founding of Constantinople" },
+      "description": { "de": "Kaiser Konstantin der Große weihte die Stadt Konstantinopel (heute Istanbul) als neue Hauptstadt des Römischen Reiches ein.", "en": "Emperor Constantine the Great dedicated the city of Constantinople (modern-day Istanbul) as the new capital of the Roman Empire." },
+      "year": 330,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Constantinople"
+    },
+    {
+      "id": "geo-t-003",
+      "title": { "de": "Marco Polos Reise nach China", "en": "Marco Polo's Journey to China" },
+      "description": { "de": "Der venezianische Händler Marco Polo brach zu seiner legendären Reise nach China auf, die das europäische Verständnis Asiens grundlegend veränderte.", "en": "Venetian merchant Marco Polo embarked on his legendary journey to China, which fundamentally changed European understanding of Asia." },
+      "year": 1271,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marco_Polo"
+    },
+    {
+      "id": "geo-t-004",
+      "title": { "de": "Bartolomeu Dias umrundet das Kap der Guten Hoffnung", "en": "Bartolomeu Dias Rounds the Cape of Good Hope" },
+      "description": { "de": "Der portugiesische Seefahrer Bartolomeu Dias wurde der erste Europäer, der das Kap der Guten Hoffnung an der Südspitze Afrikas umrundete.", "en": "Portuguese navigator Bartolomeu Dias became the first European to round the Cape of Good Hope at the southern tip of Africa." },
+      "year": 1488,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bartolomeu_Dias"
+    },
+    {
+      "id": "geo-t-005",
+      "title": { "de": "Kolumbus erreicht Amerika", "en": "Columbus Reaches the Americas" },
+      "description": { "de": "Christoph Kolumbus landete auf einer Insel in den Bahamas und leitete damit die europäische Erkundung und Kolonialisierung des amerikanischen Kontinents ein.", "en": "Christopher Columbus landed on an island in the Bahamas, initiating the European exploration and colonization of the American continents." },
+      "year": 1492,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus"
+    },
+    {
+      "id": "geo-t-006",
+      "title": { "de": "Vasco da Gama erreicht Indien auf dem Seeweg", "en": "Vasco da Gama Reaches India by Sea" },
+      "description": { "de": "Der portugiesische Entdecker Vasco da Gama erreichte Calicut in Indien und eröffnete damit die erste direkte Seehandelsroute von Europa nach Asien.", "en": "Portuguese explorer Vasco da Gama reached Calicut in India, opening the first direct sea trade route from Europe to Asia." },
+      "year": 1498,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vasco_da_Gama"
+    },
+    {
+      "id": "geo-t-007",
+      "title": { "de": "Erste Weltumsegelung abgeschlossen", "en": "First Circumnavigation of the Earth Completed" },
+      "description": { "de": "Die von Ferdinand Magellan begonnene Expedition wurde unter dem Kommando von Juan Sebastián Elcano vollendet und bewies, dass die Erde umrundet werden kann.", "en": "The expedition initiated by Ferdinand Magellan was completed under the command of Juan Sebastián Elcano, proving that the Earth could be circumnavigated." },
+      "year": 1522,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Magellan_expedition"
+    },
+    {
+      "id": "geo-t-008",
+      "title": { "de": "Gründung von Jamestown", "en": "Founding of Jamestown" },
+      "description": { "de": "Jamestown in Virginia wurde als erste dauerhafte englische Siedlung in Nordamerika gegründet.", "en": "Jamestown in Virginia was founded as the first permanent English settlement in North America." },
+      "year": 1607,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jamestown,_Virginia"
+    },
+    {
+      "id": "geo-t-009",
+      "title": { "de": "Abel Tasman erreicht Neuseeland", "en": "Abel Tasman Reaches New Zealand" },
+      "description": { "de": "Der niederländische Seefahrer Abel Tasman war der erste Europäer, der Neuseeland sichtete und damit die Erkundung des Südpazifiks vorantrieb.", "en": "Dutch navigator Abel Tasman became the first European to sight New Zealand, advancing the exploration of the South Pacific." },
+      "year": 1642,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Abel_Tasman"
+    },
+    {
+      "id": "geo-t-010",
+      "title": { "de": "James Cook kartiert die Ostküste Australiens", "en": "James Cook Maps the Eastern Coast of Australia" },
+      "description": { "de": "Der britische Seefahrer James Cook kartierte die Ostküste Australiens und nahm das Land als New South Wales für die britische Krone in Besitz.", "en": "British navigator James Cook charted the eastern coast of Australia and claimed the land as New South Wales for the British Crown." },
+      "year": 1770,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/James_Cook"
+    },
+    {
+      "id": "geo-t-011",
+      "title": { "de": "Gründung von Sydney", "en": "Founding of Sydney" },
+      "description": { "de": "Die erste europäische Siedlung in Australien wurde in Sydney Cove gegründet, als die erste Flotte mit Sträflingen aus Großbritannien eintraf.", "en": "The first European settlement in Australia was established at Sydney Cove when the First Fleet of convicts arrived from Great Britain." },
+      "year": 1788,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Sydney"
+    },
+    {
+      "id": "geo-t-012",
+      "title": { "de": "Eröffnung des Eriekanals", "en": "Opening of the Erie Canal" },
+      "description": { "de": "Der Eriekanal wurde eröffnet und verband die Großen Seen mit dem Atlantik, was den Handel und die Besiedlung des amerikanischen Westens erheblich beschleunigte.", "en": "The Erie Canal opened, connecting the Great Lakes to the Atlantic Ocean, greatly accelerating trade and settlement of the American West." },
+      "year": 1825,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Erie_Canal"
+    },
+    {
+      "id": "geo-t-013",
+      "title": { "de": "Eröffnung des Suezkanals", "en": "Opening of the Suez Canal" },
+      "description": { "de": "Der Suezkanal in Ägypten wurde eröffnet und schuf eine direkte Wasserstraße zwischen dem Mittelmeer und dem Roten Meer, die den Welthandel revolutionierte.", "en": "The Suez Canal in Egypt was opened, creating a direct waterway between the Mediterranean Sea and the Red Sea that revolutionized global trade." },
+      "year": 1869,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Suez_Canal"
+    },
+    {
+      "id": "geo-t-014",
+      "title": { "de": "Berliner Konferenz zur Aufteilung Afrikas", "en": "Berlin Conference on the Partition of Africa" },
+      "description": { "de": "Die Berliner Konferenz legte Regeln für die europäische Kolonisierung Afrikas fest und leitete den sogenannten Wettlauf um Afrika ein.", "en": "The Berlin Conference established rules for the European colonization of Africa, initiating what became known as the Scramble for Africa." },
+      "year": 1884,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_Conference"
+    },
+    {
+      "id": "geo-t-015",
+      "title": { "de": "Robert Peary beansprucht die Erreichung des Nordpols", "en": "Robert Peary Claims to Reach the North Pole" },
+      "description": { "de": "Der amerikanische Entdecker Robert Peary beanspruchte, als erster Mensch den geografischen Nordpol erreicht zu haben, obwohl dieser Anspruch bis heute umstritten ist.", "en": "American explorer Robert Peary claimed to be the first person to reach the geographic North Pole, although this claim remains disputed to this day." },
+      "year": 1909,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Peary"
+    },
+    {
+      "id": "geo-t-016",
+      "title": { "de": "Roald Amundsen erreicht den Südpol", "en": "Roald Amundsen Reaches the South Pole" },
+      "description": { "de": "Der norwegische Entdecker Roald Amundsen und sein Team erreichten als erste Menschen den geografischen Südpol und schlugen damit die Expedition von Robert F. Scott.", "en": "Norwegian explorer Roald Amundsen and his team became the first humans to reach the geographic South Pole, beating the expedition of Robert F. Scott." },
+      "year": 1911,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition"
+    },
+    {
+      "id": "geo-t-017",
+      "title": { "de": "Eröffnung des Panamakanals", "en": "Opening of the Panama Canal" },
+      "description": { "de": "Der Panamakanal wurde offiziell eröffnet und verband den Atlantischen mit dem Pazifischen Ozean, wodurch die Schifffahrtsroute um Südamerika überflüssig wurde.", "en": "The Panama Canal was officially opened, connecting the Atlantic and Pacific Oceans and eliminating the need for ships to navigate around South America." },
+      "year": 1914,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Panama_Canal"
+    },
+    {
+      "id": "geo-t-018",
+      "title": { "de": "Teilung Indiens", "en": "Partition of India" },
+      "description": { "de": "Britisch-Indien wurde in die unabhängigen Staaten Indien und Pakistan aufgeteilt, was eine der größten Massenmigration der Geschichte auslöste.", "en": "British India was divided into the independent states of India and Pakistan, triggering one of the largest mass migrations in history." },
+      "year": 1947,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Partition_of_India"
+    },
+    {
+      "id": "geo-t-019",
+      "title": { "de": "Erstbesteigung des Mount Everest", "en": "First Ascent of Mount Everest" },
+      "description": { "de": "Edmund Hillary und Tenzing Norgay erreichten als erste Menschen den Gipfel des Mount Everest, des höchsten Berges der Welt.", "en": "Edmund Hillary and Tenzing Norgay became the first people to reach the summit of Mount Everest, the world's highest mountain." },
+      "year": 1953,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition"
+    },
+    {
+      "id": "geo-t-020",
+      "title": { "de": "Abstieg in den Marianengraben", "en": "Descent into the Mariana Trench" },
+      "description": { "de": "Jacques Piccard und Don Walsh erreichten mit dem Bathyscaph Trieste den Grund des Marianengrabens, die tiefste bekannte Stelle der Ozeane in fast 11.000 Metern Tiefe.", "en": "Jacques Piccard and Don Walsh reached the bottom of the Mariana Trench aboard the bathyscaphe Trieste, the deepest known point in the oceans at nearly 11,000 meters depth." },
+      "year": 1960,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bathyscaphe_Trieste"
+    },
+    {
+      "id": "geo-t-021",
+      "title": { "de": "Fall der Berliner Mauer", "en": "Fall of the Berlin Wall" },
+      "description": { "de": "Die Berliner Mauer fiel und leitete die Wiedervereinigung Deutschlands ein, die die politische Geografie Europas grundlegend veränderte.", "en": "The Berlin Wall fell, initiating the reunification of Germany and fundamentally changing the political geography of Europe." },
+      "year": 1989,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall"
+    },
+    {
+      "id": "geo-t-022",
+      "title": { "de": "Auflösung der Sowjetunion", "en": "Dissolution of the Soviet Union" },
+      "description": { "de": "Die Sowjetunion löste sich auf und es entstanden 15 unabhängige Staaten, was die politische Weltkarte dramatisch veränderte.", "en": "The Soviet Union dissolved into 15 independent states, dramatically reshaping the political map of the world." },
+      "year": 1991,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
+    },
+    {
+      "id": "geo-t-023",
+      "title": { "de": "Eröffnung des Eurotunnels", "en": "Opening of the Channel Tunnel" },
+      "description": { "de": "Der Eurotunnel unter dem Ärmelkanal wurde eröffnet und verband Großbritannien erstmals seit der Eiszeit wieder physisch mit dem europäischen Festland.", "en": "The Channel Tunnel under the English Channel was opened, physically connecting Great Britain to mainland Europe for the first time since the Ice Age." },
+      "year": 1994,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Channel_Tunnel"
+    },
+    {
+      "id": "geo-t-024",
+      "title": { "de": "Unabhängigkeit von Osttimor", "en": "Independence of East Timor" },
+      "description": { "de": "Osttimor (Timor-Leste) erlangte seine Unabhängigkeit und wurde der erste neue souveräne Staat des 21. Jahrhunderts.", "en": "East Timor (Timor-Leste) gained its independence, becoming the first new sovereign state of the 21st century." },
+      "year": 2002,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/East_Timor"
+    },
+    {
+      "id": "geo-t-025",
+      "title": { "de": "Unabhängigkeit des Südsudan", "en": "Independence of South Sudan" },
+      "description": { "de": "Der Südsudan erlangte nach einem Referendum seine Unabhängigkeit vom Sudan und wurde damit der jüngste international anerkannte Staat der Welt.", "en": "South Sudan gained independence from Sudan following a referendum, becoming the world's youngest internationally recognized country." },
+      "year": 2011,
+      "category": "geography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/South_Sudan"
+    }
+  ]
+}

@@ -1,0 +1,1887 @@
+{
+  "category": "science-tech",
+  "questions": [
+    {
+      "id": "sci-001",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer erfand das Telefon im Jahr 1876?",
+        "en": "Who invented the telephone in 1876?"
+      },
+      "options": [
+        { "de": "Alexander Graham Bell", "en": "Alexander Graham Bell" },
+        { "de": "Thomas Edison", "en": "Thomas Edison" },
+        { "de": "Nikola Tesla", "en": "Nikola Tesla" },
+        { "de": "Guglielmo Marconi", "en": "Guglielmo Marconi" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Telephone",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-002",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer entwickelte die erste praktische Glühbirne?",
+        "en": "Who developed the first practical incandescent light bulb?"
+      },
+      "options": [
+        { "de": "Nikola Tesla", "en": "Nikola Tesla" },
+        { "de": "Thomas Edison", "en": "Thomas Edison" },
+        { "de": "Alexander Graham Bell", "en": "Alexander Graham Bell" },
+        { "de": "Michael Faraday", "en": "Michael Faraday" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Incandescent_light_bulb",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-003",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie hieß der Vorläufer des modernen Internets, der vom US-Verteidigungsministerium entwickelt wurde?",
+        "en": "What was the precursor to the modern internet, developed by the US Department of Defense?"
+      },
+      "options": [
+        { "de": "ARPANET", "en": "ARPANET" },
+        { "de": "CompuServe", "en": "CompuServe" },
+        { "de": "Ethernet", "en": "Ethernet" },
+        { "de": "BITNET", "en": "BITNET" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/ARPANET",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-004",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer verbesserte die Dampfmaschine in den 1760er-Jahren entscheidend?",
+        "en": "Who significantly improved the steam engine in the 1760s?"
+      },
+      "options": [
+        { "de": "Thomas Newcomen", "en": "Thomas Newcomen" },
+        { "de": "James Watt", "en": "James Watt" },
+        { "de": "George Stephenson", "en": "George Stephenson" },
+        { "de": "Robert Fulton", "en": "Robert Fulton" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/James_Watt",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-005",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer erfand den Buchdruck mit beweglichen Lettern um 1440?",
+        "en": "Who invented the printing press with movable type around 1440?"
+      },
+      "options": [
+        { "de": "Johannes Gutenberg", "en": "Johannes Gutenberg" },
+        { "de": "William Caxton", "en": "William Caxton" },
+        { "de": "Bi Sheng", "en": "Bi Sheng" },
+        { "de": "Aldus Manutius", "en": "Aldus Manutius" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Johannes_Gutenberg",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-006",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wem wird die Entwicklung des ersten praktischen Funktelegrafensystems zugeschrieben?",
+        "en": "Who is credited with developing the first practical radio telegraph system?"
+      },
+      "options": [
+        { "de": "Nikola Tesla", "en": "Nikola Tesla" },
+        { "de": "Guglielmo Marconi", "en": "Guglielmo Marconi" },
+        { "de": "Heinrich Hertz", "en": "Heinrich Hertz" },
+        { "de": "Alexander Popow", "en": "Alexander Popov" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Guglielmo_Marconi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-007",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "In welchem Jahr startete die BBC den ersten regelmäßigen Fernsehsendebetrieb?",
+        "en": "In what year did the BBC launch the first regular high-definition television service?"
+      },
+      "options": [
+        { "de": "1928", "en": "1928" },
+        { "de": "1932", "en": "1932" },
+        { "de": "1936", "en": "1936" },
+        { "de": "1940", "en": "1940" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_television",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-008",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer erfand das Dynamit?",
+        "en": "Who invented dynamite?"
+      },
+      "options": [
+        { "de": "Alfred Nobel", "en": "Alfred Nobel" },
+        { "de": "Ascanio Sobrero", "en": "Ascanio Sobrero" },
+        { "de": "Fritz Haber", "en": "Fritz Haber" },
+        { "de": "Niels Bohr", "en": "Niels Bohr" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dynamite",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-009",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer führte 1903 den ersten kontrollierten Motorflug durch?",
+        "en": "Who made the first controlled, sustained flight in a powered airplane in 1903?"
+      },
+      "options": [
+        { "de": "Die Gebrüder Wright", "en": "The Wright Brothers" },
+        { "de": "Alberto Santos-Dumont", "en": "Alberto Santos-Dumont" },
+        { "de": "Otto Lilienthal", "en": "Otto Lilienthal" },
+        { "de": "Samuel Langley", "en": "Samuel Langley" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wright_brothers",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-010",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer entwickelte 1796 den ersten erfolgreichen Pockenimpfstoff?",
+        "en": "Who developed the first successful smallpox vaccine in 1796?"
+      },
+      "options": [
+        { "de": "Louis Pasteur", "en": "Louis Pasteur" },
+        { "de": "Edward Jenner", "en": "Edward Jenner" },
+        { "de": "Robert Koch", "en": "Robert Koch" },
+        { "de": "Jonas Salk", "en": "Jonas Salk" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Edward_Jenner",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-011",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer entwickelte die Daguerreotypie, eines der ersten praktischen Fotoverfahren?",
+        "en": "Who developed the daguerreotype, one of the first practical photographic processes?"
+      },
+      "options": [
+        { "de": "Joseph Nicéphore Niépce", "en": "Joseph Nicéphore Niépce" },
+        { "de": "Louis Daguerre", "en": "Louis Daguerre" },
+        { "de": "George Eastman", "en": "George Eastman" },
+        { "de": "William Fox Talbot", "en": "William Fox Talbot" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Daguerreotype",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-012",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer baute das erste Teleskop, das für systematische astronomische Beobachtungen verwendet wurde?",
+        "en": "Who built the first telescope used for systematic astronomical observations?"
+      },
+      "options": [
+        { "de": "Hans Lippershey", "en": "Hans Lippershey" },
+        { "de": "Galileo Galilei", "en": "Galileo Galilei" },
+        { "de": "Johannes Kepler", "en": "Johannes Kepler" },
+        { "de": "Isaac Newton", "en": "Isaac Newton" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-013",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wem wird die Entwicklung des ersten zusammengesetzten Mikroskops um 1590 zugeschrieben?",
+        "en": "Who is often credited with developing the first compound microscope around 1590?"
+      },
+      "options": [
+        { "de": "Antonie van Leeuwenhoek", "en": "Antonie van Leeuwenhoek" },
+        { "de": "Robert Hooke", "en": "Robert Hooke" },
+        { "de": "Zacharias Janssen", "en": "Zacharias Janssen" },
+        { "de": "Hans Lippershey", "en": "Hans Lippershey" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Microscope",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-014",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer erfand 1714 das Quecksilberthermometer?",
+        "en": "Who invented the mercury thermometer in 1714?"
+      },
+      "options": [
+        { "de": "Galileo Galilei", "en": "Galileo Galilei" },
+        { "de": "Daniel Gabriel Fahrenheit", "en": "Daniel Gabriel Fahrenheit" },
+        { "de": "Anders Celsius", "en": "Anders Celsius" },
+        { "de": "Lord Kelvin", "en": "Lord Kelvin" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Daniel_Gabriel_Fahrenheit",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-015",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Land wurde der Magnetkompass zuerst zur Navigation eingesetzt?",
+        "en": "In which country was the magnetic compass first used for navigation?"
+      },
+      "options": [
+        { "de": "Griechenland", "en": "Greece" },
+        { "de": "China", "en": "China" },
+        { "de": "Indien", "en": "India" },
+        { "de": "Ägypten", "en": "Egypt" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Compass",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-016",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Land wurde das Schwarzpulver erfunden?",
+        "en": "In which country was gunpowder invented?"
+      },
+      "options": [
+        { "de": "China", "en": "China" },
+        { "de": "Indien", "en": "India" },
+        { "de": "Persien", "en": "Persia" },
+        { "de": "Griechenland", "en": "Greece" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gunpowder",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-017",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wem wird die Erfindung des Papiers im Jahr 105 n. Chr. traditionell zugeschrieben?",
+        "en": "Who is traditionally credited with the invention of paper in 105 AD?"
+      },
+      "options": [
+        { "de": "Bi Sheng", "en": "Bi Sheng" },
+        { "de": "Cai Lun", "en": "Cai Lun" },
+        { "de": "Zhang Heng", "en": "Zhang Heng" },
+        { "de": "Zhuge Liang", "en": "Zhuge Liang" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cai_Lun",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-018",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer baute 1885 das erste Automobil mit Verbrennungsmotor?",
+        "en": "Who built the first true automobile powered by an internal combustion engine in 1885?"
+      },
+      "options": [
+        { "de": "Henry Ford", "en": "Henry Ford" },
+        { "de": "Karl Benz", "en": "Karl Benz" },
+        { "de": "Gottlieb Daimler", "en": "Gottlieb Daimler" },
+        { "de": "Nikolaus Otto", "en": "Nikolaus Otto" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Karl_Benz",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-019",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer erfand im Jahr 1800 die erste echte elektrische Batterie (Voltasche Säule)?",
+        "en": "Who invented the first true electric battery, the voltaic pile, in 1800?"
+      },
+      "options": [
+        { "de": "Benjamin Franklin", "en": "Benjamin Franklin" },
+        { "de": "Alessandro Volta", "en": "Alessandro Volta" },
+        { "de": "Michael Faraday", "en": "Michael Faraday" },
+        { "de": "Luigi Galvani", "en": "Luigi Galvani" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Voltaic_pile",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-020",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer erfand 1877 den Phonographen?",
+        "en": "Who invented the phonograph in 1877?"
+      },
+      "options": [
+        { "de": "Alexander Graham Bell", "en": "Alexander Graham Bell" },
+        { "de": "Thomas Edison", "en": "Thomas Edison" },
+        { "de": "Emile Berliner", "en": "Emile Berliner" },
+        { "de": "Nikola Tesla", "en": "Nikola Tesla" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Phonograph",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-021",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer formulierte das Gesetz der universellen Gravitation?",
+        "en": "Who formulated the law of universal gravitation?"
+      },
+      "options": [
+        { "de": "Isaac Newton", "en": "Isaac Newton" },
+        { "de": "Albert Einstein", "en": "Albert Einstein" },
+        { "de": "Galileo Galilei", "en": "Galileo Galilei" },
+        { "de": "Johannes Kepler", "en": "Johannes Kepler" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-022",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer veröffentlichte 1953 das berühmte Modell der DNA-Doppelhelixstruktur?",
+        "en": "Who published the famous model of the DNA double helix structure in 1953?"
+      },
+      "options": [
+        { "de": "James Watson und Francis Crick", "en": "James Watson and Francis Crick" },
+        { "de": "Rosalind Franklin und Maurice Wilkins", "en": "Rosalind Franklin and Maurice Wilkins" },
+        { "de": "Linus Pauling und Robert Corey", "en": "Linus Pauling and Robert Corey" },
+        { "de": "Erwin Chargaff und Oswald Avery", "en": "Erwin Chargaff and Oswald Avery" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nucleic_acid_double_helix",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-023",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer entdeckte 1928 das Penicillin?",
+        "en": "Who discovered penicillin in 1928?"
+      },
+      "options": [
+        { "de": "Alexander Fleming", "en": "Alexander Fleming" },
+        { "de": "Louis Pasteur", "en": "Louis Pasteur" },
+        { "de": "Joseph Lister", "en": "Joseph Lister" },
+        { "de": "Robert Koch", "en": "Robert Koch" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Penicillin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-024",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer erstellte 1869 das erste weithin anerkannte Periodensystem der Elemente?",
+        "en": "Who created the first widely recognized periodic table of elements in 1869?"
+      },
+      "options": [
+        { "de": "Dmitri Mendelejew", "en": "Dmitri Mendeleev" },
+        { "de": "John Dalton", "en": "John Dalton" },
+        { "de": "Antoine Lavoisier", "en": "Antoine Lavoisier" },
+        { "de": "Lothar Meyer", "en": "Lothar Meyer" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Periodic_table",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-025",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer veröffentlichte 1905 die spezielle Relativitätstheorie?",
+        "en": "Who published the special theory of relativity in 1905?"
+      },
+      "options": [
+        { "de": "Isaac Newton", "en": "Isaac Newton" },
+        { "de": "Albert Einstein", "en": "Albert Einstein" },
+        { "de": "Max Planck", "en": "Max Planck" },
+        { "de": "Niels Bohr", "en": "Niels Bohr" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Special_relativity",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-026",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer veröffentlichte 1859 'Über die Entstehung der Arten'?",
+        "en": "Who published 'On the Origin of Species' in 1859?"
+      },
+      "options": [
+        { "de": "Charles Darwin", "en": "Charles Darwin" },
+        { "de": "Alfred Russel Wallace", "en": "Alfred Russel Wallace" },
+        { "de": "Jean-Baptiste Lamarck", "en": "Jean-Baptiste Lamarck" },
+        { "de": "Gregor Mendel", "en": "Gregor Mendel" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-027",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer entdeckte 1896 die Radioaktivität?",
+        "en": "Who discovered radioactivity in 1896?"
+      },
+      "options": [
+        { "de": "Marie Curie", "en": "Marie Curie" },
+        { "de": "Henri Becquerel", "en": "Henri Becquerel" },
+        { "de": "Ernest Rutherford", "en": "Ernest Rutherford" },
+        { "de": "Wilhelm Röntgen", "en": "Wilhelm Röntgen" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Henri_Becquerel",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-028",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer entdeckte 1897 das Elektron?",
+        "en": "Who discovered the electron in 1897?"
+      },
+      "options": [
+        { "de": "J. J. Thomson", "en": "J. J. Thomson" },
+        { "de": "Ernest Rutherford", "en": "Ernest Rutherford" },
+        { "de": "Niels Bohr", "en": "Niels Bohr" },
+        { "de": "James Chadwick", "en": "James Chadwick" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Electron",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-029",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer gilt als Begründer der Quantentheorie?",
+        "en": "Who is considered the founder of quantum theory?"
+      },
+      "options": [
+        { "de": "Albert Einstein", "en": "Albert Einstein" },
+        { "de": "Max Planck", "en": "Max Planck" },
+        { "de": "Werner Heisenberg", "en": "Werner Heisenberg" },
+        { "de": "Erwin Schrödinger", "en": "Erwin Schrödinger" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Max_Planck",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-030",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie hoch ist ungefähr die Lichtgeschwindigkeit im Vakuum?",
+        "en": "What is the approximate speed of light in a vacuum?"
+      },
+      "options": [
+        { "de": "150.000 km/s", "en": "150,000 km/s" },
+        { "de": "300.000 km/s", "en": "300,000 km/s" },
+        { "de": "500.000 km/s", "en": "500,000 km/s" },
+        { "de": "1.000.000 km/s", "en": "1,000,000 km/s" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Speed_of_light",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-031",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer stellte das heliozentrische Modell des Sonnensystems auf?",
+        "en": "Who proposed the heliocentric model of the solar system?"
+      },
+      "options": [
+        { "de": "Ptolemäus", "en": "Ptolemy" },
+        { "de": "Nikolaus Kopernikus", "en": "Nicolaus Copernicus" },
+        { "de": "Galileo Galilei", "en": "Galileo Galilei" },
+        { "de": "Johannes Kepler", "en": "Johannes Kepler" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-032",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer beschrieb als Erster den Blutkreislauf im menschlichen Körper?",
+        "en": "Who first described the circulation of blood through the human body?"
+      },
+      "options": [
+        { "de": "Galen", "en": "Galen" },
+        { "de": "William Harvey", "en": "William Harvey" },
+        { "de": "Andreas Vesalius", "en": "Andreas Vesalius" },
+        { "de": "Hippokrates", "en": "Hippocrates" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/William_Harvey",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-033",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer gilt als 'Vater der modernen Chemie' und erkannte die Rolle des Sauerstoffs bei der Verbrennung?",
+        "en": "Who is known as the 'father of modern chemistry' for identifying oxygen's role in combustion?"
+      },
+      "options": [
+        { "de": "Antoine Lavoisier", "en": "Antoine Lavoisier" },
+        { "de": "Joseph Priestley", "en": "Joseph Priestley" },
+        { "de": "Robert Boyle", "en": "Robert Boyle" },
+        { "de": "John Dalton", "en": "John Dalton" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antoine_Lavoisier",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-034",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer entdeckte 1831 die elektromagnetische Induktion?",
+        "en": "Who discovered electromagnetic induction in 1831?"
+      },
+      "options": [
+        { "de": "James Clerk Maxwell", "en": "James Clerk Maxwell" },
+        { "de": "Michael Faraday", "en": "Michael Faraday" },
+        { "de": "André-Marie Ampère", "en": "André-Marie Ampère" },
+        { "de": "Hans Christian Ørsted", "en": "Hans Christian Ørsted" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Electromagnetic_induction",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-035",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer entdeckte 1895 die Röntgenstrahlen?",
+        "en": "Who discovered X-rays in 1895?"
+      },
+      "options": [
+        { "de": "Wilhelm Conrad Röntgen", "en": "Wilhelm Conrad Röntgen" },
+        { "de": "Henri Becquerel", "en": "Henri Becquerel" },
+        { "de": "Marie Curie", "en": "Marie Curie" },
+        { "de": "Max von Laue", "en": "Max von Laue" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-036",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer entdeckte 1932 das Neutron?",
+        "en": "Who discovered the neutron in 1932?"
+      },
+      "options": [
+        { "de": "Ernest Rutherford", "en": "Ernest Rutherford" },
+        { "de": "James Chadwick", "en": "James Chadwick" },
+        { "de": "Niels Bohr", "en": "Niels Bohr" },
+        { "de": "Enrico Fermi", "en": "Enrico Fermi" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/James_Chadwick",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-037",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer stellte die Theorie der Kontinentalverschiebung auf?",
+        "en": "Who proposed the theory of continental drift?"
+      },
+      "options": [
+        { "de": "Alfred Wegener", "en": "Alfred Wegener" },
+        { "de": "Charles Lyell", "en": "Charles Lyell" },
+        { "de": "James Hutton", "en": "James Hutton" },
+        { "de": "Alexander von Humboldt", "en": "Alexander von Humboldt" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alfred_Wegener",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-038",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "An welchem Forschungszentrum wurde 2012 das Higgs-Boson entdeckt?",
+        "en": "At which research laboratory was the Higgs boson discovered in 2012?"
+      },
+      "options": [
+        { "de": "CERN", "en": "CERN" },
+        { "de": "Fermilab", "en": "Fermilab" },
+        { "de": "DESY", "en": "DESY" },
+        { "de": "Brookhaven National Laboratory", "en": "Brookhaven National Laboratory" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Higgs_boson",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-039",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer formulierte das Prinzip des Auftriebs?",
+        "en": "Who formulated the principle of buoyancy?"
+      },
+      "options": [
+        { "de": "Aristoteles", "en": "Aristotle" },
+        { "de": "Archimedes", "en": "Archimedes" },
+        { "de": "Pythagoras", "en": "Pythagoras" },
+        { "de": "Euklid", "en": "Euclid" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Archimedes%27_principle",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-040",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer beobachtete in den 1670er-Jahren als Erster Mikroorganismen unter dem Mikroskop?",
+        "en": "Who first observed microorganisms using a microscope in the 1670s?"
+      },
+      "options": [
+        { "de": "Robert Hooke", "en": "Robert Hooke" },
+        { "de": "Antonie van Leeuwenhoek", "en": "Antonie van Leeuwenhoek" },
+        { "de": "Louis Pasteur", "en": "Louis Pasteur" },
+        { "de": "Robert Koch", "en": "Robert Koch" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-041",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer war der erste Mensch, der den Mond betrat?",
+        "en": "Who was the first person to walk on the Moon?"
+      },
+      "options": [
+        { "de": "Buzz Aldrin", "en": "Buzz Aldrin" },
+        { "de": "Neil Armstrong", "en": "Neil Armstrong" },
+        { "de": "Michael Collins", "en": "Michael Collins" },
+        { "de": "John Glenn", "en": "John Glenn" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Neil_Armstrong",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-042",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr wurde das erste Modul der Internationalen Raumstation ins All gebracht?",
+        "en": "In what year was the first module of the International Space Station launched?"
+      },
+      "options": [
+        { "de": "1995", "en": "1995" },
+        { "de": "1998", "en": "1998" },
+        { "de": "2000", "en": "2000" },
+        { "de": "2003", "en": "2003" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/International_Space_Station",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-043",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welcher Mars-Rover landete im Jahr 2012 auf dem Mars?",
+        "en": "Which Mars rover landed on Mars in 2012?"
+      },
+      "options": [
+        { "de": "Spirit", "en": "Spirit" },
+        { "de": "Opportunity", "en": "Opportunity" },
+        { "de": "Curiosity", "en": "Curiosity" },
+        { "de": "Perseverance", "en": "Perseverance" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Curiosity_(rover)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-044",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr wurde das Hubble-Weltraumteleskop gestartet?",
+        "en": "In what year was the Hubble Space Telescope launched?"
+      },
+      "options": [
+        { "de": "1985", "en": "1985" },
+        { "de": "1990", "en": "1990" },
+        { "de": "1995", "en": "1995" },
+        { "de": "2000", "en": "2000" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-045",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer war der erste Mensch im Weltraum?",
+        "en": "Who was the first human in space?"
+      },
+      "options": [
+        { "de": "Juri Gagarin", "en": "Yuri Gagarin" },
+        { "de": "Alan Shepard", "en": "Alan Shepard" },
+        { "de": "John Glenn", "en": "John Glenn" },
+        { "de": "Valentina Tereschkowa", "en": "Valentina Tereshkova" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-046",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie hieß der erste künstliche Satellit, der in die Erdumlaufbahn gebracht wurde?",
+        "en": "What was the first artificial satellite launched into Earth's orbit?"
+      },
+      "options": [
+        { "de": "Explorer 1", "en": "Explorer 1" },
+        { "de": "Sputnik 1", "en": "Sputnik 1" },
+        { "de": "Vanguard 1", "en": "Vanguard 1" },
+        { "de": "Telstar 1", "en": "Telstar 1" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sputnik_1",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-047",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer war die erste Frau im Weltraum?",
+        "en": "Who was the first woman in space?"
+      },
+      "options": [
+        { "de": "Sally Ride", "en": "Sally Ride" },
+        { "de": "Valentina Tereschkowa", "en": "Valentina Tereshkova" },
+        { "de": "Mae Jemison", "en": "Mae Jemison" },
+        { "de": "Swetlana Sawizkaja", "en": "Svetlana Savitskaya" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Valentina_Tereshkova",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-048",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie hieß die NASA-Mission, bei der erstmals Menschen auf dem Mond landeten?",
+        "en": "What was the name of the NASA mission that first landed humans on the Moon?"
+      },
+      "options": [
+        { "de": "Apollo 11", "en": "Apollo 11" },
+        { "de": "Apollo 13", "en": "Apollo 13" },
+        { "de": "Gemini 8", "en": "Gemini 8" },
+        { "de": "Mercury 7", "en": "Mercury 7" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Apollo_11",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-049",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wie hieß das erste wiederverwendbare bemannte Raumfahrzeug?",
+        "en": "What was the name of the first reusable crewed spacecraft?"
+      },
+      "options": [
+        { "de": "Space Shuttle", "en": "Space Shuttle" },
+        { "de": "Buran", "en": "Buran" },
+        { "de": "SpaceX Dragon", "en": "SpaceX Dragon" },
+        { "de": "Sojus", "en": "Soyuz" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Space_Shuttle",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-050",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welche NASA-Raumsonde ist am weitesten von der Erde entfernt?",
+        "en": "Which NASA probe has traveled the farthest from Earth?"
+      },
+      "options": [
+        { "de": "Pioneer 10", "en": "Pioneer 10" },
+        { "de": "Voyager 1", "en": "Voyager 1" },
+        { "de": "Voyager 2", "en": "Voyager 2" },
+        { "de": "New Horizons", "en": "New Horizons" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Voyager_1",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-051",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wie hieß die erste Raumstation, die jemals gestartet wurde?",
+        "en": "What was the first space station ever launched?"
+      },
+      "options": [
+        { "de": "Skylab", "en": "Skylab" },
+        { "de": "Saljut 1", "en": "Salyut 1" },
+        { "de": "Mir", "en": "Mir" },
+        { "de": "Internationale Raumstation", "en": "International Space Station" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Salyut_1",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-052",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahr wurde das James-Webb-Weltraumteleskop gestartet?",
+        "en": "In what year was the James Webb Space Telescope launched?"
+      },
+      "options": [
+        { "de": "2019", "en": "2019" },
+        { "de": "2020", "en": "2020" },
+        { "de": "2021", "en": "2021" },
+        { "de": "2022", "en": "2022" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-053",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer führte 1965 den ersten Weltraumspaziergang (EVA) durch?",
+        "en": "Who performed the first spacewalk (EVA) in 1965?"
+      },
+      "options": [
+        { "de": "Alexei Leonow", "en": "Alexei Leonov" },
+        { "de": "Ed White", "en": "Ed White" },
+        { "de": "Juri Gagarin", "en": "Yuri Gagarin" },
+        { "de": "Neil Armstrong", "en": "Neil Armstrong" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexei_Leonov",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-054",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welcher Mars-Rover landete im Februar 2021?",
+        "en": "Which Mars rover landed in February 2021?"
+      },
+      "options": [
+        { "de": "Curiosity", "en": "Curiosity" },
+        { "de": "Opportunity", "en": "Opportunity" },
+        { "de": "Spirit", "en": "Spirit" },
+        { "de": "Perseverance", "en": "Perseverance" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Perseverance_(rover)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-055",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Welchen Zwergplaneten besuchte die NASA-Sonde New Horizons im Jahr 2015?",
+        "en": "Which dwarf planet did NASA's New Horizons probe visit in 2015?"
+      },
+      "options": [
+        { "de": "Ceres", "en": "Ceres" },
+        { "de": "Pluto", "en": "Pluto" },
+        { "de": "Eris", "en": "Eris" },
+        { "de": "Makemake", "en": "Makemake" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/New_Horizons",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-056",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Für welche Entdeckung erhielt Albert Einstein 1921 den Nobelpreis für Physik?",
+        "en": "For what discovery did Albert Einstein receive the Nobel Prize in Physics in 1921?"
+      },
+      "options": [
+        { "de": "Relativitätstheorie", "en": "Theory of Relativity" },
+        { "de": "Photoelektrischer Effekt", "en": "Photoelectric effect" },
+        { "de": "Brownsche Bewegung", "en": "Brownian motion" },
+        { "de": "Masse-Energie-Äquivalenz", "en": "Mass-energy equivalence" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-057",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie viele Nobelpreise gewann Marie Curie?",
+        "en": "How many Nobel Prizes did Marie Curie win?"
+      },
+      "options": [
+        { "de": "Einen", "en": "One" },
+        { "de": "Zwei", "en": "Two" },
+        { "de": "Drei", "en": "Three" },
+        { "de": "Vier", "en": "Four" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-058",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer erhielt 1901 den allerersten Nobelpreis für Physik?",
+        "en": "Who received the very first Nobel Prize in Physics in 1901?"
+      },
+      "options": [
+        { "de": "Wilhelm Conrad Röntgen", "en": "Wilhelm Conrad Röntgen" },
+        { "de": "Max Planck", "en": "Max Planck" },
+        { "de": "Henri Becquerel", "en": "Henri Becquerel" },
+        { "de": "Albert Einstein", "en": "Albert Einstein" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-059",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wofür erhielten Alexander Fleming, Howard Florey und Ernst Boris Chain 1945 den Nobelpreis für Physiologie oder Medizin?",
+        "en": "For what discovery did Alexander Fleming, Howard Florey, and Ernst Boris Chain share the 1945 Nobel Prize in Physiology or Medicine?"
+      },
+      "options": [
+        { "de": "Insulin", "en": "Insulin" },
+        { "de": "Penicillin", "en": "Penicillin" },
+        { "de": "Streptomycin", "en": "Streptomycin" },
+        { "de": "Aspirin", "en": "Aspirin" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-060",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Watson, Crick und Wilkins erhielten 1962 den Nobelpreis für ihre Arbeit an welchem Molekül?",
+        "en": "Watson, Crick, and Wilkins received the 1962 Nobel Prize for their work on which molecule?"
+      },
+      "options": [
+        { "de": "RNA", "en": "RNA" },
+        { "de": "DNA", "en": "DNA" },
+        { "de": "Protein", "en": "Protein" },
+        { "de": "Hämoglobin", "en": "Hemoglobin" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Francis_Crick",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-061",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Niels Bohr erhielt 1922 den Nobelpreis für Physik für seine Beiträge zum Verständnis von was?",
+        "en": "Niels Bohr received the 1922 Nobel Prize in Physics for his contributions to understanding what?"
+      },
+      "options": [
+        { "de": "Quantenmechanik", "en": "Quantum mechanics" },
+        { "de": "Atomstruktur", "en": "Atomic structure" },
+        { "de": "Kernspaltung", "en": "Nuclear fission" },
+        { "de": "Elektromagnetische Strahlung", "en": "Electromagnetic radiation" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Niels_Bohr",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-062",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Max Planck erhielt 1918 den Nobelpreis für Physik für die Entdeckung von was?",
+        "en": "Max Planck received the 1918 Nobel Prize in Physics for his discovery of what?"
+      },
+      "options": [
+        { "de": "Photoelektrischer Effekt", "en": "Photoelectric effect" },
+        { "de": "Energiequanten", "en": "Energy quanta" },
+        { "de": "Elektron", "en": "Electron" },
+        { "de": "Neutron", "en": "Neutron" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Max_Planck",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-063",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Richard Feynman erhielt 1965 den Nobelpreis für Physik für seine Arbeit in welchem Bereich?",
+        "en": "Richard Feynman shared the 1965 Nobel Prize in Physics for his work in which field?"
+      },
+      "options": [
+        { "de": "Kernphysik", "en": "Nuclear physics" },
+        { "de": "Quantenelektrodynamik", "en": "Quantum electrodynamics" },
+        { "de": "Thermodynamik", "en": "Thermodynamics" },
+        { "de": "Festkörperphysik", "en": "Solid-state physics" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Richard_Feynman",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-064",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Dorothy Hodgkin gewann 1964 den Nobelpreis für Chemie für ihre Arbeit mit welcher Technik?",
+        "en": "Dorothy Hodgkin won the 1964 Nobel Prize in Chemistry for her work using which technique?"
+      },
+      "options": [
+        { "de": "Massenspektrometrie", "en": "Mass spectrometry" },
+        { "de": "Röntgenkristallographie", "en": "X-ray crystallography" },
+        { "de": "Chromatographie", "en": "Chromatography" },
+        { "de": "Spektrophotometrie", "en": "Spectrophotometry" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dorothy_Hodgkin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-065",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Tu Youyou erhielt 2015 den Nobelpreis für Physiologie oder Medizin für die Entdeckung einer Behandlung gegen welche Krankheit?",
+        "en": "Tu Youyou received the 2015 Nobel Prize in Physiology or Medicine for discovering a treatment against which disease?"
+      },
+      "options": [
+        { "de": "Tuberkulose", "en": "Tuberculosis" },
+        { "de": "Malaria", "en": "Malaria" },
+        { "de": "HIV/AIDS", "en": "HIV/AIDS" },
+        { "de": "Hepatitis", "en": "Hepatitis" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tu_Youyou",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-066",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welcher Computer gilt als einer der ersten elektronischen Universalrechner und wurde 1945 fertiggestellt?",
+        "en": "Which computer is generally considered one of the first electronic general-purpose computers, completed in 1945?"
+      },
+      "options": [
+        { "de": "ENIAC", "en": "ENIAC" },
+        { "de": "Colossus", "en": "Colossus" },
+        { "de": "Zuse Z3", "en": "Zuse Z3" },
+        { "de": "UNIVAC", "en": "UNIVAC" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/ENIAC",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-067",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Wer erfand 1989 das World Wide Web?",
+        "en": "Who invented the World Wide Web in 1989?"
+      },
+      "options": [
+        { "de": "Tim Berners-Lee", "en": "Tim Berners-Lee" },
+        { "de": "Vint Cerf", "en": "Vint Cerf" },
+        { "de": "Robert Cailliau", "en": "Robert Cailliau" },
+        { "de": "Marc Andreessen", "en": "Marc Andreessen" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/World_Wide_Web",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-068",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "In welchem Jahr wurde das erste iPhone veröffentlicht?",
+        "en": "In what year was the first iPhone released?"
+      },
+      "options": [
+        { "de": "2005", "en": "2005" },
+        { "de": "2006", "en": "2006" },
+        { "de": "2007", "en": "2007" },
+        { "de": "2008", "en": "2008" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-069",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wem wird das Versenden der ersten E-Mail über ein Computernetzwerk im Jahr 1971 zugeschrieben?",
+        "en": "Who is credited with sending the first email over a computer network in 1971?"
+      },
+      "options": [
+        { "de": "Vint Cerf", "en": "Vint Cerf" },
+        { "de": "Ray Tomlinson", "en": "Ray Tomlinson" },
+        { "de": "Tim Berners-Lee", "en": "Tim Berners-Lee" },
+        { "de": "Bob Kahn", "en": "Bob Kahn" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ray_Tomlinson",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-070",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Labor wurde 1947 der Transistor erfunden?",
+        "en": "At which laboratory was the transistor invented in 1947?"
+      },
+      "options": [
+        { "de": "Bell Labs", "en": "Bell Labs" },
+        { "de": "IBM Research", "en": "IBM Research" },
+        { "de": "MIT Lincoln Laboratory", "en": "MIT Lincoln Laboratory" },
+        { "de": "Xerox PARC", "en": "Xerox PARC" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Transistor",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-071",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welches Unternehmen brachte 1971 den ersten kommerziellen Mikroprozessor, den Intel 4004, auf den Markt?",
+        "en": "Which company released the first commercial microprocessor, the Intel 4004, in 1971?"
+      },
+      "options": [
+        { "de": "IBM", "en": "IBM" },
+        { "de": "Intel", "en": "Intel" },
+        { "de": "Texas Instruments", "en": "Texas Instruments" },
+        { "de": "Motorola", "en": "Motorola" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Intel_4004",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-072",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Welches Land entwickelte ursprünglich das GPS-Satellitennavigationssystem?",
+        "en": "Which country's military originally developed the GPS satellite navigation system?"
+      },
+      "options": [
+        { "de": "Vereinigte Staaten", "en": "United States" },
+        { "de": "Sowjetunion", "en": "Soviet Union" },
+        { "de": "Vereinigtes Königreich", "en": "United Kingdom" },
+        { "de": "Japan", "en": "Japan" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Global_Positioning_System",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-073",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "In welchem Jahrzehnt wurde die Wi-Fi-Technologie erstmals für Verbraucher verfügbar?",
+        "en": "In what decade was Wi-Fi technology first released to consumers?"
+      },
+      "options": [
+        { "de": "1980er", "en": "1980s" },
+        { "de": "1990er", "en": "1990s" },
+        { "de": "2000er", "en": "2000s" },
+        { "de": "2010er", "en": "2010s" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wi-Fi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-074",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Welches Spiel gilt weithin als das erste kommerziell erfolgreiche Videospiel?",
+        "en": "What is widely considered the first commercially successful video game?"
+      },
+      "options": [
+        { "de": "Pong", "en": "Pong" },
+        { "de": "Space Invaders", "en": "Space Invaders" },
+        { "de": "Pac-Man", "en": "Pac-Man" },
+        { "de": "Tetris", "en": "Tetris" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pong",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-075",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer prägte 1956 auf einer Konferenz den Begriff 'Künstliche Intelligenz'?",
+        "en": "Who coined the term 'Artificial Intelligence' at a conference in 1956?"
+      },
+      "options": [
+        { "de": "Alan Turing", "en": "Alan Turing" },
+        { "de": "John McCarthy", "en": "John McCarthy" },
+        { "de": "Marvin Minsky", "en": "Marvin Minsky" },
+        { "de": "Claude Shannon", "en": "Claude Shannon" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-076",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Welches ist das größte Tier, das jemals auf der Erde gelebt hat?",
+        "en": "What is the largest animal ever known to have existed on Earth?"
+      },
+      "options": [
+        { "de": "Afrikanischer Elefant", "en": "African elephant" },
+        { "de": "Blauwal", "en": "Blue whale" },
+        { "de": "Argentinosaurus", "en": "Argentinosaurus" },
+        { "de": "Kolossalkalmar", "en": "Colossal squid" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Blue_whale",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-077",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Welches Gas nehmen Pflanzen bei der Photosynthese hauptsächlich auf?",
+        "en": "What gas do plants primarily absorb during photosynthesis?"
+      },
+      "options": [
+        { "de": "Sauerstoff", "en": "Oxygen" },
+        { "de": "Stickstoff", "en": "Nitrogen" },
+        { "de": "Kohlenstoffdioxid", "en": "Carbon dioxide" },
+        { "de": "Wasserstoff", "en": "Hydrogen" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Photosynthesis",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-078",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wer verwendete 1665 erstmals den Begriff 'Zelle' für biologische Strukturen?",
+        "en": "Who first used the term 'cell' to describe biological structures in 1665?"
+      },
+      "options": [
+        { "de": "Antonie van Leeuwenhoek", "en": "Antonie van Leeuwenhoek" },
+        { "de": "Robert Hooke", "en": "Robert Hooke" },
+        { "de": "Matthias Schleiden", "en": "Matthias Schleiden" },
+        { "de": "Rudolf Virchow", "en": "Rudolf Virchow" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Robert_Hooke",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-079",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie viele Chromosomenpaare hat eine typische menschliche Zelle?",
+        "en": "How many pairs of chromosomes does a typical human cell have?"
+      },
+      "options": [
+        { "de": "21", "en": "21" },
+        { "de": "23", "en": "23" },
+        { "de": "25", "en": "25" },
+        { "de": "46", "en": "46" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chromosome",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-080",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Welche Form hat ein DNA-Molekül?",
+        "en": "What is the shape of a DNA molecule commonly described as?"
+      },
+      "options": [
+        { "de": "Einzelstrang", "en": "Single strand" },
+        { "de": "Doppelhelix", "en": "Double helix" },
+        { "de": "Dreifachhelix", "en": "Triple helix" },
+        { "de": "Kreisförmiger Ring", "en": "Circular ring" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/DNA",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-081",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Was ist die Hauptfunktion der Mitochondrien in einer Zelle?",
+        "en": "What is the primary function of mitochondria in a cell?"
+      },
+      "options": [
+        { "de": "Proteinsynthese", "en": "Protein synthesis" },
+        { "de": "Energieproduktion", "en": "Energy production" },
+        { "de": "Zellteilung", "en": "Cell division" },
+        { "de": "DNA-Replikation", "en": "DNA replication" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mitochondrion",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-082",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist das größte Organ des menschlichen Körpers?",
+        "en": "What is the largest organ of the human body?"
+      },
+      "options": [
+        { "de": "Leber", "en": "Liver" },
+        { "de": "Haut", "en": "Skin" },
+        { "de": "Gehirn", "en": "Brain" },
+        { "de": "Lunge", "en": "Lungs" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Skin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-083",
+      "category": "science-tech",
+      "difficulty": "hard",
+      "question": {
+        "de": "Wer entdeckte 1901 das ABO-Blutgruppensystem?",
+        "en": "Who discovered the ABO blood group system in 1901?"
+      },
+      "options": [
+        { "de": "Karl Landsteiner", "en": "Karl Landsteiner" },
+        { "de": "Louis Pasteur", "en": "Louis Pasteur" },
+        { "de": "Paul Ehrlich", "en": "Paul Ehrlich" },
+        { "de": "William Harvey", "en": "William Harvey" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Karl_Landsteiner",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-084",
+      "category": "science-tech",
+      "difficulty": "medium",
+      "question": {
+        "de": "Wie viele Knochen hat der erwachsene menschliche Körper?",
+        "en": "How many bones are in the adult human body?"
+      },
+      "options": [
+        { "de": "186", "en": "186" },
+        { "de": "196", "en": "196" },
+        { "de": "206", "en": "206" },
+        { "de": "216", "en": "216" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Human_skeleton",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "sci-085",
+      "category": "science-tech",
+      "difficulty": "easy",
+      "question": {
+        "de": "Was ist das schnellste Landtier der Welt?",
+        "en": "What is the fastest land animal in the world?"
+      },
+      "options": [
+        { "de": "Löwe", "en": "Lion" },
+        { "de": "Gepard", "en": "Cheetah" },
+        { "de": "Gabelbock", "en": "Pronghorn" },
+        { "de": "Windhund", "en": "Greyhound" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cheetah",
+      "sourceLabel": "Wikipedia"
+    }
+  ],
+  "timelineEvents": [
+    {
+      "id": "sci-t-001",
+      "title": {
+        "de": "Erfindung des Buchdrucks",
+        "en": "Invention of the Printing Press"
+      },
+      "description": {
+        "de": "Johannes Gutenberg erfindet den Buchdruck mit beweglichen Lettern und revolutioniert damit die Verbreitung von Wissen in Europa.",
+        "en": "Johannes Gutenberg invents the printing press with movable type, revolutionizing the spread of knowledge across Europe."
+      },
+      "year": 1440,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Johannes_Gutenberg"
+    },
+    {
+      "id": "sci-t-002",
+      "title": {
+        "de": "Kopernikus veröffentlicht das heliozentrische Modell",
+        "en": "Copernicus Publishes Heliocentric Model"
+      },
+      "description": {
+        "de": "Nikolaus Kopernikus veröffentlicht 'De revolutionibus orbium coelestium' und stellt das heliozentrische Weltbild vor.",
+        "en": "Nicolaus Copernicus publishes 'De revolutionibus orbium coelestium', presenting the heliocentric model of the solar system."
+      },
+      "year": 1543,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus"
+    },
+    {
+      "id": "sci-t-003",
+      "title": {
+        "de": "Erfindung des Teleskops",
+        "en": "Invention of the Telescope"
+      },
+      "description": {
+        "de": "Hans Lippershey meldet ein Patent für das erste Teleskop an. Kurz darauf nutzt Galileo Galilei ein verbessertes Modell für astronomische Beobachtungen.",
+        "en": "Hans Lippershey files a patent for the first telescope. Shortly after, Galileo Galilei uses an improved version for astronomical observations."
+      },
+      "year": 1608,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Telescope"
+    },
+    {
+      "id": "sci-t-004",
+      "title": {
+        "de": "Newton veröffentlicht die Principia Mathematica",
+        "en": "Newton Publishes the Principia Mathematica"
+      },
+      "description": {
+        "de": "Isaac Newton veröffentlicht die 'Philosophiae Naturalis Principia Mathematica' und legt damit die Grundlagen der klassischen Mechanik und des Gravitationsgesetzes.",
+        "en": "Isaac Newton publishes 'Philosophiae Naturalis Principia Mathematica', laying the foundations of classical mechanics and the law of gravitation."
+      },
+      "year": 1687,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica"
+    },
+    {
+      "id": "sci-t-005",
+      "title": {
+        "de": "Watts verbesserte Dampfmaschine",
+        "en": "Watt's Improved Steam Engine"
+      },
+      "description": {
+        "de": "James Watt patentiert seine entscheidend verbesserte Dampfmaschine mit separatem Kondensator und treibt damit die industrielle Revolution voran.",
+        "en": "James Watt patents his significantly improved steam engine with a separate condenser, helping to drive the Industrial Revolution."
+      },
+      "year": 1769,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/James_Watt"
+    },
+    {
+      "id": "sci-t-006",
+      "title": {
+        "de": "Erfindung der Batterie",
+        "en": "Invention of the Battery"
+      },
+      "description": {
+        "de": "Alessandro Volta erfindet die Voltasche Säule, die erste echte elektrische Batterie, und ermöglicht damit erstmals eine kontinuierliche Stromquelle.",
+        "en": "Alessandro Volta invents the voltaic pile, the first true electric battery, providing the first continuous source of electrical current."
+      },
+      "year": 1800,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Voltaic_pile"
+    },
+    {
+      "id": "sci-t-007",
+      "title": {
+        "de": "Darwin veröffentlicht 'Über die Entstehung der Arten'",
+        "en": "Darwin Publishes 'On the Origin of Species'"
+      },
+      "description": {
+        "de": "Charles Darwin veröffentlicht sein bahnbrechendes Werk über die Evolutionstheorie durch natürliche Selektion.",
+        "en": "Charles Darwin publishes his groundbreaking work on the theory of evolution by natural selection."
+      },
+      "year": 1859,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species"
+    },
+    {
+      "id": "sci-t-008",
+      "title": {
+        "de": "Erfindung des Telefons",
+        "en": "Invention of the Telephone"
+      },
+      "description": {
+        "de": "Alexander Graham Bell erhält das Patent für das Telefon und revolutioniert damit die Fernkommunikation.",
+        "en": "Alexander Graham Bell receives the patent for the telephone, revolutionizing long-distance communication."
+      },
+      "year": 1876,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Telephone"
+    },
+    {
+      "id": "sci-t-009",
+      "title": {
+        "de": "Erfindung der praktischen Glühbirne",
+        "en": "Invention of the Practical Light Bulb"
+      },
+      "description": {
+        "de": "Thomas Edison entwickelt eine langlebige und praktische Glühbirne, die die elektrische Beleuchtung für den Alltag nutzbar macht.",
+        "en": "Thomas Edison develops a long-lasting practical incandescent light bulb, making electric lighting viable for everyday use."
+      },
+      "year": 1879,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Incandescent_light_bulb"
+    },
+    {
+      "id": "sci-t-010",
+      "title": {
+        "de": "Entdeckung der Röntgenstrahlen",
+        "en": "Discovery of X-rays"
+      },
+      "description": {
+        "de": "Wilhelm Conrad Röntgen entdeckt die Röntgenstrahlen und eröffnet damit neue Möglichkeiten in der Medizin und Physik.",
+        "en": "Wilhelm Conrad Röntgen discovers X-rays, opening new possibilities in medicine and physics."
+      },
+      "year": 1895,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen"
+    },
+    {
+      "id": "sci-t-011",
+      "title": {
+        "de": "Entdeckung der Radioaktivität",
+        "en": "Discovery of Radioactivity"
+      },
+      "description": {
+        "de": "Henri Becquerel entdeckt die Radioaktivität, was zu weiteren bahnbrechenden Forschungen durch Marie und Pierre Curie führt.",
+        "en": "Henri Becquerel discovers radioactivity, leading to further groundbreaking research by Marie and Pierre Curie."
+      },
+      "year": 1896,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Henri_Becquerel"
+    },
+    {
+      "id": "sci-t-012",
+      "title": {
+        "de": "Erster Motorflug",
+        "en": "First Powered Flight"
+      },
+      "description": {
+        "de": "Die Gebrüder Wright führen in Kitty Hawk, North Carolina, den ersten kontrollierten und anhaltenden Motorflug durch.",
+        "en": "The Wright Brothers achieve the first controlled, sustained powered flight at Kitty Hawk, North Carolina."
+      },
+      "year": 1903,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wright_brothers"
+    },
+    {
+      "id": "sci-t-013",
+      "title": {
+        "de": "Einstein veröffentlicht die spezielle Relativitätstheorie",
+        "en": "Einstein Publishes Special Relativity"
+      },
+      "description": {
+        "de": "Albert Einstein veröffentlicht die spezielle Relativitätstheorie und verändert damit grundlegend das Verständnis von Raum, Zeit und Energie.",
+        "en": "Albert Einstein publishes his special theory of relativity, fundamentally changing the understanding of space, time, and energy."
+      },
+      "year": 1905,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Special_relativity"
+    },
+    {
+      "id": "sci-t-014",
+      "title": {
+        "de": "Entdeckung des Penicillins",
+        "en": "Discovery of Penicillin"
+      },
+      "description": {
+        "de": "Alexander Fleming entdeckt zufällig das Penicillin und legt damit den Grundstein für die moderne Antibiotikatherapie.",
+        "en": "Alexander Fleming accidentally discovers penicillin, laying the foundation for modern antibiotic therapy."
+      },
+      "year": 1928,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Penicillin"
+    },
+    {
+      "id": "sci-t-015",
+      "title": {
+        "de": "Erste nukleare Kettenreaktion",
+        "en": "First Nuclear Chain Reaction"
+      },
+      "description": {
+        "de": "Enrico Fermi und sein Team erzeugen an der Universität Chicago die erste kontrollierte, sich selbst erhaltende nukleare Kettenreaktion.",
+        "en": "Enrico Fermi and his team achieve the first controlled, self-sustaining nuclear chain reaction at the University of Chicago."
+      },
+      "year": 1942,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chicago_Pile-1"
+    },
+    {
+      "id": "sci-t-016",
+      "title": {
+        "de": "Entdeckung der DNA-Doppelhelixstruktur",
+        "en": "Discovery of the DNA Double Helix"
+      },
+      "description": {
+        "de": "James Watson und Francis Crick veröffentlichen ihr Modell der DNA-Doppelhelixstruktur und revolutionieren damit die Biologie.",
+        "en": "James Watson and Francis Crick publish their model of the DNA double helix structure, revolutionizing biology."
+      },
+      "year": 1953,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nucleic_acid_double_helix"
+    },
+    {
+      "id": "sci-t-017",
+      "title": {
+        "de": "Start von Sputnik 1",
+        "en": "Launch of Sputnik 1"
+      },
+      "description": {
+        "de": "Die Sowjetunion startet Sputnik 1, den ersten künstlichen Satelliten der Welt, und leitet damit das Zeitalter der Raumfahrt ein.",
+        "en": "The Soviet Union launches Sputnik 1, the world's first artificial satellite, ushering in the Space Age."
+      },
+      "year": 1957,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sputnik_1"
+    },
+    {
+      "id": "sci-t-018",
+      "title": {
+        "de": "Erster Mensch im Weltraum",
+        "en": "First Human in Space"
+      },
+      "description": {
+        "de": "Der sowjetische Kosmonaut Juri Gagarin wird an Bord der Wostok 1 der erste Mensch im Weltraum.",
+        "en": "Soviet cosmonaut Yuri Gagarin becomes the first human in space aboard Vostok 1."
+      },
+      "year": 1961,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yuri_Gagarin"
+    },
+    {
+      "id": "sci-t-019",
+      "title": {
+        "de": "Mondlandung",
+        "en": "Moon Landing"
+      },
+      "description": {
+        "de": "Neil Armstrong und Buzz Aldrin betreten als erste Menschen den Mond während der Apollo-11-Mission der NASA.",
+        "en": "Neil Armstrong and Buzz Aldrin become the first humans to walk on the Moon during NASA's Apollo 11 mission."
+      },
+      "year": 1969,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Apollo_11"
+    },
+    {
+      "id": "sci-t-020",
+      "title": {
+        "de": "Erste E-Mail wird versendet",
+        "en": "First Email Sent"
+      },
+      "description": {
+        "de": "Ray Tomlinson versendet die erste E-Mail über ein Computernetzwerk und führt das @-Zeichen in E-Mail-Adressen ein.",
+        "en": "Ray Tomlinson sends the first email over a computer network and introduces the @ sign in email addresses."
+      },
+      "year": 1971,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ray_Tomlinson"
+    },
+    {
+      "id": "sci-t-021",
+      "title": {
+        "de": "Erster Personal Computer",
+        "en": "First Personal Computer"
+      },
+      "description": {
+        "de": "Der Altair 8800 wird als Bausatz verkauft und gilt als einer der ersten Personal Computer, der die Heimcomputerrevolution auslöst.",
+        "en": "The Altair 8800 is sold as a kit and is considered one of the first personal computers, sparking the home computer revolution."
+      },
+      "year": 1975,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Altair_8800"
+    },
+    {
+      "id": "sci-t-022",
+      "title": {
+        "de": "Erfindung des World Wide Web",
+        "en": "Invention of the World Wide Web"
+      },
+      "description": {
+        "de": "Tim Berners-Lee erfindet am CERN das World Wide Web und legt damit den Grundstein für das moderne Internet.",
+        "en": "Tim Berners-Lee invents the World Wide Web at CERN, laying the foundation for the modern internet."
+      },
+      "year": 1989,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/World_Wide_Web"
+    },
+    {
+      "id": "sci-t-023",
+      "title": {
+        "de": "Start des Hubble-Weltraumteleskops",
+        "en": "Launch of the Hubble Space Telescope"
+      },
+      "description": {
+        "de": "Das Hubble-Weltraumteleskop wird in die Erdumlaufbahn gebracht und liefert seitdem bahnbrechende Bilder des Universums.",
+        "en": "The Hubble Space Telescope is launched into Earth's orbit, delivering groundbreaking images of the universe ever since."
+      },
+      "year": 1990,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "id": "sci-t-024",
+      "title": {
+        "de": "Klonen von Dolly dem Schaf",
+        "en": "Cloning of Dolly the Sheep"
+      },
+      "description": {
+        "de": "Am Roslin-Institut in Schottland wird Dolly das Schaf als erstes Säugetier aus einer erwachsenen Körperzelle geklont.",
+        "en": "At the Roslin Institute in Scotland, Dolly the Sheep becomes the first mammal cloned from an adult somatic cell."
+      },
+      "year": 1996,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dolly_(sheep)"
+    },
+    {
+      "id": "sci-t-025",
+      "title": {
+        "de": "Entdeckung des Higgs-Bosons",
+        "en": "Discovery of the Higgs Boson"
+      },
+      "description": {
+        "de": "Wissenschaftler am CERN bestätigen die Existenz des Higgs-Bosons, eines fundamentalen Teilchens, das anderen Teilchen Masse verleiht.",
+        "en": "Scientists at CERN confirm the existence of the Higgs boson, a fundamental particle that gives mass to other particles."
+      },
+      "year": 2012,
+      "category": "science-tech",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Higgs_boson"
+    }
+  ]
+}

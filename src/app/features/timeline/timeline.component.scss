@@ -1,0 +1,189 @@
+.timeline-start {
+  text-align: center;
+  padding: 48px 16px;
+
+  .description {
+    color: rgba(0,0,0,0.6);
+    margin-bottom: 24px;
+  }
+
+  .start-btn {
+    font-size: 1.1rem;
+    padding: 8px 32px;
+  }
+}
+
+.game-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+
+  .score {
+    font-weight: 600;
+    font-size: 1.1rem;
+  }
+
+  .lives .heart {
+    color: #f44336;
+    font-size: 20px;
+  }
+}
+
+.current-event-card {
+  margin-bottom: 16px;
+  border-left: 4px solid #ff9800;
+
+  h3 {
+    font-size: 0.9rem;
+    color: rgba(0,0,0,0.6);
+    margin-bottom: 4px;
+  }
+
+  h2 {
+    margin: 0 0 8px;
+    font-size: 1.2rem;
+  }
+
+  .event-desc {
+    color: rgba(0,0,0,0.7);
+    font-size: 0.95rem;
+  }
+}
+
+.timeline-board {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  overflow-y: auto;
+  max-height: 50vh;
+  padding: 8px 0;
+}
+
+.drop-zone {
+  min-height: 36px;
+  border: 2px dashed rgba(0,0,0,0.2);
+  border-radius: 8px;
+  font-size: 0.85rem;
+  color: rgba(0,0,0,0.4);
+  transition: all 0.2s;
+
+  &:hover:not(:disabled) {
+    border-color: #3f51b5;
+    background: rgba(63, 81, 181, 0.05);
+    color: #3f51b5;
+  }
+}
+
+.timeline-event {
+  border-left: 4px solid #3f51b5;
+
+  mat-card-content {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 16px !important;
+  }
+
+  .event-year {
+    font-weight: 700;
+    font-size: 1.1rem;
+    min-width: 60px;
+    color: #3f51b5;
+  }
+
+  .event-title {
+    font-size: 0.95rem;
+  }
+}
+
+.placement-feedback {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 12px;
+  padding: 12px;
+  border-radius: 8px;
+  font-weight: 500;
+
+  &.correct {
+    background: rgba(76, 175, 80, 0.1);
+    color: #2e7d32;
+  }
+  &.incorrect {
+    background: rgba(244, 67, 54, 0.1);
+    color: #c62828;
+  }
+}
+
+.year-guess {
+  text-align: center;
+  padding: 24px 16px;
+
+  h2 { margin-bottom: 16px; }
+
+  mat-form-field {
+    width: 200px;
+  }
+
+  .year-actions {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    margin-top: 16px;
+  }
+}
+
+.timeline-result {
+  text-align: center;
+
+  .result-score {
+    padding: 24px 0;
+
+    .big-score {
+      font-size: 3rem;
+      font-weight: 700;
+      color: #ff9800;
+      display: block;
+    }
+
+    .score-label {
+      font-size: 1.1rem;
+      color: rgba(0,0,0,0.6);
+    }
+  }
+
+  .result-details p {
+    margin-bottom: 8px;
+  }
+
+  .result-actions {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 16px 0;
+  }
+}
+
+:host-context(body.dark-theme) {
+  .timeline-start .description, .current-event-card h3,
+  .current-event-card .event-desc, .timeline-result .score-label {
+    color: rgba(255,255,255,0.6);
+  }
+  .drop-zone {
+    border-color: rgba(255,255,255,0.2);
+    color: rgba(255,255,255,0.4);
+
+    &:hover:not(:disabled) {
+      border-color: #90caf9;
+      color: #90caf9;
+    }
+  }
+  .timeline-event .event-year {
+    color: #90caf9;
+  }
+  .timeline-result .big-score {
+    color: #ffb74d;
+  }
+}

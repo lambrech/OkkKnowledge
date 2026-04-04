@@ -1,0 +1,1482 @@
+{
+  "category": "famous-people",
+  "questions": [
+    {
+      "id": "ppl-001",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Jahr wurde Albert Einstein geboren?", "en": "In which year was Albert Einstein born?" },
+      "options": [
+        { "de": "1869", "en": "1869" },
+        { "de": "1879", "en": "1879" },
+        { "de": "1889", "en": "1889" },
+        { "de": "1899", "en": "1899" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-002",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Wie heißt Isaac Newtons berühmtes Werk über die Gesetze der Bewegung und Gravitation von 1687?", "en": "What is the title of Isaac Newton's famous 1687 work on the laws of motion and gravity?" },
+      "options": [
+        { "de": "Opticks", "en": "Opticks" },
+        { "de": "Philosophiæ Naturalis Principia Mathematica", "en": "Philosophiæ Naturalis Principia Mathematica" },
+        { "de": "De Motu Corporum", "en": "De Motu Corporum" },
+        { "de": "Arithmetica Universalis", "en": "Arithmetica Universalis" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-003",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Auf welchem Schiff reiste Charles Darwin während seiner berühmten Forschungsreise?", "en": "On which ship did Charles Darwin travel during his famous voyage?" },
+      "options": [
+        { "de": "HMS Victory", "en": "HMS Victory" },
+        { "de": "HMS Endeavour", "en": "HMS Endeavour" },
+        { "de": "HMS Beagle", "en": "HMS Beagle" },
+        { "de": "HMS Bounty", "en": "HMS Bounty" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Darwin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-004",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welche zwei Elemente entdeckte Marie Curie?", "en": "Which two elements did Marie Curie discover?" },
+      "options": [
+        { "de": "Radium und Uran", "en": "Radium and Uranium" },
+        { "de": "Polonium und Radium", "en": "Polonium and Radium" },
+        { "de": "Plutonium und Uran", "en": "Plutonium and Uranium" },
+        { "de": "Francium und Radium", "en": "Francium and Radium" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-005",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Wie heißt Stephen Hawkings meistverkauftes populärwissenschaftliches Buch?", "en": "What is the title of Stephen Hawking's best-selling popular science book?" },
+      "options": [
+        { "de": "Das Universum in der Nussschale", "en": "The Universe in a Nutshell" },
+        { "de": "Eine kurze Geschichte der Zeit", "en": "A Brief History of Time" },
+        { "de": "Der große Entwurf", "en": "The Grand Design" },
+        { "de": "Schwarze Löcher und Baby-Universen", "en": "Black Holes and Baby Universes" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Brief_History_of_Time",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-006",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Wissenschaftler wurde 1633 von der Inquisition gezwungen, seine Unterstützung des heliozentrischen Weltbildes zu widerrufen?", "en": "Which scientist was forced by the Inquisition to recant his support for heliocentrism in 1633?" },
+      "options": [
+        { "de": "Nikolaus Kopernikus", "en": "Nicolaus Copernicus" },
+        { "de": "Johannes Kepler", "en": "Johannes Kepler" },
+        { "de": "Galileo Galilei", "en": "Galileo Galilei" },
+        { "de": "Giordano Bruno", "en": "Giordano Bruno" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-007",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welches Verfahren ist nach Louis Pasteur benannt?", "en": "What process is named after Louis Pasteur?" },
+      "options": [
+        { "de": "Fermentation", "en": "Fermentation" },
+        { "de": "Pasteurisierung", "en": "Pasteurization" },
+        { "de": "Impfung", "en": "Vaccination" },
+        { "de": "Sterilisation", "en": "Sterilization" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-008",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Physiker schlug 1913 das Atommodell mit Elektronen auf quantisierten Energieniveaus vor?", "en": "Which scientist proposed the atomic model with electrons orbiting in quantized energy levels in 1913?" },
+      "options": [
+        { "de": "Ernest Rutherford", "en": "Ernest Rutherford" },
+        { "de": "Niels Bohr", "en": "Niels Bohr" },
+        { "de": "Werner Heisenberg", "en": "Werner Heisenberg" },
+        { "de": "Max Planck", "en": "Max Planck" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bohr_model",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-009",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Max Planck gilt als Begründer welches Zweigs der Physik?", "en": "Max Planck is regarded as the founder of which branch of physics?" },
+      "options": [
+        { "de": "Relativitätstheorie", "en": "Relativity" },
+        { "de": "Thermodynamik", "en": "Thermodynamics" },
+        { "de": "Quantentheorie", "en": "Quantum Theory" },
+        { "de": "Elektromagnetismus", "en": "Electromagnetism" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Max_Planck",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-010",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher antike Wissenschaftler rief der Legende nach 'Heureka!' aus, als er eine Entdeckung im Bad machte?", "en": "According to legend, which ancient scientist shouted 'Eureka!' after making a discovery in the bath?" },
+      "options": [
+        { "de": "Pythagoras", "en": "Pythagoras" },
+        { "de": "Archimedes", "en": "Archimedes" },
+        { "de": "Euklid", "en": "Euclid" },
+        { "de": "Thales", "en": "Thales" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Archimedes",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-011",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Astronom veröffentlichte 1543 'De revolutionibus orbium coelestium'?", "en": "Which astronomer published 'De revolutionibus orbium coelestium' in 1543?" },
+      "options": [
+        { "de": "Galileo Galilei", "en": "Galileo Galilei" },
+        { "de": "Tycho Brahe", "en": "Tycho Brahe" },
+        { "de": "Nikolaus Kopernikus", "en": "Nicolaus Copernicus" },
+        { "de": "Johannes Kepler", "en": "Johannes Kepler" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-012",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Was entdeckte Alexander Fleming zufällig im Jahr 1928?", "en": "What did Alexander Fleming accidentally discover in 1928?" },
+      "options": [
+        { "de": "Insulin", "en": "Insulin" },
+        { "de": "Aspirin", "en": "Aspirin" },
+        { "de": "Penicillin", "en": "Penicillin" },
+        { "de": "Cortison", "en": "Cortisone" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-013",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Rosalind Franklins Röntgenbeugungsbilder waren entscheidend für die Entdeckung der Struktur welcher Substanz?", "en": "Rosalind Franklin's X-ray diffraction images were crucial for discovering the structure of what?" },
+      "options": [
+        { "de": "Proteine", "en": "Proteins" },
+        { "de": "RNA", "en": "RNA" },
+        { "de": "DNA", "en": "DNA" },
+        { "de": "Enzyme", "en": "Enzymes" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-014",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welches Jahr wird als Albert Einsteins 'Wunderjahr' (Annus mirabilis) bezeichnet?", "en": "What was Albert Einstein's 'miracle year' (annus mirabilis)?" },
+      "options": [
+        { "de": "1903", "en": "1903" },
+        { "de": "1905", "en": "1905" },
+        { "de": "1907", "en": "1907" },
+        { "de": "1915", "en": "1915" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Annus_mirabilis_papers",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-015",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "An welcher Krankheit litt Stephen Hawking den größten Teil seines Lebens?", "en": "Which disease did Stephen Hawking live with for most of his life?" },
+      "options": [
+        { "de": "Multiple Sklerose", "en": "Multiple Sclerosis" },
+        { "de": "Parkinson-Krankheit", "en": "Parkinson's Disease" },
+        { "de": "Amyotrophe Lateralsklerose (ALS)", "en": "Amyotrophic Lateral Sclerosis (ALS)" },
+        { "de": "Muskeldystrophie", "en": "Muscular Dystrophy" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Stephen_Hawking",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-016",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Land wurde Marie Curie geboren?", "en": "In which country was Marie Curie born?" },
+      "options": [
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Deutschland", "en": "Germany" },
+        { "de": "Polen", "en": "Poland" },
+        { "de": "Russland", "en": "Russia" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-017",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Physiker formulierte die Unschärferelation?", "en": "Which physicist formulated the uncertainty principle?" },
+      "options": [
+        { "de": "Erwin Schrödinger", "en": "Erwin Schrödinger" },
+        { "de": "Werner Heisenberg", "en": "Werner Heisenberg" },
+        { "de": "Paul Dirac", "en": "Paul Dirac" },
+        { "de": "Max Born", "en": "Max Born" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Werner_Heisenberg",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-018",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Wie hieß Charles Darwins bahnbrechendes Buch von 1859?", "en": "What was Charles Darwin's groundbreaking 1859 book called?" },
+      "options": [
+        { "de": "Die Abstammung des Menschen", "en": "The Descent of Man" },
+        { "de": "Über die Entstehung der Arten", "en": "On the Origin of Species" },
+        { "de": "Die Reise der Beagle", "en": "The Voyage of the Beagle" },
+        { "de": "Der Ausdruck der Gemütsbewegungen", "en": "The Expression of the Emotions" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-019",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Wissenschaftler formulierte die drei Gesetze der Planetenbewegung?", "en": "Which scientist formulated the three laws of planetary motion?" },
+      "options": [
+        { "de": "Galileo Galilei", "en": "Galileo Galilei" },
+        { "de": "Isaac Newton", "en": "Isaac Newton" },
+        { "de": "Johannes Kepler", "en": "Johannes Kepler" },
+        { "de": "Tycho Brahe", "en": "Tycho Brahe" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-020",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Wie heißt das berühmte Gedankenexperiment mit einer Katze, das Erwin Schrödinger vorschlug?", "en": "What is the name of the famous thought experiment involving a cat, proposed by Erwin Schrödinger?" },
+      "options": [
+        { "de": "Schrödingers Box", "en": "Schrödinger's Box" },
+        { "de": "Schrödingers Katze", "en": "Schrödinger's Cat" },
+        { "de": "Schrödingers Paradoxon", "en": "Schrödinger's Paradox" },
+        { "de": "Schrödingers Welle", "en": "Schrödinger's Wave" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-021",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr wurde Abraham Lincoln ermordet?", "en": "In which year was Abraham Lincoln assassinated?" },
+      "options": [
+        { "de": "1861", "en": "1861" },
+        { "de": "1863", "en": "1863" },
+        { "de": "1865", "en": "1865" },
+        { "de": "1867", "en": "1867" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-022",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Während welches Krieges war Winston Churchill Premierminister des Vereinigten Königreichs?", "en": "During which war did Winston Churchill serve as Prime Minister of the United Kingdom?" },
+      "options": [
+        { "de": "Erster Weltkrieg", "en": "World War I" },
+        { "de": "Zweiter Weltkrieg", "en": "World War II" },
+        { "de": "Koreakrieg", "en": "Korean War" },
+        { "de": "Burenkrieg", "en": "Boer War" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Winston_Churchill",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-023",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "In welcher Schlacht wurde Napoleon Bonaparte 1815 endgültig besiegt?", "en": "At which battle was Napoleon Bonaparte finally defeated in 1815?" },
+      "options": [
+        { "de": "Schlacht bei Austerlitz", "en": "Battle of Austerlitz" },
+        { "de": "Völkerschlacht bei Leipzig", "en": "Battle of Leipzig" },
+        { "de": "Schlacht von Trafalgar", "en": "Battle of Trafalgar" },
+        { "de": "Schlacht bei Waterloo", "en": "Battle of Waterloo" }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Waterloo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-024",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Wie viele Jahre verbrachte Nelson Mandela im Gefängnis?", "en": "How many years did Nelson Mandela spend in prison?" },
+      "options": [
+        { "de": "18 Jahre", "en": "18 years" },
+        { "de": "23 Jahre", "en": "23 years" },
+        { "de": "27 Jahre", "en": "27 years" },
+        { "de": "31 Jahre", "en": "31 years" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-025",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "An welchem Datum wurde Julius Cäsar ermordet (die Iden des März)?", "en": "On which date was Julius Caesar assassinated (the Ides of March)?" },
+      "options": [
+        { "de": "1. März 44 v. Chr.", "en": "March 1, 44 BC" },
+        { "de": "15. März 44 v. Chr.", "en": "March 15, 44 BC" },
+        { "de": "21. März 44 v. Chr.", "en": "March 21, 44 BC" },
+        { "de": "31. März 44 v. Chr.", "en": "March 31, 44 BC" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-026",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Wie nannte Mahatma Gandhi seine Philosophie des gewaltlosen Widerstands?", "en": "What was the name of Mahatma Gandhi's philosophy of nonviolent resistance?" },
+      "options": [
+        { "de": "Ahimsa", "en": "Ahimsa" },
+        { "de": "Satyagraha", "en": "Satyagraha" },
+        { "de": "Dharma", "en": "Dharma" },
+        { "de": "Karma", "en": "Karma" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-027",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Wer war der erste Präsident der Vereinigten Staaten?", "en": "Who was the first President of the United States?" },
+      "options": [
+        { "de": "Thomas Jefferson", "en": "Thomas Jefferson" },
+        { "de": "John Adams", "en": "John Adams" },
+        { "de": "George Washington", "en": "George Washington" },
+        { "de": "Benjamin Franklin", "en": "Benjamin Franklin" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Washington",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-028",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche britische Monarchin gab einer Epoche des 19. Jahrhunderts ihren Namen?", "en": "Which British monarch gave her name to an era spanning much of the 19th century?" },
+      "options": [
+        { "de": "Königin Elisabeth I.", "en": "Queen Elizabeth I" },
+        { "de": "Königin Anne", "en": "Queen Anne" },
+        { "de": "Königin Victoria", "en": "Queen Victoria" },
+        { "de": "Königin Maria", "en": "Queen Mary" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Queen_Victoria",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-029",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr hielt Martin Luther King Jr. seine berühmte Rede 'I Have a Dream'?", "en": "In which year did Martin Luther King Jr. deliver his 'I Have a Dream' speech?" },
+      "options": [
+        { "de": "1960", "en": "1960" },
+        { "de": "1963", "en": "1963" },
+        { "de": "1965", "en": "1965" },
+        { "de": "1968", "en": "1968" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/I_Have_a_Dream",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-030",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Staatsmann ist als 'Eiserner Kanzler' für die Einigung Deutschlands 1871 bekannt?", "en": "Which statesman is known as the 'Iron Chancellor' for unifying Germany in 1871?" },
+      "options": [
+        { "de": "Friedrich der Große", "en": "Frederick the Great" },
+        { "de": "Kaiser Wilhelm I.", "en": "Kaiser Wilhelm I" },
+        { "de": "Otto von Bismarck", "en": "Otto von Bismarck" },
+        { "de": "Helmuth von Moltke", "en": "Helmuth von Moltke" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Otto_von_Bismarck",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-031",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher antike Herrscher schuf bis zum Alter von 30 Jahren ein Reich von Griechenland bis Nordwestindien?", "en": "Which ancient leader created an empire stretching from Greece to northwestern India by the age of 30?" },
+      "options": [
+        { "de": "Julius Cäsar", "en": "Julius Caesar" },
+        { "de": "Dschingis Khan", "en": "Genghis Khan" },
+        { "de": "Alexander der Große", "en": "Alexander the Great" },
+        { "de": "Kyros der Große", "en": "Cyrus the Great" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-032",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "In welcher Stadt wurde John F. Kennedy 1963 ermordet?", "en": "In which city was John F. Kennedy assassinated in 1963?" },
+      "options": [
+        { "de": "Washington, D.C.", "en": "Washington, D.C." },
+        { "de": "Chicago", "en": "Chicago" },
+        { "de": "Dallas", "en": "Dallas" },
+        { "de": "Los Angeles", "en": "Los Angeles" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-033",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher US-Präsident führte den 'New Deal' während der Großen Depression ein?", "en": "Which U.S. President introduced the 'New Deal' during the Great Depression?" },
+      "options": [
+        { "de": "Herbert Hoover", "en": "Herbert Hoover" },
+        { "de": "Franklin D. Roosevelt", "en": "Franklin D. Roosevelt" },
+        { "de": "Harry S. Truman", "en": "Harry S. Truman" },
+        { "de": "Dwight D. Eisenhower", "en": "Dwight D. Eisenhower" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/New_Deal",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-034",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welchen Spitznamen erhielt die britische Premierministerin Margaret Thatcher?", "en": "What nickname was given to British Prime Minister Margaret Thatcher?" },
+      "options": [
+        { "de": "Die Eiserne Lady", "en": "The Iron Lady" },
+        { "de": "Die Eiserne Jungfrau", "en": "The Iron Maiden" },
+        { "de": "Die Stahlmagnolie", "en": "The Steel Magnolia" },
+        { "de": "Die britische Bulldogge", "en": "The British Bulldog" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-035",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Wer war die letzte aktive Pharaonin des alten Ägypten?", "en": "Who was the last active pharaoh of Ancient Egypt?" },
+      "options": [
+        { "de": "Nofretete", "en": "Nefertiti" },
+        { "de": "Hatschepsut", "en": "Hatshepsut" },
+        { "de": "Kleopatra VII.", "en": "Cleopatra VII" },
+        { "de": "Ramses II.", "en": "Ramesses II" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cleopatra",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-036",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Wer malte die Mona Lisa?", "en": "Who painted the Mona Lisa?" },
+      "options": [
+        { "de": "Michelangelo", "en": "Michelangelo" },
+        { "de": "Raffael", "en": "Raphael" },
+        { "de": "Leonardo da Vinci", "en": "Leonardo da Vinci" },
+        { "de": "Sandro Botticelli", "en": "Sandro Botticelli" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mona_Lisa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-037",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher berühmte Komponist wurde fast vollständig taub, komponierte aber weiterhin Musik?", "en": "Which famous composer became almost completely deaf but continued to compose music?" },
+      "options": [
+        { "de": "Wolfgang Amadeus Mozart", "en": "Wolfgang Amadeus Mozart" },
+        { "de": "Johann Sebastian Bach", "en": "Johann Sebastian Bach" },
+        { "de": "Ludwig van Beethoven", "en": "Ludwig van Beethoven" },
+        { "de": "Franz Schubert", "en": "Franz Schubert" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-038",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "In welcher Stadt wurde Wolfgang Amadeus Mozart geboren?", "en": "In which city was Wolfgang Amadeus Mozart born?" },
+      "options": [
+        { "de": "Wien", "en": "Vienna" },
+        { "de": "München", "en": "Munich" },
+        { "de": "Salzburg", "en": "Salzburg" },
+        { "de": "Berlin", "en": "Berlin" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-039",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welches Gemälde von Pablo Picasso stellt die Bombardierung einer spanischen Stadt während des Bürgerkriegs dar?", "en": "Which painting by Pablo Picasso depicts the bombing of a Spanish town during the Civil War?" },
+      "options": [
+        { "de": "Les Demoiselles d'Avignon", "en": "Les Demoiselles d'Avignon" },
+        { "de": "Der alte Gitarrist", "en": "The Old Guitarist" },
+        { "de": "Guernica", "en": "Guernica" },
+        { "de": "Die weinende Frau", "en": "The Weeping Woman" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Guernica_(Picasso)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-040",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Künstler bemalte die Decke der Sixtinischen Kapelle?", "en": "Which artist painted the ceiling of the Sistine Chapel?" },
+      "options": [
+        { "de": "Leonardo da Vinci", "en": "Leonardo da Vinci" },
+        { "de": "Raffael", "en": "Raphael" },
+        { "de": "Michelangelo", "en": "Michelangelo" },
+        { "de": "Caravaggio", "en": "Caravaggio" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-041",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher postimpressionistische Maler ist dafür bekannt, sich einen Teil seines eigenen Ohrs abgeschnitten zu haben?", "en": "Which post-impressionist painter is known for cutting off part of his own ear?" },
+      "options": [
+        { "de": "Paul Gauguin", "en": "Paul Gauguin" },
+        { "de": "Claude Monet", "en": "Claude Monet" },
+        { "de": "Vincent van Gogh", "en": "Vincent van Gogh" },
+        { "de": "Paul Cézanne", "en": "Paul Cézanne" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-042",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Johann Sebastian Bach wird hauptsächlich mit welcher Musikepoche in Verbindung gebracht?", "en": "Johann Sebastian Bach is primarily associated with which musical period?" },
+      "options": [
+        { "de": "Renaissance", "en": "Renaissance" },
+        { "de": "Barock", "en": "Baroque" },
+        { "de": "Klassik", "en": "Classical" },
+        { "de": "Romantik", "en": "Romantic" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-043",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welche Nationalität hatte die Malerin Frida Kahlo?", "en": "What was the nationality of painter Frida Kahlo?" },
+      "options": [
+        { "de": "Spanisch", "en": "Spanish" },
+        { "de": "Argentinisch", "en": "Argentine" },
+        { "de": "Mexikanisch", "en": "Mexican" },
+        { "de": "Brasilianisch", "en": "Brazilian" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Frida_Kahlo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-044",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Welches Gemälde von Rembrandt zeigt eine Gruppe von Bürgerwachen?", "en": "Which Rembrandt painting depicts a group of civic guards?" },
+      "options": [
+        { "de": "Die Anatomie des Dr. Tulp", "en": "The Anatomy Lesson of Dr. Nicolaes Tulp" },
+        { "de": "Die Nachtwache", "en": "The Night Watch" },
+        { "de": "Die jüdische Braut", "en": "The Jewish Bride" },
+        { "de": "Die Staalmeesters", "en": "The Syndics" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Night_Watch",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-045",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Maler gilt als Begründer des Impressionismus?", "en": "Which painter is considered a founder of Impressionism?" },
+      "options": [
+        { "de": "Claude Monet", "en": "Claude Monet" },
+        { "de": "Pierre-Auguste Renoir", "en": "Pierre-Auguste Renoir" },
+        { "de": "Edgar Degas", "en": "Edgar Degas" },
+        { "de": "Édouard Manet", "en": "Édouard Manet" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Claude_Monet",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-046",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Mit welchem Instrument wird Frédéric Chopin am meisten in Verbindung gebracht?", "en": "With which instrument is Frédéric Chopin most closely associated?" },
+      "options": [
+        { "de": "Violine", "en": "Violin" },
+        { "de": "Cello", "en": "Cello" },
+        { "de": "Klavier", "en": "Piano" },
+        { "de": "Orgel", "en": "Organ" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-047",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Mit welcher Kunstrichtung wird Salvador Dalí am meisten in Verbindung gebracht?", "en": "Which art movement is Salvador Dalí most associated with?" },
+      "options": [
+        { "de": "Kubismus", "en": "Cubism" },
+        { "de": "Dadaismus", "en": "Dadaism" },
+        { "de": "Surrealismus", "en": "Surrealism" },
+        { "de": "Expressionismus", "en": "Expressionism" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-048",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Künstler gilt als Pionier der Pop-Art und ist für seine Campbell's-Suppendosen berühmt?", "en": "Which artist is considered a pioneer of pop art and is famous for his Campbell's Soup Cans?" },
+      "options": [
+        { "de": "Roy Lichtenstein", "en": "Roy Lichtenstein" },
+        { "de": "Andy Warhol", "en": "Andy Warhol" },
+        { "de": "Jasper Johns", "en": "Jasper Johns" },
+        { "de": "Robert Rauschenberg", "en": "Robert Rauschenberg" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Andy_Warhol",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-049",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Renaissance-Maler schuf 'Die Schule von Athen'?", "en": "Which Renaissance painter created 'The School of Athens'?" },
+      "options": [
+        { "de": "Leonardo da Vinci", "en": "Leonardo da Vinci" },
+        { "de": "Michelangelo", "en": "Michelangelo" },
+        { "de": "Raffael", "en": "Raphael" },
+        { "de": "Tizian", "en": "Titian" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_School_of_Athens",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-050",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Komponist schrieb die Musik für das Ballett 'Der Nussknacker'?", "en": "Which composer wrote the music for the ballet 'The Nutcracker'?" },
+      "options": [
+        { "de": "Sergei Prokofjew", "en": "Sergei Prokofiev" },
+        { "de": "Igor Strawinsky", "en": "Igor Stravinsky" },
+        { "de": "Pjotr Iljitsch Tschaikowski", "en": "Pyotr Ilyich Tchaikovsky" },
+        { "de": "Nikolai Rimski-Korsakow", "en": "Nikolai Rimsky-Korsakov" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Nutcracker",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-051",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Erfinder entwickelte eine praxistaugliche Glühbirne?", "en": "Which inventor is credited with developing a practical incandescent light bulb?" },
+      "options": [
+        { "de": "Nikola Tesla", "en": "Nikola Tesla" },
+        { "de": "Thomas Edison", "en": "Thomas Edison" },
+        { "de": "Alexander Graham Bell", "en": "Alexander Graham Bell" },
+        { "de": "George Westinghouse", "en": "George Westinghouse" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-052",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Nikola Tesla ist vor allem für seine Beiträge zu welchem elektrischen System bekannt?", "en": "Nikola Tesla is best known for his contributions to which type of electrical system?" },
+      "options": [
+        { "de": "Gleichstrom (DC)", "en": "Direct current (DC)" },
+        { "de": "Wechselstrom (AC)", "en": "Alternating current (AC)" },
+        { "de": "Statische Elektrizität", "en": "Static electricity" },
+        { "de": "Elektromagnetische Induktion", "en": "Electromagnetic induction" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-053",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "In welchem Jahr gelang den Gebrüdern Wright ihr erster motorisierter Flug?", "en": "In which year did the Wright brothers achieve their first powered flight?" },
+      "options": [
+        { "de": "1899", "en": "1899" },
+        { "de": "1901", "en": "1901" },
+        { "de": "1903", "en": "1903" },
+        { "de": "1905", "en": "1905" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wright_brothers",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-054",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Was erfand Johannes Gutenberg um 1440?", "en": "What did Johannes Gutenberg invent around 1440?" },
+      "options": [
+        { "de": "Das Teleskop", "en": "The telescope" },
+        { "de": "Den Buchdruck mit beweglichen Lettern", "en": "The printing press with movable type" },
+        { "de": "Den Kompass", "en": "The compass" },
+        { "de": "Die mechanische Uhr", "en": "The mechanical clock" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Johannes_Gutenberg",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-055",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Wem wird die Erfindung des Telefons zugeschrieben?", "en": "Who is credited with inventing the telephone?" },
+      "options": [
+        { "de": "Thomas Edison", "en": "Thomas Edison" },
+        { "de": "Guglielmo Marconi", "en": "Guglielmo Marconi" },
+        { "de": "Alexander Graham Bell", "en": "Alexander Graham Bell" },
+        { "de": "Samuel Morse", "en": "Samuel Morse" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-056",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "James Watts Verbesserungen an welcher Maschine trieben die Industrielle Revolution voran?", "en": "James Watt's improvements to which machine helped power the Industrial Revolution?" },
+      "options": [
+        { "de": "Die Baumwollentkörnungsmaschine", "en": "The cotton gin" },
+        { "de": "Die Dampfmaschine", "en": "The steam engine" },
+        { "de": "Die Spinnmaschine", "en": "The spinning jenny" },
+        { "de": "Der mechanische Webstuhl", "en": "The power loom" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/James_Watt",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-057",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Alfred Nobel, der Stifter des Nobelpreises, erfand welchen Sprengstoff?", "en": "Alfred Nobel, founder of the Nobel Prize, invented which explosive?" },
+      "options": [
+        { "de": "Schießpulver", "en": "Gunpowder" },
+        { "de": "TNT", "en": "TNT" },
+        { "de": "Dynamit", "en": "Dynamite" },
+        { "de": "Nitroglycerin", "en": "Nitroglycerin" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alfred_Nobel",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-058",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Wem wird die Entwicklung des ersten praxistauglichen Funkübertragungssystems zugeschrieben?", "en": "Who is credited with developing the first practical radio transmission system?" },
+      "options": [
+        { "de": "Nikola Tesla", "en": "Nikola Tesla" },
+        { "de": "Guglielmo Marconi", "en": "Guglielmo Marconi" },
+        { "de": "Heinrich Hertz", "en": "Heinrich Hertz" },
+        { "de": "Alexander Popow", "en": "Alexander Popov" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Guglielmo_Marconi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-059",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher deutsche Ingenieur baute 1885 das erste echte Automobil mit Verbrennungsmotor?", "en": "Which German engineer built the first true automobile powered by a gasoline engine in 1885?" },
+      "options": [
+        { "de": "Gottlieb Daimler", "en": "Gottlieb Daimler" },
+        { "de": "Karl Benz", "en": "Karl Benz" },
+        { "de": "Rudolf Diesel", "en": "Rudolf Diesel" },
+        { "de": "Ferdinand Porsche", "en": "Ferdinand Porsche" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Karl_Benz",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-060",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Wer erfand 1989 das World Wide Web?", "en": "Who invented the World Wide Web in 1989?" },
+      "options": [
+        { "de": "Vint Cerf", "en": "Vint Cerf" },
+        { "de": "Tim Berners-Lee", "en": "Tim Berners-Lee" },
+        { "de": "Robert Cailliau", "en": "Robert Cailliau" },
+        { "de": "Marc Andreessen", "en": "Marc Andreessen" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-061",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Wer gilt als die erste Computerprogrammiererin der Welt?", "en": "Who is often considered the world's first computer programmer?" },
+      "options": [
+        { "de": "Charles Babbage", "en": "Charles Babbage" },
+        { "de": "Ada Lovelace", "en": "Ada Lovelace" },
+        { "de": "Alan Turing", "en": "Alan Turing" },
+        { "de": "Grace Hopper", "en": "Grace Hopper" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-062",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher amerikanische Erfinder schuf 1793 die Baumwollentkörnungsmaschine?", "en": "Which American inventor created the cotton gin in 1793?" },
+      "options": [
+        { "de": "Benjamin Franklin", "en": "Benjamin Franklin" },
+        { "de": "Eli Whitney", "en": "Eli Whitney" },
+        { "de": "Robert Fulton", "en": "Robert Fulton" },
+        { "de": "Cyrus McCormick", "en": "Cyrus McCormick" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eli_Whitney",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-063",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Wer entwickelte den ersten praxistauglichen Telegrafen und den dazugehörigen Code?", "en": "Who developed the first practical telegraph and its associated code?" },
+      "options": [
+        { "de": "Alexander Graham Bell", "en": "Alexander Graham Bell" },
+        { "de": "Thomas Edison", "en": "Thomas Edison" },
+        { "de": "Samuel Morse", "en": "Samuel Morse" },
+        { "de": "Guglielmo Marconi", "en": "Guglielmo Marconi" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Samuel_Morse",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-064",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Wer startete 1926 die erste Flüssigkeitsrakete?", "en": "Who launched the first liquid-fueled rocket in 1926?" },
+      "options": [
+        { "de": "Wernher von Braun", "en": "Wernher von Braun" },
+        { "de": "Robert Goddard", "en": "Robert Goddard" },
+        { "de": "Konstantin Ziolkowski", "en": "Konstantin Tsiolkovsky" },
+        { "de": "Hermann Oberth", "en": "Hermann Oberth" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Robert_H._Goddard",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-065",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Wer erfand ein Lese- und Schreibsystem für Blinde, das seinen Namen trägt?", "en": "Who invented a reading and writing system for the blind that bears his name?" },
+      "options": [
+        { "de": "Louis Braille", "en": "Louis Braille" },
+        { "de": "Charles Barbier", "en": "Charles Barbier" },
+        { "de": "Valentin Haüy", "en": "Valentin Haüy" },
+        { "de": "Helen Keller", "en": "Helen Keller" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Louis_Braille",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-066",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Jahr erreichte Christoph Kolumbus erstmals Amerika?", "en": "In which year did Christopher Columbus first reach the Americas?" },
+      "options": [
+        { "de": "1488", "en": "1488" },
+        { "de": "1492", "en": "1492" },
+        { "de": "1498", "en": "1498" },
+        { "de": "1502", "en": "1502" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-067",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Die Expedition von Ferdinand Magellan war die erste, die was erreichte?", "en": "Ferdinand Magellan's expedition was the first to do what?" },
+      "options": [
+        { "de": "Den Nordpol erreichen", "en": "Reach the North Pole" },
+        { "de": "Den Atlantik überqueren", "en": "Cross the Atlantic Ocean" },
+        { "de": "Die Erde umsegeln", "en": "Circumnavigate the globe" },
+        { "de": "Australien entdecken", "en": "Discover Australia" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ferdinand_Magellan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-068",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Wer war der erste Mensch, der den Mond betrat?", "en": "Who was the first person to walk on the Moon?" },
+      "options": [
+        { "de": "Buzz Aldrin", "en": "Buzz Aldrin" },
+        { "de": "Neil Armstrong", "en": "Neil Armstrong" },
+        { "de": "John Glenn", "en": "John Glenn" },
+        { "de": "Juri Gagarin", "en": "Yuri Gagarin" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Neil_Armstrong",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-069",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher venezianische Kaufmann reiste im 13. Jahrhundert nach China und schrieb über seine Erlebnisse?", "en": "Which Venetian merchant traveled to China and wrote about his experiences in the 13th century?" },
+      "options": [
+        { "de": "Christoph Kolumbus", "en": "Christopher Columbus" },
+        { "de": "Amerigo Vespucci", "en": "Amerigo Vespucci" },
+        { "de": "Marco Polo", "en": "Marco Polo" },
+        { "de": "Vasco da Gama", "en": "Vasco da Gama" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marco_Polo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-070",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher portugiesische Entdecker erreichte 1498 als erster Europäer Indien auf dem Seeweg?", "en": "Which Portuguese explorer was the first European to reach India by sea in 1498?" },
+      "options": [
+        { "de": "Bartolomeu Dias", "en": "Bartolomeu Dias" },
+        { "de": "Vasco da Gama", "en": "Vasco da Gama" },
+        { "de": "Ferdinand Magellan", "en": "Ferdinand Magellan" },
+        { "de": "Heinrich der Seefahrer", "en": "Henry the Navigator" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vasco_da_Gama",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-071",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Wer führte 1911 die erste Expedition an, die den Südpol erreichte?", "en": "Who led the first expedition to reach the South Pole in 1911?" },
+      "options": [
+        { "de": "Robert Falcon Scott", "en": "Robert Falcon Scott" },
+        { "de": "Ernest Shackleton", "en": "Ernest Shackleton" },
+        { "de": "Roald Amundsen", "en": "Roald Amundsen" },
+        { "de": "Fridtjof Nansen", "en": "Fridtjof Nansen" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Roald_Amundsen",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-072",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher britische Entdecker leitete die erste europäische Expedition zur Ostküste Australiens?", "en": "Which British explorer led the first European expedition to reach the east coast of Australia?" },
+      "options": [
+        { "de": "Francis Drake", "en": "Francis Drake" },
+        { "de": "James Cook", "en": "James Cook" },
+        { "de": "Walter Raleigh", "en": "Walter Raleigh" },
+        { "de": "Abel Tasman", "en": "Abel Tasman" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/James_Cook",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-073",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Wer war 1961 der erste Mensch im Weltraum?", "en": "Who was the first human to travel into outer space in 1961?" },
+      "options": [
+        { "de": "Neil Armstrong", "en": "Neil Armstrong" },
+        { "de": "Alan Shepard", "en": "Alan Shepard" },
+        { "de": "Juri Gagarin", "en": "Yuri Gagarin" },
+        { "de": "John Glenn", "en": "John Glenn" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-074",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Wer erreichte 1953 zusammen mit Tenzing Norgay als Erster den Gipfel des Mount Everest?", "en": "Who was the first person to reach the summit of Mount Everest alongside Tenzing Norgay in 1953?" },
+      "options": [
+        { "de": "George Mallory", "en": "George Mallory" },
+        { "de": "Edmund Hillary", "en": "Edmund Hillary" },
+        { "de": "Reinhold Messner", "en": "Reinhold Messner" },
+        { "de": "Maurice Herzog", "en": "Maurice Herzog" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Edmund_Hillary",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-075",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher spanische Konquistador eroberte im frühen 16. Jahrhundert das Aztekenreich?", "en": "Which Spanish conquistador conquered the Aztec Empire in the early 16th century?" },
+      "options": [
+        { "de": "Francisco Pizarro", "en": "Francisco Pizarro" },
+        { "de": "Hernán Cortés", "en": "Hernán Cortés" },
+        { "de": "Vasco Núñez de Balboa", "en": "Vasco Núñez de Balboa" },
+        { "de": "Juan Ponce de León", "en": "Juan Ponce de León" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-076",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher Dramatiker schrieb 'Hamlet', 'Othello' und 'Macbeth'?", "en": "Which playwright wrote 'Hamlet,' 'Othello,' and 'Macbeth'?" },
+      "options": [
+        { "de": "Christopher Marlowe", "en": "Christopher Marlowe" },
+        { "de": "Ben Jonson", "en": "Ben Jonson" },
+        { "de": "William Shakespeare", "en": "William Shakespeare" },
+        { "de": "John Milton", "en": "John Milton" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/William_Shakespeare",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-077",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher deutsche Dichter verfasste das zweiteilige Drama 'Faust'?", "en": "Which German writer authored the two-part drama 'Faust'?" },
+      "options": [
+        { "de": "Friedrich Schiller", "en": "Friedrich Schiller" },
+        { "de": "Johann Wolfgang von Goethe", "en": "Johann Wolfgang von Goethe" },
+        { "de": "Heinrich Heine", "en": "Heinrich Heine" },
+        { "de": "Thomas Mann", "en": "Thomas Mann" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Goethe%27s_Faust",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-078",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Philosoph schrieb die 'Kritik der reinen Vernunft'?", "en": "Which philosopher wrote the 'Critique of Pure Reason'?" },
+      "options": [
+        { "de": "Georg Wilhelm Friedrich Hegel", "en": "Georg Wilhelm Friedrich Hegel" },
+        { "de": "Immanuel Kant", "en": "Immanuel Kant" },
+        { "de": "Arthur Schopenhauer", "en": "Arthur Schopenhauer" },
+        { "de": "Friedrich Nietzsche", "en": "Friedrich Nietzsche" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Critique_of_Pure_Reason",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-079",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher antike griechische Philosoph schrieb 'Der Staat' (Politeia)?", "en": "Which ancient Greek philosopher wrote 'The Republic'?" },
+      "options": [
+        { "de": "Sokrates", "en": "Socrates" },
+        { "de": "Aristoteles", "en": "Aristotle" },
+        { "de": "Platon", "en": "Plato" },
+        { "de": "Epikur", "en": "Epicurus" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Republic_(Plato)",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-080",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher berühmte Philosoph war der persönliche Lehrer Alexanders des Großen?", "en": "Which famous philosopher was the personal tutor of Alexander the Great?" },
+      "options": [
+        { "de": "Sokrates", "en": "Socrates" },
+        { "de": "Platon", "en": "Plato" },
+        { "de": "Aristoteles", "en": "Aristotle" },
+        { "de": "Diogenes", "en": "Diogenes" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aristotle",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-081",
+      "category": "famous-people",
+      "difficulty": "medium",
+      "question": { "de": "Welcher Philosoph schrieb 'Also sprach Zarathustra'?", "en": "Which philosopher wrote 'Thus Spoke Zarathustra'?" },
+      "options": [
+        { "de": "Arthur Schopenhauer", "en": "Arthur Schopenhauer" },
+        { "de": "Friedrich Nietzsche", "en": "Friedrich Nietzsche" },
+        { "de": "Søren Kierkegaard", "en": "Søren Kierkegaard" },
+        { "de": "Martin Heidegger", "en": "Martin Heidegger" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-082",
+      "category": "famous-people",
+      "difficulty": "hard",
+      "question": { "de": "Wie lautete der bürgerliche Name des unter dem Pseudonym Mark Twain bekannten amerikanischen Autors?", "en": "What was the real name of the American author known by the pen name Mark Twain?" },
+      "options": [
+        { "de": "Samuel Langhorne Clemens", "en": "Samuel Langhorne Clemens" },
+        { "de": "William Sydney Porter", "en": "William Sydney Porter" },
+        { "de": "Charles Lutwidge Dodgson", "en": "Charles Lutwidge Dodgson" },
+        { "de": "Eric Arthur Blair", "en": "Eric Arthur Blair" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mark_Twain",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-083",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welcher russische Autor schrieb 'Krieg und Frieden'?", "en": "Which Russian author wrote 'War and Peace'?" },
+      "options": [
+        { "de": "Fjodor Dostojewski", "en": "Fyodor Dostoevsky" },
+        { "de": "Leo Tolstoi", "en": "Leo Tolstoy" },
+        { "de": "Anton Tschechow", "en": "Anton Chekhov" },
+        { "de": "Iwan Turgenjew", "en": "Ivan Turgenev" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/War_and_Peace",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-084",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "Welchem antiken griechischen Dichter werden die 'Ilias' und die 'Odyssee' traditionell zugeschrieben?", "en": "Which ancient Greek poet is traditionally credited as the author of the 'Iliad' and the 'Odyssey'?" },
+      "options": [
+        { "de": "Hesiod", "en": "Hesiod" },
+        { "de": "Homer", "en": "Homer" },
+        { "de": "Vergil", "en": "Virgil" },
+        { "de": "Sophokles", "en": "Sophocles" }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Homer",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "ppl-085",
+      "category": "famous-people",
+      "difficulty": "easy",
+      "question": { "de": "In welchem Land wurde der Philosoph Konfuzius geboren?", "en": "In which country was the philosopher Confucius born?" },
+      "options": [
+        { "de": "Japan", "en": "Japan" },
+        { "de": "Korea", "en": "Korea" },
+        { "de": "China", "en": "China" },
+        { "de": "Indien", "en": "India" }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Confucius",
+      "sourceLabel": "Wikipedia"
+    }
+  ],
+  "timelineEvents": [
+    {
+      "id": "ppl-t-001",
+      "title": { "de": "Geburt von Albert Einstein", "en": "Birth of Albert Einstein" },
+      "description": { "de": "Albert Einstein wird am 14. März 1879 in Ulm, Deutschland, geboren. Er wird später die Physik mit seiner Relativitätstheorie revolutionieren.", "en": "Albert Einstein is born on March 14, 1879, in Ulm, Germany. He would later revolutionize physics with his theory of relativity." },
+      "year": 1879,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "id": "ppl-t-002",
+      "title": { "de": "Tod von Wolfgang Amadeus Mozart", "en": "Death of Wolfgang Amadeus Mozart" },
+      "description": { "de": "Wolfgang Amadeus Mozart stirbt am 5. Dezember 1791 in Wien im Alter von nur 35 Jahren. Er hinterlässt über 600 Kompositionen.", "en": "Wolfgang Amadeus Mozart dies on December 5, 1791, in Vienna at the age of just 35, leaving behind over 600 compositions." },
+      "year": 1791,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+    },
+    {
+      "id": "ppl-t-003",
+      "title": { "de": "Ermordung von Julius Cäsar", "en": "Assassination of Julius Caesar" },
+      "description": { "de": "Julius Cäsar wird am 15. März 44 v. Chr. (Iden des März) von einer Gruppe Senatoren im Römischen Senat ermordet.", "en": "Julius Caesar is assassinated on March 15, 44 BC (the Ides of March) by a group of senators in the Roman Senate." },
+      "year": -44,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar"
+    },
+    {
+      "id": "ppl-t-004",
+      "title": { "de": "Gutenberg erfindet den Buchdruck", "en": "Gutenberg invents the printing press" },
+      "description": { "de": "Johannes Gutenberg erfindet um 1440 den Buchdruck mit beweglichen Lettern und revolutioniert damit die Verbreitung von Wissen in Europa.", "en": "Johannes Gutenberg invents the printing press with movable type around 1440, revolutionizing the spread of knowledge in Europe." },
+      "year": 1440,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Johannes_Gutenberg"
+    },
+    {
+      "id": "ppl-t-005",
+      "title": { "de": "Geburt von Leonardo da Vinci", "en": "Birth of Leonardo da Vinci" },
+      "description": { "de": "Leonardo da Vinci wird am 15. April 1452 in Vinci, Italien, geboren. Er wird zu einem der vielseitigsten Genies der Geschichte.", "en": "Leonardo da Vinci is born on April 15, 1452, in Vinci, Italy. He would become one of the most versatile geniuses in history." },
+      "year": 1452,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    },
+    {
+      "id": "ppl-t-006",
+      "title": { "de": "Newton veröffentlicht die Principia Mathematica", "en": "Newton publishes the Principia Mathematica" },
+      "description": { "de": "Isaac Newton veröffentlicht 1687 'Philosophiæ Naturalis Principia Mathematica', worin er die Gesetze der Bewegung und der universellen Gravitation formuliert.", "en": "Isaac Newton publishes 'Philosophiæ Naturalis Principia Mathematica' in 1687, formulating the laws of motion and universal gravitation." },
+      "year": 1687,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica"
+    },
+    {
+      "id": "ppl-t-007",
+      "title": { "de": "Darwin veröffentlicht 'Über die Entstehung der Arten'", "en": "Darwin publishes 'On the Origin of Species'" },
+      "description": { "de": "Charles Darwin veröffentlicht 1859 sein bahnbrechendes Werk 'Über die Entstehung der Arten', das die Theorie der natürlichen Selektion begründet.", "en": "Charles Darwin publishes his groundbreaking work 'On the Origin of Species' in 1859, establishing the theory of natural selection." },
+      "year": 1859,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species"
+    },
+    {
+      "id": "ppl-t-008",
+      "title": { "de": "Marie Curie erhält ihren ersten Nobelpreis", "en": "Marie Curie wins her first Nobel Prize" },
+      "description": { "de": "Marie Curie erhält 1903 zusammen mit Pierre Curie und Henri Becquerel den Nobelpreis für Physik für ihre Forschungen zur Radioaktivität.", "en": "Marie Curie receives the Nobel Prize in Physics in 1903, shared with Pierre Curie and Henri Becquerel, for their research on radioactivity." },
+      "year": 1903,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "id": "ppl-t-009",
+      "title": { "de": "Ermordung von Abraham Lincoln", "en": "Assassination of Abraham Lincoln" },
+      "description": { "de": "Präsident Abraham Lincoln wird am 14. April 1865 von John Wilkes Booth im Ford's Theatre in Washington erschossen.", "en": "President Abraham Lincoln is shot by John Wilkes Booth at Ford's Theatre in Washington on April 14, 1865." },
+      "year": 1865,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln"
+    },
+    {
+      "id": "ppl-t-010",
+      "title": { "de": "Napoleons Niederlage bei Waterloo", "en": "Napoleon's defeat at Waterloo" },
+      "description": { "de": "Napoleon Bonaparte wird am 18. Juni 1815 in der Schlacht bei Waterloo endgültig besiegt, was das Ende seiner Herrschaft besiegelt.", "en": "Napoleon Bonaparte is finally defeated at the Battle of Waterloo on June 18, 1815, marking the end of his rule." },
+      "year": 1815,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Waterloo"
+    },
+    {
+      "id": "ppl-t-011",
+      "title": { "de": "Neil Armstrong betritt den Mond", "en": "Neil Armstrong walks on the Moon" },
+      "description": { "de": "Am 20. Juli 1969 betritt Neil Armstrong als erster Mensch den Mond und spricht die berühmten Worte: 'Ein kleiner Schritt für einen Menschen, ein großer Sprung für die Menschheit.'", "en": "On July 20, 1969, Neil Armstrong becomes the first person to walk on the Moon, speaking the famous words: 'That's one small step for man, one giant leap for mankind.'" },
+      "year": 1969,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Apollo_11"
+    },
+    {
+      "id": "ppl-t-012",
+      "title": { "de": "Kolumbus erreicht Amerika", "en": "Columbus reaches the Americas" },
+      "description": { "de": "Am 12. Oktober 1492 erreicht Christoph Kolumbus mit seinen Schiffen die Bahamas und leitet damit die europäische Erkundung Amerikas ein.", "en": "On October 12, 1492, Christopher Columbus and his ships reach the Bahamas, initiating the European exploration of the Americas." },
+      "year": 1492,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "id": "ppl-t-013",
+      "title": { "de": "Geburt von William Shakespeare", "en": "Birth of William Shakespeare" },
+      "description": { "de": "William Shakespeare wird am 26. April 1564 in Stratford-upon-Avon getauft. Er wird der bedeutendste Dramatiker der englischen Sprache.", "en": "William Shakespeare is baptized on April 26, 1564, in Stratford-upon-Avon. He would become the most important playwright in the English language." },
+      "year": 1564,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/William_Shakespeare"
+    },
+    {
+      "id": "ppl-t-014",
+      "title": { "de": "Uraufführung von Beethovens Neunter Sinfonie", "en": "Premiere of Beethoven's Ninth Symphony" },
+      "description": { "de": "Ludwig van Beethovens Neunte Sinfonie mit der 'Ode an die Freude' wird am 7. Mai 1824 in Wien uraufgeführt.", "en": "Ludwig van Beethoven's Ninth Symphony, featuring the 'Ode to Joy,' premieres in Vienna on May 7, 1824." },
+      "year": 1824,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)"
+    },
+    {
+      "id": "ppl-t-015",
+      "title": { "de": "Der erste Motorflug der Gebrüder Wright", "en": "The Wright Brothers' first powered flight" },
+      "description": { "de": "Am 17. Dezember 1903 gelingt Orville und Wilbur Wright in Kitty Hawk, North Carolina, der erste kontrollierte Motorflug der Geschichte.", "en": "On December 17, 1903, Orville and Wilbur Wright achieve the first controlled powered flight in history at Kitty Hawk, North Carolina." },
+      "year": 1903,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wright_brothers"
+    },
+    {
+      "id": "ppl-t-016",
+      "title": { "de": "Nelson Mandela wird aus dem Gefängnis entlassen", "en": "Nelson Mandela released from prison" },
+      "description": { "de": "Am 11. Februar 1990 wird Nelson Mandela nach 27 Jahren Haft aus dem Gefängnis entlassen. 1994 wird er der erste schwarze Präsident Südafrikas.", "en": "On February 11, 1990, Nelson Mandela is released from prison after 27 years of imprisonment. In 1994, he becomes the first Black president of South Africa." },
+      "year": 1990,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nelson_Mandela"
+    },
+    {
+      "id": "ppl-t-017",
+      "title": { "de": "Magellans Expedition beginnt", "en": "Magellan's expedition begins" },
+      "description": { "de": "Ferdinand Magellan bricht am 20. September 1519 mit fünf Schiffen von Spanien auf zur ersten Weltumsegelung.", "en": "Ferdinand Magellan departs Spain on September 20, 1519, with five ships to begin the first circumnavigation of the globe." },
+      "year": 1519,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ferdinand_Magellan"
+    },
+    {
+      "id": "ppl-t-018",
+      "title": { "de": "Martin Luther Kings Rede 'I Have a Dream'", "en": "Martin Luther King Jr.'s 'I Have a Dream' speech" },
+      "description": { "de": "Am 28. August 1963 hält Martin Luther King Jr. seine ikonische Rede 'I Have a Dream' vor dem Lincoln Memorial in Washington, D.C.", "en": "On August 28, 1963, Martin Luther King Jr. delivers his iconic 'I Have a Dream' speech at the Lincoln Memorial in Washington, D.C." },
+      "year": 1963,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/I_Have_a_Dream"
+    },
+    {
+      "id": "ppl-t-019",
+      "title": { "de": "Galileo beobachtet die Jupitermonde", "en": "Galileo observes Jupiter's moons" },
+      "description": { "de": "Im Januar 1610 entdeckt Galileo Galilei mit seinem Teleskop die vier größten Monde des Jupiter und liefert damit Beweise für das heliozentrische Weltbild.", "en": "In January 1610, Galileo Galilei discovers the four largest moons of Jupiter with his telescope, providing evidence for the heliocentric model." },
+      "year": 1610,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Galilean_moons"
+    },
+    {
+      "id": "ppl-t-020",
+      "title": { "de": "Alexander Fleming entdeckt Penicillin", "en": "Alexander Fleming discovers penicillin" },
+      "description": { "de": "Im September 1928 entdeckt Alexander Fleming zufällig das Antibiotikum Penicillin, das die Medizin revolutionieren wird.", "en": "In September 1928, Alexander Fleming accidentally discovers the antibiotic penicillin, which would revolutionize medicine." },
+      "year": 1928,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Fleming"
+    },
+    {
+      "id": "ppl-t-021",
+      "title": { "de": "Alexander der Große besiegt das Perserreich", "en": "Alexander the Great conquers the Persian Empire" },
+      "description": { "de": "In der Schlacht bei Gaugamela im Jahr 331 v. Chr. besiegt Alexander der Große den persischen König Dareios III. endgültig und erobert das Perserreich.", "en": "At the Battle of Gaugamela in 331 BC, Alexander the Great decisively defeats the Persian King Darius III, conquering the Persian Empire." },
+      "year": -331,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Gaugamela"
+    },
+    {
+      "id": "ppl-t-022",
+      "title": { "de": "Tod von Kleopatra", "en": "Death of Cleopatra" },
+      "description": { "de": "Kleopatra VII., die letzte aktive Pharaonin Ägyptens, stirbt im August 30 v. Chr. Mit ihrem Tod endet die ptolemäische Herrschaft über Ägypten.", "en": "Cleopatra VII, the last active pharaoh of Egypt, dies in August 30 BC. Her death marks the end of Ptolemaic rule over Egypt." },
+      "year": -30,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cleopatra"
+    },
+    {
+      "id": "ppl-t-023",
+      "title": { "de": "Goethe vollendet Faust II", "en": "Goethe completes Faust Part Two" },
+      "description": { "de": "Johann Wolfgang von Goethe vollendet 1832 den zweiten Teil seines Meisterwerks 'Faust', an dem er über 60 Jahre gearbeitet hat. Es wird posthum veröffentlicht.", "en": "Johann Wolfgang von Goethe completes the second part of his masterpiece 'Faust' in 1832, after working on it for over 60 years. It is published posthumously." },
+      "year": 1832,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Goethe%27s_Faust"
+    },
+    {
+      "id": "ppl-t-024",
+      "title": { "de": "Tim Berners-Lee erfindet das World Wide Web", "en": "Tim Berners-Lee invents the World Wide Web" },
+      "description": { "de": "Im März 1989 schlägt Tim Berners-Lee am CERN ein Informationsmanagementsystem vor, das zum World Wide Web wird und das Internet für die breite Öffentlichkeit zugänglich macht.", "en": "In March 1989, Tim Berners-Lee proposes an information management system at CERN that becomes the World Wide Web, making the internet accessible to the general public." },
+      "year": 1989,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/World_Wide_Web"
+    },
+    {
+      "id": "ppl-t-025",
+      "title": { "de": "Geburt von Konfuzius", "en": "Birth of Confucius" },
+      "description": { "de": "Konfuzius wird 551 v. Chr. im Staat Lu (heutiges Shandong, China) geboren. Seine Lehren werden die ostasiatische Philosophie und Kultur für Jahrtausende prägen.", "en": "Confucius is born in 551 BC in the State of Lu (modern-day Shandong, China). His teachings would shape East Asian philosophy and culture for millennia." },
+      "year": -551,
+      "category": "famous-people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Confucius"
+    }
+  ]
+}
