@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "WissensApp",
+    "title": "OkkKnowledge",
     "subtitle": "Teste dein Wissen!"
   },
   "nav": {
@@ -12,7 +12,7 @@
     "info": "Info"
   },
   "home": {
-    "welcome": "Willkommen bei WissensApp",
+    "welcome": "Willkommen bei OkkKnowledge",
     "description": "Teste dein Allgemeinwissen mit hunderten von Fragen oder spiele den Zeitstrahl!",
     "startQuiz": "Quiz starten",
     "playTimeline": "Zeitstrahl spielen",
@@ -41,7 +41,8 @@
     "playAgain": "Nochmal spielen",
     "backHome": "Zur Startseite",
     "streak": "Serie: {{count}}",
-    "noMoreQuestions": "Keine weiteren Fragen in diesen Kategorien verfügbar."
+    "noMoreQuestions": "Keine weiteren Fragen in diesen Kategorien verfügbar.",
+    "bestRound": "Dein Rekord"
   },
   "timeline": {
     "title": "Zeitstrahl",
@@ -72,6 +73,7 @@
     "totalCorrect": "Davon richtig",
     "accuracy": "Genauigkeit",
     "bestStreak": "Beste Serie",
+    "bestRound": "Beste Runde",
     "currentStreak": "Aktuelle Serie",
     "byCategory": "Nach Kategorie",
     "gamesPlayed": "Spiele gespielt",
@@ -126,7 +128,7 @@
     "upToDate": "Die App ist auf dem neuesten Stand.",
     "checkFailed": "Update-Prüfung fehlgeschlagen.",
     "cacheCleared": "Cache wurde geleert. Seite wird neu geladen...",
-    "about": "WissensApp - Teste dein Allgemeinwissen mit hunderten von Fragen und dem Zeitstrahl-Spiel. Funktioniert vollständig offline als PWA."
+    "about": "OkkKnowledge - Teste dein Allgemeinwissen mit hunderten von Fragen und dem Zeitstrahl-Spiel. Funktioniert vollständig offline als PWA."
   },
   "browse": {
     "title": "Fragen durchsuchen",

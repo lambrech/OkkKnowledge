@@ -27,7 +27,7 @@ test.describe('Settings Page', () => {
     // Title should change to English
     await expect(page.locator('h1')).toContainText('Settings');
     // Toolbar should also change
-    await expect(page.locator('mat-toolbar')).toContainText('KnowledgeApp');
+    await expect(page.locator('mat-toolbar')).toContainText('OkkKnowledge');
   });
 
   test('should switch language to German', async ({ page }) => {
@@ -37,7 +37,7 @@ test.describe('Settings Page', () => {
 
     await page.locator('mat-button-toggle', { hasText: 'Deutsch' }).click();
     await expect(page.locator('h1')).toContainText('Einstellungen');
-    await expect(page.locator('mat-toolbar')).toContainText('WissensApp');
+    await expect(page.locator('mat-toolbar')).toContainText('OkkKnowledge');
   });
 
   test('should apply dark theme', async ({ page }) => {

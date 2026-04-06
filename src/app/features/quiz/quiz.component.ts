@@ -7,6 +7,7 @@ import { MatChipsModule } from '@angular/material/chips';
 import { MatProgressBarModule } from '@angular/material/progress-bar';
 import { TranslocoDirective, TranslocoService } from '@jsverse/transloco';
 import { LocalizedTextPipe } from '../../shared/pipes/localized-text.pipe';
+import { MapDisplayComponent } from '../../shared/components/map-display.component';
 import { QuestionService } from '../../core/services/question.service';
 import { ScoreService } from '../../core/services/score.service';
 import { Question, Category } from '../../core/models/question.model';
@@ -19,14 +20,14 @@ type QuizState = 'setup' | 'playing' | 'result';
   imports: [
     RouterLink,
     MatCardModule, MatButtonModule, MatIconModule, MatChipsModule, MatProgressBarModule,
-    TranslocoDirective, LocalizedTextPipe,
+    TranslocoDirective, LocalizedTextPipe, MapDisplayComponent,
   ],
   templateUrl: './quiz.component.html',
   styleUrl: './quiz.component.scss',
 })
 export class QuizComponent {
   private questionService = inject(QuestionService);
-  private scoreService = inject(ScoreService);
+  protected scoreService = inject(ScoreService);
   transloco = inject(TranslocoService);
 
   state = signal<QuizState>('setup');
@@ -96,6 +97,7 @@ export class QuizComponent {
       this.selectedAnswer.set(null);
       this.showFeedback.set(false);
     } else {
+      this.scoreService.endQuizRound(this.sessionScore(), this.questions().length);
       this.state.set('result');
     }
   }

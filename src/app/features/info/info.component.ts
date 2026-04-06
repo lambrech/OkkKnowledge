@@ -196,7 +196,7 @@ export class InfoComponent implements OnInit {
   private transloco = inject(TranslocoService);
   private questionService = inject(QuestionService);
 
-  appVersion = '0.1.0-alpha.1';
+  appVersion = '0.2.0-alpha.1';
   swEnabled = this.swUpdate.isEnabled;
   updateAvailable = signal(false);
   checking = signal(false);

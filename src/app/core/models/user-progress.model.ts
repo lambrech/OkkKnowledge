@@ -11,6 +11,8 @@ export interface QuizScore {
   byCategory: Record<Category, CategoryScore>;
   streak: number;
   bestStreak: number;
+  bestRoundScore: number;
+  bestRoundTotal: number;
 }
 
 export interface TimelineScore {
@@ -43,6 +45,8 @@ export function createDefaultProgress(): UserProgress {
       },
       streak: 0,
       bestStreak: 0,
+      bestRoundScore: 0,
+      bestRoundTotal: 0,
     },
     timeline: {
       gamesPlayed: 0,

@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "KnowledgeApp",
+    "title": "OkkKnowledge",
     "subtitle": "Test your knowledge!"
   },
   "nav": {
@@ -12,7 +12,7 @@
     "info": "Info"
   },
   "home": {
-    "welcome": "Welcome to KnowledgeApp",
+    "welcome": "Welcome to OkkKnowledge",
     "description": "Test your general knowledge with hundreds of questions or play the timeline game!",
     "startQuiz": "Start Quiz",
     "playTimeline": "Play Timeline",
@@ -41,7 +41,8 @@
     "playAgain": "Play Again",
     "backHome": "Back to Home",
     "streak": "Streak: {{count}}",
-    "noMoreQuestions": "No more questions available in these categories."
+    "noMoreQuestions": "No more questions available in these categories.",
+    "bestRound": "Your best"
   },
   "timeline": {
     "title": "Timeline",
@@ -72,6 +73,7 @@
     "totalCorrect": "Correct answers",
     "accuracy": "Accuracy",
     "bestStreak": "Best streak",
+    "bestRound": "Best round",
     "currentStreak": "Current streak",
     "byCategory": "By Category",
     "gamesPlayed": "Games played",
@@ -126,7 +128,7 @@
     "upToDate": "The app is up to date.",
     "checkFailed": "Update check failed.",
     "cacheCleared": "Cache cleared. Reloading page...",
-    "about": "KnowledgeApp - Test your general knowledge with hundreds of questions and the timeline game. Works fully offline as a PWA."
+    "about": "OkkKnowledge - Test your general knowledge with hundreds of questions and the timeline game. Works fully offline as a PWA."
   },
   "browse": {
     "title": "Browse Questions",

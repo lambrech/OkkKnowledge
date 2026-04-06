@@ -8,7 +8,7 @@ export class ScoreService {
   private storage = inject(StorageService);
 
   private progress = signal<UserProgress>(
-    this.storage.get<UserProgress>('progress', createDefaultProgress())
+    this.migrateProgress(this.storage.get<UserProgress>('progress', createDefaultProgress()))
   );
 
   readonly userProgress = this.progress.asReadonly();
@@ -67,6 +67,20 @@ export class ScoreService {
     this.persist();
   }
 
+  endQuizRound(score: number, total: number): void {
+    this.progress.update(p => {
+      const quiz = { ...p.quiz };
+      const currentBestPct = quiz.bestRoundTotal > 0 ? quiz.bestRoundScore / quiz.bestRoundTotal : 0;
+      const newPct = total > 0 ? score / total : 0;
+      if (newPct > currentBestPct || (newPct === currentBestPct && score > quiz.bestRoundScore)) {
+        quiz.bestRoundScore = score;
+        quiz.bestRoundTotal = total;
+      }
+      return { ...p, quiz };
+    });
+    this.persist();
+  }
+
   resetQuiz(): void {
     this.progress.update(p => ({
       ...p,
@@ -103,5 +117,15 @@ export class ScoreService {
 
   private persist(): void {
     this.storage.set('progress', this.progress());
+  }
+
+  private migrateProgress(p: UserProgress): UserProgress {
+    const defaults = createDefaultProgress();
+    return {
+      ...defaults,
+      ...p,
+      quiz: { ...defaults.quiz, ...p.quiz, byCategory: { ...defaults.quiz.byCategory, ...p.quiz?.byCategory } },
+      timeline: { ...defaults.timeline, ...p.timeline },
+    };
   }
 }

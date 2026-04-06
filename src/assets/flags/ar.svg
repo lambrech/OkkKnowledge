@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect y="0" width="300" height="67" fill="#74ACDF"/>
+  <rect y="67" width="300" height="66" fill="#fff"/>
+  <rect y="133" width="300" height="67" fill="#74ACDF"/>
+  <!-- Sun of May -->
+  <circle cx="150" cy="100" r="14" fill="#F6B40E"/>
+  <circle cx="150" cy="100" r="10" fill="#F6B40E" stroke="#85340A" stroke-width="0.5"/>
+  <!-- Sun rays -->
+  <g fill="#F6B40E" stroke="#F6B40E" stroke-width="1">
+    <polygon points="150,78 148,88 152,88"/>
+    <polygon points="150,122 148,112 152,112"/>
+    <polygon points="128,100 138,98 138,102"/>
+    <polygon points="172,100 162,98 162,102"/>
+    <polygon points="134,84 140,92 143,89"/>
+    <polygon points="166,116 160,108 157,111"/>
+    <polygon points="166,84 160,92 157,89"/>
+    <polygon points="134,116 140,108 143,111"/>
+    <!-- Wavy rays between straight -->
+    <path d="M150,80 Q155,74 150,68" fill="none" stroke="#F6B40E" stroke-width="2.5"/>
+    <path d="M150,120 Q145,126 150,132" fill="none" stroke="#F6B40E" stroke-width="2.5"/>
+    <path d="M130,100 Q124,95 118,100" fill="none" stroke="#F6B40E" stroke-width="2.5"/>
+    <path d="M170,100 Q176,105 182,100" fill="none" stroke="#F6B40E" stroke-width="2.5"/>
+  </g>
+</svg>

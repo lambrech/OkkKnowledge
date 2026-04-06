@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <!-- Three stripes with white separators -->
+  <rect width="300" height="200" fill="#fff"/>
+  <rect y="0" width="300" height="64" fill="#009A44"/>
+  <rect y="68" width="300" height="64" fill="#000"/>
+  <rect y="136" width="300" height="64" fill="#FCE100"/>
+  <!-- Red triangle on left -->
+  <polygon points="0,0 120,100 0,200" fill="#D21034"/>
+  <!-- Simplified emblem: star with crossed items -->
+  <circle cx="48" cy="100" r="18" fill="#FCE100"/>
+  <polygon points="48,78 51,92 65,92 54,100 58,114 48,106 38,114 42,100 31,92 45,92" fill="#D21034"/>
+  <!-- Simplified rifle shape -->
+  <line x1="30" y1="115" x2="70" y2="82" stroke="#000" stroke-width="2.5"/>
+  <line x1="58" y1="82" x2="70" y2="82" stroke="#000" stroke-width="2.5"/>
+</svg>

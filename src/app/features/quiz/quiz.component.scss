@@ -41,6 +41,24 @@
   line-height: 1.4;
 }
 
+.flag-display {
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.flag-image {
+  max-width: 200px;
+  max-height: 130px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.best-round {
+  font-size: 0.95rem;
+  opacity: 0.7;
+}
+
 .options {
   display: flex;
   flex-direction: column;
@@ -151,5 +169,8 @@
   }
   .result-score .big-score {
     color: #90caf9;
+  }
+  .flag-image {
+    border-color: rgba(255, 255, 255, 0.12);
   }
 }

@@ -8,14 +8,14 @@ test.describe('Internationalization (i18n)', () => {
   });
 
   test('should default to German language', async ({ page }) => {
-    await expect(page.locator('mat-toolbar')).toContainText('WissensApp');
+    await expect(page.locator('mat-toolbar')).toContainText('OkkKnowledge');
     await expect(page.locator('.welcome-title')).toContainText('Willkommen');
   });
 
   test('should switch to English via toolbar toggle', async ({ page }) => {
     // Click language toggle in toolbar
     await page.locator('.lang-toggle').click();
-    await expect(page.locator('mat-toolbar')).toContainText('KnowledgeApp');
+    await expect(page.locator('mat-toolbar')).toContainText('OkkKnowledge');
     await expect(page.locator('.welcome-title')).toContainText('Welcome');
   });
 
@@ -32,7 +32,7 @@ test.describe('Internationalization (i18n)', () => {
   test('should persist language preference across navigation', async ({ page }) => {
     // Switch to English
     await page.locator('.lang-toggle').click();
-    await expect(page.locator('mat-toolbar')).toContainText('KnowledgeApp');
+    await expect(page.locator('mat-toolbar')).toContainText('OkkKnowledge');
 
     // Navigate to quiz
     await page.goto('/quiz');
@@ -50,7 +50,7 @@ test.describe('Internationalization (i18n)', () => {
   test('should persist language preference across page reloads', async ({ page }) => {
     // Switch to English
     await page.locator('.lang-toggle').click();
-    await expect(page.locator('mat-toolbar')).toContainText('KnowledgeApp');
+    await expect(page.locator('mat-toolbar')).toContainText('OkkKnowledge');
 
     // Reload the page
     await page.reload();

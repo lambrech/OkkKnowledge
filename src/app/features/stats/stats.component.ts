@@ -39,6 +39,12 @@ import { Category } from '../../core/models/question.model';
                 <span>{{ t('stats.bestStreak') }}</span>
                 <strong>{{ score.quizScore().bestStreak }}</strong>
               </div>
+              @if (score.quizScore().bestRoundTotal > 0) {
+                <div class="stat-row">
+                  <span>{{ t('stats.bestRound') }}</span>
+                  <strong>{{ score.quizScore().bestRoundScore }}/{{ score.quizScore().bestRoundTotal }}</strong>
+                </div>
+              }
               <div class="stat-row">
                 <span>{{ t('stats.currentStreak') }}</span>
                 <strong>{{ score.quizScore().streak }}</strong>

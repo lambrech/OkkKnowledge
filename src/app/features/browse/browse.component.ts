@@ -78,6 +78,12 @@ type ItemType = 'questions' | 'timeline';
                     <span class="q-diff" [attr.data-diff]="asQuestion(q).difficulty">{{ asQuestion(q).difficulty }}</span>
                   </div>
                   <p class="q-text">{{ asQuestion(q).question | localizedText }}</p>
+                  @if (asQuestion(q).type === 'flag' && asQuestion(q).flagCode) {
+                    <img [src]="'assets/flags/' + asQuestion(q).flagCode + '.svg'" class="q-flag-preview" />
+                  }
+                  @if (asQuestion(q).type === 'map') {
+                    <span class="q-type-badge">Map</span>
+                  }
                   <div class="q-options">
                     @for (opt of asQuestion(q).options; track $index) {
                       <span class="q-option" [class.correct]="$index === asQuestion(q).correctIndex">
@@ -209,6 +215,22 @@ type ItemType = 'questions' | 'timeline';
         font-weight: 500;
         margin: 0 0 8px;
       }
+      .q-flag-preview {
+        max-width: 80px;
+        max-height: 50px;
+        margin-bottom: 8px;
+        border: 1px solid rgba(0, 0, 0, 0.08);
+        border-radius: 2px;
+      }
+      .q-type-badge {
+        font-size: 0.75em;
+        background: #e3f2fd;
+        color: #1565c0;
+        padding: 2px 8px;
+        border-radius: 10px;
+        margin-bottom: 8px;
+        display: inline-block;
+      }
       .q-desc {
         margin: 0 0 8px;
         opacity: 0.8;
@@ -269,6 +291,8 @@ type ItemType = 'questions' | 'timeline';
     :host-context(body.dark-theme) .q-diff[data-diff="easy"] { background: #1b5e20; color: #a5d6a7; }
     :host-context(body.dark-theme) .q-diff[data-diff="medium"] { background: #e65100; color: #ffcc80; }
     :host-context(body.dark-theme) .q-diff[data-diff="hard"] { background: #b71c1c; color: #ef9a9a; }
+    :host-context(body.dark-theme) .q-type-badge { background: #0d47a1; color: #90caf9; }
+    :host-context(body.dark-theme) .q-flag-preview { border-color: rgba(255, 255, 255, 0.12); }
     .load-more {
       width: 100%;
       margin-top: 16px;

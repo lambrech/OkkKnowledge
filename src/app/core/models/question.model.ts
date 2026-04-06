@@ -7,6 +7,8 @@ export type Category = 'geography' | 'history' | 'famous-people' | 'science-tech
 
 export type Difficulty = 'easy' | 'medium' | 'hard';
 
+export type QuestionType = 'text' | 'flag' | 'map';
+
 export interface Question {
   id: string;
   category: Category;
@@ -15,6 +17,9 @@ export interface Question {
   options: LocalizedText[];
   correctIndex: number;
   year?: number;
+  type?: QuestionType;
+  flagCode?: string;
+  countryCode?: string;
   sourceUrl: string;
   sourceLabel: string;
 }

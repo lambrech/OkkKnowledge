@@ -8,7 +8,7 @@ test.describe('App Shell & Navigation', () => {
   test('should display the app title in toolbar', async ({ page }) => {
     const toolbar = page.locator('mat-toolbar');
     await expect(toolbar).toBeVisible();
-    await expect(toolbar).toContainText('WissensApp');
+    await expect(toolbar).toContainText('OkkKnowledge');
   });
 
   test('should show bottom navigation on mobile viewport', async ({ page }) => {

@@ -31,6 +31,14 @@
 
           <mat-card class="question-card" appearance="outlined">
             <mat-card-content>
+              @if (q.type === 'flag' && q.flagCode) {
+                <div class="flag-display">
+                  <img [src]="'assets/flags/' + q.flagCode + '.svg'" alt="Flag" class="flag-image" />
+                </div>
+              }
+              @if (q.type === 'map' && q.countryCode) {
+                <app-map-display [countryCode]="q.countryCode" />
+              }
               <h2 class="question-text">{{ q.question | localizedText }}</h2>
 
               <div class="options">
@@ -87,6 +95,9 @@
             <div class="result-score">
               <span class="big-score">{{ sessionScore() }}/{{ questions().length }}</span>
               <p>{{ t('quiz.resultText', { score: sessionScore(), total: questions().length }) }}</p>
+              @if (scoreService.quizScore().bestRoundTotal > 0) {
+                <p class="best-round">{{ t('quiz.bestRound') }}: {{ scoreService.quizScore().bestRoundScore }}/{{ scoreService.quizScore().bestRoundTotal }}</p>
+              }
             </div>
             <div class="result-actions">
               <button mat-flat-button color="primary" (click)="startQuiz()">
