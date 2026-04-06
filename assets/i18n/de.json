@@ -42,7 +42,8 @@
     "backHome": "Zur Startseite",
     "streak": "Serie: {{count}}",
     "noMoreQuestions": "Keine weiteren Fragen in diesen Kategorien verfügbar.",
-    "bestRound": "Dein Rekord"
+    "bestRound": "Dein Rekord",
+    "selectContinents": "Nach Kontinent filtern"
   },
   "timeline": {
     "title": "Zeitstrahl",
@@ -81,6 +82,7 @@
     "placementAccuracy": "Platzierungs-Genauigkeit",
     "exactYearBonuses": "Jahres-Boni",
     "bestGameScore": "Beste Punktzahl",
+    "bestGame": "Persönlicher Rekord",
     "noData": "Noch keine Daten vorhanden. Spiele zuerst ein Quiz oder den Zeitstrahl!"
   },
   "settings": {
@@ -104,7 +106,16 @@
     "history": "Geschichte",
     "famous-people": "Berühmte Persönlichkeiten",
     "science-tech": "Wissenschaft & Technik",
+    "flags": "Flaggen",
+    "capitals": "Hauptstädte",
     "all": "Alle Kategorien"
+  },
+  "continents": {
+    "europe": "Europa",
+    "africa": "Afrika",
+    "asia": "Asien",
+    "americas": "Amerika",
+    "oceania": "Ozeanien"
   },
   "info": {
     "title": "App-Info",

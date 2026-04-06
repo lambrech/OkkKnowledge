@@ -1,10 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
-  <!-- Green background -->
-  <rect width="300" height="200" fill="#009B3A"/>
-  <!-- Black triangles top and bottom -->
-  <polygon points="0,0 150,100 300,0" fill="#000"/>
-  <polygon points="0,200 150,100 300,200" fill="#000"/>
-  <!-- Gold diagonal cross -->
-  <polygon points="0,0 30,0 300,185 300,200 270,200 0,15" fill="#FED100"/>
-  <polygon points="300,0 270,0 0,185 0,200 30,200 300,15" fill="#FED100"/>
+<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-jm" viewBox="0 0 640 480">
+  <g fill-rule="evenodd">
+    <path fill="#000001" d="m0 0 320 240L0 480zm640 0L320 240l320 240z"/>
+    <path fill="#090" d="m0 0 320 240L640 0zm0 480 320-240 320 240z"/>
+    <path fill="#fc0" d="M640 0h-59.6L0 435.3V480h59.6L640 44.7z"/>
+    <path fill="#fc0" d="M0 0v44.7L580.4 480H640v-44.7L59.6 0z"/>
+  </g>
 </svg>

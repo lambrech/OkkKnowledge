@@ -1,0 +1,6020 @@
+{
+  "category": "capitals",
+  "questions": [
+    {
+      "id": "cap-001",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Deutschland?",
+        "en": "What is the capital of Germany?"
+      },
+      "options": [
+        {
+          "de": "Berlin",
+          "en": "Berlin"
+        },
+        {
+          "de": "Bratislava",
+          "en": "Bratislava"
+        },
+        {
+          "de": "Amsterdam",
+          "en": "Amsterdam"
+        },
+        {
+          "de": "Bergen",
+          "en": "Bergen"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Berlin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-002",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Frankreich?",
+        "en": "What is the capital of France?"
+      },
+      "options": [
+        {
+          "de": "Kiew",
+          "en": "Kyiv"
+        },
+        {
+          "de": "Paris",
+          "en": "Paris"
+        },
+        {
+          "de": "London",
+          "en": "London"
+        },
+        {
+          "de": "Cluj",
+          "en": "Cluj"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paris",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-003",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Italien?",
+        "en": "What is the capital of Italy?"
+      },
+      "options": [
+        {
+          "de": "Sarajevo",
+          "en": "Sarajevo"
+        },
+        {
+          "de": "Dublin",
+          "en": "Dublin"
+        },
+        {
+          "de": "Rom",
+          "en": "Rome"
+        },
+        {
+          "de": "Aarhus",
+          "en": "Aarhus"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rome",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-004",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Spanien?",
+        "en": "What is the capital of Spain?"
+      },
+      "options": [
+        {
+          "de": "Sarajevo",
+          "en": "Sarajevo"
+        },
+        {
+          "de": "Vilnius",
+          "en": "Vilnius"
+        },
+        {
+          "de": "Tampere",
+          "en": "Tampere"
+        },
+        {
+          "de": "Madrid",
+          "en": "Madrid"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Madrid",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-005",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Vereinigtes Königreich?",
+        "en": "What is the capital of United Kingdom?"
+      },
+      "options": [
+        {
+          "de": "London",
+          "en": "London"
+        },
+        {
+          "de": "Amsterdam",
+          "en": "Amsterdam"
+        },
+        {
+          "de": "Valletta",
+          "en": "Valletta"
+        },
+        {
+          "de": "Aarhus",
+          "en": "Aarhus"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/London",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-006",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Portugal?",
+        "en": "What is the capital of Portugal?"
+      },
+      "options": [
+        {
+          "de": "San Marino",
+          "en": "San Marino"
+        },
+        {
+          "de": "Lissabon",
+          "en": "Lisbon"
+        },
+        {
+          "de": "Amsterdam",
+          "en": "Amsterdam"
+        },
+        {
+          "de": "Marseille",
+          "en": "Marseille"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lisbon",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-007",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Niederlande?",
+        "en": "What is the capital of Netherlands?"
+      },
+      "options": [
+        {
+          "de": "Riga",
+          "en": "Riga"
+        },
+        {
+          "de": "Bukarest",
+          "en": "Bucharest"
+        },
+        {
+          "de": "Amsterdam",
+          "en": "Amsterdam"
+        },
+        {
+          "de": "Krakau",
+          "en": "Krakow"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amsterdam",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-008",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Belgien?",
+        "en": "What is the capital of Belgium?"
+      },
+      "options": [
+        {
+          "de": "London",
+          "en": "London"
+        },
+        {
+          "de": "Athen",
+          "en": "Athens"
+        },
+        {
+          "de": "Cluj",
+          "en": "Cluj"
+        },
+        {
+          "de": "Brüssel",
+          "en": "Brussels"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brussels",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-009",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Österreich?",
+        "en": "What is the capital of Austria?"
+      },
+      "options": [
+        {
+          "de": "Wien",
+          "en": "Vienna"
+        },
+        {
+          "de": "Vilnius",
+          "en": "Vilnius"
+        },
+        {
+          "de": "Amsterdam",
+          "en": "Amsterdam"
+        },
+        {
+          "de": "Marseille",
+          "en": "Marseille"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vienna",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-010",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Schweiz?",
+        "en": "What is the capital of Switzerland?"
+      },
+      "options": [
+        {
+          "de": "Valletta",
+          "en": "Valletta"
+        },
+        {
+          "de": "Bern",
+          "en": "Bern"
+        },
+        {
+          "de": "Dublin",
+          "en": "Dublin"
+        },
+        {
+          "de": "Göteborg",
+          "en": "Gothenburg"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bern",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-011",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Schweden?",
+        "en": "What is the capital of Sweden?"
+      },
+      "options": [
+        {
+          "de": "Helsinki",
+          "en": "Helsinki"
+        },
+        {
+          "de": "Oslo",
+          "en": "Oslo"
+        },
+        {
+          "de": "Stockholm",
+          "en": "Stockholm"
+        },
+        {
+          "de": "Tampere",
+          "en": "Tampere"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Stockholm",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-012",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Norwegen?",
+        "en": "What is the capital of Norway?"
+      },
+      "options": [
+        {
+          "de": "Stockholm",
+          "en": "Stockholm"
+        },
+        {
+          "de": "Lissabon",
+          "en": "Lisbon"
+        },
+        {
+          "de": "Genf",
+          "en": "Geneva"
+        },
+        {
+          "de": "Oslo",
+          "en": "Oslo"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Oslo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-013",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Dänemark?",
+        "en": "What is the capital of Denmark?"
+      },
+      "options": [
+        {
+          "de": "Kopenhagen",
+          "en": "Copenhagen"
+        },
+        {
+          "de": "Belgrad",
+          "en": "Belgrade"
+        },
+        {
+          "de": "London",
+          "en": "London"
+        },
+        {
+          "de": "Split",
+          "en": "Split"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Copenhagen",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-014",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Finnland?",
+        "en": "What is the capital of Finland?"
+      },
+      "options": [
+        {
+          "de": "Berlin",
+          "en": "Berlin"
+        },
+        {
+          "de": "Helsinki",
+          "en": "Helsinki"
+        },
+        {
+          "de": "Lissabon",
+          "en": "Lisbon"
+        },
+        {
+          "de": "Zürich",
+          "en": "Zurich"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Helsinki",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-015",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Irland?",
+        "en": "What is the capital of Ireland?"
+      },
+      "options": [
+        {
+          "de": "Wien",
+          "en": "Vienna"
+        },
+        {
+          "de": "Bern",
+          "en": "Bern"
+        },
+        {
+          "de": "Dublin",
+          "en": "Dublin"
+        },
+        {
+          "de": "Barcelona",
+          "en": "Barcelona"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dublin",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-016",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Polen?",
+        "en": "What is the capital of Poland?"
+      },
+      "options": [
+        {
+          "de": "Helsinki",
+          "en": "Helsinki"
+        },
+        {
+          "de": "Stockholm",
+          "en": "Stockholm"
+        },
+        {
+          "de": "Antwerpen",
+          "en": "Antwerp"
+        },
+        {
+          "de": "Warschau",
+          "en": "Warsaw"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Warsaw",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-017",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Tschechien?",
+        "en": "What is the capital of Czech Republic?"
+      },
+      "options": [
+        {
+          "de": "Prag",
+          "en": "Prague"
+        },
+        {
+          "de": "Tallinn",
+          "en": "Tallinn"
+        },
+        {
+          "de": "Oslo",
+          "en": "Oslo"
+        },
+        {
+          "de": "Lyon",
+          "en": "Lyon"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Prague",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-018",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Slowakei?",
+        "en": "What is the capital of Slovakia?"
+      },
+      "options": [
+        {
+          "de": "Rom",
+          "en": "Rome"
+        },
+        {
+          "de": "Bratislava",
+          "en": "Bratislava"
+        },
+        {
+          "de": "Bukarest",
+          "en": "Bucharest"
+        },
+        {
+          "de": "Aarhus",
+          "en": "Aarhus"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bratislava",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-019",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Ungarn?",
+        "en": "What is the capital of Hungary?"
+      },
+      "options": [
+        {
+          "de": "Skopje",
+          "en": "Skopje"
+        },
+        {
+          "de": "Vaduz",
+          "en": "Vaduz"
+        },
+        {
+          "de": "Budapest",
+          "en": "Budapest"
+        },
+        {
+          "de": "Graz",
+          "en": "Graz"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Budapest",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-020",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Rumänien?",
+        "en": "What is the capital of Romania?"
+      },
+      "options": [
+        {
+          "de": "Oslo",
+          "en": "Oslo"
+        },
+        {
+          "de": "Wien",
+          "en": "Vienna"
+        },
+        {
+          "de": "Lyon",
+          "en": "Lyon"
+        },
+        {
+          "de": "Bukarest",
+          "en": "Bucharest"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bucharest",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-021",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Bulgarien?",
+        "en": "What is the capital of Bulgaria?"
+      },
+      "options": [
+        {
+          "de": "Sofia",
+          "en": "Sofia"
+        },
+        {
+          "de": "Bern",
+          "en": "Bern"
+        },
+        {
+          "de": "Oslo",
+          "en": "Oslo"
+        },
+        {
+          "de": "Rotterdam",
+          "en": "Rotterdam"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sofia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-022",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Griechenland?",
+        "en": "What is the capital of Greece?"
+      },
+      "options": [
+        {
+          "de": "Budapest",
+          "en": "Budapest"
+        },
+        {
+          "de": "Athen",
+          "en": "Athens"
+        },
+        {
+          "de": "Brüssel",
+          "en": "Brussels"
+        },
+        {
+          "de": "Rotterdam",
+          "en": "Rotterdam"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Athens",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-023",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Kroatien?",
+        "en": "What is the capital of Croatia?"
+      },
+      "options": [
+        {
+          "de": "Reykjavik",
+          "en": "Reykjavik"
+        },
+        {
+          "de": "Oslo",
+          "en": "Oslo"
+        },
+        {
+          "de": "Zagreb",
+          "en": "Zagreb"
+        },
+        {
+          "de": "Mailand",
+          "en": "Milan"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Zagreb",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-024",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Serbien?",
+        "en": "What is the capital of Serbia?"
+      },
+      "options": [
+        {
+          "de": "Sarajevo",
+          "en": "Sarajevo"
+        },
+        {
+          "de": "Madrid",
+          "en": "Madrid"
+        },
+        {
+          "de": "Göteborg",
+          "en": "Gothenburg"
+        },
+        {
+          "de": "Belgrad",
+          "en": "Belgrade"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Belgrade",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-025",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Bosnien und Herzegowina?",
+        "en": "What is the capital of Bosnia and Herzegovina?"
+      },
+      "options": [
+        {
+          "de": "Sarajevo",
+          "en": "Sarajevo"
+        },
+        {
+          "de": "Athen",
+          "en": "Athens"
+        },
+        {
+          "de": "Paris",
+          "en": "Paris"
+        },
+        {
+          "de": "Tampere",
+          "en": "Tampere"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sarajevo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-026",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Montenegro?",
+        "en": "What is the capital of Montenegro?"
+      },
+      "options": [
+        {
+          "de": "Brüssel",
+          "en": "Brussels"
+        },
+        {
+          "de": "Podgorica",
+          "en": "Podgorica"
+        },
+        {
+          "de": "Belgrad",
+          "en": "Belgrade"
+        },
+        {
+          "de": "Göteborg",
+          "en": "Gothenburg"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Podgorica",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-027",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Nordmazedonien?",
+        "en": "What is the capital of North Macedonia?"
+      },
+      "options": [
+        {
+          "de": "Berlin",
+          "en": "Berlin"
+        },
+        {
+          "de": "Sofia",
+          "en": "Sofia"
+        },
+        {
+          "de": "Skopje",
+          "en": "Skopje"
+        },
+        {
+          "de": "Zürich",
+          "en": "Zurich"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Skopje",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-028",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Albanien?",
+        "en": "What is the capital of Albania?"
+      },
+      "options": [
+        {
+          "de": "Kiew",
+          "en": "Kyiv"
+        },
+        {
+          "de": "Prag",
+          "en": "Prague"
+        },
+        {
+          "de": "Porto",
+          "en": "Porto"
+        },
+        {
+          "de": "Tirana",
+          "en": "Tirana"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tirana",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-029",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Slowenien?",
+        "en": "What is the capital of Slovenia?"
+      },
+      "options": [
+        {
+          "de": "Ljubljana",
+          "en": "Ljubljana"
+        },
+        {
+          "de": "Tallinn",
+          "en": "Tallinn"
+        },
+        {
+          "de": "Sofia",
+          "en": "Sofia"
+        },
+        {
+          "de": "Marseille",
+          "en": "Marseille"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ljubljana",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-030",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Litauen?",
+        "en": "What is the capital of Lithuania?"
+      },
+      "options": [
+        {
+          "de": "Amsterdam",
+          "en": "Amsterdam"
+        },
+        {
+          "de": "Vilnius",
+          "en": "Vilnius"
+        },
+        {
+          "de": "Brüssel",
+          "en": "Brussels"
+        },
+        {
+          "de": "Aarhus",
+          "en": "Aarhus"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vilnius",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-031",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Lettland?",
+        "en": "What is the capital of Latvia?"
+      },
+      "options": [
+        {
+          "de": "Andorra la Vella",
+          "en": "Andorra la Vella"
+        },
+        {
+          "de": "Prag",
+          "en": "Prague"
+        },
+        {
+          "de": "Riga",
+          "en": "Riga"
+        },
+        {
+          "de": "Marseille",
+          "en": "Marseille"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Riga",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-032",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Estland?",
+        "en": "What is the capital of Estonia?"
+      },
+      "options": [
+        {
+          "de": "Sarajevo",
+          "en": "Sarajevo"
+        },
+        {
+          "de": "Stockholm",
+          "en": "Stockholm"
+        },
+        {
+          "de": "Hamburg",
+          "en": "Hamburg"
+        },
+        {
+          "de": "Tallinn",
+          "en": "Tallinn"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tallinn",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-033",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Malta?",
+        "en": "What is the capital of Malta?"
+      },
+      "options": [
+        {
+          "de": "Valletta",
+          "en": "Valletta"
+        },
+        {
+          "de": "Vilnius",
+          "en": "Vilnius"
+        },
+        {
+          "de": "Brüssel",
+          "en": "Brussels"
+        },
+        {
+          "de": "Bergen",
+          "en": "Bergen"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Valletta",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-034",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Zypern?",
+        "en": "What is the capital of Cyprus?"
+      },
+      "options": [
+        {
+          "de": "Warschau",
+          "en": "Warsaw"
+        },
+        {
+          "de": "Nikosia",
+          "en": "Nicosia"
+        },
+        {
+          "de": "Lissabon",
+          "en": "Lisbon"
+        },
+        {
+          "de": "Bergen",
+          "en": "Bergen"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nicosia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-035",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Luxemburg?",
+        "en": "What is the capital of Luxembourg?"
+      },
+      "options": [
+        {
+          "de": "Wien",
+          "en": "Vienna"
+        },
+        {
+          "de": "Madrid",
+          "en": "Madrid"
+        },
+        {
+          "de": "Luxemburg",
+          "en": "Luxembourg City"
+        },
+        {
+          "de": "Porto",
+          "en": "Porto"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Luxembourg_City",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-036",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Island?",
+        "en": "What is the capital of Iceland?"
+      },
+      "options": [
+        {
+          "de": "Rom",
+          "en": "Rome"
+        },
+        {
+          "de": "Vilnius",
+          "en": "Vilnius"
+        },
+        {
+          "de": "Cluj",
+          "en": "Cluj"
+        },
+        {
+          "de": "Reykjavik",
+          "en": "Reykjavik"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Reykjavik",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-037",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Liechtenstein?",
+        "en": "What is the capital of Liechtenstein?"
+      },
+      "options": [
+        {
+          "de": "Vaduz",
+          "en": "Vaduz"
+        },
+        {
+          "de": "San Marino",
+          "en": "San Marino"
+        },
+        {
+          "de": "Tallinn",
+          "en": "Tallinn"
+        },
+        {
+          "de": "Brno",
+          "en": "Brno"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vaduz",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-038",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Monaco?",
+        "en": "What is the capital of Monaco?"
+      },
+      "options": [
+        {
+          "de": "Ljubljana",
+          "en": "Ljubljana"
+        },
+        {
+          "de": "Monaco",
+          "en": "Monaco"
+        },
+        {
+          "de": "Vaduz",
+          "en": "Vaduz"
+        },
+        {
+          "de": "Zürich",
+          "en": "Zurich"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Monaco",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-039",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von San Marino?",
+        "en": "What is the capital of San Marino?"
+      },
+      "options": [
+        {
+          "de": "Chișinău",
+          "en": "Chișinău"
+        },
+        {
+          "de": "Vaduz",
+          "en": "Vaduz"
+        },
+        {
+          "de": "San Marino",
+          "en": "San Marino"
+        },
+        {
+          "de": "Aarhus",
+          "en": "Aarhus"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/San_Marino",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-040",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Andorra?",
+        "en": "What is the capital of Andorra?"
+      },
+      "options": [
+        {
+          "de": "Luxemburg",
+          "en": "Luxembourg City"
+        },
+        {
+          "de": "Prag",
+          "en": "Prague"
+        },
+        {
+          "de": "Tampere",
+          "en": "Tampere"
+        },
+        {
+          "de": "Andorra la Vella",
+          "en": "Andorra la Vella"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Andorra_la_Vella",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-041",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Ukraine?",
+        "en": "What is the capital of Ukraine?"
+      },
+      "options": [
+        {
+          "de": "Kiew",
+          "en": "Kyiv"
+        },
+        {
+          "de": "Brüssel",
+          "en": "Brussels"
+        },
+        {
+          "de": "Riga",
+          "en": "Riga"
+        },
+        {
+          "de": "Brno",
+          "en": "Brno"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kyiv",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-042",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Belarus?",
+        "en": "What is the capital of Belarus?"
+      },
+      "options": [
+        {
+          "de": "Athen",
+          "en": "Athens"
+        },
+        {
+          "de": "Minsk",
+          "en": "Minsk"
+        },
+        {
+          "de": "Berlin",
+          "en": "Berlin"
+        },
+        {
+          "de": "Antwerpen",
+          "en": "Antwerp"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Minsk",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-043",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Moldau?",
+        "en": "What is the capital of Moldova?"
+      },
+      "options": [
+        {
+          "de": "Ljubljana",
+          "en": "Ljubljana"
+        },
+        {
+          "de": "Bern",
+          "en": "Bern"
+        },
+        {
+          "de": "Chișinău",
+          "en": "Chișinău"
+        },
+        {
+          "de": "Debrecen",
+          "en": "Debrecen"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chișinău",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-044",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "europe",
+      "question": {
+        "de": "Was ist die Hauptstadt von Kosovo?",
+        "en": "What is the capital of Kosovo?"
+      },
+      "options": [
+        {
+          "de": "Sofia",
+          "en": "Sofia"
+        },
+        {
+          "de": "Berlin",
+          "en": "Berlin"
+        },
+        {
+          "de": "Brno",
+          "en": "Brno"
+        },
+        {
+          "de": "Pristina",
+          "en": "Pristina"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pristina",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-045",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Algerien?",
+        "en": "What is the capital of Algeria?"
+      },
+      "options": [
+        {
+          "de": "Algier",
+          "en": "Algiers"
+        },
+        {
+          "de": "Khartum",
+          "en": "Khartoum"
+        },
+        {
+          "de": "Pretoria",
+          "en": "Pretoria"
+        },
+        {
+          "de": "Kumasi",
+          "en": "Kumasi"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Algiers",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-046",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Ägypten?",
+        "en": "What is the capital of Egypt?"
+      },
+      "options": [
+        {
+          "de": "Abuja",
+          "en": "Abuja"
+        },
+        {
+          "de": "Kairo",
+          "en": "Cairo"
+        },
+        {
+          "de": "Ouagadougou",
+          "en": "Ouagadougou"
+        },
+        {
+          "de": "Alexandria",
+          "en": "Alexandria"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cairo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-047",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Libyen?",
+        "en": "What is the capital of Libya?"
+      },
+      "options": [
+        {
+          "de": "São Tomé",
+          "en": "São Tomé"
+        },
+        {
+          "de": "Maseru",
+          "en": "Maseru"
+        },
+        {
+          "de": "Tripolis",
+          "en": "Tripoli"
+        },
+        {
+          "de": "Oran",
+          "en": "Oran"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tripoli",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-048",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Tunesien?",
+        "en": "What is the capital of Tunisia?"
+      },
+      "options": [
+        {
+          "de": "Gaborone",
+          "en": "Gaborone"
+        },
+        {
+          "de": "Tripolis",
+          "en": "Tripoli"
+        },
+        {
+          "de": "Kapstadt",
+          "en": "Cape Town"
+        },
+        {
+          "de": "Tunis",
+          "en": "Tunis"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tunis",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-049",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Marokko?",
+        "en": "What is the capital of Morocco?"
+      },
+      "options": [
+        {
+          "de": "Rabat",
+          "en": "Rabat"
+        },
+        {
+          "de": "Freetown",
+          "en": "Freetown"
+        },
+        {
+          "de": "Tripolis",
+          "en": "Tripoli"
+        },
+        {
+          "de": "Tanger",
+          "en": "Tangier"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rabat",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-050",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Sudan?",
+        "en": "What is the capital of Sudan?"
+      },
+      "options": [
+        {
+          "de": "N'Djamena",
+          "en": "N'Djamena"
+        },
+        {
+          "de": "Khartum",
+          "en": "Khartoum"
+        },
+        {
+          "de": "Rabat",
+          "en": "Rabat"
+        },
+        {
+          "de": "Bengasi",
+          "en": "Benghazi"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Khartoum",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-051",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Südsudan?",
+        "en": "What is the capital of South Sudan?"
+      },
+      "options": [
+        {
+          "de": "Banjul",
+          "en": "Banjul"
+        },
+        {
+          "de": "N'Djamena",
+          "en": "N'Djamena"
+        },
+        {
+          "de": "Juba",
+          "en": "Juba"
+        },
+        {
+          "de": "Bengasi",
+          "en": "Benghazi"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Juba",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-052",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Äthiopien?",
+        "en": "What is the capital of Ethiopia?"
+      },
+      "options": [
+        {
+          "de": "Yamoussoukro",
+          "en": "Yamoussoukro"
+        },
+        {
+          "de": "Juba",
+          "en": "Juba"
+        },
+        {
+          "de": "Lusaka",
+          "en": "Lusaka"
+        },
+        {
+          "de": "Addis Abeba",
+          "en": "Addis Ababa"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Addis_Ababa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-053",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Eritrea?",
+        "en": "What is the capital of Eritrea?"
+      },
+      "options": [
+        {
+          "de": "Asmara",
+          "en": "Asmara"
+        },
+        {
+          "de": "Mogadischu",
+          "en": "Mogadishu"
+        },
+        {
+          "de": "Dschibuti",
+          "en": "Djibouti"
+        },
+        {
+          "de": "Meknes",
+          "en": "Meknes"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Asmara",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-054",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Dschibuti?",
+        "en": "What is the capital of Djibouti?"
+      },
+      "options": [
+        {
+          "de": "Harare",
+          "en": "Harare"
+        },
+        {
+          "de": "Dschibuti",
+          "en": "Djibouti"
+        },
+        {
+          "de": "Kigali",
+          "en": "Kigali"
+        },
+        {
+          "de": "Arusha",
+          "en": "Arusha"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Djibouti",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-055",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Somalia?",
+        "en": "What is the capital of Somalia?"
+      },
+      "options": [
+        {
+          "de": "Ouagadougou",
+          "en": "Ouagadougou"
+        },
+        {
+          "de": "Kampala",
+          "en": "Kampala"
+        },
+        {
+          "de": "Mogadischu",
+          "en": "Mogadishu"
+        },
+        {
+          "de": "Lagos",
+          "en": "Lagos"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mogadishu",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-056",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Kenia?",
+        "en": "What is the capital of Kenya?"
+      },
+      "options": [
+        {
+          "de": "São Tomé",
+          "en": "São Tomé"
+        },
+        {
+          "de": "Praia",
+          "en": "Praia"
+        },
+        {
+          "de": "Lagos",
+          "en": "Lagos"
+        },
+        {
+          "de": "Nairobi",
+          "en": "Nairobi"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nairobi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-057",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Tansania?",
+        "en": "What is the capital of Tanzania?"
+      },
+      "options": [
+        {
+          "de": "Dodoma",
+          "en": "Dodoma"
+        },
+        {
+          "de": "Addis Abeba",
+          "en": "Addis Ababa"
+        },
+        {
+          "de": "Kinshasa",
+          "en": "Kinshasa"
+        },
+        {
+          "de": "Sfax",
+          "en": "Sfax"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dodoma",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-058",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Uganda?",
+        "en": "What is the capital of Uganda?"
+      },
+      "options": [
+        {
+          "de": "Lomé",
+          "en": "Lomé"
+        },
+        {
+          "de": "Kampala",
+          "en": "Kampala"
+        },
+        {
+          "de": "Bamako",
+          "en": "Bamako"
+        },
+        {
+          "de": "Lagos",
+          "en": "Lagos"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kampala",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-059",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Ruanda?",
+        "en": "What is the capital of Rwanda?"
+      },
+      "options": [
+        {
+          "de": "Tunis",
+          "en": "Tunis"
+        },
+        {
+          "de": "Algier",
+          "en": "Algiers"
+        },
+        {
+          "de": "Kigali",
+          "en": "Kigali"
+        },
+        {
+          "de": "Durban",
+          "en": "Durban"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kigali",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-060",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Burundi?",
+        "en": "What is the capital of Burundi?"
+      },
+      "options": [
+        {
+          "de": "Maputo",
+          "en": "Maputo"
+        },
+        {
+          "de": "Libreville",
+          "en": "Libreville"
+        },
+        {
+          "de": "Oran",
+          "en": "Oran"
+        },
+        {
+          "de": "Gitega",
+          "en": "Gitega"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gitega",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-061",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Demokratische Republik Kongo?",
+        "en": "What is the capital of DR Congo?"
+      },
+      "options": [
+        {
+          "de": "Kinshasa",
+          "en": "Kinshasa"
+        },
+        {
+          "de": "Moroni",
+          "en": "Moroni"
+        },
+        {
+          "de": "Port Louis",
+          "en": "Port Louis"
+        },
+        {
+          "de": "Arusha",
+          "en": "Arusha"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kinshasa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-062",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Republik Kongo?",
+        "en": "What is the capital of Republic of the Congo?"
+      },
+      "options": [
+        {
+          "de": "Port Louis",
+          "en": "Port Louis"
+        },
+        {
+          "de": "Brazzaville",
+          "en": "Brazzaville"
+        },
+        {
+          "de": "Libreville",
+          "en": "Libreville"
+        },
+        {
+          "de": "Alexandria",
+          "en": "Alexandria"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brazzaville",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-063",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Zentralafrikanische Republik?",
+        "en": "What is the capital of Central African Republic?"
+      },
+      "options": [
+        {
+          "de": "Abuja",
+          "en": "Abuja"
+        },
+        {
+          "de": "Kampala",
+          "en": "Kampala"
+        },
+        {
+          "de": "Bangui",
+          "en": "Bangui"
+        },
+        {
+          "de": "Lagos",
+          "en": "Lagos"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bangui",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-064",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Kamerun?",
+        "en": "What is the capital of Cameroon?"
+      },
+      "options": [
+        {
+          "de": "Moroni",
+          "en": "Moroni"
+        },
+        {
+          "de": "Algier",
+          "en": "Algiers"
+        },
+        {
+          "de": "Alexandria",
+          "en": "Alexandria"
+        },
+        {
+          "de": "Yaoundé",
+          "en": "Yaoundé"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yaoundé",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-065",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Nigeria?",
+        "en": "What is the capital of Nigeria?"
+      },
+      "options": [
+        {
+          "de": "Abuja",
+          "en": "Abuja"
+        },
+        {
+          "de": "Kairo",
+          "en": "Cairo"
+        },
+        {
+          "de": "Algier",
+          "en": "Algiers"
+        },
+        {
+          "de": "Casablanca",
+          "en": "Casablanca"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Abuja",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-066",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Niger?",
+        "en": "What is the capital of Niger?"
+      },
+      "options": [
+        {
+          "de": "Maseru",
+          "en": "Maseru"
+        },
+        {
+          "de": "Niamey",
+          "en": "Niamey"
+        },
+        {
+          "de": "Algier",
+          "en": "Algiers"
+        },
+        {
+          "de": "Daressalam",
+          "en": "Dar es Salaam"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Niamey",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-067",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Tschad?",
+        "en": "What is the capital of Chad?"
+      },
+      "options": [
+        {
+          "de": "Kairo",
+          "en": "Cairo"
+        },
+        {
+          "de": "Rabat",
+          "en": "Rabat"
+        },
+        {
+          "de": "N'Djamena",
+          "en": "N'Djamena"
+        },
+        {
+          "de": "Meknes",
+          "en": "Meknes"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/N'Djamena",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-068",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Ghana?",
+        "en": "What is the capital of Ghana?"
+      },
+      "options": [
+        {
+          "de": "Tunis",
+          "en": "Tunis"
+        },
+        {
+          "de": "São Tomé",
+          "en": "São Tomé"
+        },
+        {
+          "de": "Durban",
+          "en": "Durban"
+        },
+        {
+          "de": "Accra",
+          "en": "Accra"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Accra",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-069",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Elfenbeinküste?",
+        "en": "What is the capital of Ivory Coast?"
+      },
+      "options": [
+        {
+          "de": "Yamoussoukro",
+          "en": "Yamoussoukro"
+        },
+        {
+          "de": "Port Louis",
+          "en": "Port Louis"
+        },
+        {
+          "de": "Nairobi",
+          "en": "Nairobi"
+        },
+        {
+          "de": "Mombasa",
+          "en": "Mombasa"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yamoussoukro",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-070",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Senegal?",
+        "en": "What is the capital of Senegal?"
+      },
+      "options": [
+        {
+          "de": "Kigali",
+          "en": "Kigali"
+        },
+        {
+          "de": "Dakar",
+          "en": "Dakar"
+        },
+        {
+          "de": "Rabat",
+          "en": "Rabat"
+        },
+        {
+          "de": "Mombasa",
+          "en": "Mombasa"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dakar",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-071",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Mali?",
+        "en": "What is the capital of Mali?"
+      },
+      "options": [
+        {
+          "de": "Juba",
+          "en": "Juba"
+        },
+        {
+          "de": "Yamoussoukro",
+          "en": "Yamoussoukro"
+        },
+        {
+          "de": "Bamako",
+          "en": "Bamako"
+        },
+        {
+          "de": "Daressalam",
+          "en": "Dar es Salaam"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bamako",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-072",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Burkina Faso?",
+        "en": "What is the capital of Burkina Faso?"
+      },
+      "options": [
+        {
+          "de": "Antananarivo",
+          "en": "Antananarivo"
+        },
+        {
+          "de": "Addis Abeba",
+          "en": "Addis Ababa"
+        },
+        {
+          "de": "Arusha",
+          "en": "Arusha"
+        },
+        {
+          "de": "Ouagadougou",
+          "en": "Ouagadougou"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ouagadougou",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-073",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Guinea?",
+        "en": "What is the capital of Guinea?"
+      },
+      "options": [
+        {
+          "de": "Conakry",
+          "en": "Conakry"
+        },
+        {
+          "de": "Lomé",
+          "en": "Lomé"
+        },
+        {
+          "de": "Accra",
+          "en": "Accra"
+        },
+        {
+          "de": "Mombasa",
+          "en": "Mombasa"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Conakry",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-074",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Gambia?",
+        "en": "What is the capital of Gambia?"
+      },
+      "options": [
+        {
+          "de": "Dschibuti",
+          "en": "Djibouti"
+        },
+        {
+          "de": "Banjul",
+          "en": "Banjul"
+        },
+        {
+          "de": "Yamoussoukro",
+          "en": "Yamoussoukro"
+        },
+        {
+          "de": "Kapstadt",
+          "en": "Cape Town"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Banjul",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-075",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Sierra Leone?",
+        "en": "What is the capital of Sierra Leone?"
+      },
+      "options": [
+        {
+          "de": "Kairo",
+          "en": "Cairo"
+        },
+        {
+          "de": "Nairobi",
+          "en": "Nairobi"
+        },
+        {
+          "de": "Freetown",
+          "en": "Freetown"
+        },
+        {
+          "de": "Lagos",
+          "en": "Lagos"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Freetown",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-076",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Liberia?",
+        "en": "What is the capital of Liberia?"
+      },
+      "options": [
+        {
+          "de": "Libreville",
+          "en": "Libreville"
+        },
+        {
+          "de": "Rabat",
+          "en": "Rabat"
+        },
+        {
+          "de": "Ibadan",
+          "en": "Ibadan"
+        },
+        {
+          "de": "Monrovia",
+          "en": "Monrovia"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Monrovia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-077",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Togo?",
+        "en": "What is the capital of Togo?"
+      },
+      "options": [
+        {
+          "de": "Lomé",
+          "en": "Lomé"
+        },
+        {
+          "de": "Kampala",
+          "en": "Kampala"
+        },
+        {
+          "de": "Dakar",
+          "en": "Dakar"
+        },
+        {
+          "de": "Meknes",
+          "en": "Meknes"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lomé",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-078",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Benin?",
+        "en": "What is the capital of Benin?"
+      },
+      "options": [
+        {
+          "de": "Algier",
+          "en": "Algiers"
+        },
+        {
+          "de": "Porto-Novo",
+          "en": "Porto-Novo"
+        },
+        {
+          "de": "Addis Abeba",
+          "en": "Addis Ababa"
+        },
+        {
+          "de": "Daressalam",
+          "en": "Dar es Salaam"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Porto-Novo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-079",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Mosambik?",
+        "en": "What is the capital of Mozambique?"
+      },
+      "options": [
+        {
+          "de": "Tripolis",
+          "en": "Tripoli"
+        },
+        {
+          "de": "Accra",
+          "en": "Accra"
+        },
+        {
+          "de": "Maputo",
+          "en": "Maputo"
+        },
+        {
+          "de": "Fes",
+          "en": "Fez"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Maputo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-080",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Madagaskar?",
+        "en": "What is the capital of Madagascar?"
+      },
+      "options": [
+        {
+          "de": "Nairobi",
+          "en": "Nairobi"
+        },
+        {
+          "de": "Port Louis",
+          "en": "Port Louis"
+        },
+        {
+          "de": "Meknes",
+          "en": "Meknes"
+        },
+        {
+          "de": "Antananarivo",
+          "en": "Antananarivo"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antananarivo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-081",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Malawi?",
+        "en": "What is the capital of Malawi?"
+      },
+      "options": [
+        {
+          "de": "Lilongwe",
+          "en": "Lilongwe"
+        },
+        {
+          "de": "Luanda",
+          "en": "Luanda"
+        },
+        {
+          "de": "Addis Abeba",
+          "en": "Addis Ababa"
+        },
+        {
+          "de": "Ibadan",
+          "en": "Ibadan"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lilongwe",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-082",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Sambia?",
+        "en": "What is the capital of Zambia?"
+      },
+      "options": [
+        {
+          "de": "Libreville",
+          "en": "Libreville"
+        },
+        {
+          "de": "Lusaka",
+          "en": "Lusaka"
+        },
+        {
+          "de": "Moroni",
+          "en": "Moroni"
+        },
+        {
+          "de": "Dar es Salaam",
+          "en": "Dar es Salaam"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lusaka",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-083",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Simbabwe?",
+        "en": "What is the capital of Zimbabwe?"
+      },
+      "options": [
+        {
+          "de": "Banjul",
+          "en": "Banjul"
+        },
+        {
+          "de": "Dodoma",
+          "en": "Dodoma"
+        },
+        {
+          "de": "Harare",
+          "en": "Harare"
+        },
+        {
+          "de": "Kapstadt",
+          "en": "Cape Town"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Harare",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-084",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Botswana?",
+        "en": "What is the capital of Botswana?"
+      },
+      "options": [
+        {
+          "de": "Freetown",
+          "en": "Freetown"
+        },
+        {
+          "de": "Juba",
+          "en": "Juba"
+        },
+        {
+          "de": "Meknes",
+          "en": "Meknes"
+        },
+        {
+          "de": "Gaborone",
+          "en": "Gaborone"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gaborone",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-085",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Namibia?",
+        "en": "What is the capital of Namibia?"
+      },
+      "options": [
+        {
+          "de": "Windhoek",
+          "en": "Windhoek"
+        },
+        {
+          "de": "Banjul",
+          "en": "Banjul"
+        },
+        {
+          "de": "Porto-Novo",
+          "en": "Porto-Novo"
+        },
+        {
+          "de": "Port Harcourt",
+          "en": "Port Harcourt"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Windhoek",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-086",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Südafrika?",
+        "en": "What is the capital of South Africa?"
+      },
+      "options": [
+        {
+          "de": "Mbabane",
+          "en": "Mbabane"
+        },
+        {
+          "de": "Pretoria",
+          "en": "Pretoria"
+        },
+        {
+          "de": "Addis Abeba",
+          "en": "Addis Ababa"
+        },
+        {
+          "de": "Oran",
+          "en": "Oran"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pretoria",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-087",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Eswatini?",
+        "en": "What is the capital of Eswatini?"
+      },
+      "options": [
+        {
+          "de": "Kinshasa",
+          "en": "Kinshasa"
+        },
+        {
+          "de": "Praia",
+          "en": "Praia"
+        },
+        {
+          "de": "Mbabane",
+          "en": "Mbabane"
+        },
+        {
+          "de": "Lusaka",
+          "en": "Lusaka"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mbabane",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-088",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Lesotho?",
+        "en": "What is the capital of Lesotho?"
+      },
+      "options": [
+        {
+          "de": "Gaborone",
+          "en": "Gaborone"
+        },
+        {
+          "de": "Pretoria",
+          "en": "Pretoria"
+        },
+        {
+          "de": "Mombasa",
+          "en": "Mombasa"
+        },
+        {
+          "de": "Maseru",
+          "en": "Maseru"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Maseru",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-089",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Angola?",
+        "en": "What is the capital of Angola?"
+      },
+      "options": [
+        {
+          "de": "Luanda",
+          "en": "Luanda"
+        },
+        {
+          "de": "Khartum",
+          "en": "Khartoum"
+        },
+        {
+          "de": "Ouagadougou",
+          "en": "Ouagadougou"
+        },
+        {
+          "de": "Arusha",
+          "en": "Arusha"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Luanda",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-090",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Gabun?",
+        "en": "What is the capital of Gabon?"
+      },
+      "options": [
+        {
+          "de": "Lusaka",
+          "en": "Lusaka"
+        },
+        {
+          "de": "Libreville",
+          "en": "Libreville"
+        },
+        {
+          "de": "Victoria",
+          "en": "Victoria"
+        },
+        {
+          "de": "Durban",
+          "en": "Durban"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Libreville",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-091",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Äquatorialguinea?",
+        "en": "What is the capital of Equatorial Guinea?"
+      },
+      "options": [
+        {
+          "de": "Lomé",
+          "en": "Lomé"
+        },
+        {
+          "de": "Dodoma",
+          "en": "Dodoma"
+        },
+        {
+          "de": "Malabo",
+          "en": "Malabo"
+        },
+        {
+          "de": "Kapstadt",
+          "en": "Cape Town"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Malabo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-092",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von São Tomé und Príncipe?",
+        "en": "What is the capital of São Tomé and Príncipe?"
+      },
+      "options": [
+        {
+          "de": "Moroni",
+          "en": "Moroni"
+        },
+        {
+          "de": "Lomé",
+          "en": "Lomé"
+        },
+        {
+          "de": "Mombasa",
+          "en": "Mombasa"
+        },
+        {
+          "de": "São Tomé",
+          "en": "São Tomé"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/São_Tomé",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-093",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Kap Verde?",
+        "en": "What is the capital of Cape Verde?"
+      },
+      "options": [
+        {
+          "de": "Praia",
+          "en": "Praia"
+        },
+        {
+          "de": "Pretoria",
+          "en": "Pretoria"
+        },
+        {
+          "de": "Yaoundé",
+          "en": "Yaoundé"
+        },
+        {
+          "de": "Alexandria",
+          "en": "Alexandria"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Praia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-094",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Mauretanien?",
+        "en": "What is the capital of Mauritania?"
+      },
+      "options": [
+        {
+          "de": "Porto-Novo",
+          "en": "Porto-Novo"
+        },
+        {
+          "de": "Nouakchott",
+          "en": "Nouakchott"
+        },
+        {
+          "de": "Maputo",
+          "en": "Maputo"
+        },
+        {
+          "de": "Alexandria",
+          "en": "Alexandria"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nouakchott",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-095",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Komoren?",
+        "en": "What is the capital of Comoros?"
+      },
+      "options": [
+        {
+          "de": "Niamey",
+          "en": "Niamey"
+        },
+        {
+          "de": "Kairo",
+          "en": "Cairo"
+        },
+        {
+          "de": "Moroni",
+          "en": "Moroni"
+        },
+        {
+          "de": "Bengasi",
+          "en": "Benghazi"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moroni",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-096",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Mauritius?",
+        "en": "What is the capital of Mauritius?"
+      },
+      "options": [
+        {
+          "de": "Dschibuti",
+          "en": "Djibouti"
+        },
+        {
+          "de": "Lomé",
+          "en": "Lomé"
+        },
+        {
+          "de": "Bengasi",
+          "en": "Benghazi"
+        },
+        {
+          "de": "Port Louis",
+          "en": "Port Louis"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Port_Louis",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-097",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "africa",
+      "question": {
+        "de": "Was ist die Hauptstadt von Seychellen?",
+        "en": "What is the capital of Seychelles?"
+      },
+      "options": [
+        {
+          "de": "Victoria",
+          "en": "Victoria"
+        },
+        {
+          "de": "Conakry",
+          "en": "Conakry"
+        },
+        {
+          "de": "Mogadischu",
+          "en": "Mogadishu"
+        },
+        {
+          "de": "Mombasa",
+          "en": "Mombasa"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Victoria",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-098",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von China?",
+        "en": "What is the capital of China?"
+      },
+      "options": [
+        {
+          "de": "Bandar Seri Begawan",
+          "en": "Bandar Seri Begawan"
+        },
+        {
+          "de": "Peking",
+          "en": "Beijing"
+        },
+        {
+          "de": "Ulaanbaatar",
+          "en": "Ulaanbaatar"
+        },
+        {
+          "de": "Shenzhen",
+          "en": "Shenzhen"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Beijing",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-099",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Japan?",
+        "en": "What is the capital of Japan?"
+      },
+      "options": [
+        {
+          "de": "Taschkent",
+          "en": "Tashkent"
+        },
+        {
+          "de": "Pjöngjang",
+          "en": "Pyongyang"
+        },
+        {
+          "de": "Tokio",
+          "en": "Tokyo"
+        },
+        {
+          "de": "Lahore",
+          "en": "Lahore"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tokyo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-100",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Südkorea?",
+        "en": "What is the capital of South Korea?"
+      },
+      "options": [
+        {
+          "de": "Phnom Penh",
+          "en": "Phnom Penh"
+        },
+        {
+          "de": "Islamabad",
+          "en": "Islamabad"
+        },
+        {
+          "de": "Yokohama",
+          "en": "Yokohama"
+        },
+        {
+          "de": "Seoul",
+          "en": "Seoul"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Seoul",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-101",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Nordkorea?",
+        "en": "What is the capital of North Korea?"
+      },
+      "options": [
+        {
+          "de": "Pjöngjang",
+          "en": "Pyongyang"
+        },
+        {
+          "de": "Teheran",
+          "en": "Tehran"
+        },
+        {
+          "de": "Bagdad",
+          "en": "Baghdad"
+        },
+        {
+          "de": "Osaka",
+          "en": "Osaka"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pyongyang",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-102",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Mongolei?",
+        "en": "What is the capital of Mongolia?"
+      },
+      "options": [
+        {
+          "de": "Bandar Seri Begawan",
+          "en": "Bandar Seri Begawan"
+        },
+        {
+          "de": "Ulaanbaatar",
+          "en": "Ulaanbaatar"
+        },
+        {
+          "de": "Tokio",
+          "en": "Tokyo"
+        },
+        {
+          "de": "Osaka",
+          "en": "Osaka"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-103",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Indien?",
+        "en": "What is the capital of India?"
+      },
+      "options": [
+        {
+          "de": "Thimphu",
+          "en": "Thimphu"
+        },
+        {
+          "de": "Bangkok",
+          "en": "Bangkok"
+        },
+        {
+          "de": "Neu-Delhi",
+          "en": "New Delhi"
+        },
+        {
+          "de": "Shenzhen",
+          "en": "Shenzhen"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/New_Delhi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-104",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Pakistan?",
+        "en": "What is the capital of Pakistan?"
+      },
+      "options": [
+        {
+          "de": "Duschanbe",
+          "en": "Dushanbe"
+        },
+        {
+          "de": "Singapur",
+          "en": "Singapore"
+        },
+        {
+          "de": "Yokohama",
+          "en": "Yokohama"
+        },
+        {
+          "de": "Islamabad",
+          "en": "Islamabad"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Islamabad",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-105",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Bangladesch?",
+        "en": "What is the capital of Bangladesh?"
+      },
+      "options": [
+        {
+          "de": "Dhaka",
+          "en": "Dhaka"
+        },
+        {
+          "de": "Jerewan",
+          "en": "Yerevan"
+        },
+        {
+          "de": "Thimphu",
+          "en": "Thimphu"
+        },
+        {
+          "de": "Aleppo",
+          "en": "Aleppo"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dhaka",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-106",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Sri Lanka?",
+        "en": "What is the capital of Sri Lanka?"
+      },
+      "options": [
+        {
+          "de": "Duschanbe",
+          "en": "Dushanbe"
+        },
+        {
+          "de": "Sri Jayawardenepura Kotte",
+          "en": "Sri Jayawardenepura Kotte"
+        },
+        {
+          "de": "Vientiane",
+          "en": "Vientiane"
+        },
+        {
+          "de": "Aleppo",
+          "en": "Aleppo"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sri_Jayawardenepura_Kotte",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-107",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Nepal?",
+        "en": "What is the capital of Nepal?"
+      },
+      "options": [
+        {
+          "de": "Abu Dhabi",
+          "en": "Abu Dhabi"
+        },
+        {
+          "de": "Jerewan",
+          "en": "Yerevan"
+        },
+        {
+          "de": "Kathmandu",
+          "en": "Kathmandu"
+        },
+        {
+          "de": "Surabaya",
+          "en": "Surabaya"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kathmandu",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-108",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Bhutan?",
+        "en": "What is the capital of Bhutan?"
+      },
+      "options": [
+        {
+          "de": "Hanoi",
+          "en": "Hanoi"
+        },
+        {
+          "de": "Kathmandu",
+          "en": "Kathmandu"
+        },
+        {
+          "de": "Isfahan",
+          "en": "Isfahan"
+        },
+        {
+          "de": "Thimphu",
+          "en": "Thimphu"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thimphu",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-109",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Myanmar?",
+        "en": "What is the capital of Myanmar?"
+      },
+      "options": [
+        {
+          "de": "Naypyidaw",
+          "en": "Naypyidaw"
+        },
+        {
+          "de": "Bangkok",
+          "en": "Bangkok"
+        },
+        {
+          "de": "Bagdad",
+          "en": "Baghdad"
+        },
+        {
+          "de": "Basra",
+          "en": "Basra"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Naypyidaw",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-110",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Thailand?",
+        "en": "What is the capital of Thailand?"
+      },
+      "options": [
+        {
+          "de": "Dhaka",
+          "en": "Dhaka"
+        },
+        {
+          "de": "Bangkok",
+          "en": "Bangkok"
+        },
+        {
+          "de": "Peking",
+          "en": "Beijing"
+        },
+        {
+          "de": "Guangzhou",
+          "en": "Guangzhou"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bangkok",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-111",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Laos?",
+        "en": "What is the capital of Laos?"
+      },
+      "options": [
+        {
+          "de": "Islamabad",
+          "en": "Islamabad"
+        },
+        {
+          "de": "Tokio",
+          "en": "Tokyo"
+        },
+        {
+          "de": "Vientiane",
+          "en": "Vientiane"
+        },
+        {
+          "de": "Surabaya",
+          "en": "Surabaya"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vientiane",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-112",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Kambodscha?",
+        "en": "What is the capital of Cambodia?"
+      },
+      "options": [
+        {
+          "de": "Neu-Delhi",
+          "en": "New Delhi"
+        },
+        {
+          "de": "Sanaa",
+          "en": "Sana'a"
+        },
+        {
+          "de": "Guangzhou",
+          "en": "Guangzhou"
+        },
+        {
+          "de": "Phnom Penh",
+          "en": "Phnom Penh"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Phnom_Penh",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-113",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Vietnam?",
+        "en": "What is the capital of Vietnam?"
+      },
+      "options": [
+        {
+          "de": "Hanoi",
+          "en": "Hanoi"
+        },
+        {
+          "de": "Vientiane",
+          "en": "Vientiane"
+        },
+        {
+          "de": "Jakarta",
+          "en": "Jakarta"
+        },
+        {
+          "de": "Jeddah",
+          "en": "Jeddah"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hanoi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-114",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Malaysia?",
+        "en": "What is the capital of Malaysia?"
+      },
+      "options": [
+        {
+          "de": "Islamabad",
+          "en": "Islamabad"
+        },
+        {
+          "de": "Kuala Lumpur",
+          "en": "Kuala Lumpur"
+        },
+        {
+          "de": "Neu-Delhi",
+          "en": "New Delhi"
+        },
+        {
+          "de": "Chengdu",
+          "en": "Chengdu"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-115",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Singapur?",
+        "en": "What is the capital of Singapore?"
+      },
+      "options": [
+        {
+          "de": "Baku",
+          "en": "Baku"
+        },
+        {
+          "de": "Islamabad",
+          "en": "Islamabad"
+        },
+        {
+          "de": "Singapur",
+          "en": "Singapore"
+        },
+        {
+          "de": "Osaka",
+          "en": "Osaka"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Singapore",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-116",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Indonesien?",
+        "en": "What is the capital of Indonesia?"
+      },
+      "options": [
+        {
+          "de": "Jerewan",
+          "en": "Yerevan"
+        },
+        {
+          "de": "Dili",
+          "en": "Dili"
+        },
+        {
+          "de": "Jeddah",
+          "en": "Jeddah"
+        },
+        {
+          "de": "Jakarta",
+          "en": "Jakarta"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jakarta",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-117",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Philippinen?",
+        "en": "What is the capital of Philippines?"
+      },
+      "options": [
+        {
+          "de": "Manila",
+          "en": "Manila"
+        },
+        {
+          "de": "Sri Jayawardenepura Kotte",
+          "en": "Sri Jayawardenepura Kotte"
+        },
+        {
+          "de": "Kathmandu",
+          "en": "Kathmandu"
+        },
+        {
+          "de": "Jeddah",
+          "en": "Jeddah"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Manila",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-118",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Taiwan?",
+        "en": "What is the capital of Taiwan?"
+      },
+      "options": [
+        {
+          "de": "Naypyidaw",
+          "en": "Naypyidaw"
+        },
+        {
+          "de": "Taipeh",
+          "en": "Taipei"
+        },
+        {
+          "de": "Neu-Delhi",
+          "en": "New Delhi"
+        },
+        {
+          "de": "Ho-Chi-Minh-Stadt",
+          "en": "Ho Chi Minh City"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Taipei",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-119",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Kasachstan?",
+        "en": "What is the capital of Kazakhstan?"
+      },
+      "options": [
+        {
+          "de": "Sri Jayawardenepura Kotte",
+          "en": "Sri Jayawardenepura Kotte"
+        },
+        {
+          "de": "Hanoi",
+          "en": "Hanoi"
+        },
+        {
+          "de": "Astana",
+          "en": "Astana"
+        },
+        {
+          "de": "Yokohama",
+          "en": "Yokohama"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Astana",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-120",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Usbekistan?",
+        "en": "What is the capital of Uzbekistan?"
+      },
+      "options": [
+        {
+          "de": "Riad",
+          "en": "Riyadh"
+        },
+        {
+          "de": "Beirut",
+          "en": "Beirut"
+        },
+        {
+          "de": "Ho-Chi-Minh-Stadt",
+          "en": "Ho Chi Minh City"
+        },
+        {
+          "de": "Taschkent",
+          "en": "Tashkent"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tashkent",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-121",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Turkmenistan?",
+        "en": "What is the capital of Turkmenistan?"
+      },
+      "options": [
+        {
+          "de": "Aschgabat",
+          "en": "Ashgabat"
+        },
+        {
+          "de": "Bagdad",
+          "en": "Baghdad"
+        },
+        {
+          "de": "Peking",
+          "en": "Beijing"
+        },
+        {
+          "de": "Ho-Chi-Minh-Stadt",
+          "en": "Ho Chi Minh City"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ashgabat",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-122",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Kirgisistan?",
+        "en": "What is the capital of Kyrgyzstan?"
+      },
+      "options": [
+        {
+          "de": "Manila",
+          "en": "Manila"
+        },
+        {
+          "de": "Bischkek",
+          "en": "Bishkek"
+        },
+        {
+          "de": "Seoul",
+          "en": "Seoul"
+        },
+        {
+          "de": "Aleppo",
+          "en": "Aleppo"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bishkek",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-123",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Tadschikistan?",
+        "en": "What is the capital of Tajikistan?"
+      },
+      "options": [
+        {
+          "de": "Naypyidaw",
+          "en": "Naypyidaw"
+        },
+        {
+          "de": "Kathmandu",
+          "en": "Kathmandu"
+        },
+        {
+          "de": "Duschanbe",
+          "en": "Dushanbe"
+        },
+        {
+          "de": "Karatschi",
+          "en": "Karachi"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dushanbe",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-124",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Aserbaidschan?",
+        "en": "What is the capital of Azerbaijan?"
+      },
+      "options": [
+        {
+          "de": "Pjöngjang",
+          "en": "Pyongyang"
+        },
+        {
+          "de": "Aschgabat",
+          "en": "Ashgabat"
+        },
+        {
+          "de": "Surabaya",
+          "en": "Surabaya"
+        },
+        {
+          "de": "Baku",
+          "en": "Baku"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Baku",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-125",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Georgien?",
+        "en": "What is the capital of Georgia?"
+      },
+      "options": [
+        {
+          "de": "Tiflis",
+          "en": "Tbilisi"
+        },
+        {
+          "de": "Jerusalem",
+          "en": "Jerusalem"
+        },
+        {
+          "de": "Singapur",
+          "en": "Singapore"
+        },
+        {
+          "de": "Shanghai",
+          "en": "Shanghai"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tbilisi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-126",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Armenien?",
+        "en": "What is the capital of Armenia?"
+      },
+      "options": [
+        {
+          "de": "Aschgabat",
+          "en": "Ashgabat"
+        },
+        {
+          "de": "Jerewan",
+          "en": "Yerevan"
+        },
+        {
+          "de": "Ramallah",
+          "en": "Ramallah"
+        },
+        {
+          "de": "Isfahan",
+          "en": "Isfahan"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yerevan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-127",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Türkei?",
+        "en": "What is the capital of Turkey?"
+      },
+      "options": [
+        {
+          "de": "Singapur",
+          "en": "Singapore"
+        },
+        {
+          "de": "Pjöngjang",
+          "en": "Pyongyang"
+        },
+        {
+          "de": "Ankara",
+          "en": "Ankara"
+        },
+        {
+          "de": "Surabaya",
+          "en": "Surabaya"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ankara",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-128",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Irak?",
+        "en": "What is the capital of Iraq?"
+      },
+      "options": [
+        {
+          "de": "Kuala Lumpur",
+          "en": "Kuala Lumpur"
+        },
+        {
+          "de": "Doha",
+          "en": "Doha"
+        },
+        {
+          "de": "Kalkutta",
+          "en": "Kolkata"
+        },
+        {
+          "de": "Bagdad",
+          "en": "Baghdad"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Baghdad",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-129",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Iran?",
+        "en": "What is the capital of Iran?"
+      },
+      "options": [
+        {
+          "de": "Teheran",
+          "en": "Tehran"
+        },
+        {
+          "de": "Malé",
+          "en": "Malé"
+        },
+        {
+          "de": "Peking",
+          "en": "Beijing"
+        },
+        {
+          "de": "Yokohama",
+          "en": "Yokohama"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tehran",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-130",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Syrien?",
+        "en": "What is the capital of Syria?"
+      },
+      "options": [
+        {
+          "de": "Peking",
+          "en": "Beijing"
+        },
+        {
+          "de": "Damaskus",
+          "en": "Damascus"
+        },
+        {
+          "de": "Amman",
+          "en": "Amman"
+        },
+        {
+          "de": "Chennai",
+          "en": "Chennai"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Damascus",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-131",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Jordanien?",
+        "en": "What is the capital of Jordan?"
+      },
+      "options": [
+        {
+          "de": "Bangkok",
+          "en": "Bangkok"
+        },
+        {
+          "de": "Beirut",
+          "en": "Beirut"
+        },
+        {
+          "de": "Amman",
+          "en": "Amman"
+        },
+        {
+          "de": "Shenzhen",
+          "en": "Shenzhen"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amman",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-132",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Libanon?",
+        "en": "What is the capital of Lebanon?"
+      },
+      "options": [
+        {
+          "de": "Tiflis",
+          "en": "Tbilisi"
+        },
+        {
+          "de": "Tokio",
+          "en": "Tokyo"
+        },
+        {
+          "de": "Kalkutta",
+          "en": "Kolkata"
+        },
+        {
+          "de": "Beirut",
+          "en": "Beirut"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Beirut",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-133",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Israel?",
+        "en": "What is the capital of Israel?"
+      },
+      "options": [
+        {
+          "de": "Jerusalem",
+          "en": "Jerusalem"
+        },
+        {
+          "de": "Taschkent",
+          "en": "Tashkent"
+        },
+        {
+          "de": "Sri Jayawardenepura Kotte",
+          "en": "Sri Jayawardenepura Kotte"
+        },
+        {
+          "de": "Surabaya",
+          "en": "Surabaya"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jerusalem",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-134",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Palästina?",
+        "en": "What is the capital of Palestine?"
+      },
+      "options": [
+        {
+          "de": "Pjöngjang",
+          "en": "Pyongyang"
+        },
+        {
+          "de": "Ramallah",
+          "en": "Ramallah"
+        },
+        {
+          "de": "Seoul",
+          "en": "Seoul"
+        },
+        {
+          "de": "Shenzhen",
+          "en": "Shenzhen"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ramallah",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-135",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Saudi-Arabien?",
+        "en": "What is the capital of Saudi Arabia?"
+      },
+      "options": [
+        {
+          "de": "Peking",
+          "en": "Beijing"
+        },
+        {
+          "de": "Naypyidaw",
+          "en": "Naypyidaw"
+        },
+        {
+          "de": "Riad",
+          "en": "Riyadh"
+        },
+        {
+          "de": "Kalkutta",
+          "en": "Kolkata"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Riyadh",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-136",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Jemen?",
+        "en": "What is the capital of Yemen?"
+      },
+      "options": [
+        {
+          "de": "Peking",
+          "en": "Beijing"
+        },
+        {
+          "de": "Vientiane",
+          "en": "Vientiane"
+        },
+        {
+          "de": "Aleppo",
+          "en": "Aleppo"
+        },
+        {
+          "de": "Sanaa",
+          "en": "Sana'a"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sana'a",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-137",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Oman?",
+        "en": "What is the capital of Oman?"
+      },
+      "options": [
+        {
+          "de": "Maskat",
+          "en": "Muscat"
+        },
+        {
+          "de": "Aschgabat",
+          "en": "Ashgabat"
+        },
+        {
+          "de": "Peking",
+          "en": "Beijing"
+        },
+        {
+          "de": "Shanghai",
+          "en": "Shanghai"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Muscat",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-138",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Vereinigte Arabische Emirate?",
+        "en": "What is the capital of United Arab Emirates?"
+      },
+      "options": [
+        {
+          "de": "Riad",
+          "en": "Riyadh"
+        },
+        {
+          "de": "Abu Dhabi",
+          "en": "Abu Dhabi"
+        },
+        {
+          "de": "Bangkok",
+          "en": "Bangkok"
+        },
+        {
+          "de": "Shanghai",
+          "en": "Shanghai"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Dhabi",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-139",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Katar?",
+        "en": "What is the capital of Qatar?"
+      },
+      "options": [
+        {
+          "de": "Ulaanbaatar",
+          "en": "Ulaanbaatar"
+        },
+        {
+          "de": "Amman",
+          "en": "Amman"
+        },
+        {
+          "de": "Doha",
+          "en": "Doha"
+        },
+        {
+          "de": "Basra",
+          "en": "Basra"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Doha",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-140",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Bahrain?",
+        "en": "What is the capital of Bahrain?"
+      },
+      "options": [
+        {
+          "de": "Astana",
+          "en": "Astana"
+        },
+        {
+          "de": "Teheran",
+          "en": "Tehran"
+        },
+        {
+          "de": "Mumbai",
+          "en": "Mumbai"
+        },
+        {
+          "de": "Manama",
+          "en": "Manama"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Manama",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-141",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Kuwait?",
+        "en": "What is the capital of Kuwait?"
+      },
+      "options": [
+        {
+          "de": "Kuwait-Stadt",
+          "en": "Kuwait City"
+        },
+        {
+          "de": "Bagdad",
+          "en": "Baghdad"
+        },
+        {
+          "de": "Sri Jayawardenepura Kotte",
+          "en": "Sri Jayawardenepura Kotte"
+        },
+        {
+          "de": "Guangzhou",
+          "en": "Guangzhou"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kuwait_City",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-142",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Afghanistan?",
+        "en": "What is the capital of Afghanistan?"
+      },
+      "options": [
+        {
+          "de": "Ankara",
+          "en": "Ankara"
+        },
+        {
+          "de": "Kabul",
+          "en": "Kabul"
+        },
+        {
+          "de": "Peking",
+          "en": "Beijing"
+        },
+        {
+          "de": "Busan",
+          "en": "Busan"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kabul",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-143",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Malediven?",
+        "en": "What is the capital of Maldives?"
+      },
+      "options": [
+        {
+          "de": "Kuala Lumpur",
+          "en": "Kuala Lumpur"
+        },
+        {
+          "de": "Tokio",
+          "en": "Tokyo"
+        },
+        {
+          "de": "Malé",
+          "en": "Malé"
+        },
+        {
+          "de": "Busan",
+          "en": "Busan"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Malé",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-144",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Osttimor?",
+        "en": "What is the capital of East Timor?"
+      },
+      "options": [
+        {
+          "de": "Beirut",
+          "en": "Beirut"
+        },
+        {
+          "de": "Sri Jayawardenepura Kotte",
+          "en": "Sri Jayawardenepura Kotte"
+        },
+        {
+          "de": "Shenzhen",
+          "en": "Shenzhen"
+        },
+        {
+          "de": "Dili",
+          "en": "Dili"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dili",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-145",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "asia",
+      "question": {
+        "de": "Was ist die Hauptstadt von Brunei?",
+        "en": "What is the capital of Brunei?"
+      },
+      "options": [
+        {
+          "de": "Bandar Seri Begawan",
+          "en": "Bandar Seri Begawan"
+        },
+        {
+          "de": "Bangkok",
+          "en": "Bangkok"
+        },
+        {
+          "de": "Phnom Penh",
+          "en": "Phnom Penh"
+        },
+        {
+          "de": "Aleppo",
+          "en": "Aleppo"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bandar_Seri_Begawan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-146",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Vereinigte Staaten?",
+        "en": "What is the capital of United States?"
+      },
+      "options": [
+        {
+          "de": "Belmopan",
+          "en": "Belmopan"
+        },
+        {
+          "de": "Washington, D.C.",
+          "en": "Washington, D.C."
+        },
+        {
+          "de": "Tegucigalpa",
+          "en": "Tegucigalpa"
+        },
+        {
+          "de": "Vancouver",
+          "en": "Vancouver"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-147",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Kanada?",
+        "en": "What is the capital of Canada?"
+      },
+      "options": [
+        {
+          "de": "Nassau",
+          "en": "Nassau"
+        },
+        {
+          "de": "Belmopan",
+          "en": "Belmopan"
+        },
+        {
+          "de": "Ottawa",
+          "en": "Ottawa"
+        },
+        {
+          "de": "Toronto",
+          "en": "Toronto"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ottawa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-148",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Mexiko?",
+        "en": "What is the capital of Mexico?"
+      },
+      "options": [
+        {
+          "de": "Panama-Stadt",
+          "en": "Panama City"
+        },
+        {
+          "de": "Santo Domingo",
+          "en": "Santo Domingo"
+        },
+        {
+          "de": "Salvador",
+          "en": "Salvador"
+        },
+        {
+          "de": "Mexiko-Stadt",
+          "en": "Mexico City"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_City",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-149",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Guatemala?",
+        "en": "What is the capital of Guatemala?"
+      },
+      "options": [
+        {
+          "de": "Guatemala-Stadt",
+          "en": "Guatemala City"
+        },
+        {
+          "de": "Tegucigalpa",
+          "en": "Tegucigalpa"
+        },
+        {
+          "de": "Washington, D.C.",
+          "en": "Washington, D.C."
+        },
+        {
+          "de": "Medellín",
+          "en": "Medellín"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Guatemala_City",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-150",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Belize?",
+        "en": "What is the capital of Belize?"
+      },
+      "options": [
+        {
+          "de": "Nassau",
+          "en": "Nassau"
+        },
+        {
+          "de": "Belmopan",
+          "en": "Belmopan"
+        },
+        {
+          "de": "Tegucigalpa",
+          "en": "Tegucigalpa"
+        },
+        {
+          "de": "Valparaíso",
+          "en": "Valparaíso"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Belmopan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-151",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Honduras?",
+        "en": "What is the capital of Honduras?"
+      },
+      "options": [
+        {
+          "de": "Managua",
+          "en": "Managua"
+        },
+        {
+          "de": "Nassau",
+          "en": "Nassau"
+        },
+        {
+          "de": "Tegucigalpa",
+          "en": "Tegucigalpa"
+        },
+        {
+          "de": "Chicago",
+          "en": "Chicago"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tegucigalpa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-152",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von El Salvador?",
+        "en": "What is the capital of El Salvador?"
+      },
+      "options": [
+        {
+          "de": "Santo Domingo",
+          "en": "Santo Domingo"
+        },
+        {
+          "de": "Santiago",
+          "en": "Santiago"
+        },
+        {
+          "de": "Miami",
+          "en": "Miami"
+        },
+        {
+          "de": "San Salvador",
+          "en": "San Salvador"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/San_Salvador",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-153",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Nicaragua?",
+        "en": "What is the capital of Nicaragua?"
+      },
+      "options": [
+        {
+          "de": "Managua",
+          "en": "Managua"
+        },
+        {
+          "de": "Basseterre",
+          "en": "Basseterre"
+        },
+        {
+          "de": "Montevideo",
+          "en": "Montevideo"
+        },
+        {
+          "de": "Houston",
+          "en": "Houston"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Managua",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-154",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Costa Rica?",
+        "en": "What is the capital of Costa Rica?"
+      },
+      "options": [
+        {
+          "de": "Paramaribo",
+          "en": "Paramaribo"
+        },
+        {
+          "de": "San José",
+          "en": "San José"
+        },
+        {
+          "de": "Mexiko-Stadt",
+          "en": "Mexico City"
+        },
+        {
+          "de": "Guayaquil",
+          "en": "Guayaquil"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/San_José",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-155",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Panama?",
+        "en": "What is the capital of Panama?"
+      },
+      "options": [
+        {
+          "de": "Washington, D.C.",
+          "en": "Washington, D.C."
+        },
+        {
+          "de": "Bridgetown",
+          "en": "Bridgetown"
+        },
+        {
+          "de": "Panama-Stadt",
+          "en": "Panama City"
+        },
+        {
+          "de": "Chicago",
+          "en": "Chicago"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Panama_City",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-156",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Kuba?",
+        "en": "What is the capital of Cuba?"
+      },
+      "options": [
+        {
+          "de": "Washington, D.C.",
+          "en": "Washington, D.C."
+        },
+        {
+          "de": "Bridgetown",
+          "en": "Bridgetown"
+        },
+        {
+          "de": "Córdoba",
+          "en": "Córdoba"
+        },
+        {
+          "de": "Havanna",
+          "en": "Havana"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Havana",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-157",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Jamaika?",
+        "en": "What is the capital of Jamaica?"
+      },
+      "options": [
+        {
+          "de": "Kingston",
+          "en": "Kingston"
+        },
+        {
+          "de": "Washington, D.C.",
+          "en": "Washington, D.C."
+        },
+        {
+          "de": "Quito",
+          "en": "Quito"
+        },
+        {
+          "de": "New York",
+          "en": "New York"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kingston",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-158",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Haiti?",
+        "en": "What is the capital of Haiti?"
+      },
+      "options": [
+        {
+          "de": "Castries",
+          "en": "Castries"
+        },
+        {
+          "de": "Port-au-Prince",
+          "en": "Port-au-Prince"
+        },
+        {
+          "de": "San José",
+          "en": "San José"
+        },
+        {
+          "de": "Toronto",
+          "en": "Toronto"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Port-au-Prince",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-159",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Dominikanische Republik?",
+        "en": "What is the capital of Dominican Republic?"
+      },
+      "options": [
+        {
+          "de": "Caracas",
+          "en": "Caracas"
+        },
+        {
+          "de": "San Salvador",
+          "en": "San Salvador"
+        },
+        {
+          "de": "Santo Domingo",
+          "en": "Santo Domingo"
+        },
+        {
+          "de": "New York",
+          "en": "New York"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Santo_Domingo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-160",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Trinidad und Tobago?",
+        "en": "What is the capital of Trinidad and Tobago?"
+      },
+      "options": [
+        {
+          "de": "Montevideo",
+          "en": "Montevideo"
+        },
+        {
+          "de": "Roseau",
+          "en": "Roseau"
+        },
+        {
+          "de": "Córdoba",
+          "en": "Córdoba"
+        },
+        {
+          "de": "Port of Spain",
+          "en": "Port of Spain"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Port_of_Spain",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-161",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Bahamas?",
+        "en": "What is the capital of Bahamas?"
+      },
+      "options": [
+        {
+          "de": "Nassau",
+          "en": "Nassau"
+        },
+        {
+          "de": "Ottawa",
+          "en": "Ottawa"
+        },
+        {
+          "de": "Washington, D.C.",
+          "en": "Washington, D.C."
+        },
+        {
+          "de": "Rio de Janeiro",
+          "en": "Rio de Janeiro"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nassau",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-162",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Barbados?",
+        "en": "What is the capital of Barbados?"
+      },
+      "options": [
+        {
+          "de": "Santiago",
+          "en": "Santiago"
+        },
+        {
+          "de": "Bridgetown",
+          "en": "Bridgetown"
+        },
+        {
+          "de": "Ottawa",
+          "en": "Ottawa"
+        },
+        {
+          "de": "Monterrey",
+          "en": "Monterrey"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bridgetown",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-163",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Antigua und Barbuda?",
+        "en": "What is the capital of Antigua and Barbuda?"
+      },
+      "options": [
+        {
+          "de": "Montevideo",
+          "en": "Montevideo"
+        },
+        {
+          "de": "Asunción",
+          "en": "Asunción"
+        },
+        {
+          "de": "St. John's",
+          "en": "St. John's"
+        },
+        {
+          "de": "Guadalajara",
+          "en": "Guadalajara"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/St._John's",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-164",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Dominica?",
+        "en": "What is the capital of Dominica?"
+      },
+      "options": [
+        {
+          "de": "Caracas",
+          "en": "Caracas"
+        },
+        {
+          "de": "Belmopan",
+          "en": "Belmopan"
+        },
+        {
+          "de": "Vancouver",
+          "en": "Vancouver"
+        },
+        {
+          "de": "Roseau",
+          "en": "Roseau"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Roseau",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-165",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Grenada?",
+        "en": "What is the capital of Grenada?"
+      },
+      "options": [
+        {
+          "de": "St. George's",
+          "en": "St. George's"
+        },
+        {
+          "de": "Washington, D.C.",
+          "en": "Washington, D.C."
+        },
+        {
+          "de": "Lima",
+          "en": "Lima"
+        },
+        {
+          "de": "Recife",
+          "en": "Recife"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/St._George's",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-166",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von St. Kitts und Nevis?",
+        "en": "What is the capital of Saint Kitts and Nevis?"
+      },
+      "options": [
+        {
+          "de": "Nassau",
+          "en": "Nassau"
+        },
+        {
+          "de": "Basseterre",
+          "en": "Basseterre"
+        },
+        {
+          "de": "Caracas",
+          "en": "Caracas"
+        },
+        {
+          "de": "Recife",
+          "en": "Recife"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Basseterre",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-167",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von St. Lucia?",
+        "en": "What is the capital of Saint Lucia?"
+      },
+      "options": [
+        {
+          "de": "Georgetown",
+          "en": "Georgetown"
+        },
+        {
+          "de": "Roseau",
+          "en": "Roseau"
+        },
+        {
+          "de": "Castries",
+          "en": "Castries"
+        },
+        {
+          "de": "Córdoba",
+          "en": "Córdoba"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Castries",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-168",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von St. Vincent?",
+        "en": "What is the capital of Saint Vincent?"
+      },
+      "options": [
+        {
+          "de": "Asunción",
+          "en": "Asunción"
+        },
+        {
+          "de": "Santo Domingo",
+          "en": "Santo Domingo"
+        },
+        {
+          "de": "Maracaibo",
+          "en": "Maracaibo"
+        },
+        {
+          "de": "Kingstown",
+          "en": "Kingstown"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kingstown",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-169",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Kolumbien?",
+        "en": "What is the capital of Colombia?"
+      },
+      "options": [
+        {
+          "de": "Bogotá",
+          "en": "Bogotá"
+        },
+        {
+          "de": "Havanna",
+          "en": "Havana"
+        },
+        {
+          "de": "Port-au-Prince",
+          "en": "Port-au-Prince"
+        },
+        {
+          "de": "Guadalajara",
+          "en": "Guadalajara"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bogotá",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-170",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Venezuela?",
+        "en": "What is the capital of Venezuela?"
+      },
+      "options": [
+        {
+          "de": "Bogotá",
+          "en": "Bogotá"
+        },
+        {
+          "de": "Caracas",
+          "en": "Caracas"
+        },
+        {
+          "de": "Montevideo",
+          "en": "Montevideo"
+        },
+        {
+          "de": "Vancouver",
+          "en": "Vancouver"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Caracas",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-171",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Guyana?",
+        "en": "What is the capital of Guyana?"
+      },
+      "options": [
+        {
+          "de": "Santiago",
+          "en": "Santiago"
+        },
+        {
+          "de": "Guatemala-Stadt",
+          "en": "Guatemala City"
+        },
+        {
+          "de": "Georgetown",
+          "en": "Georgetown"
+        },
+        {
+          "de": "Valparaíso",
+          "en": "Valparaíso"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Georgetown",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-172",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Suriname?",
+        "en": "What is the capital of Suriname?"
+      },
+      "options": [
+        {
+          "de": "Bridgetown",
+          "en": "Bridgetown"
+        },
+        {
+          "de": "Port of Spain",
+          "en": "Port of Spain"
+        },
+        {
+          "de": "Toronto",
+          "en": "Toronto"
+        },
+        {
+          "de": "Paramaribo",
+          "en": "Paramaribo"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paramaribo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-173",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Ecuador?",
+        "en": "What is the capital of Ecuador?"
+      },
+      "options": [
+        {
+          "de": "Quito",
+          "en": "Quito"
+        },
+        {
+          "de": "Mexiko-Stadt",
+          "en": "Mexico City"
+        },
+        {
+          "de": "Panama-Stadt",
+          "en": "Panama City"
+        },
+        {
+          "de": "Maracaibo",
+          "en": "Maracaibo"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Quito",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-174",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Peru?",
+        "en": "What is the capital of Peru?"
+      },
+      "options": [
+        {
+          "de": "Bogotá",
+          "en": "Bogotá"
+        },
+        {
+          "de": "Lima",
+          "en": "Lima"
+        },
+        {
+          "de": "Managua",
+          "en": "Managua"
+        },
+        {
+          "de": "Maracaibo",
+          "en": "Maracaibo"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lima",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-175",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Brasilien?",
+        "en": "What is the capital of Brazil?"
+      },
+      "options": [
+        {
+          "de": "Quito",
+          "en": "Quito"
+        },
+        {
+          "de": "Port of Spain",
+          "en": "Port of Spain"
+        },
+        {
+          "de": "Brasília",
+          "en": "Brasília"
+        },
+        {
+          "de": "Guadalajara",
+          "en": "Guadalajara"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brasília",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-176",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Bolivien?",
+        "en": "What is the capital of Bolivia?"
+      },
+      "options": [
+        {
+          "de": "Havanna",
+          "en": "Havana"
+        },
+        {
+          "de": "San Salvador",
+          "en": "San Salvador"
+        },
+        {
+          "de": "Houston",
+          "en": "Houston"
+        },
+        {
+          "de": "Sucre",
+          "en": "Sucre"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sucre",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-177",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Paraguay?",
+        "en": "What is the capital of Paraguay?"
+      },
+      "options": [
+        {
+          "de": "Asunción",
+          "en": "Asunción"
+        },
+        {
+          "de": "Quito",
+          "en": "Quito"
+        },
+        {
+          "de": "Belmopan",
+          "en": "Belmopan"
+        },
+        {
+          "de": "Rio de Janeiro",
+          "en": "Rio de Janeiro"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Asunción",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-178",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Uruguay?",
+        "en": "What is the capital of Uruguay?"
+      },
+      "options": [
+        {
+          "de": "Mexiko-Stadt",
+          "en": "Mexico City"
+        },
+        {
+          "de": "Montevideo",
+          "en": "Montevideo"
+        },
+        {
+          "de": "Havanna",
+          "en": "Havana"
+        },
+        {
+          "de": "Houston",
+          "en": "Houston"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Montevideo",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-179",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Argentinien?",
+        "en": "What is the capital of Argentina?"
+      },
+      "options": [
+        {
+          "de": "Mexiko-Stadt",
+          "en": "Mexico City"
+        },
+        {
+          "de": "Nassau",
+          "en": "Nassau"
+        },
+        {
+          "de": "Buenos Aires",
+          "en": "Buenos Aires"
+        },
+        {
+          "de": "Valparaíso",
+          "en": "Valparaíso"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Buenos_Aires",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-180",
+      "category": "capitals",
+      "difficulty": "medium",
+      "continent": "americas",
+      "question": {
+        "de": "Was ist die Hauptstadt von Chile?",
+        "en": "What is the capital of Chile?"
+      },
+      "options": [
+        {
+          "de": "Port of Spain",
+          "en": "Port of Spain"
+        },
+        {
+          "de": "St. John's",
+          "en": "St. John's"
+        },
+        {
+          "de": "Chicago",
+          "en": "Chicago"
+        },
+        {
+          "de": "Santiago",
+          "en": "Santiago"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Santiago",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-181",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Australien?",
+        "en": "What is the capital of Australia?"
+      },
+      "options": [
+        {
+          "de": "Canberra",
+          "en": "Canberra"
+        },
+        {
+          "de": "Wellington",
+          "en": "Wellington"
+        },
+        {
+          "de": "Suva",
+          "en": "Suva"
+        },
+        {
+          "de": "Gold Coast",
+          "en": "Gold Coast"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Canberra",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-182",
+      "category": "capitals",
+      "difficulty": "easy",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Neuseeland?",
+        "en": "What is the capital of New Zealand?"
+      },
+      "options": [
+        {
+          "de": "Nuku'alofa",
+          "en": "Nuku'alofa"
+        },
+        {
+          "de": "Wellington",
+          "en": "Wellington"
+        },
+        {
+          "de": "Tarawa",
+          "en": "Tarawa"
+        },
+        {
+          "de": "Brisbane",
+          "en": "Brisbane"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wellington",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-183",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Fidschi?",
+        "en": "What is the capital of Fiji?"
+      },
+      "options": [
+        {
+          "de": "Apia",
+          "en": "Apia"
+        },
+        {
+          "de": "Port Vila",
+          "en": "Port Vila"
+        },
+        {
+          "de": "Suva",
+          "en": "Suva"
+        },
+        {
+          "de": "Gold Coast",
+          "en": "Gold Coast"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Suva",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-184",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Papua-Neuguinea?",
+        "en": "What is the capital of Papua New Guinea?"
+      },
+      "options": [
+        {
+          "de": "Yaren",
+          "en": "Yaren"
+        },
+        {
+          "de": "Apia",
+          "en": "Apia"
+        },
+        {
+          "de": "Sydney",
+          "en": "Sydney"
+        },
+        {
+          "de": "Port Moresby",
+          "en": "Port Moresby"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Port_Moresby",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-185",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Samoa?",
+        "en": "What is the capital of Samoa?"
+      },
+      "options": [
+        {
+          "de": "Apia",
+          "en": "Apia"
+        },
+        {
+          "de": "Honiara",
+          "en": "Honiara"
+        },
+        {
+          "de": "Suva",
+          "en": "Suva"
+        },
+        {
+          "de": "Christchurch",
+          "en": "Christchurch"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Apia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-186",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Tonga?",
+        "en": "What is the capital of Tonga?"
+      },
+      "options": [
+        {
+          "de": "Wellington",
+          "en": "Wellington"
+        },
+        {
+          "de": "Nuku'alofa",
+          "en": "Nuku'alofa"
+        },
+        {
+          "de": "Ngerulmud",
+          "en": "Ngerulmud"
+        },
+        {
+          "de": "Brisbane",
+          "en": "Brisbane"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nuku'alofa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-187",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Vanuatu?",
+        "en": "What is the capital of Vanuatu?"
+      },
+      "options": [
+        {
+          "de": "Nuku'alofa",
+          "en": "Nuku'alofa"
+        },
+        {
+          "de": "Port Moresby",
+          "en": "Port Moresby"
+        },
+        {
+          "de": "Port Vila",
+          "en": "Port Vila"
+        },
+        {
+          "de": "Hobart",
+          "en": "Hobart"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Port_Vila",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-188",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Salomonen?",
+        "en": "What is the capital of Solomon Islands?"
+      },
+      "options": [
+        {
+          "de": "Tarawa",
+          "en": "Tarawa"
+        },
+        {
+          "de": "Port Moresby",
+          "en": "Port Moresby"
+        },
+        {
+          "de": "Gold Coast",
+          "en": "Gold Coast"
+        },
+        {
+          "de": "Honiara",
+          "en": "Honiara"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Honiara",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-189",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Kiribati?",
+        "en": "What is the capital of Kiribati?"
+      },
+      "options": [
+        {
+          "de": "Tarawa",
+          "en": "Tarawa"
+        },
+        {
+          "de": "Apia",
+          "en": "Apia"
+        },
+        {
+          "de": "Port Moresby",
+          "en": "Port Moresby"
+        },
+        {
+          "de": "Brisbane",
+          "en": "Brisbane"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tarawa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-190",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Tuvalu?",
+        "en": "What is the capital of Tuvalu?"
+      },
+      "options": [
+        {
+          "de": "Majuro",
+          "en": "Majuro"
+        },
+        {
+          "de": "Funafuti",
+          "en": "Funafuti"
+        },
+        {
+          "de": "Honiara",
+          "en": "Honiara"
+        },
+        {
+          "de": "Melbourne",
+          "en": "Melbourne"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Funafuti",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-191",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Mikronesien?",
+        "en": "What is the capital of Micronesia?"
+      },
+      "options": [
+        {
+          "de": "Canberra",
+          "en": "Canberra"
+        },
+        {
+          "de": "Honiara",
+          "en": "Honiara"
+        },
+        {
+          "de": "Palikir",
+          "en": "Palikir"
+        },
+        {
+          "de": "Sydney",
+          "en": "Sydney"
+        }
+      ],
+      "correctIndex": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Palikir",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-192",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Marshallinseln?",
+        "en": "What is the capital of Marshall Islands?"
+      },
+      "options": [
+        {
+          "de": "Suva",
+          "en": "Suva"
+        },
+        {
+          "de": "Port Moresby",
+          "en": "Port Moresby"
+        },
+        {
+          "de": "Perth",
+          "en": "Perth"
+        },
+        {
+          "de": "Majuro",
+          "en": "Majuro"
+        }
+      ],
+      "correctIndex": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Majuro",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-193",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Palau?",
+        "en": "What is the capital of Palau?"
+      },
+      "options": [
+        {
+          "de": "Ngerulmud",
+          "en": "Ngerulmud"
+        },
+        {
+          "de": "Tarawa",
+          "en": "Tarawa"
+        },
+        {
+          "de": "Canberra",
+          "en": "Canberra"
+        },
+        {
+          "de": "Christchurch",
+          "en": "Christchurch"
+        }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ngerulmud",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "cap-194",
+      "category": "capitals",
+      "difficulty": "hard",
+      "continent": "oceania",
+      "question": {
+        "de": "Was ist die Hauptstadt von Nauru?",
+        "en": "What is the capital of Nauru?"
+      },
+      "options": [
+        {
+          "de": "Canberra",
+          "en": "Canberra"
+        },
+        {
+          "de": "Yaren",
+          "en": "Yaren"
+        },
+        {
+          "de": "Ngerulmud",
+          "en": "Ngerulmud"
+        },
+        {
+          "de": "Hobart",
+          "en": "Hobart"
+        }
+      ],
+      "correctIndex": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yaren",
+      "sourceLabel": "Wikipedia"
+    }
+  ],
+  "timelineEvents": []
+}
