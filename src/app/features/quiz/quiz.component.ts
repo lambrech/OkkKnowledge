@@ -10,7 +10,7 @@ import { LocalizedTextPipe } from '../../shared/pipes/localized-text.pipe';
 import { MapDisplayComponent } from '../../shared/components/map-display.component';
 import { QuestionService } from '../../core/services/question.service';
 import { ScoreService } from '../../core/services/score.service';
-import { Question, Category } from '../../core/models/question.model';
+import { Question, Category, Continent } from '../../core/models/question.model';
 
 type QuizState = 'setup' | 'playing' | 'result';
 
@@ -50,7 +50,13 @@ export class QuizComponent {
     return sel !== null && q ? sel === q.correctIndex : false;
   });
 
-  allCategories: Category[] = ['geography', 'history', 'famous-people', 'science-tech'];
+  allCategories: Category[] = ['geography', 'history', 'famous-people', 'science-tech', 'flags', 'capitals'];
+  allContinents: Continent[] = ['europe', 'africa', 'asia', 'americas', 'oceania'];
+  selectedContinents = signal<Continent[]>(['europe', 'africa', 'asia', 'americas', 'oceania']);
+  showContinentFilter = computed(() => {
+    const cats = this.selectedCategories();
+    return cats.includes('flags') || cats.includes('capitals');
+  });
 
   toggleCategory(cat: Category): void {
     this.selectedCategories.update(cats => {
@@ -65,11 +71,22 @@ export class QuizComponent {
     return this.selectedCategories().includes(cat);
   }
 
+  toggleContinent(cont: Continent): void {
+    this.selectedContinents.update(conts => {
+      if (conts.includes(cont)) {
+        return conts.length > 1 ? conts.filter(c => c !== cont) : conts;
+      }
+      return [...conts, cont];
+    });
+  }
+
   startQuiz(): void {
+    const continents = this.showContinentFilter() ? this.selectedContinents() : undefined;
     const qs = this.questionService.getRandomQuestions(
       this.questionsPerRound(),
       this.selectedCategories(),
-      this.scoreService.answeredIds()
+      this.scoreService.answeredIds(),
+      continents
     );
     if (qs.length === 0) return;
     this.questions.set(qs);

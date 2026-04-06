@@ -3,11 +3,13 @@ export interface LocalizedText {
   en: string;
 }
 
-export type Category = 'geography' | 'history' | 'famous-people' | 'science-tech';
+export type Category = 'geography' | 'history' | 'famous-people' | 'science-tech' | 'flags' | 'capitals';
 
 export type Difficulty = 'easy' | 'medium' | 'hard';
 
 export type QuestionType = 'text' | 'flag' | 'map';
+
+export type Continent = 'europe' | 'africa' | 'asia' | 'americas' | 'oceania';
 
 export interface Question {
   id: string;
@@ -20,6 +22,7 @@ export interface Question {
   type?: QuestionType;
   flagCode?: string;
   countryCode?: string;
+  continent?: Continent;
   sourceUrl: string;
   sourceLabel: string;
 }

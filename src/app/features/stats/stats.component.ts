@@ -1,6 +1,7 @@
 import { Component, inject } from '@angular/core';
 import { MatCardModule } from '@angular/material/card';
 import { MatProgressBarModule } from '@angular/material/progress-bar';
+import { MatIconModule } from '@angular/material/icon';
 import { TranslocoDirective } from '@jsverse/transloco';
 import { ScoreService } from '../../core/services/score.service';
 import { Category } from '../../core/models/question.model';
@@ -8,7 +9,7 @@ import { Category } from '../../core/models/question.model';
 @Component({
   selector: 'app-stats',
   standalone: true,
-  imports: [MatCardModule, MatProgressBarModule, TranslocoDirective],
+  imports: [MatCardModule, MatProgressBarModule, MatIconModule, TranslocoDirective],
   template: `
     <ng-container *transloco="let t">
       <h1>{{ t('stats.title') }}</h1>
@@ -16,6 +17,21 @@ import { Category } from '../../core/models/question.model';
       @if (score.quizScore().totalAnswered === 0 && score.timelineScore().gamesPlayed === 0) {
         <p class="no-data">{{ t('stats.noData') }}</p>
       } @else {
+        @if (score.quizScore().bestRoundTotal > 0) {
+          <mat-card class="best-game-card" appearance="outlined">
+            <mat-card-content>
+              <div class="best-game">
+                <mat-icon class="trophy-icon">emoji_events</mat-icon>
+                <div class="best-game-info">
+                  <span class="best-game-label">{{ t('stats.bestGame') }}</span>
+                  <span class="best-game-score">{{ score.quizScore().bestRoundScore }}/{{ score.quizScore().bestRoundTotal }}</span>
+                  <span class="best-game-pct">{{ getBestRoundPct() }}%</span>
+                </div>
+              </div>
+            </mat-card-content>
+          </mat-card>
+        }
+
         @if (score.quizScore().totalAnswered > 0) {
           <mat-card class="stats-card" appearance="outlined">
             <mat-card-header>
@@ -109,6 +125,50 @@ import { Category } from '../../core/models/question.model';
       }
     }
 
+    .best-game-card {
+      margin-bottom: 16px;
+      background: linear-gradient(135deg, #fff8e1, #fff3e0) !important;
+    }
+
+    .best-game {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 8px 0;
+    }
+
+    .trophy-icon {
+      font-size: 48px;
+      width: 48px;
+      height: 48px;
+      color: #f9a825;
+    }
+
+    .best-game-info {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .best-game-label {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: rgba(0,0,0,0.5);
+      font-weight: 500;
+    }
+
+    .best-game-score {
+      font-size: 2rem;
+      font-weight: 700;
+      color: #3f51b5;
+      line-height: 1.2;
+    }
+
+    .best-game-pct {
+      font-size: 0.9rem;
+      color: rgba(0,0,0,0.5);
+    }
+
     .stat-row {
       display: flex;
       justify-content: space-between;
@@ -137,12 +197,16 @@ import { Category } from '../../core/models/question.model';
     :host-context(body.dark-theme) {
       .stat-row { border-bottom-color: rgba(255,255,255,0.06); }
       .no-data { color: rgba(255,255,255,0.5); }
+      .best-game-card { background: linear-gradient(135deg, #3e2723, #4e342e) !important; }
+      .best-game-label, .best-game-pct { color: rgba(255,255,255,0.5); }
+      .best-game-score { color: #90caf9; }
+      .trophy-icon { color: #ffb300; }
     }
   `]
 })
 export class StatsComponent {
   score = inject(ScoreService);
-  categories = ['geography', 'history', 'famous-people', 'science-tech'] as const;
+  categories = ['geography', 'history', 'famous-people', 'science-tech', 'flags', 'capitals'] as const;
 
   getCatAnswered(cat: string): number {
     const byCategory = this.score.quizScore().byCategory;
@@ -162,5 +226,10 @@ export class StatsComponent {
   getTimelineAccuracy(): number {
     const t = this.score.timelineScore();
     return t.totalEventsPlaced > 0 ? Math.round((t.totalCorrectPlacements / t.totalEventsPlaced) * 100) : 0;
+  }
+
+  getBestRoundPct(): number {
+    const q = this.score.quizScore();
+    return q.bestRoundTotal > 0 ? Math.round((q.bestRoundScore / q.bestRoundTotal) * 100) : 0;
   }
 }

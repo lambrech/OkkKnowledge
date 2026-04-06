@@ -1,7 +1,7 @@
 import { Injectable, inject, signal } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { forkJoin, tap } from 'rxjs';
-import { Question, TimelineEvent, Category, CategoryData } from '../models/question.model';
+import { Question, TimelineEvent, Category, CategoryData, Continent } from '../models/question.model';
 
 @Injectable({ providedIn: 'root' })
 export class QuestionService {
@@ -20,6 +20,8 @@ export class QuestionService {
     'assets/data/history.json',
     'assets/data/famous-people.json',
     'assets/data/science-tech.json',
+    'assets/data/flags.json',
+    'assets/data/capitals.json',
   ];
 
   loadAll(): Promise<void> {
@@ -46,10 +48,13 @@ export class QuestionService {
     return this.allQuestions().filter(q => q.category === category);
   }
 
-  getRandomQuestions(count: number, categories?: Category[], excludeIds?: string[]): Question[] {
+  getRandomQuestions(count: number, categories?: Category[], excludeIds?: string[], continents?: Continent[]): Question[] {
     let pool = this.allQuestions();
     if (categories?.length) {
       pool = pool.filter(q => categories.includes(q.category));
+    }
+    if (continents?.length) {
+      pool = pool.filter(q => !q.continent || continents.includes(q.continent));
     }
     if (excludeIds?.length) {
       pool = pool.filter(q => !excludeIds.includes(q.id));

@@ -42,7 +42,8 @@
     "backHome": "Back to Home",
     "streak": "Streak: {{count}}",
     "noMoreQuestions": "No more questions available in these categories.",
-    "bestRound": "Your best"
+    "bestRound": "Your best",
+    "selectContinents": "Filter by Continent"
   },
   "timeline": {
     "title": "Timeline",
@@ -81,6 +82,7 @@
     "placementAccuracy": "Placement accuracy",
     "exactYearBonuses": "Year bonuses",
     "bestGameScore": "Best score",
+    "bestGame": "Personal Best",
     "noData": "No data yet. Play a quiz or timeline game first!"
   },
   "settings": {
@@ -104,7 +106,16 @@
     "history": "History",
     "famous-people": "Famous People",
     "science-tech": "Science & Technology",
+    "flags": "Flags",
+    "capitals": "Capitals",
     "all": "All Categories"
+  },
+  "continents": {
+    "europe": "Europe",
+    "africa": "Africa",
+    "asia": "Asia",
+    "americas": "Americas",
+    "oceania": "Oceania"
   },
   "info": {
     "title": "App Info",

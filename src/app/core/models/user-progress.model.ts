@@ -42,6 +42,8 @@ export function createDefaultProgress(): UserProgress {
         'history': { answered: 0, correct: 0 },
         'famous-people': { answered: 0, correct: 0 },
         'science-tech': { answered: 0, correct: 0 },
+        'flags': { answered: 0, correct: 0 },
+        'capitals': { answered: 0, correct: 0 },
       },
       streak: 0,
       bestStreak: 0,

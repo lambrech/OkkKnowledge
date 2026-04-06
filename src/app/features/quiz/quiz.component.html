@@ -13,6 +13,19 @@
             </button>
           }
         </div>
+
+        @if (showContinentFilter()) {
+          <h3>{{ t('quiz.selectContinents') }}</h3>
+          <div class="category-chips">
+            @for (cont of allContinents; track cont) {
+              <button mat-stroked-button
+                      [class.selected]="selectedContinents().includes(cont)"
+                      (click)="toggleContinent(cont)">
+                {{ t('continents.' + cont) }}
+              </button>
+            }
+          </div>
+        }
         <button mat-flat-button color="primary" class="start-btn" (click)="startQuiz()">
           <mat-icon>play_arrow</mat-icon>
           {{ t('quiz.startRound') }}

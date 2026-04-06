@@ -23,8 +23,21 @@
       "updateMode": "prefetch",
       "resources": {
         "files": [
-          "/assets/**",
-          "/**/*.(svg|cur|jpg|jpeg|png|apng|webp|avif|gif|otf|ttf|woff|woff2)"
+          "/assets/data/**",
+          "/assets/maps/**",
+          "/assets/i18n/**",
+          "/icons/**",
+          "/**/*.(cur|otf|ttf|woff|woff2)"
+        ]
+      }
+    },
+    {
+      "name": "flags",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "resources": {
+        "files": [
+          "/assets/flags/**"
         ]
       }
     }

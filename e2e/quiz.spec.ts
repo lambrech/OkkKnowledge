@@ -12,9 +12,9 @@ test.describe('Quiz Mode', () => {
     await expect(page.locator('h3')).toContainText(/Kategorien|Categories/);
   });
 
-  test('should show all 4 category buttons', async ({ page }) => {
+  test('should show all 6 category buttons', async ({ page }) => {
     const categoryButtons = page.locator('.category-chips button');
-    await expect(categoryButtons).toHaveCount(4);
+    await expect(categoryButtons).toHaveCount(6);
   });
 
   test('should toggle category selection', async ({ page }) => {
