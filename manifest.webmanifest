@@ -1,7 +1,7 @@
 {
-  "name": "WissensApp - Knowledge Quiz",
-  "short_name": "WissensApp",
-  "description": "Test your knowledge with quizzes and timeline challenges",
+  "name": "OkkKnowledge",
+  "short_name": "OkkKnowledge",
+  "description": "Test your knowledge with quizzes, timeline challenges, and map questions",
   "theme_color": "#3f51b5",
   "background_color": "#fafafa",
   "display": "standalone",
@@ -56,6 +56,12 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
+    },
+    {
+      "src": "icons/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
     }
   ]
 }

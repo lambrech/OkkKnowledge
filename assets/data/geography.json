@@ -380,6 +380,8 @@
       "id": "geo-026",
       "category": "geography",
       "difficulty": "easy",
+      "type": "flag",
+      "flagCode": "tr",
       "question": { "de": "Welches Land hat eine rote Flagge mit einem weißen Halbmond und einem weißen Stern?", "en": "Which country has a red flag with a white crescent moon and a white star?" },
       "options": [
         { "de": "Tunesien", "en": "Tunisia" },
@@ -395,6 +397,8 @@
       "id": "geo-027",
       "category": "geography",
       "difficulty": "easy",
+      "type": "flag",
+      "flagCode": "jp",
       "question": { "de": "Welches Land hat eine weiße Flagge mit einem roten Kreis in der Mitte?", "en": "Which country has a white flag with a red circle in the center?" },
       "options": [
         { "de": "Südkorea", "en": "South Korea" },
@@ -410,6 +414,8 @@
       "id": "geo-028",
       "category": "geography",
       "difficulty": "easy",
+      "type": "flag",
+      "flagCode": "ca",
       "question": { "de": "Welches Land hat eine rot-weiße Flagge mit einem Ahornblatt?", "en": "Which country has a red and white flag with a maple leaf?" },
       "options": [
         { "de": "Kanada", "en": "Canada" },
@@ -425,6 +431,8 @@
       "id": "geo-029",
       "category": "geography",
       "difficulty": "easy",
+      "type": "flag",
+      "flagCode": "ch",
       "question": { "de": "Welches Land hat eine quadratische rote Flagge mit einem weißen Kreuz?", "en": "Which country has a square red flag with a white cross?" },
       "options": [
         { "de": "Dänemark", "en": "Denmark" },
@@ -440,6 +448,8 @@
       "id": "geo-030",
       "category": "geography",
       "difficulty": "easy",
+      "type": "flag",
+      "flagCode": "br",
       "question": { "de": "Welches Land hat eine grüne Flagge mit einer gelben Raute und einem blauen Globus mit Sternen?", "en": "Which country has a green flag with a yellow diamond and a blue globe with stars?" },
       "options": [
         { "de": "Brasilien", "en": "Brazil" },
@@ -455,6 +465,8 @@
       "id": "geo-031",
       "category": "geography",
       "difficulty": "medium",
+      "type": "flag",
+      "flagCode": "kr",
       "question": { "de": "Welches Land hat eine Flagge mit einem rot-blauen Yin-Yang-Symbol auf weißem Hintergrund?", "en": "Which country's flag features a red and blue yin-yang symbol on a white background?" },
       "options": [
         { "de": "Japan", "en": "Japan" },
@@ -470,6 +482,8 @@
       "id": "geo-032",
       "category": "geography",
       "difficulty": "medium",
+      "type": "flag",
+      "flagCode": "no",
       "question": { "de": "Welches Land hat eine rote Flagge mit einem blauen Kreuz, das weiß umrandet ist?", "en": "Which country has a red flag with a blue cross outlined in white?" },
       "options": [
         { "de": "Island", "en": "Iceland" },
@@ -485,6 +499,8 @@
       "id": "geo-033",
       "category": "geography",
       "difficulty": "medium",
+      "type": "flag",
+      "flagCode": "jm",
       "question": { "de": "Welches Land hat eine Flagge mit einem goldenen diagonalen Kreuz auf grünen und schwarzen Dreiecken?", "en": "Which country has a flag with a gold diagonal cross creating green and black triangles?" },
       "options": [
         { "de": "Südafrika", "en": "South Africa" },
@@ -500,6 +516,8 @@
       "id": "geo-034",
       "category": "geography",
       "difficulty": "medium",
+      "type": "flag",
+      "flagCode": "bd",
       "question": { "de": "Welches Land hat eine dunkelgrüne Flagge mit einem roten Kreis, der leicht nach links versetzt ist?", "en": "Which country has a dark green flag with a red circle offset slightly to the left?" },
       "options": [
         { "de": "Japan", "en": "Japan" },
@@ -515,6 +533,8 @@
       "id": "geo-035",
       "category": "geography",
       "difficulty": "medium",
+      "type": "flag",
+      "flagCode": "np",
       "question": { "de": "Welches ist das einzige Land der Welt mit einer nicht-rechteckigen Flagge?", "en": "Which is the only country in the world with a non-rectangular flag?" },
       "options": [
         { "de": "Bhutan", "en": "Bhutan" },
@@ -530,6 +550,8 @@
       "id": "geo-036",
       "category": "geography",
       "difficulty": "hard",
+      "type": "flag",
+      "flagCode": "bt",
       "question": { "de": "Welches Land hat eine diagonal geteilte orange-gelbe Flagge mit einem weißen Drachen?", "en": "Which country has a diagonally divided orange and yellow flag with a white dragon?" },
       "options": [
         { "de": "Wales", "en": "Wales" },
@@ -545,6 +567,8 @@
       "id": "geo-037",
       "category": "geography",
       "difficulty": "hard",
+      "type": "flag",
+      "flagCode": "mz",
       "question": { "de": "Welches Land hat eine Flagge, auf der ein AK-47-Gewehr abgebildet ist?", "en": "Which country's flag features an AK-47 rifle?" },
       "options": [
         { "de": "Angola", "en": "Angola" },
@@ -560,6 +584,8 @@
       "id": "geo-038",
       "category": "geography",
       "difficulty": "medium",
+      "type": "flag",
+      "flagCode": "lb",
       "question": { "de": "Welches Land hat eine weiße Flagge mit roten horizontalen Streifen und einer grünen Zeder in der Mitte?", "en": "Which country has a white flag with red horizontal stripes and a green cedar tree in the center?" },
       "options": [
         { "de": "Iran", "en": "Iran" },
@@ -575,6 +601,8 @@
       "id": "geo-039",
       "category": "geography",
       "difficulty": "medium",
+      "type": "flag",
+      "flagCode": "ar",
       "question": { "de": "Welches Land hat eine Flagge mit hellblauen und weißen horizontalen Streifen und einer goldenen Sonne in der Mitte?", "en": "Which country has a flag with light blue and white horizontal stripes and a golden sun in the center?" },
       "options": [
         { "de": "Uruguay", "en": "Uruguay" },
@@ -590,6 +618,8 @@
       "id": "geo-040",
       "category": "geography",
       "difficulty": "hard",
+      "type": "flag",
+      "flagCode": "ke",
       "question": { "de": "Welches Land hat eine Flagge mit schwarzen, roten und grünen Streifen sowie einem Maasai-Schild und gekreuzten Speeren?", "en": "Which country's flag features black, red, and green stripes with a Maasai shield and crossed spears?" },
       "options": [
         { "de": "Südafrika", "en": "South Africa" },
@@ -3749,6 +3779,431 @@
       ],
       "correctIndex": 1,
       "sourceUrl": "https://en.wikipedia.org/wiki/Zealandia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-001",
+      "category": "geography",
+      "difficulty": "easy",
+      "type": "map",
+      "countryCode": "fr",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Spanien", "en": "Spain" },
+        { "de": "Deutschland", "en": "Germany" },
+        { "de": "Italien", "en": "Italy" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/France",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-002",
+      "category": "geography",
+      "difficulty": "easy",
+      "type": "map",
+      "countryCode": "au",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Australien", "en": "Australia" },
+        { "de": "Indonesien", "en": "Indonesia" },
+        { "de": "Indien", "en": "India" },
+        { "de": "Neuseeland", "en": "New Zealand" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Australia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-003",
+      "category": "geography",
+      "difficulty": "easy",
+      "type": "map",
+      "countryCode": "br",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Brasilien", "en": "Brazil" },
+        { "de": "Argentinien", "en": "Argentina" },
+        { "de": "Kolumbien", "en": "Colombia" },
+        { "de": "Peru", "en": "Peru" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brazil",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-004",
+      "category": "geography",
+      "difficulty": "easy",
+      "type": "map",
+      "countryCode": "in",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Indien", "en": "India" },
+        { "de": "Pakistan", "en": "Pakistan" },
+        { "de": "China", "en": "China" },
+        { "de": "Bangladesch", "en": "Bangladesh" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/India",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-005",
+      "category": "geography",
+      "difficulty": "easy",
+      "type": "map",
+      "countryCode": "us",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "USA", "en": "USA" },
+        { "de": "Kanada", "en": "Canada" },
+        { "de": "Mexiko", "en": "Mexico" },
+        { "de": "Brasilien", "en": "Brazil" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/United_States",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-006",
+      "category": "geography",
+      "difficulty": "easy",
+      "type": "map",
+      "countryCode": "cn",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "China", "en": "China" },
+        { "de": "Russland", "en": "Russia" },
+        { "de": "Indien", "en": "India" },
+        { "de": "Mongolei", "en": "Mongolia" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/China",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-007",
+      "category": "geography",
+      "difficulty": "easy",
+      "type": "map",
+      "countryCode": "it",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Italien", "en": "Italy" },
+        { "de": "Griechenland", "en": "Greece" },
+        { "de": "Spanien", "en": "Spain" },
+        { "de": "Kroatien", "en": "Croatia" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Italy",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-008",
+      "category": "geography",
+      "difficulty": "easy",
+      "type": "map",
+      "countryCode": "jp",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Japan", "en": "Japan" },
+        { "de": "Südkorea", "en": "South Korea" },
+        { "de": "Taiwan", "en": "Taiwan" },
+        { "de": "Philippinen", "en": "Philippines" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Japan",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-009",
+      "category": "geography",
+      "difficulty": "medium",
+      "type": "map",
+      "countryCode": "de",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Deutschland", "en": "Germany" },
+        { "de": "Polen", "en": "Poland" },
+        { "de": "Tschechien", "en": "Czech Republic" },
+        { "de": "Frankreich", "en": "France" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Germany",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-010",
+      "category": "geography",
+      "difficulty": "medium",
+      "type": "map",
+      "countryCode": "es",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Spanien", "en": "Spain" },
+        { "de": "Portugal", "en": "Portugal" },
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Italien", "en": "Italy" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spain",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-011",
+      "category": "geography",
+      "difficulty": "medium",
+      "type": "map",
+      "countryCode": "mx",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Mexiko", "en": "Mexico" },
+        { "de": "Guatemala", "en": "Guatemala" },
+        { "de": "Honduras", "en": "Honduras" },
+        { "de": "Kuba", "en": "Cuba" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mexico",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-012",
+      "category": "geography",
+      "difficulty": "medium",
+      "type": "map",
+      "countryCode": "eg",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Ägypten", "en": "Egypt" },
+        { "de": "Libyen", "en": "Libya" },
+        { "de": "Sudan", "en": "Sudan" },
+        { "de": "Saudi-Arabien", "en": "Saudi Arabia" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Egypt",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-013",
+      "category": "geography",
+      "difficulty": "medium",
+      "type": "map",
+      "countryCode": "tr",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Türkei", "en": "Turkey" },
+        { "de": "Griechenland", "en": "Greece" },
+        { "de": "Syrien", "en": "Syria" },
+        { "de": "Iran", "en": "Iran" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Turkey",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-014",
+      "category": "geography",
+      "difficulty": "medium",
+      "type": "map",
+      "countryCode": "za",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Südafrika", "en": "South Africa" },
+        { "de": "Namibia", "en": "Namibia" },
+        { "de": "Botswana", "en": "Botswana" },
+        { "de": "Simbabwe", "en": "Zimbabwe" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/South_Africa",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-015",
+      "category": "geography",
+      "difficulty": "medium",
+      "type": "map",
+      "countryCode": "se",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Schweden", "en": "Sweden" },
+        { "de": "Norwegen", "en": "Norway" },
+        { "de": "Finnland", "en": "Finland" },
+        { "de": "Dänemark", "en": "Denmark" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sweden",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-016",
+      "category": "geography",
+      "difficulty": "medium",
+      "type": "map",
+      "countryCode": "ar",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Argentinien", "en": "Argentina" },
+        { "de": "Chile", "en": "Chile" },
+        { "de": "Uruguay", "en": "Uruguay" },
+        { "de": "Brasilien", "en": "Brazil" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Argentina",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-017",
+      "category": "geography",
+      "difficulty": "medium",
+      "type": "map",
+      "countryCode": "ca",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Kanada", "en": "Canada" },
+        { "de": "USA", "en": "USA" },
+        { "de": "Russland", "en": "Russia" },
+        { "de": "Grönland", "en": "Greenland" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Canada",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-018",
+      "category": "geography",
+      "difficulty": "hard",
+      "type": "map",
+      "countryCode": "no",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Norwegen", "en": "Norway" },
+        { "de": "Schweden", "en": "Sweden" },
+        { "de": "Finnland", "en": "Finland" },
+        { "de": "Island", "en": "Iceland" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Norway",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-019",
+      "category": "geography",
+      "difficulty": "hard",
+      "type": "map",
+      "countryCode": "th",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Thailand", "en": "Thailand" },
+        { "de": "Vietnam", "en": "Vietnam" },
+        { "de": "Myanmar", "en": "Myanmar" },
+        { "de": "Kambodscha", "en": "Cambodia" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thailand",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-020",
+      "category": "geography",
+      "difficulty": "hard",
+      "type": "map",
+      "countryCode": "pl",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Polen", "en": "Poland" },
+        { "de": "Deutschland", "en": "Germany" },
+        { "de": "Tschechien", "en": "Czech Republic" },
+        { "de": "Ukraine", "en": "Ukraine" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Poland",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-021",
+      "category": "geography",
+      "difficulty": "hard",
+      "type": "map",
+      "countryCode": "sa",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Saudi-Arabien", "en": "Saudi Arabia" },
+        { "de": "Iran", "en": "Iran" },
+        { "de": "Irak", "en": "Iraq" },
+        { "de": "Jemen", "en": "Yemen" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-022",
+      "category": "geography",
+      "difficulty": "hard",
+      "type": "map",
+      "countryCode": "id",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Indonesien", "en": "Indonesia" },
+        { "de": "Philippinen", "en": "Philippines" },
+        { "de": "Malaysia", "en": "Malaysia" },
+        { "de": "Thailand", "en": "Thailand" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Indonesia",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-023",
+      "category": "geography",
+      "difficulty": "hard",
+      "type": "map",
+      "countryCode": "kr",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Südkorea", "en": "South Korea" },
+        { "de": "Nordkorea", "en": "North Korea" },
+        { "de": "Japan", "en": "Japan" },
+        { "de": "Taiwan", "en": "Taiwan" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/South_Korea",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-024",
+      "category": "geography",
+      "difficulty": "hard",
+      "type": "map",
+      "countryCode": "gb",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Vereinigtes Königreich", "en": "United Kingdom" },
+        { "de": "Irland", "en": "Ireland" },
+        { "de": "Frankreich", "en": "France" },
+        { "de": "Island", "en": "Iceland" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/United_Kingdom",
+      "sourceLabel": "Wikipedia"
+    },
+    {
+      "id": "geo-map-025",
+      "category": "geography",
+      "difficulty": "hard",
+      "type": "map",
+      "countryCode": "ru",
+      "question": { "de": "Welches Land ist hier markiert?", "en": "Which country is highlighted?" },
+      "options": [
+        { "de": "Russland", "en": "Russia" },
+        { "de": "China", "en": "China" },
+        { "de": "Kasachstan", "en": "Kazakhstan" },
+        { "de": "Mongolei", "en": "Mongolia" }
+      ],
+      "correctIndex": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Russia",
       "sourceLabel": "Wikipedia"
     }
   ],
