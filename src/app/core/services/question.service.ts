@@ -22,6 +22,7 @@ export class QuestionService {
     'assets/data/science-tech.json',
     'assets/data/flags.json',
     'assets/data/capitals.json',
+    'assets/data/maps.json',
   ];
 
   loadAll(): Promise<void> {
@@ -64,6 +65,17 @@ export class QuestionService {
 
   getTimelineEvents(count: number): TimelineEvent[] {
     return this.shuffle([...this.allTimelineEvents()]).slice(0, count);
+  }
+
+  getQuestionIdsByFilter(categories: Category[], continents?: Continent[]): string[] {
+    let pool = this.allQuestions();
+    if (categories.length) {
+      pool = pool.filter(q => categories.includes(q.category));
+    }
+    if (continents?.length) {
+      pool = pool.filter(q => !q.continent || continents.includes(q.continent));
+    }
+    return pool.map(q => q.id);
   }
 
   private shuffle<T>(arr: T[]): T[] {

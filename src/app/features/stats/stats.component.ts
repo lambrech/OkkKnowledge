@@ -206,7 +206,7 @@ import { Category } from '../../core/models/question.model';
 })
 export class StatsComponent {
   score = inject(ScoreService);
-  categories = ['geography', 'history', 'famous-people', 'science-tech', 'flags', 'capitals'] as const;
+  categories = ['geography', 'history', 'famous-people', 'science-tech', 'flags', 'capitals', 'map'] as const;
 
   getCatAnswered(cat: string): number {
     const byCategory = this.score.quizScore().byCategory;

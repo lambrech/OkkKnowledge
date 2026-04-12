@@ -4,6 +4,7 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatButtonToggleModule } from '@angular/material/button-toggle';
 import { MatIconModule } from '@angular/material/icon';
 import { MatExpansionModule } from '@angular/material/expansion';
+import { MatSliderModule } from '@angular/material/slider';
 import { MatSnackBar, MatSnackBarModule } from '@angular/material/snack-bar';
 import { TranslocoDirective, TranslocoService } from '@jsverse/transloco';
 import { ScoreService } from '../../core/services/score.service';
@@ -14,7 +15,7 @@ import { ThemeService } from '../../core/services/theme.service';
   standalone: true,
   imports: [
     MatCardModule, MatButtonModule, MatButtonToggleModule, MatIconModule,
-    MatExpansionModule, MatSnackBarModule,
+    MatExpansionModule, MatSliderModule, MatSnackBarModule,
     TranslocoDirective,
   ],
   template: `
@@ -41,6 +42,19 @@ import { ThemeService } from '../../core/services/theme.service';
             <mat-button-toggle value="dark">{{ t('settings.themeDark') }}</mat-button-toggle>
             <mat-button-toggle value="system">{{ t('settings.themeSystem') }}</mat-button-toggle>
           </mat-button-toggle-group>
+        </mat-card-content>
+      </mat-card>
+
+      <mat-card appearance="outlined" class="settings-card">
+        <mat-card-content>
+          <h3>{{ t('settings.questionsPerRound') }}</h3>
+          <div class="questions-slider">
+            <mat-slider min="5" max="50" step="5" [discrete]="true" [showTickMarks]="true">
+              <input matSliderThumb [value]="scoreService.questionsPerRound()"
+                     (valueChange)="setQuestionsPerRound($event)">
+            </mat-slider>
+            <span class="slider-value">{{ scoreService.questionsPerRound() }}</span>
+          </div>
         </mat-card-content>
       </mat-card>
 
@@ -88,10 +102,28 @@ import { ThemeService } from '../../core/services/theme.service';
       gap: 8px;
       max-width: 300px;
     }
+
+    .questions-slider {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+
+      mat-slider {
+        flex: 1;
+        min-width: 200px;
+      }
+
+      .slider-value {
+        font-size: 1.2rem;
+        font-weight: 500;
+        min-width: 32px;
+        text-align: center;
+      }
+    }
   `]
 })
 export class SettingsComponent {
-  private scoreService = inject(ScoreService);
+  protected scoreService = inject(ScoreService);
   private snackBar = inject(MatSnackBar);
   transloco = inject(TranslocoService);
   themeService = inject(ThemeService);
@@ -99,6 +131,10 @@ export class SettingsComponent {
   setLanguage(lang: string): void {
     this.transloco.setActiveLang(lang);
     this.scoreService.setLanguage(lang as 'de' | 'en');
+  }
+
+  setQuestionsPerRound(value: number): void {
+    this.scoreService.setQuestionsPerRound(value);
   }
 
   resetQuiz(t: (key: string) => string): void {

@@ -30,6 +30,7 @@ export interface UserProgress {
   lastPlayed: string;
   preferredLanguage: 'de' | 'en';
   theme: 'light' | 'dark' | 'system';
+  questionsPerRound: number;
 }
 
 export function createDefaultProgress(): UserProgress {
@@ -44,6 +45,7 @@ export function createDefaultProgress(): UserProgress {
         'science-tech': { answered: 0, correct: 0 },
         'flags': { answered: 0, correct: 0 },
         'capitals': { answered: 0, correct: 0 },
+        'map': { answered: 0, correct: 0 },
       },
       streak: 0,
       bestStreak: 0,
@@ -61,5 +63,6 @@ export function createDefaultProgress(): UserProgress {
     lastPlayed: '',
     preferredLanguage: 'de',
     theme: 'system',
+    questionsPerRound: 20,
   };
 }

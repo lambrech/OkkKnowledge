@@ -309,7 +309,7 @@ export class BrowseComponent {
   selectedCategories = signal(new Set<Category>());
   displayCount = signal(50);
 
-  categories: Category[] = ['geography', 'history', 'famous-people', 'science-tech', 'flags', 'capitals'];
+  categories: Category[] = ['geography', 'history', 'famous-people', 'science-tech', 'flags', 'capitals', 'map'];
 
   filteredItems = computed(() => {
     const query = this.searchQuery().toLowerCase();

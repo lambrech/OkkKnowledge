@@ -9,22 +9,27 @@ test.describe('Quiz Mode', () => {
 
   test('should show category selection screen', async ({ page }) => {
     await expect(page.locator('h1')).toContainText(/Wissensquiz|Knowledge Quiz/);
-    await expect(page.locator('h3')).toContainText(/Kategorien|Categories/);
+    await expect(page.locator('h3').first()).toContainText(/Kategorien|Categories/);
   });
 
-  test('should show all 6 category buttons', async ({ page }) => {
-    const categoryButtons = page.locator('.category-chips button');
-    await expect(categoryButtons).toHaveCount(6);
+  test('should show geography group and other category buttons', async ({ page }) => {
+    // Geography group button should be visible
+    const geoGroup = page.locator('.geo-group-row');
+    await expect(geoGroup).toBeVisible();
+    // 3 non-geo categories should exist (History, Famous People, Science&Tech)
+    await expect(page.locator('.category-chips > button', { hasText: /Geschichte|History/ })).toBeVisible();
+    await expect(page.locator('.category-chips > button', { hasText: /Persönlichkeiten|Famous/ })).toBeVisible();
+    await expect(page.locator('.category-chips > button', { hasText: /Wissenschaft|Science/ })).toBeVisible();
   });
 
   test('should toggle category selection', async ({ page }) => {
-    const firstCat = page.locator('.category-chips button').first();
-    // All are selected by default - click to deselect
-    await firstCat.click();
-    await expect(firstCat).not.toHaveClass(/selected/);
+    // Click a non-geo category to deselect it
+    const historyCat = page.locator('.category-chips > button', { hasText: /Geschichte|History/ });
+    await historyCat.click();
+    await expect(historyCat).not.toHaveClass(/selected/);
     // Click again to reselect
-    await firstCat.click();
-    await expect(firstCat).toHaveClass(/selected/);
+    await historyCat.click();
+    await expect(historyCat).toHaveClass(/selected/);
   });
 
   test('should start a quiz round and display a question', async ({ page }) => {
@@ -167,6 +172,82 @@ test.describe('Quiz Mode', () => {
     await page.locator('button', { hasText: /Nochmal|Play Again/ }).click();
 
     // Should start a new round with a question
+    await expect(page.locator('.question-text')).toBeVisible({ timeout: 5000 });
+  });
+
+  test('should expand geography sub-categories', async ({ page }) => {
+    // Click expand button
+    await page.locator('.expand-btn').click();
+
+    // Sub-categories should be visible
+    const subCats = page.locator('.geo-subcategories button');
+    await expect(subCats).toHaveCount(4);
+  });
+
+  test('should show continent filter when flags sub-category selected', async ({ page }) => {
+    // By default all categories are selected including flags -> continent filter should show
+    await expect(page.locator('h3', { hasText: /Kontinent|Continent/ })).toBeVisible();
+  });
+
+  test('should hide continent filter when only non-geo categories selected', async ({ page }) => {
+    // Deselect geography group
+    const geoBtn = page.locator('.geo-group-row button').first();
+    await geoBtn.click();
+
+    // Continent filter should be hidden
+    await expect(page.locator('h3', { hasText: /Kontinent|Continent/ })).not.toBeVisible();
+  });
+
+  test('should auto-reset when all questions are answered', async ({ page }) => {
+    // Seed localStorage with all flag question IDs answered for Europe
+    // Then start a quiz with only flags + Europe -> should auto-reset and show questions
+    await page.evaluate(() => {
+      const ids: string[] = [];
+      for (let i = 1; i <= 200; i++) {
+        ids.push('flg-' + String(i).padStart(3, '0'));
+        ids.push('cap-' + String(i).padStart(3, '0'));
+      }
+      const progress = {
+        quiz: {
+          totalAnswered: 0, totalCorrect: 0,
+          byCategory: {
+            geography: { answered: 0, correct: 0 },
+            history: { answered: 0, correct: 0 },
+            'famous-people': { answered: 0, correct: 0 },
+            'science-tech': { answered: 0, correct: 0 },
+            flags: { answered: 0, correct: 0 },
+            capitals: { answered: 0, correct: 0 },
+            map: { answered: 0, correct: 0 },
+          },
+          streak: 0, bestStreak: 0, bestRoundScore: 0, bestRoundTotal: 0,
+        },
+        timeline: { gamesPlayed: 0, totalEventsPlaced: 0, totalCorrectPlacements: 0, exactYearBonuses: 0, bestGameScore: 0 },
+        answeredQuestionIds: ids,
+        lastPlayed: '',
+        preferredLanguage: 'de',
+        theme: 'system',
+        questionsPerRound: 20,
+      };
+      localStorage.setItem('wissensapp_progress', JSON.stringify(progress));
+    });
+    await page.reload();
+
+    // Expand geo and deselect all non-flag categories
+    // First deselect geography group
+    await page.locator('.geo-group-row button').first().click();
+    // Deselect other categories
+    for (const cat of ['Geschichte', 'History', 'Berühmte', 'Famous', 'Wissenschaft', 'Science']) {
+      const btn = page.locator('.category-chips > button', { hasText: new RegExp(cat) });
+      if (await btn.count() > 0 && await btn.first().evaluate(el => el.classList.contains('selected'))) {
+        await btn.first().click();
+      }
+    }
+    // Expand geo and select only flags
+    await page.locator('.expand-btn').click();
+    await page.locator('.geo-subcategories button', { hasText: /Flaggen|Flags/ }).click();
+
+    // Start quiz - should auto-reset and work
+    await page.locator('button', { hasText: /Runde starten|Start Round/ }).click();
     await expect(page.locator('.question-text')).toBeVisible({ timeout: 5000 });
   });
 });

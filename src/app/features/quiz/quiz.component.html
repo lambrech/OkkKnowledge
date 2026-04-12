@@ -5,7 +5,34 @@
         <h1>{{ t('quiz.title') }}</h1>
         <h3>{{ t('quiz.selectCategories') }}</h3>
         <div class="category-chips">
-          @for (cat of allCategories; track cat) {
+          <!-- Geography group -->
+          <div class="geo-group-row">
+            <button mat-stroked-button
+                    [class.selected]="geographyGroupState() === 'all'"
+                    [class.partial]="geographyGroupState() === 'partial'"
+                    (click)="toggleGeographyGroup()">
+              {{ t('categories.geography') }}
+            </button>
+            <button mat-icon-button class="expand-btn"
+                    (click)="isGeographyExpanded.set(!isGeographyExpanded())">
+              <mat-icon>{{ isGeographyExpanded() ? 'expand_less' : 'expand_more' }}</mat-icon>
+            </button>
+          </div>
+
+          @if (isGeographyExpanded()) {
+            <div class="geo-subcategories">
+              @for (sub of geographySubCategories; track sub) {
+                <button mat-stroked-button
+                        [class.selected]="isCategorySelected(sub)"
+                        (click)="toggleCategory(sub)">
+                  {{ t('categories.' + sub) }}
+                </button>
+              }
+            </div>
+          }
+
+          <!-- Non-geography categories -->
+          @for (cat of nonGeographyCategories; track cat) {
             <button mat-stroked-button
                     [class.selected]="isCategorySelected(cat)"
                     (click)="toggleCategory(cat)">

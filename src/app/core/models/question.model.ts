@@ -3,7 +3,7 @@ export interface LocalizedText {
   en: string;
 }
 
-export type Category = 'geography' | 'history' | 'famous-people' | 'science-tech' | 'flags' | 'capitals';
+export type Category = 'geography' | 'history' | 'famous-people' | 'science-tech' | 'flags' | 'capitals' | 'map';
 
 export type Difficulty = 'easy' | 'medium' | 'hard';
 

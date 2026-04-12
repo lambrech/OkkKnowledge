@@ -5,6 +5,7 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatChipsModule } from '@angular/material/chips';
 import { MatProgressBarModule } from '@angular/material/progress-bar';
+import { MatSnackBar, MatSnackBarModule } from '@angular/material/snack-bar';
 import { TranslocoDirective, TranslocoService } from '@jsverse/transloco';
 import { LocalizedTextPipe } from '../../shared/pipes/localized-text.pipe';
 import { MapDisplayComponent } from '../../shared/components/map-display.component';
@@ -20,6 +21,7 @@ type QuizState = 'setup' | 'playing' | 'result';
   imports: [
     RouterLink,
     MatCardModule, MatButtonModule, MatIconModule, MatChipsModule, MatProgressBarModule,
+    MatSnackBarModule,
     TranslocoDirective, LocalizedTextPipe, MapDisplayComponent,
   ],
   templateUrl: './quiz.component.html',
@@ -28,10 +30,11 @@ type QuizState = 'setup' | 'playing' | 'result';
 export class QuizComponent {
   private questionService = inject(QuestionService);
   protected scoreService = inject(ScoreService);
+  private snackBar = inject(MatSnackBar);
   transloco = inject(TranslocoService);
 
   state = signal<QuizState>('setup');
-  selectedCategories = signal<Category[]>(['geography', 'history', 'famous-people', 'science-tech']);
+  selectedCategories = signal<Category[]>(['geography', 'history', 'famous-people', 'science-tech', 'flags', 'capitals', 'map']);
   questionsPerRound = signal(20);
   questions = signal<Question[]>([]);
   currentIndex = signal(0);
@@ -50,13 +53,46 @@ export class QuizComponent {
     return sel !== null && q ? sel === q.correctIndex : false;
   });
 
-  allCategories: Category[] = ['geography', 'history', 'famous-people', 'science-tech', 'flags', 'capitals'];
+  // Geography sub-categories
+  readonly geographySubCategories: Category[] = ['geography', 'flags', 'capitals', 'map'];
+  readonly nonGeographyCategories: Category[] = ['history', 'famous-people', 'science-tech'];
+
+  geographyGroupState = computed(() => {
+    const cats = this.selectedCategories();
+    const allSelected = this.geographySubCategories.every(c => cats.includes(c));
+    const noneSelected = this.geographySubCategories.every(c => !cats.includes(c));
+    if (allSelected) return 'all';
+    if (noneSelected) return 'none';
+    return 'partial';
+  });
+
+  isGeographyExpanded = signal(false);
+
   allContinents: Continent[] = ['europe', 'africa', 'asia', 'americas', 'oceania'];
   selectedContinents = signal<Continent[]>(['europe', 'africa', 'asia', 'americas', 'oceania']);
   showContinentFilter = computed(() => {
     const cats = this.selectedCategories();
-    return cats.includes('flags') || cats.includes('capitals');
+    return cats.includes('flags') || cats.includes('capitals') || cats.includes('map');
   });
+
+  constructor() {
+    this.questionsPerRound.set(this.scoreService.questionsPerRound());
+  }
+
+  toggleGeographyGroup(): void {
+    const state = this.geographyGroupState();
+    if (state === 'all') {
+      // Deselect all geo sub-categories (only if other categories remain)
+      const remaining = this.selectedCategories().filter(c => !this.geographySubCategories.includes(c));
+      if (remaining.length > 0) {
+        this.selectedCategories.set(remaining);
+      }
+    } else {
+      // Select all geo sub-categories
+      const withoutGeo = this.selectedCategories().filter(c => !this.geographySubCategories.includes(c));
+      this.selectedCategories.set([...withoutGeo, ...this.geographySubCategories]);
+    }
+  }
 
   toggleCategory(cat: Category): void {
     this.selectedCategories.update(cats => {
@@ -82,13 +118,42 @@ export class QuizComponent {
 
   startQuiz(): void {
     const continents = this.showContinentFilter() ? this.selectedContinents() : undefined;
-    const qs = this.questionService.getRandomQuestions(
+    let qs = this.questionService.getRandomQuestions(
       this.questionsPerRound(),
       this.selectedCategories(),
       this.scoreService.answeredIds(),
       continents
     );
-    if (qs.length === 0) return;
+
+    if (qs.length === 0) {
+      // All questions answered — reset for selected filter and retry
+      const idsToReset = this.questionService.getQuestionIdsByFilter(
+        this.selectedCategories(),
+        continents
+      );
+      this.scoreService.resetAnsweredForIds(idsToReset);
+      qs = this.questionService.getRandomQuestions(
+        this.questionsPerRound(),
+        this.selectedCategories(),
+        this.scoreService.answeredIds(),
+        continents
+      );
+      if (qs.length > 0) {
+        this.snackBar.open(
+          this.transloco.translate('quiz.allAnsweredReset'),
+          '', { duration: 3000 }
+        );
+      }
+    }
+
+    if (qs.length === 0) {
+      this.snackBar.open(
+        this.transloco.translate('quiz.noQuestions'),
+        '', { duration: 3000 }
+      );
+      return;
+    }
+
     this.questions.set(qs);
     this.currentIndex.set(0);
     this.sessionScore.set(0);

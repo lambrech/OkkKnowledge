@@ -19,6 +19,7 @@ export class ScoreService {
     return q.totalAnswered > 0 ? Math.round((q.totalCorrect / q.totalAnswered) * 100) : 0;
   });
   readonly answeredIds = computed(() => this.progress().answeredQuestionIds);
+  readonly questionsPerRound = computed(() => this.progress().questionsPerRound ?? 20);
 
   recordQuizAnswer(questionId: string, category: Category, correct: boolean): void {
     this.progress.update(p => {
@@ -112,6 +113,20 @@ export class ScoreService {
 
   setTheme(theme: 'light' | 'dark' | 'system'): void {
     this.progress.update(p => ({ ...p, theme }));
+    this.persist();
+  }
+
+  setQuestionsPerRound(count: number): void {
+    this.progress.update(p => ({ ...p, questionsPerRound: count }));
+    this.persist();
+  }
+
+  resetAnsweredForIds(idsToReset: string[]): void {
+    const idsSet = new Set(idsToReset);
+    this.progress.update(p => ({
+      ...p,
+      answeredQuestionIds: p.answeredQuestionIds.filter(id => !idsSet.has(id)),
+    }));
     this.persist();
   }
 
